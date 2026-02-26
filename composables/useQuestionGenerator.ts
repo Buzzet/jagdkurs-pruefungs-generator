@@ -54,8 +54,27 @@ export const useQuestionGenerator = () => {
     }
   }
 
+  const generateMcSubject = (subject: string): GeneratedSet => {
+    const pool = questions.filter(q => q.Pruefungsfach === subject)
+    if (pool.length < 20) {
+      throw new Error(`Nicht genug MC-Fragen im Fach ${subject}. Vorhanden: ${pool.length}`)
+    }
+
+    return {
+      subject,
+      createdAt: new Date().toISOString(),
+      questions: shuffle(pool).slice(0, 20),
+    }
+  }
+
+  const generateMcFull = (): GeneratedSet[] => {
+    return subjects.value.map(subject => generateMcSubject(subject))
+  }
+
   return {
     subjects,
     generate,
+    generateMcSubject,
+    generateMcFull,
   }
 }
