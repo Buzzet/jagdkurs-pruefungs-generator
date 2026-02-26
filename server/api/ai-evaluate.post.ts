@@ -3,6 +3,7 @@ import { defineEventHandler, readBody, createError } from 'h3'
 type ReqBody = {
   question: string
   modelAnswer: string
+  alternativeAnswers?: string[]
   userAnswer: string
 }
 
@@ -31,6 +32,7 @@ export default defineEventHandler(async (event) => {
   }
 
   const userAnswer = body.userAnswer || ''
+  const accepted = [body.modelAnswer, ...(body.alternativeAnswers || [])].filter(Boolean)
   const apiKey = process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
 
   if (!apiKey) {
@@ -44,6 +46,7 @@ export default defineEventHandler(async (event) => {
 
 Frage: ${body.question}
 Musterantwort: ${body.modelAnswer}
+Weitere akzeptierte Antworten: ${accepted.join(', ')}
 Nutzerantwort: ${userAnswer}
 
 Gib ausschließlich JSON zurück mit:
@@ -52,7 +55,11 @@ Gib ausschließlich JSON zurück mit:
 Regeln:
 - 0 = falsch
 - 1 = teilweise richtig
-- 2 = Kernaussagen korrekt`;
+- 2 = Kernaussagen korrekt
+- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles..."):
+  - 2 nur, wenn ausschließlich korrekte Beispiele genannt sind
+  - 1 bei Mischung aus korrekten und falschen Beispielen
+  - 0 bei nur falschen Beispielen`;
 
   const response = await fetch('https://api.openai.com/v1/responses', {
     method: 'POST',

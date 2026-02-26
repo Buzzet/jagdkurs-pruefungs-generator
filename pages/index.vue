@@ -343,9 +343,14 @@ const aiGrade = computed(() => {
   return '6'
 })
 
+const isAiEligible = (q: Question) => {
+  const t = (q.FrageFreitext || q.Frage || '').toLowerCase()
+  return !/(wann gilt folgendes|was ist über .+ korrekt\?|welche antwort ist fachlich richtig\?)/i.test(t)
+}
+
 const startAi = () => {
   const set = generateMcSubject(aiSelectedSubject.value)
-  aiQuestions.value = set.questions
+  aiQuestions.value = set.questions.filter(isAiEligible).slice(0, 20)
   aiStarted.value = true
   aiIndex.value = 0
   aiUserAnswer.value = ''
@@ -381,6 +386,7 @@ const submitAiAnswer = async () => {
       body: {
         question: aiCurrent.value.FrageFreitext || aiCurrent.value.Frage,
         modelAnswer: aiCurrent.value.Antwort,
+        alternativeAnswers: aiCurrent.value.AlternativeAntworten || [],
         userAnswer: aiUserAnswer.value,
       },
     })

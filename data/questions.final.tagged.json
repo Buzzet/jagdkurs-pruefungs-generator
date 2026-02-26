@@ -288,7 +288,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Nennen Sie eine Wildart, die zum Hochwild.",
+    "Frage": "Was gehört alles zum Hochwild?",
     "Antwort": "Rotwild",
     "FalscheAntwort1": "Rehwild",
     "FalscheAntwort2": "Feldhase",
@@ -298,14 +298,15 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Nennen Sie eine Wildart, die zum Hochwild.",
-    "FrageMC": "Nennen Sie eine Wildart, die zum Hochwild.",
+    "FrageFreitext": "Was gehört alles zum Hochwild?",
+    "FrageMC": "Was gehört alles zum Hochwild?",
     "PdfEligible": true,
     "AlternativeAntworten": [
+      "Rotwild",
       "Damwild",
-      "Muffelwild",
+      "Rehwild",
       "Schwarzwild",
-      "Auerwild"
+      "Muffelwild"
     ]
   },
   {
@@ -1499,7 +1500,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt Folgendes bei Fuchsfähe?",
+    "Frage": "Wie lange trägt die Fuchsfähe?",
     "Antwort": "51–54 Tage",
     "FalscheAntwort1": "20–25 Tage",
     "FalscheAntwort2": "80–90 Tage",
@@ -1509,8 +1510,8 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Wann gilt Folgendes bei Fuchsfähe?",
-    "FrageMC": "Wann gilt Folgendes bei Fuchsfähe?",
+    "FrageFreitext": "Wie lange trägt die Fuchsfähe?",
+    "FrageMC": "Wie lange trägt die Fuchsfähe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2289,7 +2290,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Nennen Sie eine Wildart, die in Deutschland klassisch zum Niederwild.",
+    "Frage": "Nennen Sie Wildarten, die in Deutschland zum Niederwild zählen.",
     "Antwort": "Feldhase",
     "FalscheAntwort1": "Rotwild",
     "FalscheAntwort2": "Muffelwild",
@@ -2299,15 +2300,18 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Nennen Sie eine Wildart, die in Deutschland klassisch zum Niederwild.",
-    "FrageMC": "Nennen Sie eine Wildart, die in Deutschland klassisch zum Niederwild.",
+    "FrageFreitext": "Nennen Sie Wildarten, die in Deutschland zum Niederwild zählen.",
+    "FrageMC": "Nennen Sie Wildarten, die in Deutschland zum Niederwild zählen.",
     "PdfEligible": true,
     "AlternativeAntworten": [
+      "Fuchs",
       "Kaninchen",
-      "Fasan",
+      "Feldhase",
       "Rebhuhn",
+      "Fasan",
+      "Stockente",
       "Ringeltaube",
-      "Stockente"
+      "Rehwild"
     ]
   },
   {
@@ -2579,7 +2583,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern.",
+    "Frage": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern gehört.",
     "Antwort": "Schwarzwild",
     "FalscheAntwort1": "Rotwild",
     "FalscheAntwort2": "Damwild",
@@ -2589,8 +2593,8 @@
     "Tags": [
       "schwarzwild"
     ],
-    "FrageFreitext": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern.",
-    "FrageMC": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern.",
+    "FrageFreitext": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern gehört.",
+    "FrageMC": "Nennen Sie eine Wildart, die nicht zu den Wiederkäuern gehört.",
     "PdfEligible": true,
     "AlternativeAntworten": [
       "Rehwild",
@@ -2686,7 +2690,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Rehwild korrekt?",
+    "Frage": "Welche Aussage über Rehwild ist korrekt?",
     "Antwort": "Rehwild wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Rehwild hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Rehwild wird ausschließlich über Fellfarbe bestimmt",
@@ -2696,8 +2700,8 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Was ist über Rehwild korrekt?",
-    "FrageMC": "Was ist über Rehwild korrekt?",
+    "FrageFreitext": "Welche Aussage über Rehwild ist korrekt?",
+    "FrageMC": "Welche Aussage über Rehwild ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5857,12 +5861,14 @@
     "FrageMC": "Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
     "AlternativeAntworten": [
-      "Feldhase",
+      "Fuchs",
       "Kaninchen",
-      "Fasan",
+      "Feldhase",
       "Rebhuhn",
+      "Fasan",
+      "Stockente",
       "Ringeltaube",
-      "Stockente"
+      "Rehwild"
     ]
   },
   {
@@ -6856,12 +6862,14 @@
     "FrageMC": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
     "AlternativeAntworten": [
-      "Feldhase",
+      "Fuchs",
       "Kaninchen",
-      "Fasan",
+      "Feldhase",
       "Rebhuhn",
+      "Fasan",
+      "Stockente",
       "Ringeltaube",
-      "Stockente"
+      "Rehwild"
     ]
   },
   {
@@ -7470,12 +7478,14 @@
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
     "AlternativeAntworten": [
-      "Feldhase",
+      "Fuchs",
       "Kaninchen",
-      "Fasan",
+      "Feldhase",
       "Rebhuhn",
+      "Fasan",
+      "Stockente",
       "Ringeltaube",
-      "Stockente"
+      "Rehwild"
     ]
   },
   {
@@ -8435,8 +8445,9 @@
     "AlternativeAntworten": [
       "Rotwild",
       "Damwild",
-      "Muffelwild",
-      "Schwarzwild"
+      "Rehwild",
+      "Schwarzwild",
+      "Muffelwild"
     ]
   },
   {
@@ -9486,8 +9497,9 @@
     "AlternativeAntworten": [
       "Rotwild",
       "Damwild",
-      "Muffelwild",
-      "Schwarzwild"
+      "Rehwild",
+      "Schwarzwild",
+      "Muffelwild"
     ]
   },
   {

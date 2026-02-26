@@ -26,7 +26,7 @@ app.get('/health', (_req, res) => {
 })
 
 app.post('/ai-evaluate', async (req, res) => {
-  const { question, modelAnswer, userAnswer } = req.body || {}
+  const { question, modelAnswer, userAnswer, alternativeAnswers = [] } = req.body || {}
   if (!question || !modelAnswer) {
     return res.status(400).json({ error: 'question and modelAnswer are required' })
   }
@@ -36,7 +36,8 @@ app.post('/ai-evaluate', async (req, res) => {
     return res.json({ score: heuristicScore(modelAnswer, userAnswer), mode: 'heuristic' })
   }
 
-  const prompt = `Bewerte eine Jagdkurs-Prüfungsantwort.\n\nFrage: ${question}\nMusterantwort: ${modelAnswer}\nNutzerantwort: ${userAnswer || ''}\n\nGib ausschließlich JSON zurück mit:\n{"score":0|1|2,"reason":"kurz"}\n\nRegeln:\n- 0 = falsch\n- 1 = teilweise richtig\n- 2 = Kernaussagen korrekt`
+  const accepted = [modelAnswer, ...(alternativeAnswers || [])].filter(Boolean)
+  const prompt = `Bewerte eine Jagdkurs-Prüfungsantwort.\n\nFrage: ${question}\nMusterantwort: ${modelAnswer}\nWeitere akzeptierte Antworten: ${accepted.join(', ')}\nNutzerantwort: ${userAnswer || ''}\n\nGib ausschließlich JSON zurück mit:\n{"score":0|1|2,"reason":"kurz"}\n\nRegeln:\n- 0 = falsch\n- 1 = teilweise richtig\n- 2 = Kernaussagen korrekt\n- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles..."):\n  - 2 nur, wenn ausschließlich korrekte Beispiele genannt sind\n  - 1, wenn Mischung aus korrekten und falschen Beispielen\n  - 0, wenn nur falsche Beispiele`;
 
   try {
     const response = await fetch('https://api.openai.com/v1/responses', {
