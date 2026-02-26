@@ -69,11 +69,13 @@
           <button v-if="showFeedback" @click="nextQuestion">{{ mcIndex + 1 === mcQuestions.length ? 'Auswertung' : 'Nächste Frage' }}</button>
         </div>
 
-        <p v-if="showFeedback" :class="isCurrentCorrect ? 'ok' : 'error'">
+        <p v-if="showFeedback" :class="isCurrentCorrect ? 'ok' : (lastPointsAwarded > 0 ? 'partial' : 'error')">
           {{
             isCurrentCorrect
-              ? `Richtig ✅ (+${lastPointsAwarded} Punkt)`
-              : `Falsch ❌ (+${lastPointsAwarded} Punkte) · Richtige Antwort(en): ${mcCurrent.correctAnswers.join(', ')}`
+              ? `Genau richtig ✅ (+${lastPointsAwarded} Punkte)`
+              : (lastPointsAwarded > 0
+                ? `Teilweise richtig 🟡 (+${lastPointsAwarded} Punkt) · Richtige Antwort(en): ${mcCurrent.correctAnswers.join(', ')}`
+                : `Falsch ❌ (+0 Punkte) · Richtige Antwort(en): ${mcCurrent.correctAnswers.join(', ')}`)
           }}
         </p>
       </div>
@@ -81,7 +83,8 @@
       <div v-else class="card-sub">
         <h3>Ergebnis</h3>
         <p><strong>{{ mcCorrectCount }} / {{ mcQuestions.length }}</strong> Fragen komplett richtig ({{ mcPercent }}%)</p>
-        <p><strong>{{ mcPointsTotal }}</strong> / {{ mcQuestions.length }} Punkte</p>
+        <p><strong>{{ mcPointsTotal }}</strong> / {{ mcMaxPoints }} Punkte ({{ mcPointsPercent }}%)</p>
+        <p><strong>Note:</strong> {{ mcGrade }}</p>
         <button @click="resetMc">Neue Simulation</button>
       </div>
     </section>
@@ -137,6 +140,23 @@ const mcCurrent = computed(() => mcQuestions.value[mcIndex.value] || null)
 const mcPercent = computed(() => {
   if (!mcQuestions.value.length) return 0
   return Math.round((mcCorrectCount.value / mcQuestions.value.length) * 100)
+})
+
+const mcMaxPoints = computed(() => mcQuestions.value.length * 2)
+
+const mcPointsPercent = computed(() => {
+  if (!mcMaxPoints.value) return 0
+  return Math.round((mcPointsTotal.value / mcMaxPoints.value) * 100)
+})
+
+const mcGrade = computed(() => {
+  const p = mcPointsPercent.value
+  if (p >= 90) return '1'
+  if (p >= 80) return '2'
+  if (p >= 67) return '3'
+  if (p >= 50) return '4'
+  if (p >= 30) return '5'
+  return '6'
 })
 
 const shuffle = <T>(arr: T[]): T[] => {
@@ -204,10 +224,23 @@ const startMc = () => {
 
 const confirmAnswer = () => {
   if (!mcCurrent.value) return
-  isCurrentCorrect.value = sameSet(selectedOptions.value, mcCurrent.value.correctAnswers)
-  lastPointsAwarded.value = isCurrentCorrect.value ? 1 : 0
 
-  if (isCurrentCorrect.value) mcCorrectCount.value += 1
+  const selected = new Set(selectedOptions.value)
+  const hasAnyCorrectSelected = mcCurrent.value.correctAnswers.some(a => selected.has(a))
+
+  isCurrentCorrect.value = sameSet(selectedOptions.value, mcCurrent.value.correctAnswers)
+
+  if (isCurrentCorrect.value) {
+    lastPointsAwarded.value = 2
+    mcCorrectCount.value += 1
+  }
+  else if (hasAnyCorrectSelected) {
+    lastPointsAwarded.value = 1
+  }
+  else {
+    lastPointsAwarded.value = 0
+  }
+
   mcPointsTotal.value += lastPointsAwarded.value
   showFeedback.value = true
 }
@@ -256,6 +289,7 @@ button:disabled { opacity: .5; cursor: not-allowed; }
 .option { border: 1px solid #ddd; border-radius: 8px; padding: .6rem; display: flex; gap: .6rem; align-items: center; font-weight: 500; }
 .error { color: #b00020; margin-top: .8rem; }
 .ok { color: #006400; margin-top: .8rem; }
+.partial { color: #b26a00; margin-top: .8rem; }
 .muted { color: #555; }
 .small { font-size: .9rem; }
 .version { margin-top: 2rem; color: #555; font-size: .9rem; text-align: center; }
