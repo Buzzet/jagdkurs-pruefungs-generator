@@ -31,6 +31,8 @@
       </ol>
       <small>Es werden nur die ersten 5 Fragen angezeigt.</small>
     </section>
+
+    <footer class="version">Version {{ appVersion }}</footer>
   </main>
 </template>
 
@@ -39,6 +41,7 @@ import type { GeneratedSet } from '~/types/questions'
 
 const { subjects, generate } = useQuestionGenerator()
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
+const { public: { appVersion } } = useRuntimeConfig()
 
 const selectedSubject = ref('')
 const generated = ref<GeneratedSet | null>(null)
@@ -66,4 +69,5 @@ button { padding: .6rem .9rem; border-radius: 8px; border: 1px solid #333; backg
 button:disabled { opacity: .5; cursor: not-allowed; }
 .error { color: #b00020; margin-top: .8rem; }
 .ok { color: #006400; margin-top: .8rem; }
+.version { margin-top: 2rem; color: #555; font-size: .9rem; text-align: center; }
 </style>

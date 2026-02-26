@@ -7,5 +7,10 @@ export default defineNuxtConfig({
   app: {
     baseURL: process.env.NUXT_APP_BASE_URL || '/'
   },
+  runtimeConfig: {
+    public: {
+      appVersion: process.env.NUXT_APP_VERSION || 'v1.0.0'
+    }
+  },
   compatibilityDate: '2026-02-26'
 })
