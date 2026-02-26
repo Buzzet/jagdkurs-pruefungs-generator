@@ -39,7 +39,9 @@ Required repository secrets:
 On the server, set `OPENAI_API_KEY` (or `CHATGPT_API_KEY`) in `${API_DEPLOY_PATH}/.env`.
 
 Set web app API base URL at build/deploy time:
-- `NUXT_PUBLIC_AI_API_BASE=https://<your-api-domain-or-ip>:8080`
+- `NUXT_PUBLIC_AI_API_BASE=https://jagd.buzzet.de`
+
+Default in code is already `https://jagd.buzzet.de`.
 
 ## WhatsApp notification after each deploy
 Configured in workflow with two options:
