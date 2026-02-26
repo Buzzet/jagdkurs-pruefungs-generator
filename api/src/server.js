@@ -1,4 +1,5 @@
 import express from 'express'
+import nodemailer from 'nodemailer'
 
 const app = express()
 app.use(express.json())
@@ -29,15 +30,42 @@ app.post('/report-question', async (req, res) => {
   const payload = req.body || {}
   const webhook = process.env.REPORT_WEBHOOK_URL
 
+  const reportText = `⚠️ Jagdkurs Frage gemeldet\nFach: ${payload.subject || '-'}\nModus: ${payload.mode || '-'}\nFrage: ${payload.question || '-'}\nAntwort: ${payload.answer || '-'}\nAlternativen: ${(payload.alternatives || []).join(', ') || '-'}\nGrund: ${payload.reason || '-'}\nZeit: ${payload.createdAt || new Date().toISOString()}`
+
   if (webhook) {
     try {
       await fetch(webhook, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          text: `⚠️ Jagdkurs Frage gemeldet\nFach: ${payload.subject || '-'}\nModus: ${payload.mode || '-'}\nFrage: ${payload.question || '-'}\nAntwort: ${payload.answer || '-'}\nGrund: ${payload.reason || '-'}\nZeit: ${payload.createdAt || new Date().toISOString()}`,
-          payload,
-        }),
+        body: JSON.stringify({ text: reportText, payload }),
+      })
+    }
+    catch {
+      // best effort
+    }
+  }
+
+  const reportEmailTo = process.env.REPORT_EMAIL_TO
+  const smtpUser = process.env.SMTP_USER
+  const smtpPass = process.env.SMTP_PASS
+
+  if (reportEmailTo && smtpUser && smtpPass) {
+    try {
+      const transporter = nodemailer.createTransport({
+        host: process.env.SMTP_HOST || 'smtp.gmail.com',
+        port: Number(process.env.SMTP_PORT || 465),
+        secure: String(process.env.SMTP_SECURE || 'true') !== 'false',
+        auth: {
+          user: smtpUser,
+          pass: smtpPass,
+        },
+      })
+
+      await transporter.sendMail({
+        from: process.env.SMTP_FROM || smtpUser,
+        to: reportEmailTo,
+        subject: `Jagdkurs Meldung: ${payload.subject || 'Unbekanntes Fach'}`,
+        text: reportText,
       })
     }
     catch {

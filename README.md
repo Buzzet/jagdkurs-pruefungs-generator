@@ -37,7 +37,13 @@ Required repository secrets:
 - `API_DEPLOY_PATH` (e.g. `/opt/jagdkurs-pruefungs-generator/api`)
 
 On the server, set `OPENAI_API_KEY` (or `CHATGPT_API_KEY`) in `${API_DEPLOY_PATH}/.env`.
-Optional: set `REPORT_WEBHOOK_URL` to receive question reports from the in-app `!` button.
+Optional report channels from the in-app `!` button:
+- Webhook: `REPORT_WEBHOOK_URL`
+- E-Mail (simplest):
+  - `REPORT_EMAIL_TO`
+  - `SMTP_USER`
+  - `SMTP_PASS`
+  - optional `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_FROM`
 
 Set web app API base URL at build/deploy time:
 - `NUXT_PUBLIC_AI_API_BASE=https://jagd.buzzet.de`
