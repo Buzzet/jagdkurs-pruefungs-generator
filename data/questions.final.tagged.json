@@ -1272,8 +1272,9 @@
     ],
     "FrageFreitext": "Wann gilt Folgendes bei Kaninchen?",
     "FrageMC": "Wann gilt Folgendes bei Kaninchen?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Fragestellung unklar. Besser wäre z.B. wie setzt das Kanninchen oder so."
   },
   {
     "Frage": "Kaninchen setzt Junge …?",
