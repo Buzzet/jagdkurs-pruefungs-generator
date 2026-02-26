@@ -379,7 +379,12 @@ const isAiEligible = (q: Question) => {
 
 const startAi = () => {
   const set = generateMcSubject(aiSelectedSubject.value)
-  aiQuestions.value = set.questions.filter(isAiEligible).slice(0, 20)
+  const preferred = set.questions.filter(isAiEligible)
+  const fallback = set.questions.filter(q => !preferred.includes(q))
+
+  // Always keep exactly 20 questions per run.
+  aiQuestions.value = [...preferred, ...fallback].slice(0, 20)
+
   aiStarted.value = true
   aiIndex.value = 0
   aiUserAnswer.value = ''
