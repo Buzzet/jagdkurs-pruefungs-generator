@@ -559,11 +559,11 @@ const submitReport = async () => {
 }
 
 .liquid {
-  border: 1px solid rgba(255,255,255,.16);
+  border: 1px solid rgba(255,255,255,.06);
   background: rgba(255,255,255,.10);
   backdrop-filter: blur(16px) saturate(140%);
   -webkit-backdrop-filter: blur(16px) saturate(140%);
-  box-shadow: 0 12px 34px rgba(0,0,0,.22), inset 0 1px 0 rgba(255,255,255,.2);
+  box-shadow: 0 12px 34px rgba(0,0,0,.22);
   border-radius: 18px;
 }
 .light .liquid {
@@ -572,7 +572,7 @@ const submitReport = async () => {
   box-shadow: 0 10px 24px rgba(15,23,42,.08), inset 0 1px 0 rgba(255,255,255,.75);
 }
 .liquid-soft {
-  border: 1px solid rgba(255,255,255,.16);
+  border: 1px solid rgba(255,255,255,.06);
   background: rgba(255,255,255,.06);
   border-radius: 14px;
 }
