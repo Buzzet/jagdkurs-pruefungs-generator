@@ -1,5 +1,7 @@
 export interface Question {
   Frage: string
+  FrageFreitext?: string
+  FrageMC?: string
   Antwort: string
   FalscheAntwort1: string
   FalscheAntwort2: string

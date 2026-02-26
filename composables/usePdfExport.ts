@@ -31,7 +31,7 @@ export const usePdfExport = () => {
     set.questions.forEach((q, idx) => {
       y = ensurePage(doc, y, 45)
       doc.setFontSize(11)
-      y = line(doc, `${idx + 1}) ${q.Frage}`, 15, y)
+      y = line(doc, `${idx + 1}) ${q.FrageFreitext || q.Frage}`, 15, y)
 
       doc.setFontSize(9)
       for (let i = 0; i < 4; i++) {
@@ -51,15 +51,15 @@ export const usePdfExport = () => {
 
     let y = 16
     doc.setFontSize(14)
-    doc.text(`Jagdkurs - Loesungen - ${set.subject}`, 15, y)
+    doc.text(`Jagdkurs - Lösungen - ${set.subject}`, 15, y)
     y += 8
 
     doc.setFontSize(10)
     set.questions.forEach((q, idx) => {
       y = ensurePage(doc, y, 22)
-      y = line(doc, `${idx + 1}) ${q.Frage}`, 15, y)
+      y = line(doc, `${idx + 1}) ${q.FrageFreitext || q.Frage}`, 15, y)
       doc.setFont('helvetica', 'bold')
-      y = line(doc, `Loesung: ${q.Antwort}`, 18, y)
+      y = line(doc, `Lösung: ${q.Antwort}`, 18, y)
       doc.setFont('helvetica', 'normal')
       y += 2
     })

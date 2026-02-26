@@ -27,7 +27,7 @@
     <section v-if="generated" class="card">
       <h2>Vorschau</h2>
       <ol>
-        <li v-for="q in generated.questions.slice(0, 5)" :key="q.Frage">{{ q.Frage }}</li>
+        <li v-for="q in generated.questions.slice(0, 5)" :key="q.Frage">{{ q.FrageFreitext || q.Frage }}</li>
       </ol>
       <small>Es werden nur die ersten 5 Fragen angezeigt.</small>
     </section>
