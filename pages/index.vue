@@ -8,7 +8,10 @@
         <h1>Jagdkurs Trainer</h1>
         <p class="muted">Prüfungsfragen als PDF, Multiple Choice und KI-Freitext</p>
       </div>
-      <div class="pill">{{ appVersion }}</div>
+      <div class="hero-actions">
+        <button class="alert-btn" :disabled="!reportQuestion" @click="openReportModal">!</button>
+        <div class="pill">{{ appVersion }}</div>
+      </div>
     </section>
 
     <section v-if="mode === 'pdf'" class="card liquid">
@@ -134,6 +137,20 @@
       <button :class="{ active: mode === 'ai' }" @click="switchToAi">KI-Modus</button>
       <button class="ghost" @click="toggleTheme">{{ darkMode ? '☀️' : '🌙' }}</button>
     </nav>
+
+    <div v-if="reportOpen" class="modal-backdrop" @click.self="reportOpen = false">
+      <div class="modal liquid">
+        <h3>Frage melden</h3>
+        <p class="muted">Soll diese Frage gemeldet werden, weil sie unklar oder falsch ist?</p>
+        <p class="quote">{{ reportQuestion?.FrageFreitext || reportQuestion?.Frage }}</p>
+        <textarea v-model="reportReason" rows="4" class="freeform" placeholder="Warum ist die Frage aus deiner Sicht falsch/irreführend?" />
+        <div class="row">
+          <button :disabled="reportSending" @click="reportOpen = false">Abbrechen</button>
+          <button :disabled="reportSending" @click="submitReport">Melden</button>
+        </div>
+        <p v-if="reportMessage" class="ok">{{ reportMessage }}</p>
+      </div>
+    </div>
   </main>
 </template>
 
@@ -445,6 +462,54 @@ const switchToAi = () => {
 const switchToPdf = () => {
   mode.value = 'pdf'
 }
+
+// Report flow
+const reportOpen = ref(false)
+const reportReason = ref('')
+const reportSending = ref(false)
+const reportMessage = ref('')
+
+const reportQuestion = computed<Question | null>(() => {
+  if (mode.value === 'mc' && mcCurrent.value) return mcCurrent.value
+  if (mode.value === 'ai' && aiCurrent.value) return aiCurrent.value
+  if (mode.value === 'pdf' && generated.value?.questions?.length) return generated.value.questions[0]
+  return null
+})
+
+const openReportModal = () => {
+  if (!reportQuestion.value) return
+  reportOpen.value = true
+  reportReason.value = ''
+  reportMessage.value = ''
+}
+
+const submitReport = async () => {
+  if (!reportQuestion.value) return
+  reportSending.value = true
+  reportMessage.value = ''
+  try {
+    const endpoint = aiApiBase ? `${aiApiBase.replace(/\/$/, '')}/report-question` : '/api/report-question'
+    await $fetch(endpoint, {
+      method: 'POST',
+      body: {
+        mode: mode.value,
+        subject: reportQuestion.value.Pruefungsfach,
+        question: reportQuestion.value.FrageFreitext || reportQuestion.value.Frage,
+        answer: reportQuestion.value.Antwort,
+        alternatives: reportQuestion.value.AlternativeAntworten || [],
+        reason: reportReason.value,
+        createdAt: new Date().toISOString(),
+      },
+    })
+    reportMessage.value = 'Danke! Die Meldung wurde gesendet und wird geprüft.'
+  }
+  catch {
+    reportMessage.value = 'Meldung konnte gerade nicht gesendet werden.'
+  }
+  finally {
+    reportSending.value = false
+  }
+}
 </script>
 
 <style scoped>
@@ -479,11 +544,18 @@ const switchToPdf = () => {
 }
 .hero h1 { margin: 0; font-size: 1.6rem; }
 .hero p { margin: .25rem 0 0; }
+.hero-actions { display: flex; gap: .5rem; align-items: center; }
 .pill {
   border: 1px solid rgba(255,255,255,.2);
   padding: .35rem .7rem;
   border-radius: 999px;
   font-size: .85rem;
+}
+.alert-btn {
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 999px;
+  font-weight: 800;
 }
 
 .liquid {
@@ -561,4 +633,25 @@ button.ghost { min-width: 2.6rem; }
   z-index: 20;
 }
 .mode-bar button { margin: 0; }
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+  display: grid;
+  place-items: center;
+  z-index: 40;
+}
+.modal {
+  width: min(640px, calc(100% - 1.2rem));
+  padding: 1rem;
+}
+.quote {
+  padding: .7rem;
+  border-radius: 12px;
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.15);
+  margin: .6rem 0;
+}
+.light .quote { background: rgba(255,255,255,.9); border-color: rgba(15,23,42,.12); }
 </style>
