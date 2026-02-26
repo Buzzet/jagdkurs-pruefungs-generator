@@ -10131,9 +10131,9 @@
   {
     "Frage": "Wie groß ist gemeinschaftlicher Jagdbezirk in Schleswig-Holstein?",
     "Antwort": "Mindestgröße 250 ha",
-    "FalscheAntwort1": "Sie ist rechtlich bedeutungslos",
-    "FalscheAntwort2": "Sie gilt nur für Forstbeamte",
-    "FalscheAntwort3": "Sie ersetzt alle anderen Rechtsnormen",
+    "FalscheAntwort1": "Mindestgröße 150 ha",
+    "FalscheAntwort2": "Mindestgröße 200 ha",
+    "FalscheAntwort3": "Mindestgröße 300 ha",
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
     "Difficulty": "hard",
     "Tags": [
@@ -10970,7 +10970,7 @@
   {
     "Frage": "Welchen Schaden verursacht Schwarzwild im Feld?",
     "FrageFreitext": "Welchen Schaden verursacht Schwarzwild im Feld?",
-    "FrageMC": "Welchen Schaden verursacht Schwarzwild im Feld? a) Schädigung von Getreide b) Zerstörung von Bäumen c) Tötung anderer Wildtiere d) Fressen von Gras",
+    "FrageMC": "Welchen Schaden verursacht Schwarzwild im Feld?",
     "Antwort": "Schädigung von Getreide.",
     "FalscheAntwort1": "Zerstörung von Bäumen.",
     "FalscheAntwort2": "Tötung anderer Wildtiere.",
@@ -10983,8 +10983,13 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [
+      "Fraß- und Wühlschäden an Feldfrüchten",
+      "Erhebliche Schäden an Getreide- und Maisflächen",
+      "Umbruch von Ackerflächen durch Wühlen"
+    ],
+    "ReportFlag": "AUTO_REVIEW:Unklare Antworten"
   },
   {
     "Frage": "Was versteht man beim Schwarzwild unter Gebräch, Gebrech, Gewehre, Haderer, Gewaff, Haken?",
