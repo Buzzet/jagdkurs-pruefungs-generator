@@ -7,3 +7,9 @@ services:
       - .env
     ports:
       - "18080:8080"
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
