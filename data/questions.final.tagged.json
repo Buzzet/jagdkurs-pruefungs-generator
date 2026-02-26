@@ -5215,8 +5215,8 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Schrotgarbe korrekt?",
-    "Antwort": "Sie öffnet sich mit zunehmender Entfernung",
+    "Frage": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "Antwort": "Sie öffnet sich mit zunehmender Entfernung.",
     "FalscheAntwort1": "Sie bleibt immer gleich eng",
     "FalscheAntwort2": "Sie wird mit Entfernung enger",
     "FalscheAntwort3": "Sie existiert nur bei Flintenlaufgeschossen",
@@ -5225,9 +5225,9 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Was ist über Schrotgarbe korrekt?",
-    "FrageMC": "Was ist über Schrotgarbe korrekt?",
-    "PdfEligible": false,
+    "FrageFreitext": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "FrageMC": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -5743,8 +5743,8 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zur Schrotgarbe ist korrekt?",
-    "Antwort": "Sie öffnet sich mit zunehmender Entfernung",
+    "Frage": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "Antwort": "Sie öffnet sich mit zunehmender Entfernung.",
     "FalscheAntwort1": "Sie bleibt immer gleich eng",
     "FalscheAntwort2": "Sie wird mit Entfernung enger",
     "FalscheAntwort3": "Sie existiert nur bei Flintenlaufgeschossen",
@@ -5753,9 +5753,9 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Welche Aussage zur Schrotgarbe ist korrekt?",
-    "FrageMC": "Welche Aussage zur Schrotgarbe ist korrekt?",
-    "PdfEligible": false,
+    "FrageFreitext": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "FrageMC": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -10632,7 +10632,7 @@
     "Frage": "Woran kann man äußerlich einen jungen und einen alten Rehbock unterscheiden?",
     "FrageFreitext": "Woran kann man äußerlich einen jungen und einen alten Rehbock unterscheiden?",
     "FrageMC": "Woran kann man äußerlich einen jungen und einen alten Rehbock unterscheiden?",
-    "Antwort": "An der Geweihgröße",
+    "Antwort": "An Körperbau, Trägerstärke und Gesamterscheinung; alte Böcke wirken meist kräftiger und kurzläufiger.",
     "FalscheAntwort1": "Am Fell",
     "FalscheAntwort2": "An den Augen",
     "FalscheAntwort3": "Am Gewicht",
@@ -10645,7 +10645,10 @@
       "wildtierkunde"
     ],
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Am kräftigeren Träger und kompakteren Körperbau alter Böcke",
+      "Junge Böcke wirken schlanker und hochläufiger"
+    ]
   },
   {
     "Frage": "Hat Rehwild einen Wedel?",
@@ -13592,9 +13595,9 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Waldfrüchte äst welches Wild besonders gern? Ein kleines Rotkahlwildrudel zieht im Wald auf eine Freifläche. In welcher Reihenfolge treten sie aus?",
-    "FrageFreitext": "Welche Waldfrüchte äst welches Wild besonders gern? Ein kleines Rotkahlwildrudel zieht im Wald auf eine Freifläche. In welcher Reihenfolge treten sie aus?",
-    "FrageMC": "Welche Waldfrüchte äst welches Wild besonders gern? Ein kleines Rotkahlwildrudel zieht im Wald auf eine Freifläche. In welcher Reihenfolge treten sie aus?",
+    "Frage": "Welche Waldfrüchte äst Rotwild besonders gern?",
+    "FrageFreitext": "Welche Waldfrüchte äst Rotwild besonders gern?",
+    "FrageMC": "Welche Waldfrüchte äst Rotwild besonders gern?",
     "Antwort": "Eicheln und Bucheckern",
     "FalscheAntwort1": "Kastanien",
     "FalscheAntwort2": "Beeren",
@@ -13608,7 +13611,10 @@
       "wildtierkunde"
     ],
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Eicheln",
+      "Bucheckern"
+    ]
   },
   {
     "Frage": "Ein Rothirschrudel betritt im Winter die offene Äsungsfläche. Welcher Hirsch kommt zuletzt?",
@@ -16249,5 +16255,24 @@
     ],
     "PdfEligible": true,
     "AlternativeAntworten": []
+  },
+  {
+    "Frage": "In welcher Reihenfolge tritt ein Rotkahlwildrudel typischerweise auf eine Freifläche aus?",
+    "FrageFreitext": "In welcher Reihenfolge tritt ein Rotkahlwildrudel typischerweise auf eine Freifläche aus?",
+    "FrageMC": "In welcher Reihenfolge tritt ein Rotkahlwildrudel typischerweise auf eine Freifläche aus?",
+    "Antwort": "Meist sichert zunächst ein erfahrenes Stück, danach folgen weitere Rudelmitglieder gestaffelt.",
+    "FalscheAntwort1": "Zuerst immer die Kälber, danach das Alttier.",
+    "FalscheAntwort2": "Alle Stücke treten gleichzeitig ohne Sicherung aus.",
+    "FalscheAntwort3": "Zuerst die Hirsche, dann erst Kahlwild und Kälber.",
+    "Pruefungsfach": "Wildtierkunde",
+    "Difficulty": "medium",
+    "Tags": [
+      "wildtierkunde",
+      "rotwild"
+    ],
+    "PdfEligible": true,
+    "AlternativeAntworten": [
+      "Ein erfahrenes Stück sichert zuerst, danach folgt das Rudel nacheinander."
+    ]
   }
 ]
