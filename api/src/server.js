@@ -32,6 +32,8 @@ app.post('/report-question', async (req, res) => {
 
   const reportText = `⚠️ Jagdkurs Frage gemeldet\nFach: ${payload.subject || '-'}\nModus: ${payload.mode || '-'}\nFrage: ${payload.question || '-'}\nAntwort: ${payload.answer || '-'}\nAlternativen: ${(payload.alternatives || []).join(', ') || '-'}\nGrund: ${payload.reason || '-'}\nZeit: ${payload.createdAt || new Date().toISOString()}`
 
+  let webhookSent = false
+  let webhookError = ''
   if (webhook) {
     try {
       await fetch(webhook, {
@@ -39,15 +41,19 @@ app.post('/report-question', async (req, res) => {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: reportText, payload }),
       })
+      webhookSent = true
     }
-    catch {
-      // best effort
+    catch (e) {
+      webhookError = e?.message || 'webhook send failed'
     }
   }
 
   const reportEmailTo = process.env.REPORT_EMAIL_TO
   const smtpUser = process.env.SMTP_USER
   const smtpPass = process.env.SMTP_PASS
+
+  let emailSent = false
+  let emailError = ''
 
   if (reportEmailTo && smtpUser && smtpPass) {
     try {
@@ -67,13 +73,14 @@ app.post('/report-question', async (req, res) => {
         subject: `Jagdkurs Meldung: ${payload.subject || 'Unbekanntes Fach'}`,
         text: reportText,
       })
+      emailSent = true
     }
-    catch {
-      // best effort
+    catch (e) {
+      emailError = e?.message || 'email send failed'
     }
   }
 
-  return res.json({ ok: true })
+  return res.json({ ok: true, emailSent, emailError, webhookSent, webhookError })
 })
 
 app.post('/ai-evaluate', async (req, res) => {
