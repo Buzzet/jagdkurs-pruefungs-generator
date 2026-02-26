@@ -1,16 +1,18 @@
 <template>
-  <main class="container">
-    <h1>Jagdkurs Prüfungs Generator</h1>
+  <main class="app" :class="{ dark: darkMode, light: !darkMode }">
+    <div class="bg-orb orb-1" />
+    <div class="bg-orb orb-2" />
 
-    <section class="card">
-      <div class="row">
-        <button :class="{ active: mode === 'pdf' }" @click="mode = 'pdf'">Feature 1: PDF</button>
-        <button :class="{ active: mode === 'mc' }" @click="switchToMc">Feature 2: MC-Simulation</button>
-        <button :class="{ active: mode === 'ai' }" @click="switchToAi">Feature 3: KI-Modus</button>
+    <section class="hero liquid">
+      <div>
+        <h1>Jagdkurs Trainer</h1>
+        <p class="muted">Prüfungsfragen als PDF, Multiple Choice und KI-Freitext</p>
       </div>
+      <div class="pill">{{ appVersion }}</div>
     </section>
 
-    <section v-if="mode === 'pdf'" class="card">
+    <section v-if="mode === 'pdf'" class="card liquid">
+      <h2>PDF</h2>
       <label for="subject">Prüfungsfach</label>
       <select id="subject" v-model="selectedSubject">
         <option disabled value="">Bitte wählen</option>
@@ -27,13 +29,13 @@
       <p v-if="generated" class="ok">{{ generated.questions.length }} Fragen für „{{ generated.subject }}“ erzeugt.</p>
     </section>
 
-    <section v-if="mode === 'mc'" class="card">
-      <h2>MC-Simulation</h2>
+    <section v-if="mode === 'mc'" class="card liquid">
+      <h2>Multiple Choice</h2>
 
       <div v-if="!mcStarted">
         <div class="row">
           <button :class="{ active: mcType === 'subject' }" @click="mcType = 'subject'">Ein Fach</button>
-          <button :class="{ active: mcType === 'full' }" @click="mcType = 'full'">Gesamtprüfung (4 Fächer)</button>
+          <button :class="{ active: mcType === 'full' }" @click="mcType = 'full'">Gesamtprüfung</button>
         </div>
 
         <div v-if="mcType === 'subject'" class="spacer">
@@ -59,7 +61,7 @@
         <p class="muted small">Mehrfachantworten möglich ({{ mcCurrent.correctAnswers.length }} richtige Antwort{{ mcCurrent.correctAnswers.length === 1 ? '' : 'en' }}).</p>
 
         <div class="options">
-          <label v-for="opt in mcCurrent.options" :key="opt" class="option">
+          <label v-for="opt in mcCurrent.options" :key="opt" class="option liquid-soft">
             <input v-model="selectedOptions" type="checkbox" :value="opt" :disabled="showFeedback">
             <span>{{ opt }}</span>
           </label>
@@ -81,7 +83,7 @@
         </p>
       </div>
 
-      <div v-else class="card-sub">
+      <div v-else class="card-sub liquid-soft">
         <h3>Ergebnis</h3>
         <p><strong>{{ mcCorrectCount }} / {{ mcQuestions.length }}</strong> Fragen komplett richtig ({{ mcPercent }}%)</p>
         <p><strong>{{ mcPointsTotal }}</strong> / {{ mcMaxPoints }} Punkte ({{ mcPointsPercent }}%)</p>
@@ -90,8 +92,8 @@
       </div>
     </section>
 
-    <section v-if="mode === 'ai'" class="card">
-      <h2>KI-Modus (Freitextbewertung)</h2>
+    <section v-if="mode === 'ai'" class="card liquid">
+      <h2>KI-Modus</h2>
 
       <div v-if="!aiStarted">
         <label for="ai-subject">Prüfungsfach</label>
@@ -107,7 +109,7 @@
       <div v-else-if="aiCurrent">
         <p class="muted">{{ aiCurrent.Pruefungsfach }} — Frage {{ aiIndex + 1 }} / {{ aiQuestions.length }}</p>
         <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
-        <textarea v-model="aiUserAnswer" rows="6" class="freeform" placeholder="Deine Antwort im Prüfungsstil..."></textarea>
+        <textarea v-model="aiUserAnswer" rows="6" class="freeform" placeholder="Deine Antwort im Prüfungsstil..." />
 
         <div class="row">
           <button :disabled="!aiUserAnswer.trim() || aiLoading || aiAnswered" @click="submitAiAnswer">Antwort bewerten</button>
@@ -118,7 +120,7 @@
         <p v-if="aiReason" class="muted">Hinweis: {{ aiReason }}</p>
       </div>
 
-      <div v-else class="card-sub">
+      <div v-else class="card-sub liquid-soft">
         <h3>KI-Auswertung</h3>
         <p><strong>{{ aiPointsTotal }}</strong> / {{ aiMaxPoints }} Punkte ({{ aiPointsPercent }}%)</p>
         <p><strong>Note:</strong> {{ aiGrade }}</p>
@@ -126,7 +128,12 @@
       </div>
     </section>
 
-    <footer class="version">Version {{ appVersion }}</footer>
+    <nav class="mode-bar liquid">
+      <button :class="{ active: mode === 'pdf' }" @click="switchToPdf">PDF</button>
+      <button :class="{ active: mode === 'mc' }" @click="switchToMc">Multiple Choice</button>
+      <button :class="{ active: mode === 'ai' }" @click="switchToAi">KI-Modus</button>
+      <button class="ghost" @click="toggleTheme">{{ darkMode ? '☀️' : '🌙' }}</button>
+    </nav>
   </main>
 </template>
 
@@ -142,6 +149,11 @@ interface McQuestion extends Question {
 const { subjects, generate, generateMcSubject, generateMcFull } = useQuestionGenerator()
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
 const { public: { appVersion, aiApiBase } } = useRuntimeConfig()
+
+const darkMode = ref(true)
+const toggleTheme = () => {
+  darkMode.value = !darkMode.value
+}
 
 const mode = ref<'pdf' | 'mc' | 'ai'>('pdf')
 
@@ -160,7 +172,6 @@ const generateSet = () => {
   }
 }
 
-// Feature 2
 const mcType = ref<McType>('subject')
 const mcSelectedSubject = ref('')
 const mcStarted = ref(false)
@@ -178,14 +189,11 @@ const mcPercent = computed(() => {
   if (!mcQuestions.value.length) return 0
   return Math.round((mcCorrectCount.value / mcQuestions.value.length) * 100)
 })
-
 const mcMaxPoints = computed(() => mcQuestions.value.length * 2)
-
 const mcPointsPercent = computed(() => {
   if (!mcMaxPoints.value) return 0
   return Math.round((mcPointsTotal.value / mcMaxPoints.value) * 100)
 })
-
 const mcGrade = computed(() => {
   const p = mcPointsPercent.value
   if (p >= 90) return '1'
@@ -315,7 +323,6 @@ const switchToMc = () => {
   resetMc()
 }
 
-// Feature 3 (AI free-text)
 const aiSelectedSubject = ref('')
 const aiStarted = ref(false)
 const aiQuestions = ref<Question[]>([])
@@ -434,26 +441,124 @@ const switchToAi = () => {
   mode.value = 'ai'
   resetAi()
 }
+
+const switchToPdf = () => {
+  mode.value = 'pdf'
+}
 </script>
 
 <style scoped>
-.container { max-width: 980px; margin: 2rem auto; padding: 0 1rem; font-family: Inter, system-ui, sans-serif; }
-.card { border: 1px solid #e6e6e6; border-radius: 10px; padding: 1rem; margin-top: 1rem; }
-.card-sub { border: 1px solid #eee; border-radius: 10px; padding: 1rem; margin-top: .8rem; }
-label { display: block; margin-bottom: .4rem; font-weight: 600; }
-select { padding: .6rem; border-radius: 8px; min-width: 320px; border: 1px solid #ccc; }
-.row { margin-top: 1rem; display: flex; gap: .6rem; flex-wrap: wrap; }
-.spacer { margin-top: 1rem; }
-button { padding: .6rem .9rem; border-radius: 8px; border: 1px solid #333; background: #111; color: white; cursor: pointer; }
-button.active { background: #2f6fed; border-color: #2f6fed; }
+.app {
+  min-height: 100vh;
+  padding: 1.2rem 1rem 6.8rem;
+  max-width: 980px;
+  margin: 0 auto;
+  position: relative;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;
+}
+.dark { background: #090b10; color: #eef2ff; }
+.light { background: #f2f5fb; color: #0f172a; }
+
+.bg-orb {
+  position: fixed;
+  border-radius: 9999px;
+  filter: blur(64px);
+  opacity: .25;
+  z-index: 0;
+}
+.orb-1 { width: 320px; height: 320px; left: -90px; top: -60px; background: #5b8cff; }
+.orb-2 { width: 360px; height: 360px; right: -120px; bottom: 120px; background: #7f5bff; }
+
+.hero, .card, .mode-bar { position: relative; z-index: 1; }
+.hero {
+  margin-top: .5rem;
+  padding: 1rem 1.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hero h1 { margin: 0; font-size: 1.6rem; }
+.hero p { margin: .25rem 0 0; }
+.pill {
+  border: 1px solid rgba(255,255,255,.2);
+  padding: .35rem .7rem;
+  border-radius: 999px;
+  font-size: .85rem;
+}
+
+.liquid {
+  border: 1px solid rgba(255,255,255,.16);
+  background: rgba(255,255,255,.10);
+  backdrop-filter: blur(16px) saturate(140%);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+  box-shadow: 0 12px 34px rgba(0,0,0,.22), inset 0 1px 0 rgba(255,255,255,.2);
+  border-radius: 18px;
+}
+.light .liquid {
+  border-color: rgba(15,23,42,.12);
+  background: rgba(255,255,255,.8);
+  box-shadow: 0 10px 24px rgba(15,23,42,.08), inset 0 1px 0 rgba(255,255,255,.75);
+}
+.liquid-soft {
+  border: 1px solid rgba(255,255,255,.16);
+  background: rgba(255,255,255,.06);
+  border-radius: 14px;
+}
+.light .liquid-soft { border-color: rgba(15,23,42,.12); background: rgba(255,255,255,.7); }
+
+.card { margin-top: 1rem; padding: 1rem 1.1rem; }
+.card h2 { margin: 0 0 .75rem; }
+.card-sub { padding: .9rem 1rem; margin-top: .8rem; }
+
+label { display: block; margin-bottom: .45rem; font-weight: 600; }
+select, .freeform {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.2);
+  background: rgba(0,0,0,.25);
+  color: inherit;
+  padding: .68rem .78rem;
+  font: inherit;
+}
+.light select, .light .freeform {
+  border-color: rgba(15,23,42,.14);
+  background: rgba(255,255,255,.95);
+}
+
+.row { margin-top: .9rem; display: flex; gap: .6rem; flex-wrap: wrap; }
+.spacer { margin-top: .95rem; }
+button {
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.2);
+  background: rgba(255,255,255,.12);
+  color: inherit;
+  padding: .58rem .9rem;
+  cursor: pointer;
+}
+button.active { background: rgba(91,140,255,.65); border-color: rgba(91,140,255,.9); }
 button:disabled { opacity: .5; cursor: not-allowed; }
-.options { display: grid; gap: .6rem; margin: 1rem 0; }
-.option { border: 1px solid #ddd; border-radius: 8px; padding: .6rem; display: flex; gap: .6rem; align-items: center; font-weight: 500; }
-.error { color: #b00020; margin-top: .8rem; }
-.ok { color: #006400; margin-top: .8rem; }
-.partial { color: #b26a00; margin-top: .8rem; }
-.muted { color: #555; }
+button.ghost { min-width: 2.6rem; }
+
+.options { display: grid; gap: .6rem; margin: .95rem 0; }
+.option { padding: .65rem .72rem; display: flex; gap: .6rem; align-items: center; }
+
+.error { color: #ff8d8d; margin-top: .8rem; }
+.ok { color: #8cf2b7; margin-top: .8rem; }
+.partial { color: #ffd27a; margin-top: .8rem; }
+.muted { opacity: .8; }
 .small { font-size: .9rem; }
-.freeform { width: 100%; margin-top: .8rem; border: 1px solid #ccc; border-radius: 8px; padding: .7rem; font: inherit; }
-.version { margin-top: 2rem; color: #555; font-size: .9rem; text-align: center; }
+
+.mode-bar {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: .8rem;
+  width: min(960px, calc(100% - 1rem));
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr auto;
+  gap: .5rem;
+  padding: .55rem;
+  z-index: 20;
+}
+.mode-bar button { margin: 0; }
 </style>
