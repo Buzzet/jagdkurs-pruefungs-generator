@@ -37,3 +37,12 @@ jobs:
           path: ./.output/public
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Notify WhatsApp (success)
+        if: ${{ success() && secrets.WHATSAPP_WEBHOOK_URL != '' }}
+        run: |
+          curl -sS -X POST "$WHATSAPP_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "{\"message\":\"✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}\"}"
+        env:
+          WHATSAPP_WEBHOOK_URL: ${{ secrets.WHATSAPP_WEBHOOK_URL }}
