@@ -150,7 +150,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Nennen Sie eine Art aus den Rabenvögeln?",
+    "Frage": "Nennen Sie eine Art der Rabenvögel.",
     "Antwort": "Rabenkrähe",
     "FalscheAntwort1": "Mäusebussard",
     "FalscheAntwort2": "Kormoran",
@@ -160,8 +160,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Nennen Sie eine Art aus den Rabenvögeln?",
-    "FrageMC": "Welche Aussage ist richtig: Nennen Sie eine Art aus den Rabenvögeln?",
+    "FrageFreitext": "Nennen Sie eine Art der Rabenvögel.",
+    "FrageMC": "Welche Aussage ist richtig: Nennen Sie eine Art der Rabenvögel.?",
     "PdfEligible": true
   },
   {
@@ -9972,7 +9972,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für den sicheren Schussfeld?",
+    "Frage": "Was gilt für das sichere Schussfeld?",
     "Antwort": "Ziel und dahinter liegender Kugelfang müssen sicher sein",
     "FalscheAntwort1": "Bei kurzer Distanz ist Kugelfang egal",
     "FalscheAntwort2": "Nur das Ziel muss sichtbar sein",
@@ -9982,8 +9982,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was gilt für den sicheren Schussfeld?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für den sicheren Schussfeld?",
+    "FrageFreitext": "Was gilt für das sichere Schussfeld?",
+    "FrageMC": "Welche Aussage ist richtig: Was gilt für das sichere Schussfeld?",
     "PdfEligible": true
   },
   {
@@ -10107,7 +10107,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für die Flinte?",
+    "Frage": "Welche Aussage zur Flinte ist korrekt?",
     "Antwort": "Sie verschießt überwiegend Schrotpatronen",
     "FalscheAntwort1": "Sie ist immer eine Kurzwaffe",
     "FalscheAntwort2": "Sie nutzt ausschließlich Büchsenmunition",
@@ -10117,8 +10117,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Was gilt für die Flinte?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für die Flinte?",
+    "FrageFreitext": "Welche Aussage zur Flinte ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Flinte ist korrekt?",
     "PdfEligible": true
   },
   {
@@ -10242,7 +10242,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für die Sicherung?",
+    "Frage": "Welche Aussage zur Sicherung ist korrekt?",
     "Antwort": "Sie ersetzt niemals die sichere Waffenhandhabung",
     "FalscheAntwort1": "Sie ist nur auf dem Schießstand nötig",
     "FalscheAntwort2": "Sie macht eine geladene Waffe ungefährlich",
@@ -10252,8 +10252,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was gilt für die Sicherung?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für die Sicherung?",
+    "FrageFreitext": "Welche Aussage zur Sicherung ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Sicherung ist korrekt?",
     "PdfEligible": true
   },
   {
@@ -14782,7 +14782,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für die Leinenführung bei Gesellschaftsjagden?",
+    "Frage": "Was gilt bei der Leinenführung auf Gesellschaftsjagden?",
     "Antwort": "Sie richtet sich nach Sicherheitslage und Jagdleitung",
     "FalscheAntwort1": "Leine ist bei Treibern verboten",
     "FalscheAntwort2": "Leine ist nur für Welpen nötig",
@@ -14792,8 +14792,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was gilt für die Leinenführung bei Gesellschaftsjagden?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für die Leinenführung bei Gesellschaftsjagden?",
+    "FrageFreitext": "Was gilt bei der Leinenführung auf Gesellschaftsjagden?",
+    "FrageMC": "Welche Aussage ist richtig: Was gilt bei der Leinenführung auf Gesellschaftsjagden?",
     "PdfEligible": true
   },
   {
@@ -18937,7 +18937,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für den Wildschaden?",
+    "Frage": "Was gilt beim Wildschaden?",
     "Antwort": "Ansprüche sind fristgebunden geltend zu machen",
     "FalscheAntwort1": "Nur mündliche Meldung genügt immer",
     "FalscheAntwort2": "Nur Schäden im Wald zählen",
@@ -18947,8 +18947,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Was gilt für den Wildschaden?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für den Wildschaden?",
+    "FrageFreitext": "Was gilt beim Wildschaden?",
+    "FrageMC": "Welche Aussage ist richtig: Was gilt beim Wildschaden?",
     "PdfEligible": true
   },
   {
@@ -19207,7 +19207,7 @@
     "PdfEligible": true
   },
   {
-    "Frage": "Was gilt für die Verkehrsunfallmeldung mit Wild?",
+    "Frage": "Was gilt bei der Meldung eines Verkehrsunfalls mit Wild?",
     "Antwort": "Unfallstelle sichern und zuständige Stellen informieren",
     "FalscheAntwort1": "Wild direkt mitnehmen",
     "FalscheAntwort2": "Nur Versicherung später informieren",
@@ -19217,8 +19217,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Was gilt für die Verkehrsunfallmeldung mit Wild?",
-    "FrageMC": "Welche Aussage ist richtig: Was gilt für die Verkehrsunfallmeldung mit Wild?",
+    "FrageFreitext": "Was gilt bei der Meldung eines Verkehrsunfalls mit Wild?",
+    "FrageMC": "Welche Aussage ist richtig: Was gilt bei der Meldung eines Verkehrsunfalls mit Wild?",
     "PdfEligible": true
   },
   {
