@@ -29,9 +29,7 @@ jobs:
       - run: npm ci
       - name: Build static app
         run: |
-          PATCH=$((GITHUB_RUN_NUMBER - 5))
-          if [ "$PATCH" -lt 0 ]; then PATCH=0; fi
-          export NUXT_APP_VERSION="v1.0.${PATCH}"
+          export NUXT_APP_VERSION="v1.0.${GITHUB_RUN_NUMBER}"
           echo "NUXT_APP_VERSION=${NUXT_APP_VERSION}" >> $GITHUB_ENV
           npm run generate
         env:

@@ -29,7 +29,11 @@ jobs:
           cache: npm
 
       - run: npm ci
-      - run: npm run generate
+      - name: Build static app (version bump)
+        run: |
+          export NUXT_APP_VERSION="v1.0.${GITHUB_RUN_NUMBER}"
+          echo "NUXT_APP_VERSION=${NUXT_APP_VERSION}" >> $GITHUB_ENV
+          npm run generate
 
       - name: Install SSH key
         uses: shimataro/ssh-key-action@v2
