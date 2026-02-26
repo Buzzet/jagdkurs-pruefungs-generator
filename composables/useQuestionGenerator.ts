@@ -14,6 +14,29 @@ const shuffle = <T>(arr: T[]): T[] => {
 
 const pickN = <T>(arr: T[], n: number): T[] => shuffle(arr).slice(0, n)
 
+const isMcStyleQuestion = (q: Question): boolean => {
+  const text = (q.FrageFreitext || q.Frage || '').trim()
+  return /^(Wie lautet die korrekte Antwort\?|Welche Aussage ist richtig\?|Welche Antwort ist richtig\?|Was trifft zu\?|Bitte wählen Sie)/i.test(text)
+}
+
+const pickWithMcCap = (arr: Question[], total = 20, mcCap = 5): Question[] => {
+  const mc = shuffle(arr.filter(isMcStyleQuestion))
+  const open = shuffle(arr.filter(q => !isMcStyleQuestion(q)))
+
+  const pickedMc = mc.slice(0, Math.min(mcCap, total))
+  const needOpen = total - pickedMc.length
+  const pickedOpen = open.slice(0, needOpen)
+
+  const combined = [...pickedMc, ...pickedOpen]
+
+  if (combined.length < total) {
+    const remainder = shuffle(arr.filter(q => !combined.includes(q))).slice(0, total - combined.length)
+    combined.push(...remainder)
+  }
+
+  return shuffle(combined).slice(0, total)
+}
+
 export const useQuestionGenerator = () => {
   const questions = allQuestions as Question[]
 
@@ -39,7 +62,7 @@ export const useQuestionGenerator = () => {
       return {
         subject,
         createdAt: new Date().toISOString(),
-        questions: shuffle([...pickN(hunde, 10), ...pickN(krankheiten, 10)]),
+        questions: pickWithMcCap(shuffle([...pickN(hunde, 10), ...pickN(krankheiten, 10)]), 20, 5),
       }
     }
 
@@ -51,7 +74,7 @@ export const useQuestionGenerator = () => {
     return {
       subject,
       createdAt: new Date().toISOString(),
-      questions: pickN(pool, 20),
+      questions: pickWithMcCap(pool, 20, 5),
     }
   }
 

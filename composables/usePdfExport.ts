@@ -15,6 +15,9 @@ const ensurePage = (doc: jsPDF, y: number, needed = 30) => {
   return y
 }
 
+const isMcStyleQuestion = (text: string) =>
+  /^(Wie lautet die korrekte Antwort\?|Welche Aussage ist richtig\?|Welche Antwort ist richtig\?|Was trifft zu\?|Bitte wählen Sie)/i.test(text.trim())
+
 export const usePdfExport = () => {
   const downloadExamPdf = (set: GeneratedSet) => {
     const doc = new jsPDF({ unit: 'mm', format: 'a4' })
@@ -29,15 +32,27 @@ export const usePdfExport = () => {
     y += 8
 
     set.questions.forEach((q, idx) => {
-      y = ensurePage(doc, y, 45)
+      const questionText = q.FrageFreitext || q.Frage
+      const isMc = isMcStyleQuestion(questionText)
+
+      y = ensurePage(doc, y, isMc ? 40 : 45)
       doc.setFontSize(11)
-      y = line(doc, `${idx + 1}) ${q.FrageFreitext || q.Frage}`, 15, y)
+      y = line(doc, `${idx + 1}) ${questionText}`, 15, y)
 
       doc.setFontSize(9)
-      for (let i = 0; i < 4; i++) {
-        y = ensurePage(doc, y, 8)
-        doc.line(18, y + 2, 192, y + 2)
-        y += 7
+      if (isMc) {
+        const options = [q.Antwort, q.FalscheAntwort1, q.FalscheAntwort2, q.FalscheAntwort3]
+        for (const [optIndex, opt] of options.entries()) {
+          y = ensurePage(doc, y, 8)
+          y = line(doc, `${String.fromCharCode(65 + optIndex)}) ${opt}`, 18, y)
+        }
+      }
+      else {
+        for (let i = 0; i < 4; i++) {
+          y = ensurePage(doc, y, 8)
+          doc.line(18, y + 2, 192, y + 2)
+          y += 7
+        }
       }
       y += 2
     })
