@@ -63,7 +63,6 @@ Regeln:
     body: JSON.stringify({
       model: 'gpt-5-mini',
       input: prompt,
-      text: { format: { type: 'json_object' } },
     }),
   })
 
@@ -75,13 +74,31 @@ Regeln:
   }
 
   const data: any = await response.json()
-  const raw = data?.output?.[0]?.content?.[0]?.text || '{}'
-  let parsed: any = {}
-  try {
-    parsed = JSON.parse(raw)
+  const textFromOutput = (data?.output || [])
+    .flatMap((o: any) => o?.content || [])
+    .map((c: any) => c?.text || '')
+    .join('\n')
+    .trim()
+
+  const rawText = (data?.output_text || textFromOutput || '').trim()
+
+  let parsed: any = null
+  if (rawText) {
+    try {
+      parsed = JSON.parse(rawText)
+    }
+    catch {
+      const match = rawText.match(/\b([012])\b/)
+      if (match) parsed = { score: Number(match[1]), reason: rawText }
+    }
   }
-  catch {
-    parsed = {}
+
+  if (!parsed) {
+    return {
+      score: heuristicScore(body.modelAnswer, userAnswer),
+      reason: rawText,
+      mode: 'heuristic-fallback-parse',
+    }
   }
 
   const score = Number(parsed?.score)

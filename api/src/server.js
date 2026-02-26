@@ -48,7 +48,6 @@ app.post('/ai-evaluate', async (req, res) => {
       body: JSON.stringify({
         model: process.env.OPENAI_MODEL || 'gpt-5-mini',
         input: prompt,
-        text: { format: { type: 'json_object' } },
       }),
     })
 
@@ -57,17 +56,39 @@ app.post('/ai-evaluate', async (req, res) => {
     }
 
     const data = await response.json()
-    const raw = data?.output?.[0]?.content?.[0]?.text || '{}'
-    let parsed = {}
-    try {
-      parsed = JSON.parse(raw)
-    }
-    catch {
-      parsed = {}
+
+    const textFromOutput = (data?.output || [])
+      .flatMap(o => o?.content || [])
+      .map(c => c?.text || '')
+      .join('\n')
+      .trim()
+
+    const rawText = (data?.output_text || textFromOutput || '').trim()
+
+    let parsed = null
+    if (rawText) {
+      try {
+        parsed = JSON.parse(rawText)
+      }
+      catch {
+        const match = rawText.match(/\b([012])\b/)
+        if (match) {
+          parsed = { score: Number(match[1]), reason: rawText }
+        }
+      }
     }
 
     const score = Number(parsed?.score)
     const normalized = score === 2 ? 2 : score === 1 ? 1 : 0
+
+    if (!parsed) {
+      return res.json({
+        score: heuristicScore(modelAnswer, userAnswer),
+        reason: rawText,
+        mode: 'heuristic-fallback-parse',
+      })
+    }
+
     return res.json({ score: normalized, reason: parsed?.reason || '', mode: 'llm' })
   }
   catch {
