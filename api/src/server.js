@@ -2,9 +2,18 @@ import express from 'express'
 import nodemailer from 'nodemailer'
 
 const app = express()
-app.use(express.json())
+app.use(express.json({ limit: '1mb' }))
 
 const PORT = process.env.PORT || 8080
+
+const log = (...args) => {
+  console.log(new Date().toISOString(), ...args)
+}
+
+app.use((req, _res, next) => {
+  log('[REQ]', req.method, req.path)
+  next()
+})
 
 const heuristicScore = (modelAnswer, userAnswer) => {
   const m = (modelAnswer || '').toLowerCase().trim()
@@ -30,10 +39,23 @@ app.post('/report-question', async (req, res) => {
   const payload = req.body || {}
   const webhook = process.env.REPORT_WEBHOOK_URL
 
+  log('[REPORT] payload', {
+    mode: payload?.mode,
+    subject: payload?.subject,
+    hasQuestion: Boolean(payload?.question),
+    reasonLen: (payload?.reason || '').length,
+  })
+
   const reportText = `⚠️ Jagdkurs Frage gemeldet\nFach: ${payload.subject || '-'}\nModus: ${payload.mode || '-'}\nFrage: ${payload.question || '-'}\nAntwort: ${payload.answer || '-'}\nAlternativen: ${(payload.alternatives || []).join(', ') || '-'}\nGrund: ${payload.reason || '-'}\nZeit: ${payload.createdAt || new Date().toISOString()}`
 
   let webhookSent = false
   let webhookError = ''
+  log('[REPORT] channels', {
+    webhookConfigured: Boolean(webhook),
+    reportEmailToConfigured: Boolean(process.env.REPORT_EMAIL_TO),
+    smtpUserConfigured: Boolean(process.env.SMTP_USER),
+    smtpPassConfigured: Boolean(process.env.SMTP_PASS),
+  })
   if (webhook) {
     try {
       await fetch(webhook, {
@@ -42,9 +64,11 @@ app.post('/report-question', async (req, res) => {
         body: JSON.stringify({ text: reportText, payload }),
       })
       webhookSent = true
+      log('[REPORT] webhook sent')
     }
     catch (e) {
       webhookError = e?.message || 'webhook send failed'
+      log('[REPORT] webhook error', webhookError)
     }
   }
 
@@ -74,23 +98,40 @@ app.post('/report-question', async (req, res) => {
         text: reportText,
       })
       emailSent = true
+      log('[REPORT] email sent', { to: reportEmailTo })
     }
     catch (e) {
       emailError = e?.message || 'email send failed'
+      log('[REPORT] email error', emailError)
     }
   }
 
+  log('[REPORT] result', { emailSent, webhookSent })
   return res.json({ ok: true, emailSent, emailError, webhookSent, webhookError })
+})
+
+app.use((err, _req, res, _next) => {
+  log('[ERROR]', err?.message || err)
+  res.status(500).json({ error: 'internal_error' })
 })
 
 app.post('/ai-evaluate', async (req, res) => {
   const { question, modelAnswer, userAnswer, alternativeAnswers = [] } = req.body || {}
+  log('[AI] payload', {
+    hasQuestion: Boolean(question),
+    hasModelAnswer: Boolean(modelAnswer),
+    userAnswerLen: (userAnswer || '').length,
+    alternativeCount: Array.isArray(alternativeAnswers) ? alternativeAnswers.length : 0,
+  })
+
   if (!question || !modelAnswer) {
+    log('[AI] 400 missing required fields')
     return res.status(400).json({ error: 'question and modelAnswer are required' })
   }
 
   const apiKey = process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
   if (!apiKey) {
+    log('[AI] no OPENAI key configured -> heuristic mode')
     return res.json({ score: heuristicScore(modelAnswer, userAnswer), mode: 'heuristic' })
   }
 
@@ -111,6 +152,7 @@ app.post('/ai-evaluate', async (req, res) => {
     })
 
     if (!response.ok) {
+      log('[AI] OpenAI non-OK', response.status)
       return res.json({ score: heuristicScore(modelAnswer, userAnswer), mode: 'heuristic-fallback' })
     }
 
@@ -141,6 +183,7 @@ app.post('/ai-evaluate', async (req, res) => {
     const normalized = score === 2 ? 2 : score === 1 ? 1 : 0
 
     if (!parsed) {
+      log('[AI] parse fallback used', { rawText: rawText.slice(0, 180) })
       return res.json({
         score: heuristicScore(modelAnswer, userAnswer),
         reason: rawText,
@@ -148,9 +191,11 @@ app.post('/ai-evaluate', async (req, res) => {
       })
     }
 
+    log('[AI] llm score', { score: normalized })
     return res.json({ score: normalized, reason: parsed?.reason || '', mode: 'llm' })
   }
-  catch {
+  catch (e) {
+    log('[AI] exception -> heuristic fallback', e?.message || e)
     return res.json({ score: heuristicScore(modelAnswer, userAnswer), mode: 'heuristic-fallback' })
   }
 })
