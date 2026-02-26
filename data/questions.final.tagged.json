@@ -5039,7 +5039,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über sicheren Schussfeld korrekt?",
+    "Frage": "Was ist über ein sicheres Schussfeld korrekt?",
     "Antwort": "Ziel und dahinter liegender Kugelfang müssen sicher sein",
     "FalscheAntwort1": "Nur das Ziel muss sichtbar sein",
     "FalscheAntwort2": "Bei kurzer Distanz ist Kugelfang egal",
@@ -5049,8 +5049,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was ist über sicheren Schussfeld korrekt?",
-    "FrageMC": "Was ist über sicheren Schussfeld korrekt?",
+    "FrageFreitext": "Was ist über ein sicheres Schussfeld korrekt?",
+    "FrageMC": "Was ist über ein sicheres Schussfeld korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
