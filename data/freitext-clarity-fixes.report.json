@@ -1,0 +1,166 @@
+{
+  "changed": 53,
+  "still_suspicious": 11,
+  "examples": [
+    [
+      "Welche Ernährungsweise hat Rotwild am besten zu?",
+      "Welche Ernährungsweise hat Rotwild?"
+    ],
+    [
+      "Welche Ernährungsweise hat Damwild am besten zu?",
+      "Welche Ernährungsweise hat Damwild?"
+    ],
+    [
+      "Welche Ernährungsweise hat Rehwild am besten zu?",
+      "Welche Ernährungsweise hat Rehwild?"
+    ],
+    [
+      "Welche Ernährungsweise hat Schwarzwild am besten zu?",
+      "Welche Ernährungsweise hat Schwarzwild?"
+    ],
+    [
+      "Welche Ernährungsweise hat Fuchs am besten zu?",
+      "Welche Ernährungsweise hat Fuchs?"
+    ],
+    [
+      "Welche Ernährungsweise hat Nutria am besten zu?",
+      "Welche Ernährungsweise hat Nutria?"
+    ],
+    [
+      "Wann gilt dies bei Rehbock?",
+      "Wann ist dies bei Rehbock?"
+    ],
+    [
+      "Wann gilt dies bei Damhirsch?",
+      "Wann ist dies bei Damhirsch?"
+    ],
+    [
+      "Wie ist Rotwild einzuordnen?",
+      "Was bedeutet Rotwild?"
+    ],
+    [
+      "Wie ist Feldhase einzuordnen?",
+      "Was bedeutet Feldhase?"
+    ],
+    [
+      "Wie ist Nutria einzuordnen?",
+      "Was ist Nutria?"
+    ],
+    [
+      "Wie ist Muffelwild einzuordnen?",
+      "Was ist Muffelwild?"
+    ],
+    [
+      "Wie ist Waschbär einzuordnen?",
+      "Was bedeutet Waschbär?"
+    ],
+    [
+      "Wie ist Nutria einzuordnen?",
+      "Welche Aussage zu Nutria ist korrekt?"
+    ],
+    [
+      "Was trifft auf dem Fuchs zu?",
+      "Was trifft auf den Fuchs zu?"
+    ],
+    [
+      "Was trifft auf dem Dachs zu?",
+      "Was trifft auf den Dachs zu?"
+    ],
+    [
+      "Was trifft auf dem Feldhase zu?",
+      "Was trifft auf den Feldhase zu?"
+    ],
+    [
+      "Wann gilt dies bei die Ricke?",
+      "Wann ist dies bei der Ricke?"
+    ],
+    [
+      "Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+      "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?"
+    ],
+    [
+      "Wie ist „Geschossknall“ einzuordnen?",
+      "Welche Aussage zu „Geschossknall“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Freiflug“ einzuordnen?",
+      "Was bedeutet „Freiflug“?"
+    ],
+    [
+      "Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
+      "Was ist den Erwerb jagdlicher Langwaffen?"
+    ],
+    [
+      "Wie ist Transport im Auto einzuordnen?",
+      "Was ist den Transport im Auto?"
+    ],
+    [
+      "Wie ist Kurzwaffe Beispiel einzuordnen?",
+      "Was ist eine Kurzwaffe?"
+    ],
+    [
+      "Wann gilt Folgendes bei Selbstladebüchse auf Jagd?",
+      "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?"
+    ],
+    [
+      "Wie ist Selbstladebüchse auf Jagd einzuordnen?",
+      "Was bedeutet die Selbstladebüchse auf der Jagd?"
+    ],
+    [
+      "Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
+      "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?"
+    ],
+    [
+      "Welche Aussage zu Transport im Auto ist korrekt?",
+      "Welche Aussage zu den Transport im Auto ist korrekt?"
+    ],
+    [
+      "Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
+      "Welche Aussage zu eine Kurzwaffe ist korrekt?"
+    ],
+    [
+      "Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
+      "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?"
+    ],
+    [
+      "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+      "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?"
+    ],
+    [
+      "Wie ist Patronenlager einzuordnen?",
+      "Was bedeutet Patronenlager?"
+    ],
+    [
+      "Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
+      "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Inbesitznahmebruch“ einzuordnen?",
+      "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
+      "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
+      "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
+      "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?"
+    ],
+    [
+      "Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
+      "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?"
+    ],
+    [
+      "Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
+      "Was trifft auf „brauchbarer Jagdhund“ zu?"
+    ],
+    [
+      "Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
+      "Was bedeutet „Hahn in Ruh im Treiben“?"
+    ]
+  ]
+}

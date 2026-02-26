@@ -795,7 +795,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Rotwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Rotwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -805,13 +805,13 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Rotwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rotwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Rotwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rotwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Damwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Damwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -821,13 +821,13 @@
     "Tags": [
       "damwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Damwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Damwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Damwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Damwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Rehwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Rehwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -837,13 +837,13 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Rehwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rehwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Rehwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rehwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Schwarzwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Schwarzwild?",
     "Antwort": "Allesfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Fleischfresser",
@@ -853,13 +853,13 @@
     "Tags": [
       "schwarzwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Schwarzwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Schwarzwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Schwarzwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Schwarzwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Fuchs am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Fuchs?",
     "Antwort": "Fleischfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Pflanzenfresser",
@@ -869,13 +869,13 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Fuchs am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Fuchs am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Fuchs?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Fuchs?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat Nutria am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Nutria?",
     "Antwort": "Pflanzenfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Fleischfresser",
@@ -885,8 +885,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat Nutria am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Nutria am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Nutria?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Nutria?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1051,7 +1051,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt dies bei Rehbock?",
+    "Frage": "Wann ist dies bei Rehbock?",
     "Antwort": "Spätherbst bis Winter",
     "FalscheAntwort1": "Frühjahr",
     "FalscheAntwort2": "Hochsommer",
@@ -1061,8 +1061,8 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Wann gilt dies bei Rehbock?",
-    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei Rehbock?",
+    "FrageFreitext": "Wann ist dies bei Rehbock?",
+    "FrageMC": "Welche Aussage ist richtig: Wann ist dies bei Rehbock?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1099,7 +1099,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt dies bei Damhirsch?",
+    "Frage": "Wann ist dies bei Damhirsch?",
     "Antwort": "Sommer",
     "FalscheAntwort1": "Winter",
     "FalscheAntwort2": "Frühling",
@@ -1109,8 +1109,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wann gilt dies bei Damhirsch?",
-    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei Damhirsch?",
+    "FrageFreitext": "Wann ist dies bei Damhirsch?",
+    "FrageMC": "Welche Aussage ist richtig: Wann ist dies bei Damhirsch?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1147,7 +1147,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Rotwild einzuordnen?",
+    "Frage": "Was bedeutet Rotwild?",
     "Antwort": "geschlechtergetrennten Rudeln",
     "FalscheAntwort1": "dauerhaften Paaren",
     "FalscheAntwort2": "Einzeltierrevieren ohne Gruppen",
@@ -1157,8 +1157,8 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Wie ist Rotwild einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Rotwild einzuordnen?",
+    "FrageFreitext": "Was bedeutet Rotwild?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Rotwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1195,7 +1195,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Feldhase einzuordnen?",
+    "Frage": "Was bedeutet Feldhase?",
     "Antwort": "sichtig und behaart",
     "FalscheAntwort1": "blind und nackt",
     "FalscheAntwort2": "nur in Erdbauen",
@@ -1205,8 +1205,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie ist Feldhase einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Feldhase einzuordnen?",
+    "FrageFreitext": "Was bedeutet Feldhase?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Feldhase?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1291,7 +1291,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Nutria einzuordnen?",
+    "Frage": "Was ist Nutria?",
     "Antwort": "Nagetier",
     "FalscheAntwort1": "Paarhufer",
     "FalscheAntwort2": "Marderartiger",
@@ -1301,8 +1301,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie ist Nutria einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Nutria einzuordnen?",
+    "FrageFreitext": "Was ist Nutria?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist Nutria?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1339,7 +1339,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Muffelwild einzuordnen?",
+    "Frage": "Was ist Muffelwild?",
     "Antwort": "Wiederkäuern",
     "FalscheAntwort1": "Allesfressern",
     "FalscheAntwort2": "Nagetieren",
@@ -1349,8 +1349,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie ist Muffelwild einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Muffelwild einzuordnen?",
+    "FrageFreitext": "Was ist Muffelwild?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist Muffelwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1387,7 +1387,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Waschbär einzuordnen?",
+    "Frage": "Was bedeutet Waschbär?",
     "Antwort": "Nordamerika",
     "FalscheAntwort1": "Südamerika",
     "FalscheAntwort2": "Asien",
@@ -1397,8 +1397,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie ist Waschbär einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Waschbär einzuordnen?",
+    "FrageFreitext": "Was bedeutet Waschbär?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Waschbär?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2033,7 +2033,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Rotwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Rotwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -2043,13 +2043,13 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Rotwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Rotwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Rotwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rotwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Damwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Damwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -2059,13 +2059,13 @@
     "Tags": [
       "damwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Damwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Damwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Damwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Damwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Rehwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Rehwild?",
     "Antwort": "Wiederkäuer",
     "FalscheAntwort1": "Allesfresser",
     "FalscheAntwort2": "Nagetier",
@@ -2075,13 +2075,13 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Rehwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Rehwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Rehwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Rehwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Schwarzwild am besten zu?",
+    "Frage": "Welche Ernährungsweise hat Schwarzwild?",
     "Antwort": "Allesfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Fleischfresser",
@@ -2091,13 +2091,13 @@
     "Tags": [
       "schwarzwild"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Schwarzwild am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Schwarzwild am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat Schwarzwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat Schwarzwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Fuchs am besten zu?",
+    "Frage": "Welche Ernährungsweise hat der Fuchs?",
     "Antwort": "Fleischfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Pflanzenfresser",
@@ -2107,13 +2107,13 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Fuchs am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Fuchs am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat der Fuchs?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat der Fuchs?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise trifft auf Nutria am besten zu?",
+    "Frage": "Welche Ernährungsweise hat das Nutria?",
     "Antwort": "Pflanzenfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Fleischfresser",
@@ -2123,8 +2123,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Ernährungsweise trifft auf Nutria am besten zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise trifft auf Nutria am besten zu?",
+    "FrageFreitext": "Welche Ernährungsweise hat das Nutria?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat das Nutria?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2572,7 +2572,7 @@
     ]
   },
   {
-    "Frage": "Wie ist Nutria einzuordnen?",
+    "Frage": "Welche Aussage zu Nutria ist korrekt?",
     "Antwort": "Es ist ein großer pflanzenfressender Nager",
     "FalscheAntwort1": "Es ist ein Greifvogel",
     "FalscheAntwort2": "Es ist eine heimische Entenart",
@@ -2582,8 +2582,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie ist Nutria einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Nutria einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu Nutria ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Nutria ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2908,7 +2908,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Fuchs zu?",
+    "Frage": "Welche Aussage zur jagdlichen Ansprache des Fuchses ist korrekt?",
     "Antwort": "Fuchs wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Fuchs hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Fuchs wird ausschließlich über Fellfarbe bestimmt",
@@ -2918,9 +2918,9 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Was trifft auf dem Fuchs zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Fuchs zu?",
-    "PdfEligible": false,
+    "FrageFreitext": "Welche Aussage zur jagdlichen Ansprache des Fuchses ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur jagdlichen Ansprache des Fuchses ist korrekt?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -2972,7 +2972,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Dachs zu?",
+    "Frage": "Welche Aussage zur jagdlichen Ansprache des Dachses ist korrekt?",
     "Antwort": "Dachs wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Dachs hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Dachs wird ausschließlich über Fellfarbe bestimmt",
@@ -2982,9 +2982,9 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Dachs zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Dachs zu?",
-    "PdfEligible": false,
+    "FrageFreitext": "Welche Aussage zur jagdlichen Ansprache des Dachses ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur jagdlichen Ansprache des Dachses ist korrekt?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -3036,7 +3036,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Feldhase zu?",
+    "Frage": "Welche Aussage zur jagdlichen Ansprache des Feldhasen ist korrekt?",
     "Antwort": "Feldhase wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Feldhase hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Feldhase wird ausschließlich über Fellfarbe bestimmt",
@@ -3046,9 +3046,9 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Feldhase zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Feldhase zu?",
-    "PdfEligible": false,
+    "FrageFreitext": "Welche Aussage zur jagdlichen Ansprache des Feldhasen ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur jagdlichen Ansprache des Feldhasen ist korrekt?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -3292,7 +3292,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt dies bei die Ricke?",
+    "Frage": "Wann ist dies bei der Ricke?",
     "Antwort": "Sie führt im Sommer meist ihre Kitze",
     "FalscheAntwort1": "Sie gehört zum Schwarzwild",
     "FalscheAntwort2": "Sie trägt ein Geweih",
@@ -3302,8 +3302,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wann gilt dies bei die Ricke?",
-    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei die Ricke?",
+    "FrageFreitext": "Wann ist dies bei der Ricke?",
+    "FrageMC": "Welche Aussage ist richtig: Wann ist dies bei der Ricke?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3324,7 +3324,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf den Feldhasen zu?",
+    "Frage": "Wie kommen die Jungen des Feldhasen zur Welt?",
     "Antwort": "Junge kommen behaart und sehend zur Welt",
     "FalscheAntwort1": "Er ist ein Wiederkäuer",
     "FalscheAntwort2": "Junge werden blind in einem Bau geboren",
@@ -3334,9 +3334,9 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf den Feldhasen zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf den Feldhasen zu?",
-    "PdfEligible": false,
+    "FrageFreitext": "Wie kommen die Jungen des Feldhasen zur Welt?",
+    "FrageMC": "Welche Aussage ist richtig: Wie kommen die Jungen des Feldhasen zur Welt?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -3420,7 +3420,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+    "Frage": "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
     "Antwort": "Gültiger Jagdschein",
     "FalscheAntwort1": "Personalausweis",
     "FalscheAntwort2": "Führerschein",
@@ -3430,8 +3430,8 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+    "FrageFreitext": "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4063,7 +4063,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Geschossknall“ einzuordnen?",
+    "Frage": "Welche Aussage zu „Geschossknall“ ist korrekt?",
     "Antwort": "entsteht bei Überschallflug",
     "FalscheAntwort1": "entsteht durch Zündhütchen allein",
     "FalscheAntwort2": "tritt nur unter Wasser auf",
@@ -4073,8 +4073,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Wie ist „Geschossknall“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Geschossknall“ einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Geschossknall“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Geschossknall“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4095,7 +4095,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Freiflug“ einzuordnen?",
+    "Frage": "Was bedeutet „Freiflug“?",
     "Antwort": "Weg des Geschosses nach der Mündung",
     "FalscheAntwort1": "Weg im Magazin",
     "FalscheAntwort2": "Bewegung des Schlagbolzens",
@@ -4105,8 +4105,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Wie ist „Freiflug“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Freiflug“ einzuordnen?",
+    "FrageFreitext": "Was bedeutet „Freiflug“?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet „Freiflug“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4239,7 +4239,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
+    "Frage": "Was ist den Erwerb jagdlicher Langwaffen?",
     "Antwort": "gültiger Jagdschein",
     "FalscheAntwort1": "Führerschein",
     "FalscheAntwort2": "Vereinsausweis",
@@ -4249,13 +4249,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
+    "FrageFreitext": "Was ist den Erwerb jagdlicher Langwaffen?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist den Erwerb jagdlicher Langwaffen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Transport im Auto einzuordnen?",
+    "Frage": "Was ist den Transport im Auto?",
     "Antwort": "entladen und nicht zugriffsbereit",
     "FalscheAntwort1": "geladen im Futteral",
     "FalscheAntwort2": "durchgeladen auf Rückbank",
@@ -4265,13 +4265,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Wie ist Transport im Auto einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Transport im Auto einzuordnen?",
+    "FrageFreitext": "Was ist den Transport im Auto?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist den Transport im Auto?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Kurzwaffe Beispiel einzuordnen?",
+    "Frage": "Was ist eine Kurzwaffe?",
     "Antwort": "Revolver",
     "FalscheAntwort1": "Repetierbüchse",
     "FalscheAntwort2": "Bockdoppelflinte",
@@ -4281,8 +4281,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Wie ist Kurzwaffe Beispiel einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Kurzwaffe Beispiel einzuordnen?",
+    "FrageFreitext": "Was ist eine Kurzwaffe?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist eine Kurzwaffe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4303,7 +4303,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt Folgendes bei Selbstladebüchse auf Jagd?",
+    "Frage": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
     "FalscheAntwort2": "nur auf Schießstand",
@@ -4313,13 +4313,13 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Wann gilt Folgendes bei Selbstladebüchse auf Jagd?",
-    "FrageMC": "Welche Aussage ist richtig: Wann gilt Folgendes bei Selbstladebüchse auf Jagd?",
+    "FrageFreitext": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
+    "FrageMC": "Welche Aussage ist richtig: Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Selbstladebüchse auf Jagd einzuordnen?",
+    "Frage": "Was bedeutet die Selbstladebüchse auf der Jagd?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
     "FalscheAntwort2": "nur auf Schießstand",
@@ -4329,8 +4329,8 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Wie ist Selbstladebüchse auf Jagd einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Selbstladebüchse auf Jagd einzuordnen?",
+    "FrageFreitext": "Was bedeutet die Selbstladebüchse auf der Jagd?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet die Selbstladebüchse auf der Jagd?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4640,7 +4640,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
+    "Frage": "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
     "Antwort": "gültiger Jagdschein",
     "FalscheAntwort1": "Führerschein",
     "FalscheAntwort2": "Vereinsausweis",
@@ -4650,13 +4650,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
+    "FrageFreitext": "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Transport im Auto ist korrekt?",
+    "Frage": "Welche Aussage zu den Transport im Auto ist korrekt?",
     "Antwort": "entladen und nicht zugriffsbereit",
     "FalscheAntwort1": "geladen im Futteral",
     "FalscheAntwort2": "durchgeladen auf Rückbank",
@@ -4666,13 +4666,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Transport im Auto ist korrekt?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Transport im Auto ist korrekt?",
+    "FrageFreitext": "Welche Aussage zu den Transport im Auto ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu den Transport im Auto ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
+    "Frage": "Welche Aussage zu eine Kurzwaffe ist korrekt?",
     "Antwort": "Revolver",
     "FalscheAntwort1": "Repetierbüchse",
     "FalscheAntwort2": "Bockdoppelflinte",
@@ -4682,8 +4682,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
+    "FrageFreitext": "Welche Aussage zu eine Kurzwaffe ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu eine Kurzwaffe ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -4704,7 +4704,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
+    "Frage": "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
     "FalscheAntwort2": "nur auf Schießstand",
@@ -4714,13 +4714,13 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
+    "FrageFreitext": "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+    "Frage": "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
     "Antwort": "Gültiger Jagdschein",
     "FalscheAntwort1": "Personalausweis",
     "FalscheAntwort2": "Führerschein",
@@ -4730,8 +4730,8 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum Erwerb jagdlicher Langwaffen?",
+    "FrageFreitext": "Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Antwort ist fachlich richtig? Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5425,7 +5425,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Patronenlager einzuordnen?",
+    "Frage": "Was bedeutet Patronenlager?",
     "Antwort": "Aufnahme der Patrone vor dem Schuss",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5435,8 +5435,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Wie ist Patronenlager einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Patronenlager einzuordnen?",
+    "FrageFreitext": "Was bedeutet Patronenlager?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Patronenlager?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -6359,7 +6359,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
+    "Frage": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6369,13 +6369,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Inbesitznahmebruch“ einzuordnen?",
+    "Frage": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6385,13 +6385,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Inbesitznahmebruch“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Inbesitznahmebruch“ einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
+    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6401,13 +6401,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
+    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6417,13 +6417,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
+    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6433,13 +6433,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
+    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6449,13 +6449,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
+    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
+    "Frage": "Was trifft auf „brauchbarer Jagdhund“ zu?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -6465,8 +6465,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
+    "FrageFreitext": "Was trifft auf „brauchbarer Jagdhund“ zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „brauchbarer Jagdhund“ zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -6487,7 +6487,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
+    "Frage": "Was bedeutet „Hahn in Ruh im Treiben“?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -6497,13 +6497,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
+    "FrageFreitext": "Was bedeutet „Hahn in Ruh im Treiben“?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet „Hahn in Ruh im Treiben“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
+    "Frage": "Was bedeutet „Hahn in Ruh im Treiben“?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -6513,8 +6513,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
+    "FrageFreitext": "Was bedeutet „Hahn in Ruh im Treiben“?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet „Hahn in Ruh im Treiben“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -6680,7 +6680,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
+    "Frage": "Welche Aussage zu „Inbesitznahmebruch“?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6690,13 +6690,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
+    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Inbesitznahmebruch“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
+    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6706,13 +6706,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
+    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“ trifft zu?",
+    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6722,13 +6722,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Schuss in Richtung Treiberkette“ trifft zu?",
+    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Schuss in Richtung Treiberkette“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
+    "Frage": "Welche Aussage zu „brauchbarer Jagdhund“?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -6738,13 +6738,13 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
+    "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „brauchbarer Jagdhund“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
+    "Frage": "Welche Aussage zu „Hahn in Ruh im Treiben“?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -6754,8 +6754,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
+    "FrageFreitext": "Welche Aussage zu „Hahn in Ruh im Treiben“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Hahn in Ruh im Treiben“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7179,7 +7179,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
+    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -7189,8 +7189,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
+    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
+    "FrageMC": "Welche Aussage ist richtig: Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -7211,7 +7211,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
+    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -7221,8 +7221,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
+    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
+    "FrageMC": "Welche Aussage ist richtig: Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -7243,7 +7243,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
+    "Frage": "Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -7253,8 +7253,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
+    "FrageFreitext": "Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Antwort ist fachlich richtig? Welche Aussage zu „brauchbarer Jagdhund“?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7275,7 +7275,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
+    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -7285,8 +7285,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
-    "FrageMC": "Welche Aussage ist richtig: Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
+    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
+    "FrageMC": "Welche Aussage ist richtig: Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8747,7 +8747,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Biotophege im Reviermanagement einzuordnen?",
+    "Frage": "Was bedeutet Biotophege im Reviermanagement?",
     "Antwort": "Verbesserung von Lebensräumen",
     "FalscheAntwort1": "ausschließlich Winterfütterung",
     "FalscheAntwort2": "nur Wegebau",
@@ -8757,8 +8757,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Wie ist Biotophege im Reviermanagement einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Biotophege im Reviermanagement einzuordnen?",
+    "FrageFreitext": "Was bedeutet Biotophege im Reviermanagement?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Biotophege im Reviermanagement?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8875,7 +8875,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
+    "Frage": "Was bedeutet Naturschutz im Reviermanagement?",
     "Antwort": "Erhalt von Arten und Funktionen",
     "FalscheAntwort1": "nur jagdbare Arten maximieren",
     "FalscheAntwort2": "nur Trophäenträger fördern",
@@ -8885,8 +8885,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
-    "FrageMC": "Welche Aussage ist richtig: Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
+    "FrageFreitext": "Was bedeutet Naturschutz im Reviermanagement?",
+    "FrageMC": "Welche Aussage ist richtig: Was bedeutet Naturschutz im Reviermanagement?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -9243,7 +9243,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Naturschutz im Revier im Reviermanagement ist korrekt?",
+    "Frage": "Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
     "Antwort": "Erhalt von Arten und Funktionen",
     "FalscheAntwort1": "nur jagdbare Arten maximieren",
     "FalscheAntwort2": "nur Trophäenträger fördern",
@@ -9253,8 +9253,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Naturschutz im Revier im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Naturschutz im Revier im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -10139,7 +10139,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf den Wildschaden zu?",
+    "Frage": "Was gilt für die Geltendmachung von Wildschäden?",
     "Antwort": "Ansprüche sind fristgebunden geltend zu machen",
     "FalscheAntwort1": "Nur Schäden im Wald zählen",
     "FalscheAntwort2": "Nur mündliche Meldung genügt immer",
@@ -10149,9 +10149,9 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Was trifft auf den Wildschaden zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf den Wildschaden zu?",
-    "PdfEligible": false,
+    "FrageFreitext": "Was gilt für die Geltendmachung von Wildschäden?",
+    "FrageMC": "Welche Aussage ist richtig: Was gilt für die Geltendmachung von Wildschäden?",
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
