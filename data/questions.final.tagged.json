@@ -302,7 +302,6 @@
     "FrageMC": "Was gehört alles zum Hochwild?",
     "PdfEligible": true,
     "AlternativeAntworten": [
-      "Rotwild",
       "Damwild",
       "Rehwild",
       "Schwarzwild",
@@ -11257,7 +11256,7 @@
   {
     "Frage": "Nennen Sie Stöberhundrassen (mind. 2).",
     "FrageFreitext": "Nennen Sie Stöberhundrassen (mind. 2).",
-    "FrageMC": "Welche Rassen zählen zu den Stöberhunden? Nennen Sie mindestens 2.",
+    "FrageMC": "Nennen Sie Stöberhundrassen (mind. 2).",
     "Antwort": "Zu den Stöberhundrassen zählen zum Beispiel der Spaniel und der Vorstehhund.",
     "FalscheAntwort1": "Fuchs und Wildschwein.",
     "FalscheAntwort2": "Beagle und Chihuahua.",
@@ -12398,7 +12397,7 @@
   {
     "Frage": "Welche Zeichnung weist das Brustgefieder beim Junghabicht auf?",
     "FrageFreitext": "Welche Zeichnung weist das Brustgefieder beim Junghabicht auf?",
-    "FrageMC": "Welche Besonderheiten hat das Brustgefieder beim Junghabicht?",
+    "FrageMC": "Welche Zeichnung weist das Brustgefieder beim Junghabicht auf?",
     "Antwort": "Das Brustgefieder hat eine gestreifte Zeichnung.",
     "FalscheAntwort1": "Es ist vollkommen einfarbig.",
     "FalscheAntwort2": "Es hat einen unregelmäßigen Fleckenmuster.",
@@ -12951,9 +12950,9 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen",
-    "FrageFreitext": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen",
-    "FrageMC": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen",
+    "Frage": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen?",
+    "FrageFreitext": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen?",
+    "FrageMC": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig? a) Der Sumpfbiber ernährt sich vorwiegend von Fischen b) Der Sumpfbiber ist ein Nagetier c) Der Schwanz des Sumpfbibers ist rund und beschuppt d) Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen?",
     "Antwort": "Der Sumpfbiber ist ein Nagetier und sein Fleisch kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen.",
     "FalscheAntwort1": "Der Sumpfbiber ernährt sich vorwiegend von Fischen.",
     "FalscheAntwort2": "Der Schwanz des Sumpfbibers ist rund und beschuppt.",
