@@ -1,0 +1,207 @@
+{
+  "questions_total": 1295,
+  "questions_with_alternatives": 19,
+  "examples": [
+    {
+      "FrageFreitext": "Nennen Sie eine Art der Rabenvögel.",
+      "Antwort": "Rabenkrähe",
+      "AlternativeAntworten": [
+        "Saatkrähe",
+        "Kolkrabe",
+        "Elster",
+        "Dohle",
+        "Eichelhäher"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört zum Hochwild?",
+      "Antwort": "Rotwild",
+      "AlternativeAntworten": [
+        "Damwild",
+        "Muffelwild",
+        "Schwarzwild",
+        "Auerwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Art gehört zu den Rabenvögeln?",
+      "Antwort": "Rabenkrähe",
+      "AlternativeAntworten": [
+        "Saatkrähe",
+        "Kolkrabe",
+        "Elster",
+        "Dohle",
+        "Eichelhäher"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört zum Hochwild?",
+      "Antwort": "Rotwild",
+      "AlternativeAntworten": [
+        "Damwild",
+        "Muffelwild",
+        "Schwarzwild",
+        "Auerwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört nicht zu den Wiederkäuern?",
+      "Antwort": "Schwarzwild",
+      "AlternativeAntworten": [
+        "Rehwild",
+        "Rotwild",
+        "Damwild",
+        "Muffelwild"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    },
+    {
+      "FrageFreitext": "Welche Wildart gehört in Deutschland klassisch zum Niederwild?",
+      "Antwort": "Feldhase",
+      "AlternativeAntworten": [
+        "Kaninchen",
+        "Fasan",
+        "Rebhuhn",
+        "Ringeltaube",
+        "Stockente"
+      ]
+    }
+  ]
+}
