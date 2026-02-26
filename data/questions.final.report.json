@@ -1,0 +1,41 @@
+{
+  "source_file": "/Users/jannikreinefeld/.openclaw/workspace/projects/jagdkurs-pruefungs-generator/data/questions.full.json",
+  "output_file": "/Users/jannikreinefeld/.openclaw/workspace/projects/jagdkurs-pruefungs-generator/data/questions.final.tagged.json",
+  "total_before": 1800,
+  "total_after": 1295,
+  "removed_duplicates": 505,
+  "per_subject": {
+    "Wildtierkunde": {
+      "count": 358,
+      "difficulty": {
+        "medium": 166,
+        "easy": 107,
+        "hard": 85
+      }
+    },
+    "Waffenkunde und Waffenrecht": {
+      "count": 329,
+      "difficulty": {
+        "easy": 45,
+        "medium": 127,
+        "hard": 157
+      }
+    },
+    "Jagdbetrieb und Hundewesen": {
+      "count": 300,
+      "difficulty": {
+        "medium": 133,
+        "easy": 49,
+        "hard": 118
+      }
+    },
+    "Jagdrecht Naturschutz Land- und Waldbau": {
+      "count": 308,
+      "difficulty": {
+        "medium": 97,
+        "easy": 48,
+        "hard": 163
+      }
+    }
+  }
+}
