@@ -14037,7 +14037,7 @@
   {
     "Frage": "Was sind Balzrosen?",
     "FrageFreitext": "Was sind Balzrosen?",
-    "FrageMC": "Was bezeichnet man als Balzrosen?",
+    "FrageMC": "Was sind Balzrosen?",
     "Antwort": "Das sind spezielle Freiflächen, die Männchen zum Balzen nutzen.",
     "FalscheAntwort1": "Das sind Nester für Vögel.",
     "FalscheAntwort2": "Das sind Blumenarrangements.",
@@ -14049,8 +14049,9 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Antwort"
   },
   {
     "Frage": "Welche Hühnervögel sind im Jagdrecht und welcher davon ist Zugvogel?",
@@ -14735,8 +14736,8 @@
   {
     "Frage": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
     "FrageFreitext": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
-    "FrageMC": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?\nA) Mäuse\nB) Ratten\nC) Eichhörnchen\nD) Wühlmäuse",
-    "Antwort": "Eichhörnchen",
+    "FrageMC": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
+    "Antwort": "Murmeltier",
     "FalscheAntwort1": "Mäuse",
     "FalscheAntwort2": "Ratten",
     "FalscheAntwort3": "Wühlmäuse",
@@ -14747,8 +14748,9 @@
       "Nagetier",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Antwort, richtig:Murmeltier"
   },
   {
     "Frage": "Nennen Sie die bei uns vorkommenden Schwimmenten.",
