@@ -3,6 +3,23 @@
     <div class="bg-orb orb-1" />
     <div class="bg-orb orb-2" />
 
+    <section v-if="!isUnlocked" class="card liquid lock-card">
+      <h2>Zugang</h2>
+      <p class="muted">Bitte Passwort eingeben, um den Trainer zu öffnen.</p>
+      <input
+        v-model="accessCode"
+        type="password"
+        class="freeform"
+        placeholder="Passwort"
+        @keyup.enter="unlockSite"
+      >
+      <div class="row">
+        <button :disabled="!accessCode" @click="unlockSite">Öffnen</button>
+      </div>
+      <p v-if="accessError" class="error">{{ accessError }}</p>
+    </section>
+
+    <template v-else>
     <section class="hero liquid">
       <div>
         <h1>Jagdkurs Trainer</h1>
@@ -178,6 +195,7 @@
         <p v-if="reportMessage" class="ok">{{ reportMessage }}</p>
       </div>
     </div>
+    </template>
   </main>
 </template>
 
@@ -198,6 +216,27 @@ const darkMode = ref(true)
 const toggleTheme = () => {
   darkMode.value = !darkMode.value
 }
+
+const REQUIRED_PASSWORD = '308'
+const isUnlocked = ref(false)
+const accessCode = ref('')
+const accessError = ref('')
+
+const unlockSite = () => {
+  if (accessCode.value === REQUIRED_PASSWORD) {
+    isUnlocked.value = true
+    accessError.value = ''
+    if (typeof window !== 'undefined') localStorage.setItem('jagdkurs_unlocked', '1')
+    return
+  }
+  accessError.value = 'Falsches Passwort.'
+}
+
+onMounted(() => {
+  if (typeof window !== 'undefined' && localStorage.getItem('jagdkurs_unlocked') === '1') {
+    isUnlocked.value = true
+  }
+})
 
 const mode = ref<'pdf' | 'mc' | 'ai'>('pdf')
 
@@ -657,6 +696,7 @@ const submitReport = async () => {
 }
 
 .card { margin-top: 1rem; padding: 1rem 1.1rem; }
+.lock-card { margin-top: 1rem; }
 .card h2 { margin: 0 0 .75rem; }
 .card-sub { padding: .9rem 1rem; margin-top: .8rem; }
 
