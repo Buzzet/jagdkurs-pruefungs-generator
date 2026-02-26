@@ -1068,7 +1068,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann ist dies bei Rehbock?",
+    "Frage": "Wann wirft der Rehbock sein Gehörn ab?",
     "Antwort": "Spätherbst bis Winter",
     "FalscheAntwort1": "Frühjahr",
     "FalscheAntwort2": "Hochsommer",
@@ -1078,8 +1078,8 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Wann ist dies bei Rehbock?",
-    "FrageMC": "Wann ist dies bei Rehbock?",
+    "FrageFreitext": "Wann wirft der Rehbock sein Gehörn ab?",
+    "FrageMC": "Welche Aussage ist richtig: Wann wirft der Rehbock sein Gehörn ab?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1260,7 +1260,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt Folgendes bei Kaninchen?",
+    "Frage": "Wie kommen Jungkaninchen zur Welt?",
     "Antwort": "blind und nackt im Bau",
     "FalscheAntwort1": "sichtig im freien Feld",
     "FalscheAntwort2": "nur in Baumhöhlen",
@@ -1270,8 +1270,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wann gilt Folgendes bei Kaninchen?",
-    "FrageMC": "Wann gilt Folgendes bei Kaninchen?",
+    "FrageFreitext": "Wie kommen Jungkaninchen zur Welt?",
+    "FrageMC": "Welche Aussage ist richtig: Wie kommen Jungkaninchen zur Welt?",
     "PdfEligible": false,
     "AlternativeAntworten": [],
     "ReportFlag": "AUTO_REVIEW:Fragestellung unklar. Besser wäre z.B. wie setzt das Kanninchen oder so."
