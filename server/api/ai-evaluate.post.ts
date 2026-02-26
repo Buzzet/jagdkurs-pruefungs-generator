@@ -31,7 +31,7 @@ export default defineEventHandler(async (event) => {
   }
 
   const userAnswer = body.userAnswer || ''
-  const apiKey = process.env.OPENAI_API_KEY
+  const apiKey = process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
 
   if (!apiKey) {
     return {

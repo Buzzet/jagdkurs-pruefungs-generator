@@ -355,6 +355,20 @@ const startAi = () => {
   aiAnswered.value = false
 }
 
+const localHeuristicScore = (modelAnswer: string, userAnswer: string) => {
+  const m = modelAnswer.toLowerCase().trim()
+  const u = userAnswer.toLowerCase().trim()
+  if (!u) return 0
+  if (u === m) return 2
+  const tokens = m.split(/[^\p{L}\p{N}]+/u).filter(t => t.length > 3)
+  if (!tokens.length) return 0
+  const hits = tokens.filter(t => u.includes(t)).length
+  const ratio = hits / tokens.length
+  if (ratio >= 0.75) return 2
+  if (ratio >= 0.3) return 1
+  return 0
+}
+
 const submitAiAnswer = async () => {
   if (!aiCurrent.value || !aiUserAnswer.value.trim()) return
   aiLoading.value = true
@@ -373,6 +387,12 @@ const submitAiAnswer = async () => {
     aiLastScore.value = Math.max(0, Math.min(2, Number(result.score) || 0))
     aiPointsTotal.value += aiLastScore.value
     aiReason.value = result.reason || ''
+    aiAnswered.value = true
+  }
+  catch {
+    aiLastScore.value = localHeuristicScore(aiCurrent.value.Antwort, aiUserAnswer.value)
+    aiPointsTotal.value += aiLastScore.value
+    aiReason.value = 'API nicht erreichbar — lokale Heuristik verwendet.'
     aiAnswered.value = true
   }
   finally {
