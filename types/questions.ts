@@ -10,6 +10,7 @@ export interface Question {
   Difficulty?: 'easy' | 'medium' | 'hard'
   Tags?: string[]
   PdfEligible?: boolean
+  AlternativeAntworten?: string[]
 }
 
 export interface GeneratedSet {

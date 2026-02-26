@@ -13,9 +13,7 @@
       <label for="subject">Prüfungsfach</label>
       <select id="subject" v-model="selectedSubject">
         <option disabled value="">Bitte wählen</option>
-        <option v-for="subject in subjects" :key="subject" :value="subject">
-          {{ subject }}
-        </option>
+        <option v-for="subject in subjects" :key="subject" :value="subject">{{ subject }}</option>
       </select>
 
       <div class="row">
@@ -57,27 +55,33 @@
         </p>
 
         <h3>{{ mcCurrent.FrageMC || mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
+        <p class="muted small">Mehrfachantworten möglich ({{ mcCurrent.correctAnswers.length }} richtige Antwort{{ mcCurrent.correctAnswers.length === 1 ? '' : 'en' }}).</p>
 
         <div class="options">
-          <label v-for="opt in mcOptions" :key="opt.value" class="option">
-            <input v-model="selectedOption" type="radio" :value="opt.value" :disabled="showFeedback">
-            <span>{{ opt.label }}</span>
+          <label v-for="opt in mcCurrent.options" :key="opt" class="option">
+            <input v-model="selectedOptions" type="checkbox" :value="opt" :disabled="showFeedback">
+            <span>{{ opt }}</span>
           </label>
         </div>
 
         <div class="row">
-          <button :disabled="!selectedOption || showFeedback" @click="confirmAnswer">Antwort bestätigen</button>
+          <button :disabled="selectedOptions.length === 0 || showFeedback" @click="confirmAnswer">Antwort bestätigen</button>
           <button v-if="showFeedback" @click="nextQuestion">{{ mcIndex + 1 === mcQuestions.length ? 'Auswertung' : 'Nächste Frage' }}</button>
         </div>
 
         <p v-if="showFeedback" :class="isCurrentCorrect ? 'ok' : 'error'">
-          {{ isCurrentCorrect ? 'Richtig ✅' : `Falsch ❌ (richtig: ${mcCurrent.Antwort})` }}
+          {{
+            isCurrentCorrect
+              ? `Richtig ✅ (+${lastPointsAwarded} Punkt)`
+              : `Falsch ❌ (+${lastPointsAwarded} Punkte) · Richtige Antwort(en): ${mcCurrent.correctAnswers.join(', ')}`
+          }}
         </p>
       </div>
 
       <div v-else class="card-sub">
         <h3>Ergebnis</h3>
-        <p><strong>{{ mcCorrectCount }} / {{ mcQuestions.length }}</strong> richtig ({{ mcPercent }}%)</p>
+        <p><strong>{{ mcCorrectCount }} / {{ mcQuestions.length }}</strong> Fragen komplett richtig ({{ mcPercent }}%)</p>
+        <p><strong>{{ mcPointsTotal }}</strong> / {{ mcQuestions.length }} Punkte</p>
         <button @click="resetMc">Neue Simulation</button>
       </div>
     </section>
@@ -90,6 +94,10 @@
 import type { GeneratedSet, Question } from '~/types/questions'
 
 type McType = 'subject' | 'full'
+interface McQuestion extends Question {
+  options: string[]
+  correctAnswers: string[]
+}
 
 const { subjects, generate, generateMcSubject, generateMcFull } = useQuestionGenerator()
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
@@ -116,12 +124,14 @@ const generateSet = () => {
 const mcType = ref<McType>('subject')
 const mcSelectedSubject = ref('')
 const mcStarted = ref(false)
-const mcQuestions = ref<Question[]>([])
+const mcQuestions = ref<McQuestion[]>([])
 const mcIndex = ref(0)
 const mcCorrectCount = ref(0)
-const selectedOption = ref('')
+const mcPointsTotal = ref(0)
+const selectedOptions = ref<string[]>([])
 const showFeedback = ref(false)
 const isCurrentCorrect = ref(false)
+const lastPointsAwarded = ref(0)
 
 const mcCurrent = computed(() => mcQuestions.value[mcIndex.value] || null)
 const mcPercent = computed(() => {
@@ -138,47 +148,80 @@ const shuffle = <T>(arr: T[]): T[] => {
   return copy
 }
 
-const mcOptions = computed(() => {
-  if (!mcCurrent.value) return []
-  return shuffle([
-    { label: mcCurrent.value.Antwort, value: mcCurrent.value.Antwort },
-    { label: mcCurrent.value.FalscheAntwort1, value: mcCurrent.value.FalscheAntwort1 },
-    { label: mcCurrent.value.FalscheAntwort2, value: mcCurrent.value.FalscheAntwort2 },
-    { label: mcCurrent.value.FalscheAntwort3, value: mcCurrent.value.FalscheAntwort3 },
-  ])
-})
+const sameSet = (a: string[], b: string[]) => {
+  if (a.length !== b.length) return false
+  const as = new Set(a)
+  return b.every(x => as.has(x))
+}
+
+const toMcQuestion = (q: Question): McQuestion => {
+  const alternatives = (q.AlternativeAntworten || []).filter(Boolean)
+  const trueOptions = [q.Antwort]
+
+  // Use up to 2 alternative true answers when available (Mehrfachantworten)
+  const extraTrue = shuffle(alternatives).slice(0, Math.min(2, alternatives.length))
+  trueOptions.push(...extraTrue)
+
+  const wrongPool = [q.FalscheAntwort1, q.FalscheAntwort2, q.FalscheAntwort3].filter(Boolean)
+  const options = shuffle([...trueOptions, ...wrongPool]).slice(0, 4)
+
+  // Ensure at least one wrong option remains in set if possible
+  if (trueOptions.length === 4 && wrongPool.length > 0) {
+    options[3] = wrongPool[0]
+  }
+
+  const dedupOptions = Array.from(new Set(options))
+  while (dedupOptions.length < 4) {
+    const fallback = shuffle(wrongPool)[0] || q.FalscheAntwort1
+    if (!dedupOptions.includes(fallback)) dedupOptions.push(fallback)
+    else break
+  }
+
+  const correctAnswers = dedupOptions.filter(opt => trueOptions.includes(opt))
+
+  return {
+    ...q,
+    options: shuffle(dedupOptions).slice(0, 4),
+    correctAnswers,
+  }
+}
 
 const startMc = () => {
   const sets = mcType.value === 'subject'
     ? [generateMcSubject(mcSelectedSubject.value)]
     : generateMcFull()
 
-  mcQuestions.value = sets.flatMap(set => set.questions)
+  mcQuestions.value = sets.flatMap(set => set.questions.map(toMcQuestion))
   mcStarted.value = true
   mcIndex.value = 0
   mcCorrectCount.value = 0
-  selectedOption.value = ''
+  mcPointsTotal.value = 0
+  selectedOptions.value = []
   showFeedback.value = false
   isCurrentCorrect.value = false
+  lastPointsAwarded.value = 0
 }
 
 const confirmAnswer = () => {
   if (!mcCurrent.value) return
-  isCurrentCorrect.value = selectedOption.value === mcCurrent.value.Antwort
+  isCurrentCorrect.value = sameSet(selectedOptions.value, mcCurrent.value.correctAnswers)
+  lastPointsAwarded.value = isCurrentCorrect.value ? 1 : 0
+
   if (isCurrentCorrect.value) mcCorrectCount.value += 1
+  mcPointsTotal.value += lastPointsAwarded.value
   showFeedback.value = true
 }
 
 const nextQuestion = () => {
   if (mcIndex.value + 1 >= mcQuestions.value.length) {
-    // done
     mcIndex.value = mcQuestions.value.length
     return
   }
   mcIndex.value += 1
-  selectedOption.value = ''
+  selectedOptions.value = []
   showFeedback.value = false
   isCurrentCorrect.value = false
+  lastPointsAwarded.value = 0
 }
 
 const resetMc = () => {
@@ -186,8 +229,10 @@ const resetMc = () => {
   mcQuestions.value = []
   mcIndex.value = 0
   mcCorrectCount.value = 0
-  selectedOption.value = ''
+  mcPointsTotal.value = 0
+  selectedOptions.value = []
   showFeedback.value = false
+  lastPointsAwarded.value = 0
 }
 
 const switchToMc = () => {
@@ -212,5 +257,6 @@ button:disabled { opacity: .5; cursor: not-allowed; }
 .error { color: #b00020; margin-top: .8rem; }
 .ok { color: #006400; margin-top: .8rem; }
 .muted { color: #555; }
+.small { font-size: .9rem; }
 .version { margin-top: 2rem; color: #555; font-size: .9rem; text-align: center; }
 </style>
