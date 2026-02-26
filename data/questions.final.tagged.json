@@ -2308,7 +2308,6 @@
     "AlternativeAntworten": [
       "Fuchs",
       "Kaninchen",
-      "Feldhase",
       "Rebhuhn",
       "Fasan",
       "Stockente",
@@ -13333,7 +13332,7 @@
   {
     "Frage": "Krankheit: Strahlenpilz beim Reh?",
     "FrageFreitext": "Krankheit: Strahlenpilz beim Reh?",
-    "FrageMC": "Was ist die Krankheit, die auch als Strahlenpilz beim Reh bekannt ist?",
+    "FrageMC": "Krankheit: Strahlenpilz beim Reh?",
     "Antwort": "Dermatophytose",
     "FalscheAntwort1": "Brucellose",
     "FalscheAntwort2": "Tollwut",
