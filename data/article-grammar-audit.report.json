@@ -1,0 +1,25 @@
+{
+  "initial_hits": 8,
+  "autofixed": 5,
+  "remaining_hits": 3,
+  "remaining_examples": [
+    {
+      "index": 70,
+      "kind": "bad_article_der_plural",
+      "fach": "Wildtierkunde",
+      "frage": "Der Rotwild lebt außerhalb der Brunft häufig in?"
+    },
+    {
+      "index": 82,
+      "kind": "bad_article_der_plural",
+      "fach": "Wildtierkunde",
+      "frage": "Der Muffelwild gehört zu den?"
+    },
+    {
+      "index": 130,
+      "kind": "awkward_welche_ernaehrungsweise_hat_der",
+      "fach": "Wildtierkunde",
+      "frage": "Welche Ernährungsweise hat der Fuchs?"
+    }
+  ]
+}

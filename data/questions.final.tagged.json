@@ -1131,7 +1131,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Der Rotwild lebt außerhalb der Brunft häufig in?",
+    "Frage": "Wie lebt Rotwild außerhalb der Brunft häufig?",
     "Antwort": "geschlechtergetrennten Rudeln",
     "FalscheAntwort1": "dauerhaften Paaren",
     "FalscheAntwort2": "Einzeltierrevieren ohne Gruppen",
@@ -1141,8 +1141,8 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Der Rotwild lebt außerhalb der Brunft häufig in?",
-    "FrageMC": "Welche Aussage ist richtig: Der Rotwild lebt außerhalb der Brunft häufig in?",
+    "FrageFreitext": "Wie lebt Rotwild außerhalb der Brunft häufig?",
+    "FrageMC": "Welche Aussage ist richtig: Wie lebt Rotwild außerhalb der Brunft häufig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1323,7 +1323,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Der Muffelwild gehört zu den?",
+    "Frage": "Zu welcher Ernährungsgruppe gehört das Muffelwild?",
     "Antwort": "Wiederkäuern",
     "FalscheAntwort1": "Allesfressern",
     "FalscheAntwort2": "Nagetieren",
@@ -1333,8 +1333,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Der Muffelwild gehört zu den?",
-    "FrageMC": "Welche Aussage ist richtig: Der Muffelwild gehört zu den?",
+    "FrageFreitext": "Zu welcher Ernährungsgruppe gehört das Muffelwild?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Ernährungsgruppe gehört das Muffelwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2097,7 +2097,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Ernährungsweise hat der Fuchs?",
+    "Frage": "Welche Ernährungsweise hat der Fuchs hauptsächlich?",
     "Antwort": "Fleischfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Pflanzenfresser",
@@ -2107,8 +2107,8 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Welche Ernährungsweise hat der Fuchs?",
-    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat der Fuchs?",
+    "FrageFreitext": "Welche Ernährungsweise hat der Fuchs hauptsächlich?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Ernährungsweise hat der Fuchs hauptsächlich?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -7963,7 +7963,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Drückjagd trifft zu zu?",
+    "Frage": "Was trifft auf Drückjagd trifft zu?",
     "Antwort": "klare Schusssektoren und Standruhe sind wesentlich",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -7973,8 +7973,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf Drückjagd trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Drückjagd trifft zu zu?",
+    "FrageFreitext": "Was trifft auf Drückjagd trifft zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Drückjagd trifft zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7995,7 +7995,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Treibjagd trifft zu zu?",
+    "Frage": "Was trifft auf Treibjagd trifft zu?",
     "Antwort": "enge Abstimmung zwischen Schützen und Treibern ist notwendig",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8005,8 +8005,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf Treibjagd trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Treibjagd trifft zu zu?",
+    "FrageFreitext": "Was trifft auf Treibjagd trifft zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Treibjagd trifft zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8027,7 +8027,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Nachsuche trifft zu zu?",
+    "Frage": "Was trifft auf Nachsuche trifft zu?",
     "Antwort": "Anschusskontrolle und tierschutzgerechtes Handeln sind zentral",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8037,8 +8037,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf Nachsuche trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Nachsuche trifft zu zu?",
+    "FrageFreitext": "Was trifft auf Nachsuche trifft zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Nachsuche trifft zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8059,7 +8059,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Ansitzjagd trifft zu zu?",
+    "Frage": "Was trifft auf Ansitzjagd trifft zu?",
     "Antwort": "sichere Zielansprache vor Schuss ist zwingend",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8069,8 +8069,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf Ansitzjagd trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Ansitzjagd trifft zu zu?",
+    "FrageFreitext": "Was trifft auf Ansitzjagd trifft zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Ansitzjagd trifft zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8091,7 +8091,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Baujagd trifft zu zu?",
+    "Frage": "Was trifft auf Baujagd trifft zu?",
     "Antwort": "nur geeignete, brauchbare Hunde einsetzen",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8101,8 +8101,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf Baujagd trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Baujagd trifft zu zu?",
+    "FrageFreitext": "Was trifft auf Baujagd trifft zu?",
+    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Baujagd trifft zu?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
