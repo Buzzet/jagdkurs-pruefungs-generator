@@ -4731,7 +4731,8 @@
     "FrageFreitext": "Was ist über eine Kurzwaffe korrekt?",
     "FrageMC": "Was ist über eine Kurzwaffe korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Frage für die antworten"
   },
   {
     "Frage": "Was ist über Kaliber 12/70 korrekt?",
