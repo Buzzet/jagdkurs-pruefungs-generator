@@ -9,6 +9,7 @@ export interface Question {
   Pruefungsfach: string
   Difficulty?: 'easy' | 'medium' | 'hard'
   Tags?: string[]
+  PdfEligible?: boolean
 }
 
 export interface GeneratedSet {

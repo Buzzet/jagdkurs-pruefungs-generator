@@ -24,10 +24,12 @@ export const useQuestionGenerator = () => {
 
   const generate = (subject: string): GeneratedSet => {
     if (subject === WILDKRANKHEITEN_HUNDE) {
-      const hunde = questions.filter(q => q.Tags?.includes('hundewesen'))
+      const hunde = questions.filter(q => q.PdfEligible !== false && q.Tags?.includes('hundewesen'))
       const krankheiten = questions.filter(q =>
-        q.Tags?.includes('wildkrankheiten') ||
-        /krank|seuche|parasiten|räude|staupe|trichinen/i.test(q.Frage + ' ' + q.Antwort)
+        q.PdfEligible !== false && (
+          q.Tags?.includes('wildkrankheiten') ||
+          /krank|seuche|parasiten|räude|staupe|trichinen/i.test((q.FrageFreitext || q.Frage) + ' ' + q.Antwort)
+        )
       )
 
       if (hunde.length < 10 || krankheiten.length < 10) {
@@ -41,7 +43,7 @@ export const useQuestionGenerator = () => {
       }
     }
 
-    const pool = questions.filter(q => q.Pruefungsfach === subject)
+    const pool = questions.filter(q => q.Pruefungsfach === subject && q.PdfEligible !== false)
     if (pool.length < 20) {
       throw new Error(`Nicht genug Fragen im Fach ${subject}. Vorhanden: ${pool.length}`)
     }
