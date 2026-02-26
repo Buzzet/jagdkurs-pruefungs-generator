@@ -22,3 +22,18 @@ npm run generate
 ```
 
 The GitHub Action in `.github/workflows/deploy.yml` deploys automatically on push to `main`.
+
+## WhatsApp notification after each deploy
+Configured in workflow with two options:
+
+1. **Webhook mode (preferred)**
+   - Set repo secret: `WHATSAPP_WEBHOOK_URL`
+   - Endpoint must accept `POST` JSON body like `{ "message": "..." }`
+
+2. **CallMeBot fallback**
+   - Set repo secrets:
+     - `WHATSAPP_PHONE` (international format, e.g. `+4917...`)
+     - `WHATSAPP_APIKEY`
+
+If `WHATSAPP_WEBHOOK_URL` is set, webhook mode is used.
+Otherwise it falls back to CallMeBot when phone+apikey are present.
