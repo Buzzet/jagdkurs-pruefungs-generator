@@ -1179,7 +1179,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Der Feldhase setzt Junge?",
+    "Frage": "Wieviele Junge setzt der Feldhase?",
     "Antwort": "sichtig und behaart",
     "FalscheAntwort1": "blind und nackt",
     "FalscheAntwort2": "nur in Erdbauen",
@@ -1189,8 +1189,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Der Feldhase setzt Junge?",
-    "FrageMC": "Welche Aussage ist richtig: Der Feldhase setzt Junge?",
+    "FrageFreitext": "Wieviele Junge setzt der Feldhase?",
+    "FrageMC": "Welche Aussage ist richtig: Wieviele Junge setzt der Feldhase?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1227,7 +1227,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Der Kaninchen setzt Junge?",
+    "Frage": "Wieviele Junge setzt das Kaninchen?",
     "Antwort": "blind und nackt im Bau",
     "FalscheAntwort1": "sichtig im freien Feld",
     "FalscheAntwort2": "nur in Baumhöhlen",
@@ -1237,8 +1237,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Der Kaninchen setzt Junge?",
-    "FrageMC": "Welche Aussage ist richtig: Der Kaninchen setzt Junge?",
+    "FrageFreitext": "Wieviele Junge setzt das Kaninchen?",
+    "FrageMC": "Welche Aussage ist richtig: Wieviele Junge setzt das Kaninchen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1291,7 +1291,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist Nutria?",
+    "Frage": "Zu welcher Art gehört der Nutria?",
     "Antwort": "Nagetier",
     "FalscheAntwort1": "Paarhufer",
     "FalscheAntwort2": "Marderartiger",
@@ -1301,8 +1301,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was ist Nutria?",
-    "FrageMC": "Welche Aussage ist richtig: Was ist Nutria?",
+    "FrageFreitext": "Zu welcher Art gehört der Nutria?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Art gehört der Nutria?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1339,7 +1339,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist Muffelwild?",
+    "Frage": "Welche Wildart ist das Muffelwild?",
     "Antwort": "Wiederkäuern",
     "FalscheAntwort1": "Allesfressern",
     "FalscheAntwort2": "Nagetieren",
@@ -1349,8 +1349,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was ist Muffelwild?",
-    "FrageMC": "Welche Aussage ist richtig: Was ist Muffelwild?",
+    "FrageFreitext": "Welche Wildart ist das Muffelwild?",
+    "FrageMC": "Welche Aussage ist richtig: Welche Wildart ist das Muffelwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1467,7 +1467,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Der Fuchsfähe trägt ungefähr?",
+    "Frage": "Wie lange trägt die Fuchsfähe?",
     "Antwort": "51–54 Tage",
     "FalscheAntwort1": "20–25 Tage",
     "FalscheAntwort2": "80–90 Tage",
@@ -1477,8 +1477,8 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Der Fuchsfähe trägt ungefähr?",
-    "FrageMC": "Welche Aussage ist richtig: Der Fuchsfähe trägt ungefähr?",
+    "FrageFreitext": "Wie lange trägt die Fuchsfähe?",
+    "FrageMC": "Welche Aussage ist richtig: Wie lange trägt die Fuchsfähe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5361,7 +5361,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist Choke?",
+    "Frage": "Was ist ein Choke?",
     "Antwort": "Beeinflussung der Schrotgarbe",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5371,8 +5371,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Was ist Choke?",
-    "FrageMC": "Welche Aussage ist richtig: Was ist Choke?",
+    "FrageFreitext": "Was ist ein Choke?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist ein Choke?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
