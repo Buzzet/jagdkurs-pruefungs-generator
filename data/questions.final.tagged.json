@@ -315,7 +315,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Stockente zu?",
+    "Frage": "Wie wird Stockente eingeordnet?",
     "Antwort": "Sie ist ein Gründelentenvogel",
     "FalscheAntwort1": "Sie ist ein Tauchentenvogel",
     "FalscheAntwort2": "Sie ist ein Hühnervogel",
@@ -325,8 +325,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Stockente zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Stockente zu?",
+    "FrageFreitext": "Wie wird Stockente eingeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Wie wird Stockente eingeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -891,7 +891,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Stockente zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Stockente zugeordnet?",
     "Antwort": "Gründelente",
     "FalscheAntwort1": "Tauchente",
     "FalscheAntwort2": "Hühnervogel",
@@ -901,13 +901,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Stockente zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Stockente zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Stockente zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Stockente zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Reiherente zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Reiherente zugeordnet?",
     "Antwort": "Tauchente",
     "FalscheAntwort1": "Gründelente",
     "FalscheAntwort2": "Raufußhuhn",
@@ -917,13 +917,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Reiherente zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Reiherente zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Reiherente zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Reiherente zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Fasan zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Fasan zugeordnet?",
     "Antwort": "Hühnervogel",
     "FalscheAntwort1": "Gründelente",
     "FalscheAntwort2": "Singvogel",
@@ -933,13 +933,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Fasan zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Fasan zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Fasan zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Fasan zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Mäusebussard zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Mäusebussard zugeordnet?",
     "Antwort": "Greifvogel",
     "FalscheAntwort1": "Rabenvogel",
     "FalscheAntwort2": "Taubenvogel",
@@ -949,13 +949,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Mäusebussard zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Mäusebussard zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Mäusebussard zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Mäusebussard zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Rabenkrähe zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Rabenkrähe zugeordnet?",
     "Antwort": "Rabenvogel",
     "FalscheAntwort1": "Greifvogel",
     "FalscheAntwort2": "Taubenvogel",
@@ -965,8 +965,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Rabenkrähe zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Rabenkrähe zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Rabenkrähe zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Rabenkrähe zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1051,7 +1051,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Rehbock zu?",
+    "Frage": "Wann gilt dies bei Rehbock?",
     "Antwort": "Spätherbst bis Winter",
     "FalscheAntwort1": "Frühjahr",
     "FalscheAntwort2": "Hochsommer",
@@ -1061,8 +1061,8 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Was trifft auf Rehbock zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rehbock zu?",
+    "FrageFreitext": "Wann gilt dies bei Rehbock?",
+    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei Rehbock?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1099,7 +1099,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Damhirsch zu?",
+    "Frage": "Wann gilt dies bei Damhirsch?",
     "Antwort": "Sommer",
     "FalscheAntwort1": "Winter",
     "FalscheAntwort2": "Frühling",
@@ -1109,8 +1109,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Damhirsch zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Damhirsch zu?",
+    "FrageFreitext": "Wann gilt dies bei Damhirsch?",
+    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei Damhirsch?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1147,7 +1147,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Rotwild zu?",
+    "Frage": "Wie ist Rotwild einzuordnen?",
     "Antwort": "geschlechtergetrennten Rudeln",
     "FalscheAntwort1": "dauerhaften Paaren",
     "FalscheAntwort2": "Einzeltierrevieren ohne Gruppen",
@@ -1157,8 +1157,8 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Was trifft auf Rotwild zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rotwild zu?",
+    "FrageFreitext": "Wie ist Rotwild einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Rotwild einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1195,7 +1195,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Feldhase zu?",
+    "Frage": "Wie ist Feldhase einzuordnen?",
     "Antwort": "sichtig und behaart",
     "FalscheAntwort1": "blind und nackt",
     "FalscheAntwort2": "nur in Erdbauen",
@@ -1205,8 +1205,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Feldhase zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Feldhase zu?",
+    "FrageFreitext": "Wie ist Feldhase einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Feldhase einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1291,7 +1291,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Nutria zu?",
+    "Frage": "Wie ist Nutria einzuordnen?",
     "Antwort": "Nagetier",
     "FalscheAntwort1": "Paarhufer",
     "FalscheAntwort2": "Marderartiger",
@@ -1301,8 +1301,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Nutria zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Nutria zu?",
+    "FrageFreitext": "Wie ist Nutria einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Nutria einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1339,7 +1339,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Muffelwild zu?",
+    "Frage": "Wie ist Muffelwild einzuordnen?",
     "Antwort": "Wiederkäuern",
     "FalscheAntwort1": "Allesfressern",
     "FalscheAntwort2": "Nagetieren",
@@ -1349,8 +1349,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Muffelwild zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Muffelwild zu?",
+    "FrageFreitext": "Wie ist Muffelwild einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Muffelwild einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1387,7 +1387,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Waschbär zu?",
+    "Frage": "Wie ist Waschbär einzuordnen?",
     "Antwort": "Nordamerika",
     "FalscheAntwort1": "Südamerika",
     "FalscheAntwort2": "Asien",
@@ -1397,8 +1397,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Waschbär zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Waschbär zu?",
+    "FrageFreitext": "Wie ist Waschbär einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Waschbär einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1447,7 +1447,7 @@
     ],
     "FrageFreitext": "Was trifft auf Stockente zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Stockente zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -1681,7 +1681,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf die Stockente zu?",
+    "Frage": "Wie wird die Stockente eingeordnet?",
     "Antwort": "Sie ist ein Gründelentenvogel",
     "FalscheAntwort1": "Sie ist ein Tauchentenvogel",
     "FalscheAntwort2": "Sie ist ein Hühnervogel",
@@ -1691,8 +1691,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf die Stockente zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Stockente zu?",
+    "FrageFreitext": "Wie wird die Stockente eingeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Wie wird die Stockente eingeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2451,7 +2451,7 @@
     ],
     "FrageFreitext": "Was trifft auf Feldhasen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Feldhasen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2483,7 +2483,7 @@
     ],
     "FrageFreitext": "Was trifft auf Rabenvögeln zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rabenvögeln zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2572,7 +2572,7 @@
     ]
   },
   {
-    "Frage": "Was trifft auf dem Nutria zu?",
+    "Frage": "Wie ist Nutria einzuordnen?",
     "Antwort": "Es ist ein großer pflanzenfressender Nager",
     "FalscheAntwort1": "Es ist ein Greifvogel",
     "FalscheAntwort2": "Es ist eine heimische Entenart",
@@ -2582,8 +2582,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Nutria zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Nutria zu?",
+    "FrageFreitext": "Wie ist Nutria einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Nutria einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2664,7 +2664,7 @@
     ],
     "FrageFreitext": "Was trifft auf Rehwild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rehwild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2728,7 +2728,7 @@
     ],
     "FrageFreitext": "Was trifft auf Rotwild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rotwild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2792,7 +2792,7 @@
     ],
     "FrageFreitext": "Was trifft auf Damwild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Damwild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2856,7 +2856,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schwarzwild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schwarzwild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2920,7 +2920,7 @@
     ],
     "FrageFreitext": "Was trifft auf dem Fuchs zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Fuchs zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2984,7 +2984,7 @@
     ],
     "FrageFreitext": "Was trifft auf dem Dachs zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Dachs zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3048,7 +3048,7 @@
     ],
     "FrageFreitext": "Was trifft auf dem Feldhase zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Feldhase zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3112,11 +3112,11 @@
     ],
     "FrageFreitext": "Was trifft auf Kaninchen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Kaninchen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Stockente zu?",
+    "Frage": "Zu welcher Gruppe gehört Stockente?",
     "Antwort": "Der Stockente gehört zur Gruppe Gründelente",
     "FalscheAntwort1": "Der Stockente ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Stockente gehört zum Schalenwild",
@@ -3126,13 +3126,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Stockente zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Stockente zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Stockente?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Stockente?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Reiherente zu?",
+    "Frage": "Zu welcher Gruppe gehört Reiherente?",
     "Antwort": "Der Reiherente gehört zur Gruppe Tauchente",
     "FalscheAntwort1": "Der Reiherente ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Reiherente gehört zum Schalenwild",
@@ -3142,13 +3142,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Reiherente zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Reiherente zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Reiherente?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Reiherente?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Graugans zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Graugans zugeordnet?",
     "Antwort": "Gänsevogel",
     "FalscheAntwort1": "Hühnervogel",
     "FalscheAntwort2": "Rabenvogel",
@@ -3158,13 +3158,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Graugans zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Graugans zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Graugans zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Graugans zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Graugans zu?",
+    "Frage": "Zu welcher Gruppe gehört Graugans?",
     "Antwort": "Der Graugans gehört zur Gruppe Gänsevogel",
     "FalscheAntwort1": "Der Graugans ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Graugans gehört zum Schalenwild",
@@ -3174,13 +3174,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Graugans zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Graugans zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Graugans?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Graugans?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Fasan zu?",
+    "Frage": "Zu welcher Gruppe gehört Fasan?",
     "Antwort": "Der Fasan gehört zur Gruppe Hühnervogel",
     "FalscheAntwort1": "Der Fasan ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Fasan gehört zum Schalenwild",
@@ -3190,13 +3190,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Fasan zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Fasan zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Fasan?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Fasan?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Rabenkrähe zu?",
+    "Frage": "Zu welcher Gruppe gehört Rabenkrähe?",
     "Antwort": "Der Rabenkrähe gehört zur Gruppe Rabenvogel",
     "FalscheAntwort1": "Der Rabenkrähe ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Rabenkrähe gehört zum Schalenwild",
@@ -3206,13 +3206,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Rabenkrähe zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Rabenkrähe zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Rabenkrähe?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Rabenkrähe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Kolkrabe zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Kolkrabe zugeordnet?",
     "Antwort": "Rabenvogel",
     "FalscheAntwort1": "Hühnervogel",
     "FalscheAntwort2": "Rabenvogel",
@@ -3222,13 +3222,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Kolkrabe zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Kolkrabe zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Kolkrabe zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Kolkrabe zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf dem Kolkrabe zu?",
+    "Frage": "Zu welcher Gruppe gehört Kolkrabe?",
     "Antwort": "Der Kolkrabe gehört zur Gruppe Rabenvogel",
     "FalscheAntwort1": "Der Kolkrabe ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Kolkrabe gehört zum Schalenwild",
@@ -3238,13 +3238,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf dem Kolkrabe zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf dem Kolkrabe zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Kolkrabe?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Kolkrabe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Mäusebussard zu?",
+    "Frage": "Zu welcher Gruppe gehört Mäusebussard?",
     "Antwort": "Der Mäusebussard gehört zur Gruppe Greifvogel",
     "FalscheAntwort1": "Der Mäusebussard ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Mäusebussard gehört zum Schalenwild",
@@ -3254,13 +3254,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Mäusebussard zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Mäusebussard zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Mäusebussard?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Mäusebussard?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Habicht zugeordnet?",
+    "Frage": "Zu welcher Gruppe gehört Habicht zugeordnet?",
     "Antwort": "Greifvogel",
     "FalscheAntwort1": "Hühnervogel",
     "FalscheAntwort2": "Rabenvogel",
@@ -3270,13 +3270,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Habicht zugeordnet?",
-    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört der Habicht zugeordnet?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Habicht zugeordnet?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Habicht zugeordnet?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Habicht zu?",
+    "Frage": "Zu welcher Gruppe gehört Habicht?",
     "Antwort": "Der Habicht gehört zur Gruppe Greifvogel",
     "FalscheAntwort1": "Der Habicht ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Habicht gehört zum Schalenwild",
@@ -3286,13 +3286,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf Habicht zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Habicht zu?",
+    "FrageFreitext": "Zu welcher Gruppe gehört Habicht?",
+    "FrageMC": "Welche Aussage ist richtig: Zu welcher Gruppe gehört Habicht?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf die Ricke zu?",
+    "Frage": "Wann gilt dies bei die Ricke?",
     "Antwort": "Sie führt im Sommer meist ihre Kitze",
     "FalscheAntwort1": "Sie gehört zum Schwarzwild",
     "FalscheAntwort2": "Sie trägt ein Geweih",
@@ -3302,8 +3302,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Was trifft auf die Ricke zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Ricke zu?",
+    "FrageFreitext": "Wann gilt dies bei die Ricke?",
+    "FrageMC": "Welche Aussage ist richtig: Wann gilt dies bei die Ricke?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3320,7 +3320,7 @@
     ],
     "FrageFreitext": "Welche Aussage über den Dachs ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage über den Dachs ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3336,7 +3336,7 @@
     ],
     "FrageFreitext": "Was trifft auf den Feldhasen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf den Feldhasen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3352,11 +3352,11 @@
     ],
     "FrageFreitext": "Welche Aussage zu Rabenvögeln ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Rabenvögeln ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf die Ranzzeit des Fuchses zu?",
+    "Frage": "Wann liegt die Ranzzeit des Fuchses?",
     "Antwort": "Sie liegt meist im Winter",
     "FalscheAntwort1": "Sie findet beim Fuchs nicht statt",
     "FalscheAntwort2": "Sie liegt nur im Hochsommer",
@@ -3366,8 +3366,8 @@
     "Tags": [
       "fuchs"
     ],
-    "FrageFreitext": "Was trifft auf die Ranzzeit des Fuchses zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Ranzzeit des Fuchses zu?",
+    "FrageFreitext": "Wann liegt die Ranzzeit des Fuchses?",
+    "FrageMC": "Welche Aussage ist richtig: Wann liegt die Ranzzeit des Fuchses?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3384,7 +3384,7 @@
     ],
     "FrageFreitext": "Welche Aussage zum Nutria ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zum Nutria ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3480,7 +3480,7 @@
     ],
     "FrageFreitext": "Was trifft auf Mündungsknall zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Mündungsknall zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3787,7 +3787,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schussentfernung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schussentfernung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3819,7 +3819,7 @@
     ],
     "FrageFreitext": "Was trifft auf „Innenballistik“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Innenballistik“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3851,7 +3851,7 @@
     ],
     "FrageFreitext": "Was trifft auf „Außenballistik“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Außenballistik“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -3903,7 +3903,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Ejektor“ zu?",
+    "Frage": "Was ist „Ejektor“?",
     "Antwort": "wirft leere Hülsen aktiv aus",
     "FalscheAntwort1": "dient als Sicherung",
     "FalscheAntwort2": "ist die Kimme",
@@ -3913,8 +3913,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf „Ejektor“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Ejektor“ zu?",
+    "FrageFreitext": "Was ist „Ejektor“?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist „Ejektor“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3935,7 +3935,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Choke“ zu?",
+    "Frage": "Was ist „Choke“?",
     "Antwort": "beeinflusst die Schrotgarbe",
     "FalscheAntwort1": "erhöht Pulverdruck automatisch",
     "FalscheAntwort2": "entspannt den Schlagbolzen",
@@ -3945,8 +3945,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Was trifft auf „Choke“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Choke“ zu?",
+    "FrageFreitext": "Was ist „Choke“?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist „Choke“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3979,7 +3979,7 @@
     ],
     "FrageFreitext": "Was trifft auf „Drall“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Drall“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4011,7 +4011,7 @@
     ],
     "FrageFreitext": "Was trifft auf „Fleck eingeschossen“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Fleck eingeschossen“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4043,7 +4043,7 @@
     ],
     "FrageFreitext": "Was trifft auf „Mündungsknall“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Mündungsknall“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4063,7 +4063,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Geschossknall“ zu?",
+    "Frage": "Wie ist „Geschossknall“ einzuordnen?",
     "Antwort": "entsteht bei Überschallflug",
     "FalscheAntwort1": "entsteht durch Zündhütchen allein",
     "FalscheAntwort2": "tritt nur unter Wasser auf",
@@ -4073,8 +4073,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Was trifft auf „Geschossknall“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Geschossknall“ zu?",
+    "FrageFreitext": "Wie ist „Geschossknall“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Geschossknall“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4095,7 +4095,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Freiflug“ zu?",
+    "Frage": "Wie ist „Freiflug“ einzuordnen?",
     "Antwort": "Weg des Geschosses nach der Mündung",
     "FalscheAntwort1": "Weg im Magazin",
     "FalscheAntwort2": "Bewegung des Schlagbolzens",
@@ -4105,8 +4105,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Was trifft auf „Freiflug“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Freiflug“ zu?",
+    "FrageFreitext": "Wie ist „Freiflug“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Freiflug“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4239,7 +4239,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Erwerb jagdlicher Langwaffen zu?",
+    "Frage": "Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
     "Antwort": "gültiger Jagdschein",
     "FalscheAntwort1": "Führerschein",
     "FalscheAntwort2": "Vereinsausweis",
@@ -4249,13 +4249,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf Erwerb jagdlicher Langwaffen zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Erwerb jagdlicher Langwaffen zu?",
+    "FrageFreitext": "Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Erwerb jagdlicher Langwaffen einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Transport im Auto zu?",
+    "Frage": "Wie ist Transport im Auto einzuordnen?",
     "Antwort": "entladen und nicht zugriffsbereit",
     "FalscheAntwort1": "geladen im Futteral",
     "FalscheAntwort2": "durchgeladen auf Rückbank",
@@ -4265,13 +4265,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf Transport im Auto zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Transport im Auto zu?",
+    "FrageFreitext": "Wie ist Transport im Auto einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Transport im Auto einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Kurzwaffe Beispiel zu?",
+    "Frage": "Wie ist Kurzwaffe Beispiel einzuordnen?",
     "Antwort": "Revolver",
     "FalscheAntwort1": "Repetierbüchse",
     "FalscheAntwort2": "Bockdoppelflinte",
@@ -4281,8 +4281,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf Kurzwaffe Beispiel zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Kurzwaffe Beispiel zu?",
+    "FrageFreitext": "Wie ist Kurzwaffe Beispiel einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Kurzwaffe Beispiel einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4299,7 +4299,7 @@
     ],
     "FrageFreitext": "Was trifft auf Kaliber 12/70 zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Kaliber 12/70 zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4319,7 +4319,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Selbstladebüchse auf Jagd zu?",
+    "Frage": "Wie ist Selbstladebüchse auf Jagd einzuordnen?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
     "FalscheAntwort2": "nur auf Schießstand",
@@ -4329,8 +4329,8 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Was trifft auf Selbstladebüchse auf Jagd zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Selbstladebüchse auf Jagd zu?",
+    "FrageFreitext": "Wie ist Selbstladebüchse auf Jagd einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Selbstladebüchse auf Jagd einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4347,7 +4347,7 @@
     ],
     "FrageFreitext": "Welche Aussage zum Mündungsknall ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zum Mündungsknall ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4460,7 +4460,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Schussentfernung ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Schussentfernung ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4512,7 +4512,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Zielballistik“ zu?",
+    "Frage": "Was ist „Zielballistik“?",
     "Antwort": "Wirkung des Geschosses im Ziel",
     "FalscheAntwort1": "Flugbahn in der Luft",
     "FalscheAntwort2": "Waffenpflege",
@@ -4522,8 +4522,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Was trifft auf „Zielballistik“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Zielballistik“ zu?",
+    "FrageFreitext": "Was ist „Zielballistik“?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist „Zielballistik“?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4652,7 +4652,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Erwerb jagdlicher Langwaffen ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4668,7 +4668,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Transport im Auto ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Transport im Auto ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4684,7 +4684,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Kurzwaffe Beispiel ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4700,7 +4700,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Kaliber 12/70 ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4716,7 +4716,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Selbstladebüchse auf Jagd ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5005,7 +5005,7 @@
     ],
     "FrageFreitext": "Was trifft auf sicheren Schussfeld zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf sicheren Schussfeld zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5053,7 +5053,7 @@
     ],
     "FrageFreitext": "Was trifft auf Flinte zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Flinte zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5101,7 +5101,7 @@
     ],
     "FrageFreitext": "Was trifft auf Sicherung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Sicherung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5117,7 +5117,7 @@
     ],
     "FrageFreitext": "Was trifft auf Versagern (Klick, kein Schuss) zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Versagern (Klick, kein Schuss) zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5133,7 +5133,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schalldämpfer auf Jagdwaffen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schalldämpfer auf Jagdwaffen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5181,7 +5181,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schrotgarbe zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schrotgarbe zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5277,7 +5277,7 @@
     ],
     "FrageFreitext": "Was trifft auf Außenballistik zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Außenballistik zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5341,7 +5341,7 @@
     ],
     "FrageFreitext": "Was trifft auf Drall zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Drall zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5361,7 +5361,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Choke zu?",
+    "Frage": "Was ist Choke?",
     "Antwort": "Beeinflussung der Schrotgarbe",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5371,8 +5371,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Was trifft auf Choke zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Choke zu?",
+    "FrageFreitext": "Was ist Choke?",
+    "FrageMC": "Welche Aussage ist richtig: Was ist Choke?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5405,7 +5405,7 @@
     ],
     "FrageFreitext": "Was trifft auf Ejektor zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Ejektor zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5425,7 +5425,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Patronenlager zu?",
+    "Frage": "Wie ist Patronenlager einzuordnen?",
     "Antwort": "Aufnahme der Patrone vor dem Schuss",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5435,8 +5435,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf Patronenlager zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Patronenlager zu?",
+    "FrageFreitext": "Wie ist Patronenlager einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Patronenlager einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5469,7 +5469,7 @@
     ],
     "FrageFreitext": "Was trifft auf Sicherung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Sicherung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5645,7 +5645,7 @@
     ],
     "FrageFreitext": "Was trifft auf den sicheren Schussfeld zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf den sicheren Schussfeld zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5661,7 +5661,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Flinte ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Flinte ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5677,7 +5677,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Sicherung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Sicherung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5693,7 +5693,7 @@
     ],
     "FrageFreitext": "Was trifft auf den Schalldämpfer auf Jagdwaffen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf den Schalldämpfer auf Jagdwaffen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5709,7 +5709,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Schrotgarbe ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Schrotgarbe ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -5741,7 +5741,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Sicherung ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Sicherung ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6049,7 +6049,7 @@
     ],
     "FrageFreitext": "Was trifft auf Fangjagd zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Fangjagd zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6359,7 +6359,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Inbesitznahmebruch“ trifft zu zu?",
+    "Frage": "Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6369,13 +6369,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Inbesitznahmebruch“ trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Inbesitznahmebruch“ trifft zu zu?",
+    "FrageFreitext": "Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Inbesitznahmebruch“ trifft zu einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Inbesitznahmebruch“ zu?",
+    "Frage": "Wie ist „Inbesitznahmebruch“ einzuordnen?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6385,13 +6385,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Inbesitznahmebruch“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Inbesitznahmebruch“ zu?",
+    "FrageFreitext": "Wie ist „Inbesitznahmebruch“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Inbesitznahmebruch“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu zu?",
+    "Frage": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6401,13 +6401,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu zu?",
+    "FrageFreitext": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ zu?",
+    "Frage": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6417,13 +6417,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Sicherheitseinweisung vor Gesellschaftsjagd“ zu?",
+    "FrageFreitext": "Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Sicherheitseinweisung vor Gesellschaftsjagd“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Schuss in Richtung Treiberkette“ trifft zu zu?",
+    "Frage": "Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6433,13 +6433,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Schuss in Richtung Treiberkette“ trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Schuss in Richtung Treiberkette“ trifft zu zu?",
+    "FrageFreitext": "Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Schuss in Richtung Treiberkette“ trifft zu einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Schuss in Richtung Treiberkette“ zu?",
+    "Frage": "Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6449,8 +6449,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Schuss in Richtung Treiberkette“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Schuss in Richtung Treiberkette“ zu?",
+    "FrageFreitext": "Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Schuss in Richtung Treiberkette“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -6467,7 +6467,7 @@
     ],
     "FrageFreitext": "Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „brauchbarer Jagdhund“ trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6483,11 +6483,11 @@
     ],
     "FrageFreitext": "Was trifft auf „brauchbarer Jagdhund“ zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf „brauchbarer Jagdhund“ zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Hahn in Ruh im Treiben“ trifft zu zu?",
+    "Frage": "Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -6497,13 +6497,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Hahn in Ruh im Treiben“ trifft zu zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Hahn in Ruh im Treiben“ trifft zu zu?",
+    "FrageFreitext": "Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Hahn in Ruh im Treiben“ trifft zu einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf „Hahn in Ruh im Treiben“ zu?",
+    "Frage": "Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -6513,8 +6513,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Was trifft auf „Hahn in Ruh im Treiben“ zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf „Hahn in Ruh im Treiben“ zu?",
+    "FrageFreitext": "Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist „Hahn in Ruh im Treiben“ einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -6579,7 +6579,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Fangjagd zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Fangjagd zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6692,7 +6692,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6708,7 +6708,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6724,7 +6724,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Schuss in Richtung Treiberkette“ trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6740,7 +6740,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „brauchbarer Jagdhund“ trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6756,7 +6756,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu „Hahn in Ruh im Treiben“ trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7623,7 +7623,7 @@
     ],
     "FrageFreitext": "Was trifft auf Leinenführung bei Gesellschaftsjagden zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Leinenführung bei Gesellschaftsjagden zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7687,7 +7687,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schweißriemen zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schweißriemen zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7751,7 +7751,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schussdisziplin zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schussdisziplin zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7815,7 +7815,7 @@
     ],
     "FrageFreitext": "Was trifft auf Einsatz eines Vorstehhund zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Einsatz eines Vorstehhund zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7847,7 +7847,7 @@
     ],
     "FrageFreitext": "Was trifft auf Einsatz eines Schweißhund zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Einsatz eines Schweißhund zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7879,7 +7879,7 @@
     ],
     "FrageFreitext": "Was trifft auf Einsatz eines Stöberhund zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Einsatz eines Stöberhund zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7943,7 +7943,7 @@
     ],
     "FrageFreitext": "Was trifft auf Einsatz eines Apportierhund zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Einsatz eines Apportierhund zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -7975,7 +7975,7 @@
     ],
     "FrageFreitext": "Was trifft auf Drückjagd trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Drückjagd trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8007,7 +8007,7 @@
     ],
     "FrageFreitext": "Was trifft auf Treibjagd trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Treibjagd trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8039,7 +8039,7 @@
     ],
     "FrageFreitext": "Was trifft auf Nachsuche trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Nachsuche trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8071,7 +8071,7 @@
     ],
     "FrageFreitext": "Was trifft auf Ansitzjagd trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Ansitzjagd trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8103,7 +8103,7 @@
     ],
     "FrageFreitext": "Was trifft auf Baujagd trifft zu zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Baujagd trifft zu zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8119,7 +8119,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Leinenführung bei Gesellschaftsjagden zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Leinenführung bei Gesellschaftsjagden zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8135,7 +8135,7 @@
     ],
     "FrageFreitext": "Welche Aussage zum Schweißriemen ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zum Schweißriemen ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8151,7 +8151,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Schussdisziplin ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Schussdisziplin ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8423,7 +8423,7 @@
     ],
     "FrageFreitext": "Was trifft auf einem Unfall mit Schalenwild auf der Straße zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf einem Unfall mit Schalenwild auf der Straße zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8567,11 +8567,11 @@
     ],
     "FrageFreitext": "Was trifft auf Hegegemeinschaft zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Hegegemeinschaft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
+    "Frage": "Wie groß ist gemeinschaftlicher Jagdbezirk in SH?",
     "Antwort": "mindestens 250 ha",
     "FalscheAntwort1": "mindestens 75 ha",
     "FalscheAntwort2": "mindestens 100 ha",
@@ -8581,8 +8581,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
+    "FrageFreitext": "Wie groß ist gemeinschaftlicher Jagdbezirk in SH?",
+    "FrageMC": "Welche Aussage ist richtig: Wie groß ist gemeinschaftlicher Jagdbezirk in SH?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8603,7 +8603,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Tagesjagdschein zu?",
+    "Frage": "Wie lange ist Tagesjagdschein?",
     "Antwort": "maximal 14 aufeinanderfolgende Tage",
     "FalscheAntwort1": "genau 24 Stunden",
     "FalscheAntwort2": "maximal 3 Tage",
@@ -8613,8 +8613,8 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Was trifft auf Tagesjagdschein zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Tagesjagdschein zu?",
+    "FrageFreitext": "Wie lange ist Tagesjagdschein?",
+    "FrageMC": "Welche Aussage ist richtig: Wie lange ist Tagesjagdschein?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8631,7 +8631,7 @@
     ],
     "FrageFreitext": "Was trifft auf Jagdausübung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Jagdausübung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8647,7 +8647,7 @@
     ],
     "FrageFreitext": "Was trifft auf Jagdgenossenschaft zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Jagdgenossenschaft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8663,7 +8663,7 @@
     ],
     "FrageFreitext": "Was trifft auf Waidgerechtigkeit zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Waidgerechtigkeit zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8679,7 +8679,7 @@
     ],
     "FrageFreitext": "Was trifft auf befriedeter Bezirk zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf befriedeter Bezirk zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8695,7 +8695,7 @@
     ],
     "FrageFreitext": "Was trifft auf Wildschaden Feldflur zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Wildschaden Feldflur zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8711,11 +8711,11 @@
     ],
     "FrageFreitext": "Was trifft auf Abschussplan zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Abschussplan zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Eigenjagdbezirk zu?",
+    "Frage": "Wie groß ist Eigenjagdbezirk?",
     "Antwort": "Jagdbezirk eines Eigentümers bei Mindestgröße",
     "FalscheAntwort1": "kleiner Hausgarten",
     "FalscheAntwort2": "nur Staatsforst",
@@ -8725,8 +8725,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Was trifft auf Eigenjagdbezirk zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Eigenjagdbezirk zu?",
+    "FrageFreitext": "Wie groß ist Eigenjagdbezirk?",
+    "FrageMC": "Welche Aussage ist richtig: Wie groß ist Eigenjagdbezirk?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8743,11 +8743,11 @@
     ],
     "FrageFreitext": "Was trifft auf Schutzgebietsjagd zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schutzgebietsjagd zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Biotophege im Reviermanagement zu?",
+    "Frage": "Wie ist Biotophege im Reviermanagement einzuordnen?",
     "Antwort": "Verbesserung von Lebensräumen",
     "FalscheAntwort1": "ausschließlich Winterfütterung",
     "FalscheAntwort2": "nur Wegebau",
@@ -8757,8 +8757,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Was trifft auf Biotophege im Reviermanagement zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Biotophege im Reviermanagement zu?",
+    "FrageFreitext": "Wie ist Biotophege im Reviermanagement einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Biotophege im Reviermanagement einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8791,7 +8791,7 @@
     ],
     "FrageFreitext": "Was trifft auf Mastjahr im Reviermanagement zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Mastjahr im Reviermanagement zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8823,7 +8823,7 @@
     ],
     "FrageFreitext": "Was trifft auf Waldumbau im Reviermanagement zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Waldumbau im Reviermanagement zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8855,7 +8855,7 @@
     ],
     "FrageFreitext": "Was trifft auf Fichte im Reviermanagement zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Fichte im Reviermanagement zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8875,7 +8875,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf Naturschutz im Revier im Reviermanagement zu?",
+    "Frage": "Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
     "Antwort": "Erhalt von Arten und Funktionen",
     "FalscheAntwort1": "nur jagdbare Arten maximieren",
     "FalscheAntwort2": "nur Trophäenträger fördern",
@@ -8885,8 +8885,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Was trifft auf Naturschutz im Revier im Reviermanagement zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf Naturschutz im Revier im Reviermanagement zu?",
+    "FrageFreitext": "Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
+    "FrageMC": "Welche Aussage ist richtig: Wie ist Naturschutz im Revier im Reviermanagement einzuordnen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -8951,7 +8951,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Wildfolge zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Wildfolge zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -8983,7 +8983,7 @@
     ],
     "FrageFreitext": "Welche Aussage zum Abschussplan trifft zu?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zum Abschussplan trifft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9111,7 +9111,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Hegegemeinschaft zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Hegegemeinschaft zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9127,7 +9127,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9159,7 +9159,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9191,7 +9191,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9223,7 +9223,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9255,7 +9255,7 @@
     ],
     "FrageFreitext": "Welche Aussage zu Naturschutz im Revier im Reviermanagement ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zu Naturschutz im Revier im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9879,7 +9879,7 @@
     ],
     "FrageFreitext": "Was trifft auf Wildschaden zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Wildschaden zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9911,7 +9911,7 @@
     ],
     "FrageFreitext": "Was trifft auf Hege zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Hege zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9975,7 +9975,7 @@
     ],
     "FrageFreitext": "Was trifft auf Verkehrsunfallmeldung mit Wild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Verkehrsunfallmeldung mit Wild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -9995,7 +9995,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was trifft auf gemeinschaftlicher Jagdbezirk in Schleswig-Holstein zu?",
+    "Frage": "Wie groß ist gemeinschaftlicher Jagdbezirk in Schleswig-Holstein?",
     "Antwort": "Mindestgröße 250 ha",
     "FalscheAntwort1": "Sie ist rechtlich bedeutungslos",
     "FalscheAntwort2": "Sie gilt nur für Forstbeamte",
@@ -10005,8 +10005,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Was trifft auf gemeinschaftlicher Jagdbezirk in Schleswig-Holstein zu?",
-    "FrageMC": "Welche Aussage ist richtig: Was trifft auf gemeinschaftlicher Jagdbezirk in Schleswig-Holstein zu?",
+    "FrageFreitext": "Wie groß ist gemeinschaftlicher Jagdbezirk in Schleswig-Holstein?",
+    "FrageMC": "Welche Aussage ist richtig: Wie groß ist gemeinschaftlicher Jagdbezirk in Schleswig-Holstein?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -10023,7 +10023,7 @@
     ],
     "FrageFreitext": "Was trifft auf Wildschadensverfahren zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Wildschadensverfahren zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10039,7 +10039,7 @@
     ],
     "FrageFreitext": "Was trifft auf Abschussplanung zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Abschussplanung zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10055,7 +10055,7 @@
     ],
     "FrageFreitext": "Was trifft auf Schutzgebiet zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Schutzgebiet zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10087,7 +10087,7 @@
     ],
     "FrageFreitext": "Was trifft auf Monokultur im Revier zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Monokultur im Revier zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10103,7 +10103,7 @@
     ],
     "FrageFreitext": "Was trifft auf Biotophege im Revier zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Biotophege im Revier zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10119,7 +10119,7 @@
     ],
     "FrageFreitext": "Was trifft auf Naturverjüngung im Revier zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Naturverjüngung im Revier zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10135,7 +10135,7 @@
     ],
     "FrageFreitext": "Was trifft auf Wildschadensprävention im Revier zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf Wildschadensprävention im Revier zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10151,7 +10151,7 @@
     ],
     "FrageFreitext": "Was trifft auf den Wildschaden zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf den Wildschaden zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10167,7 +10167,7 @@
     ],
     "FrageFreitext": "Welche Aussage zur Hege ist korrekt?",
     "FrageMC": "Welche Aussage ist richtig: Welche Aussage zur Hege ist korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -10183,7 +10183,7 @@
     ],
     "FrageFreitext": "Was trifft auf die Verkehrsunfallmeldung mit Wild zu?",
     "FrageMC": "Welche Aussage ist richtig: Was trifft auf die Verkehrsunfallmeldung mit Wild zu?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {

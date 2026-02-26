@@ -1,0 +1,107 @@
+{
+  "fixed_rewritten": 45,
+  "excluded_from_pdf": 76,
+  "remaining_ambiguous_pdfeligible": 0,
+  "examples": [
+    {
+      "alt": "Was trifft auf Stockente zu?",
+      "neu": "Wie wird Stockente eingeordnet?",
+      "antwort": "Sie ist ein Gründelentenvogel"
+    },
+    {
+      "alt": "Was trifft auf Rehbock zu?",
+      "neu": "Wann gilt dies für Rehbock?",
+      "antwort": "Spätherbst bis Winter"
+    },
+    {
+      "alt": "Was trifft auf Damhirsch zu?",
+      "neu": "Wann gilt dies für Damhirsch?",
+      "antwort": "Sommer"
+    },
+    {
+      "alt": "Was trifft auf Rotwild zu?",
+      "neu": "Wie ist Rotwild einzuordnen?",
+      "antwort": "geschlechtergetrennten Rudeln"
+    },
+    {
+      "alt": "Was trifft auf dem Feldhase zu?",
+      "neu": "Wie ist dem Feldhase einzuordnen?",
+      "antwort": "sichtig und behaart"
+    },
+    {
+      "alt": "Was trifft auf dem Nutria zu?",
+      "neu": "Wie ist dem Nutria einzuordnen?",
+      "antwort": "Nagetier"
+    },
+    {
+      "alt": "Was trifft auf Muffelwild zu?",
+      "neu": "Wie ist Muffelwild einzuordnen?",
+      "antwort": "Wiederkäuern"
+    },
+    {
+      "alt": "Was trifft auf Waschbär zu?",
+      "neu": "Wie ist Waschbär einzuordnen?",
+      "antwort": "Nordamerika"
+    },
+    {
+      "alt": "Was trifft auf die Stockente zu?",
+      "neu": "Wie wird die Stockente eingeordnet?",
+      "antwort": "Sie ist ein Gründelentenvogel"
+    },
+    {
+      "alt": "Was trifft auf dem Nutria zu?",
+      "neu": "Wie ist dem Nutria einzuordnen?",
+      "antwort": "Es ist ein großer pflanzenfressender Nager"
+    },
+    {
+      "alt": "Was trifft auf Stockente zu?",
+      "neu": "Zu welcher Gruppe gehört Stockente?",
+      "antwort": "Der Stockente gehört zur Gruppe Gründelente"
+    },
+    {
+      "alt": "Was trifft auf Reiherente zu?",
+      "neu": "Zu welcher Gruppe gehört Reiherente?",
+      "antwort": "Der Reiherente gehört zur Gruppe Tauchente"
+    },
+    {
+      "alt": "Was trifft auf Graugans zu?",
+      "neu": "Zu welcher Gruppe gehört Graugans?",
+      "antwort": "Der Graugans gehört zur Gruppe Gänsevogel"
+    },
+    {
+      "alt": "Was trifft auf Fasan zu?",
+      "neu": "Zu welcher Gruppe gehört Fasan?",
+      "antwort": "Der Fasan gehört zur Gruppe Hühnervogel"
+    },
+    {
+      "alt": "Was trifft auf Rabenkrähe zu?",
+      "neu": "Zu welcher Gruppe gehört Rabenkrähe?",
+      "antwort": "Der Rabenkrähe gehört zur Gruppe Rabenvogel"
+    },
+    {
+      "alt": "Was trifft auf dem Kolkrabe zu?",
+      "neu": "Zu welcher Gruppe gehört dem Kolkrabe?",
+      "antwort": "Der Kolkrabe gehört zur Gruppe Rabenvogel"
+    },
+    {
+      "alt": "Was trifft auf Mäusebussard zu?",
+      "neu": "Zu welcher Gruppe gehört Mäusebussard?",
+      "antwort": "Der Mäusebussard gehört zur Gruppe Greifvogel"
+    },
+    {
+      "alt": "Was trifft auf Habicht zu?",
+      "neu": "Zu welcher Gruppe gehört Habicht?",
+      "antwort": "Der Habicht gehört zur Gruppe Greifvogel"
+    },
+    {
+      "alt": "Was trifft auf die Ricke zu?",
+      "neu": "Wann gilt dies für die Ricke?",
+      "antwort": "Sie führt im Sommer meist ihre Kitze"
+    },
+    {
+      "alt": "Was trifft auf die Ranzzeit des Fuchses zu?",
+      "neu": "Wann liegt die die Ranzzeit des Fuchses?",
+      "antwort": "Sie liegt meist im Winter"
+    }
+  ]
+}
