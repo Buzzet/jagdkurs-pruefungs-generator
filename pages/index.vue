@@ -174,25 +174,30 @@ const sameSet = (a: string[], b: string[]) => {
   return b.every(x => as.has(x))
 }
 
+const isMultiCandidate = (q: Question) => {
+  const text = (q.FrageFreitext || q.Frage || '').toLowerCase()
+  return /(nennen sie|welche .* gehören|welche .* gehört|zu welcher gruppe)/i.test(text)
+}
+
 const toMcQuestion = (q: Question): McQuestion => {
   const alternatives = (q.AlternativeAntworten || []).filter(Boolean)
   const trueOptions = [q.Antwort]
 
-  // Use up to 2 alternative true answers when available (Mehrfachantworten)
-  const extraTrue = shuffle(alternatives).slice(0, Math.min(2, alternatives.length))
-  trueOptions.push(...extraTrue)
+  if (isMultiCandidate(q) && alternatives.length > 0) {
+    const extraTrue = shuffle(alternatives).slice(0, Math.min(2, alternatives.length))
+    trueOptions.push(...extraTrue)
+  }
 
   const wrongPool = [q.FalscheAntwort1, q.FalscheAntwort2, q.FalscheAntwort3].filter(Boolean)
   const options = shuffle([...trueOptions, ...wrongPool]).slice(0, 4)
 
-  // Ensure at least one wrong option remains in set if possible
-  if (trueOptions.length === 4 && wrongPool.length > 0) {
+  if (trueOptions.length >= 4 && wrongPool.length > 0) {
     options[3] = wrongPool[0]
   }
 
   const dedupOptions = Array.from(new Set(options))
   while (dedupOptions.length < 4) {
-    const fallback = shuffle(wrongPool)[0] || q.FalscheAntwort1
+    const fallback = shuffle([...wrongPool, ...alternatives])[0] || q.FalscheAntwort1
     if (!dedupOptions.includes(fallback)) dedupOptions.push(fallback)
     else break
   }

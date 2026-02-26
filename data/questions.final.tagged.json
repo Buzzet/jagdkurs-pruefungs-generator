@@ -45,7 +45,12 @@
     "FrageFreitext": "Welche Schalenwildart ist ein Wiederkäuer?",
     "FrageMC": "Welche Schalenwildart ist ein Wiederkäuer?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Welche Schalenwildart ist ein Konzentratselektierer?",
@@ -61,7 +66,12 @@
     "FrageFreitext": "Welche Schalenwildart ist ein Konzentratselektierer?",
     "FrageMC": "Welche Schalenwildart ist ein Konzentratselektierer?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Welche Wildart suhlt regelmäßig?",
@@ -1032,7 +1042,13 @@
     "FrageFreitext": "Wofür steht der Begriff „Verfegen“ beim Schalenwild?",
     "FrageMC": "Wofür steht der Begriff „Verfegen“ beim Schalenwild?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild",
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Der Rehbock wirft sein Gehörn typischerweise im?",
@@ -1435,7 +1451,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Stockente ist korrekt?",
+    "Frage": "Was ist über Stockente korrekt?",
     "Antwort": "8–12 Eier",
     "FalscheAntwort1": "1–3 Eier",
     "FalscheAntwort2": "20–25 Eier",
@@ -1445,8 +1461,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Stockente ist korrekt?",
-    "FrageMC": "Welche Aussage zu Stockente ist korrekt?",
+    "FrageFreitext": "Was ist über Stockente korrekt?",
+    "FrageMC": "Was ist über Stockente korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -2308,7 +2324,12 @@
     "FrageFreitext": "Welche Zahnart fehlt den Wiederkäuern im Oberkiefer vorn?",
     "FrageMC": "Welche Zahnart fehlt den Wiederkäuern im Oberkiefer vorn?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild",
+      "Rotwild",
+      "Damwild",
+      "Muffelwild"
+    ]
   },
   {
     "Frage": "Was ist beim Rehwild ein \"Sprung\"?",
@@ -2439,7 +2460,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Feldhasen ist korrekt?",
+    "Frage": "Was ist über Feldhasen korrekt?",
     "Antwort": "Junge kommen behaart und sehend zur Welt",
     "FalscheAntwort1": "Er ist ein Wiederkäuer",
     "FalscheAntwort2": "Junge werden blind in einem Bau geboren",
@@ -2449,8 +2470,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Feldhasen ist korrekt?",
-    "FrageMC": "Welche Aussage zu Feldhasen ist korrekt?",
+    "FrageFreitext": "Was ist über Feldhasen korrekt?",
+    "FrageMC": "Was ist über Feldhasen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -2471,7 +2492,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Rabenvögeln ist korrekt?",
+    "Frage": "Was ist über Rabenvögeln korrekt?",
     "Antwort": "Rabenkrähe und Saatkrähe gehören dazu",
     "FalscheAntwort1": "Stockente und Reiherente gehören dazu",
     "FalscheAntwort2": "Fasan und Rebhuhn gehören dazu",
@@ -2481,10 +2502,17 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Rabenvögeln ist korrekt?",
-    "FrageMC": "Welche Aussage zu Rabenvögeln ist korrekt?",
+    "FrageFreitext": "Was ist über Rabenvögeln korrekt?",
+    "FrageMC": "Was ist über Rabenvögeln korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rabenkrähe",
+      "Saatkrähe",
+      "Kolkrabe",
+      "Elster",
+      "Dohle",
+      "Eichelhäher"
+    ]
   },
   {
     "Frage": "Woran erkennt man häufig den Kolkraben im Flug?",
@@ -2572,7 +2600,7 @@
     ]
   },
   {
-    "Frage": "Welche Aussage zu Nutria ist korrekt?",
+    "Frage": "Was ist über Nutria korrekt?",
     "Antwort": "Es ist ein großer pflanzenfressender Nager",
     "FalscheAntwort1": "Es ist ein Greifvogel",
     "FalscheAntwort2": "Es ist eine heimische Entenart",
@@ -2582,8 +2610,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Nutria ist korrekt?",
-    "FrageMC": "Welche Aussage zu Nutria ist korrekt?",
+    "FrageFreitext": "Was ist über Nutria korrekt?",
+    "FrageMC": "Was ist über Nutria korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2601,7 +2629,13 @@
     "FrageFreitext": "Was ist bei der Altersbestimmung von Schalenwild ein wichtiger Anhaltspunkt?",
     "FrageMC": "Was ist bei der Altersbestimmung von Schalenwild ein wichtiger Anhaltspunkt?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild",
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Welche Ernährungsweise hat Rehwild am ehesten zu?",
@@ -2652,7 +2686,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Rehwild ist korrekt?",
+    "Frage": "Was ist über Rehwild korrekt?",
     "Antwort": "Rehwild wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Rehwild hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Rehwild wird ausschließlich über Fellfarbe bestimmt",
@@ -2662,8 +2696,8 @@
     "Tags": [
       "rehwild"
     ],
-    "FrageFreitext": "Welche Aussage zu Rehwild ist korrekt?",
-    "FrageMC": "Welche Aussage zu Rehwild ist korrekt?",
+    "FrageFreitext": "Was ist über Rehwild korrekt?",
+    "FrageMC": "Was ist über Rehwild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -2716,7 +2750,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Rotwild ist korrekt?",
+    "Frage": "Was ist über Rotwild korrekt?",
     "Antwort": "Rotwild wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Rotwild hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Rotwild wird ausschließlich über Fellfarbe bestimmt",
@@ -2726,8 +2760,8 @@
     "Tags": [
       "rotwild"
     ],
-    "FrageFreitext": "Welche Aussage zu Rotwild ist korrekt?",
-    "FrageMC": "Welche Aussage zu Rotwild ist korrekt?",
+    "FrageFreitext": "Was ist über Rotwild korrekt?",
+    "FrageMC": "Was ist über Rotwild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -2780,7 +2814,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Damwild ist korrekt?",
+    "Frage": "Was ist über Damwild korrekt?",
     "Antwort": "Damwild wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Damwild hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Damwild wird ausschließlich über Fellfarbe bestimmt",
@@ -2790,8 +2824,8 @@
     "Tags": [
       "damwild"
     ],
-    "FrageFreitext": "Welche Aussage zu Damwild ist korrekt?",
-    "FrageMC": "Welche Aussage zu Damwild ist korrekt?",
+    "FrageFreitext": "Was ist über Damwild korrekt?",
+    "FrageMC": "Was ist über Damwild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -2844,7 +2878,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schwarzwild ist korrekt?",
+    "Frage": "Was ist über Schwarzwild korrekt?",
     "Antwort": "Schwarzwild wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Schwarzwild hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Schwarzwild wird ausschließlich über Fellfarbe bestimmt",
@@ -2854,8 +2888,8 @@
     "Tags": [
       "schwarzwild"
     ],
-    "FrageFreitext": "Welche Aussage zu Schwarzwild ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schwarzwild ist korrekt?",
+    "FrageFreitext": "Was ist über Schwarzwild korrekt?",
+    "FrageMC": "Was ist über Schwarzwild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3100,7 +3134,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Kaninchen ist korrekt?",
+    "Frage": "Was ist über Kaninchen korrekt?",
     "Antwort": "Kaninchen wird jagdlich mit artspezifischer Alters- und Geschlechtsansprache beurteilt",
     "FalscheAntwort1": "Kaninchen hat keine jagdlich relevanten Merkmale",
     "FalscheAntwort2": "Kaninchen wird ausschließlich über Fellfarbe bestimmt",
@@ -3110,8 +3144,8 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Kaninchen ist korrekt?",
-    "FrageMC": "Welche Aussage zu Kaninchen ist korrekt?",
+    "FrageFreitext": "Was ist über Kaninchen korrekt?",
+    "FrageMC": "Was ist über Kaninchen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3340,7 +3374,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Rabenvögeln ist korrekt?",
+    "Frage": "Was ist über Rabenvögeln korrekt?",
     "Antwort": "Rabenkrähe und Saatkrähe gehören dazu",
     "FalscheAntwort1": "Stockente und Reiherente gehören dazu",
     "FalscheAntwort2": "Fasan und Rebhuhn gehören dazu",
@@ -3350,10 +3384,17 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Welche Aussage zu Rabenvögeln ist korrekt?",
-    "FrageMC": "Welche Aussage zu Rabenvögeln ist korrekt?",
+    "FrageFreitext": "Was ist über Rabenvögeln korrekt?",
+    "FrageMC": "Was ist über Rabenvögeln korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rabenkrähe",
+      "Saatkrähe",
+      "Kolkrabe",
+      "Elster",
+      "Dohle",
+      "Eichelhäher"
+    ]
   },
   {
     "Frage": "Wann liegt die Ranzzeit des Fuchses?",
@@ -3468,7 +3509,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Mündungsknall ist korrekt?",
+    "Frage": "Was ist über Mündungsknall korrekt?",
     "Antwort": "Er entsteht durch ausströmende Pulvergase",
     "FalscheAntwort1": "Er entsteht durch den Überschallknall des Geschosses",
     "FalscheAntwort2": "Er entsteht nur bei Schalldämpfern",
@@ -3478,8 +3519,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu Mündungsknall ist korrekt?",
-    "FrageMC": "Welche Aussage zu Mündungsknall ist korrekt?",
+    "FrageFreitext": "Was ist über Mündungsknall korrekt?",
+    "FrageMC": "Was ist über Mündungsknall korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3775,7 +3816,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schussentfernung ist korrekt?",
+    "Frage": "Was ist über Schussentfernung korrekt?",
     "Antwort": "Mit zunehmender Entfernung sinkt meist die Energie am Ziel",
     "FalscheAntwort1": "Mit zunehmender Entfernung steigt die Energie",
     "FalscheAntwort2": "Entfernung beeinflusst Energie nicht",
@@ -3785,8 +3826,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Schussentfernung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schussentfernung ist korrekt?",
+    "FrageFreitext": "Was ist über Schussentfernung korrekt?",
+    "FrageMC": "Was ist über Schussentfernung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3807,7 +3848,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Innenballistik“ ist korrekt?",
+    "Frage": "Was ist über „Innenballistik“ korrekt?",
     "Antwort": "Vorgänge von Zündung bis Geschossaustritt",
     "FalscheAntwort1": "Flugbahn nach der Mündung",
     "FalscheAntwort2": "Wirkung im Ziel",
@@ -3817,8 +3858,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Innenballistik“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Innenballistik“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Innenballistik“ korrekt?",
+    "FrageMC": "Was ist über „Innenballistik“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3839,7 +3880,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Außenballistik“ ist korrekt?",
+    "Frage": "Was ist über „Außenballistik“ korrekt?",
     "Antwort": "Geschossflug zwischen Mündung und Ziel",
     "FalscheAntwort1": "Pulververbrennung im Lauf",
     "FalscheAntwort2": "Wirkung im Wildkörper",
@@ -3849,8 +3890,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Außenballistik“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Außenballistik“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Außenballistik“ korrekt?",
+    "FrageMC": "Was ist über „Außenballistik“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3967,7 +4008,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Drall“ ist korrekt?",
+    "Frage": "Was ist über „Drall“ korrekt?",
     "Antwort": "stabilisiert das Geschoss durch Rotation",
     "FalscheAntwort1": "reduziert Rückstoß auf null",
     "FalscheAntwort2": "ersetzt Zielfernrohr",
@@ -3977,8 +4018,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Drall“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Drall“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Drall“ korrekt?",
+    "FrageMC": "Was ist über „Drall“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -3999,7 +4040,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Fleck eingeschossen“ ist korrekt?",
+    "Frage": "Was ist über „Fleck eingeschossen“ korrekt?",
     "Antwort": "Treffpunkt entspricht Haltepunkt auf Referenzdistanz",
     "FalscheAntwort1": "Treffer liegt immer 4 cm hoch",
     "FalscheAntwort2": "gilt nur für Schrot",
@@ -4009,8 +4050,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Fleck eingeschossen“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Fleck eingeschossen“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Fleck eingeschossen“ korrekt?",
+    "FrageMC": "Was ist über „Fleck eingeschossen“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -4031,7 +4072,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Mündungsknall“ ist korrekt?",
+    "Frage": "Was ist über „Mündungsknall“ korrekt?",
     "Antwort": "entsteht durch austretende Pulvergase",
     "FalscheAntwort1": "entsteht nur durch Seitenwind",
     "FalscheAntwort2": "ist dasselbe wie Geschossknall",
@@ -4041,8 +4082,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Mündungsknall“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Mündungsknall“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Mündungsknall“ korrekt?",
+    "FrageMC": "Was ist über „Mündungsknall“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -4063,7 +4104,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Geschossknall“ ist korrekt?",
+    "Frage": "Was ist über „Geschossknall“ korrekt?",
     "Antwort": "entsteht bei Überschallflug",
     "FalscheAntwort1": "entsteht durch Zündhütchen allein",
     "FalscheAntwort2": "tritt nur unter Wasser auf",
@@ -4073,8 +4114,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu „Geschossknall“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Geschossknall“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Geschossknall“ korrekt?",
+    "FrageMC": "Was ist über „Geschossknall“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4287,7 +4328,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
+    "Frage": "Was ist über Kaliber 12/70 korrekt?",
     "Antwort": "Kaliber 12, Hülsenlänge 70 mm",
     "FalscheAntwort1": "12 mm Laufdurchmesser, 70 cm Lauf",
     "FalscheAntwort2": "12 g Schrot auf 70 m",
@@ -4297,8 +4338,8 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
-    "FrageMC": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
+    "FrageFreitext": "Was ist über Kaliber 12/70 korrekt?",
+    "FrageMC": "Was ist über Kaliber 12/70 korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -4640,7 +4681,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
+    "Frage": "Was ist über den Erwerb jagdlicher Langwaffen korrekt?",
     "Antwort": "gültiger Jagdschein",
     "FalscheAntwort1": "Führerschein",
     "FalscheAntwort2": "Vereinsausweis",
@@ -4650,13 +4691,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
-    "FrageMC": "Welche Aussage zu den Erwerb jagdlicher Langwaffen ist korrekt?",
+    "FrageFreitext": "Was ist über den Erwerb jagdlicher Langwaffen korrekt?",
+    "FrageMC": "Was ist über den Erwerb jagdlicher Langwaffen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu den Transport im Auto ist korrekt?",
+    "Frage": "Was ist über den Transport im Auto korrekt?",
     "Antwort": "entladen und nicht zugriffsbereit",
     "FalscheAntwort1": "geladen im Futteral",
     "FalscheAntwort2": "durchgeladen auf Rückbank",
@@ -4666,13 +4707,13 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu den Transport im Auto ist korrekt?",
-    "FrageMC": "Welche Aussage zu den Transport im Auto ist korrekt?",
+    "FrageFreitext": "Was ist über den Transport im Auto korrekt?",
+    "FrageMC": "Was ist über den Transport im Auto korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu eine Kurzwaffe ist korrekt?",
+    "Frage": "Was ist über eine Kurzwaffe korrekt?",
     "Antwort": "Revolver",
     "FalscheAntwort1": "Repetierbüchse",
     "FalscheAntwort2": "Bockdoppelflinte",
@@ -4682,13 +4723,13 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu eine Kurzwaffe ist korrekt?",
-    "FrageMC": "Welche Aussage zu eine Kurzwaffe ist korrekt?",
+    "FrageFreitext": "Was ist über eine Kurzwaffe korrekt?",
+    "FrageMC": "Was ist über eine Kurzwaffe korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
+    "Frage": "Was ist über Kaliber 12/70 korrekt?",
     "Antwort": "Kaliber 12, Hülsenlänge 70 mm",
     "FalscheAntwort1": "12 mm Laufdurchmesser, 70 cm Lauf",
     "FalscheAntwort2": "12 g Schrot auf 70 m",
@@ -4698,13 +4739,13 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
-    "FrageMC": "Welche Aussage zu Kaliber 12/70 ist korrekt?",
+    "FrageFreitext": "Was ist über Kaliber 12/70 korrekt?",
+    "FrageMC": "Was ist über Kaliber 12/70 korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
+    "Frage": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
     "FalscheAntwort2": "nur auf Schießstand",
@@ -4714,8 +4755,8 @@
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Selbstladebüchse auf der Jagd ist korrekt?",
+    "FrageFreitext": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
+    "FrageMC": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -4993,7 +5034,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu sicheren Schussfeld ist korrekt?",
+    "Frage": "Was ist über sicheren Schussfeld korrekt?",
     "Antwort": "Ziel und dahinter liegender Kugelfang müssen sicher sein",
     "FalscheAntwort1": "Nur das Ziel muss sichtbar sein",
     "FalscheAntwort2": "Bei kurzer Distanz ist Kugelfang egal",
@@ -5003,8 +5044,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu sicheren Schussfeld ist korrekt?",
-    "FrageMC": "Welche Aussage zu sicheren Schussfeld ist korrekt?",
+    "FrageFreitext": "Was ist über sicheren Schussfeld korrekt?",
+    "FrageMC": "Was ist über sicheren Schussfeld korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5041,7 +5082,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Flinte ist korrekt?",
+    "Frage": "Was ist über Flinte korrekt?",
     "Antwort": "Sie verschießt überwiegend Schrotpatronen",
     "FalscheAntwort1": "Sie hat immer gezogenen Lauf",
     "FalscheAntwort2": "Sie nutzt ausschließlich Büchsenmunition",
@@ -5051,8 +5092,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Welche Aussage zu Flinte ist korrekt?",
-    "FrageMC": "Welche Aussage zu Flinte ist korrekt?",
+    "FrageFreitext": "Was ist über Flinte korrekt?",
+    "FrageMC": "Was ist über Flinte korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5089,7 +5130,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Sicherung ist korrekt?",
+    "Frage": "Was ist über Sicherung korrekt?",
     "Antwort": "Sie ersetzt niemals die sichere Waffenhandhabung",
     "FalscheAntwort1": "Sie ist nur auf dem Schießstand nötig",
     "FalscheAntwort2": "Sie macht eine geladene Waffe ungefährlich",
@@ -5099,13 +5140,13 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Sicherung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Sicherung ist korrekt?",
+    "FrageFreitext": "Was ist über Sicherung korrekt?",
+    "FrageMC": "Was ist über Sicherung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Versagern (Klick, kein Schuss) ist korrekt?",
+    "Frage": "Was ist über Versagern (Klick, kein Schuss) korrekt?",
     "Antwort": "Waffe in sichere Richtung halten und Wartezeit einhalten",
     "FalscheAntwort1": "Direkt Verschluss öffnen und in den Lauf schauen",
     "FalscheAntwort2": "Sofort Lauf von vorne prüfen",
@@ -5115,13 +5156,13 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Versagern (Klick, kein Schuss) ist korrekt?",
-    "FrageMC": "Welche Aussage zu Versagern (Klick, kein Schuss) ist korrekt?",
+    "FrageFreitext": "Was ist über Versagern (Klick, kein Schuss) korrekt?",
+    "FrageMC": "Was ist über Versagern (Klick, kein Schuss) korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schalldämpfer auf Jagdwaffen ist korrekt?",
+    "Frage": "Was ist über Schalldämpfer auf Jagdwaffen korrekt?",
     "Antwort": "Nutzung richtet sich nach geltendem Waffen- und Jagdrecht",
     "FalscheAntwort1": "Er erhöht automatisch die Präzision jeder Waffe",
     "FalscheAntwort2": "Er ist überall grundsätzlich verboten",
@@ -5131,8 +5172,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Schalldämpfer auf Jagdwaffen ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schalldämpfer auf Jagdwaffen ist korrekt?",
+    "FrageFreitext": "Was ist über Schalldämpfer auf Jagdwaffen korrekt?",
+    "FrageMC": "Was ist über Schalldämpfer auf Jagdwaffen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5169,7 +5210,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schrotgarbe ist korrekt?",
+    "Frage": "Was ist über Schrotgarbe korrekt?",
     "Antwort": "Sie öffnet sich mit zunehmender Entfernung",
     "FalscheAntwort1": "Sie bleibt immer gleich eng",
     "FalscheAntwort2": "Sie wird mit Entfernung enger",
@@ -5179,8 +5220,8 @@
     "Tags": [
       "flinte"
     ],
-    "FrageFreitext": "Welche Aussage zu Schrotgarbe ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schrotgarbe ist korrekt?",
+    "FrageFreitext": "Was ist über Schrotgarbe korrekt?",
+    "FrageMC": "Was ist über Schrotgarbe korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5265,7 +5306,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Außenballistik ist korrekt?",
+    "Frage": "Was ist über Außenballistik korrekt?",
     "Antwort": "Geschossflug zwischen Mündung und Ziel",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5275,8 +5316,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu Außenballistik ist korrekt?",
-    "FrageMC": "Welche Aussage zu Außenballistik ist korrekt?",
+    "FrageFreitext": "Was ist über Außenballistik korrekt?",
+    "FrageMC": "Was ist über Außenballistik korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5329,7 +5370,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Drall ist korrekt?",
+    "Frage": "Was ist über Drall korrekt?",
     "Antwort": "Rotation zur Stabilisierung des Geschosses",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5339,8 +5380,8 @@
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Welche Aussage zu Drall ist korrekt?",
-    "FrageMC": "Welche Aussage zu Drall ist korrekt?",
+    "FrageFreitext": "Was ist über Drall korrekt?",
+    "FrageMC": "Was ist über Drall korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5393,7 +5434,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Ejektor ist korrekt?",
+    "Frage": "Was ist über Ejektor korrekt?",
     "Antwort": "automatisches Auswerfen leerer Hülsen",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5403,8 +5444,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Ejektor ist korrekt?",
-    "FrageMC": "Welche Aussage zu Ejektor ist korrekt?",
+    "FrageFreitext": "Was ist über Ejektor korrekt?",
+    "FrageMC": "Was ist über Ejektor korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5457,7 +5498,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Sicherung ist korrekt?",
+    "Frage": "Was ist über Sicherung korrekt?",
     "Antwort": "Verhindern unbeabsichtigter Schussauslösung",
     "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
     "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
@@ -5467,8 +5508,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Sicherung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Sicherung ist korrekt?",
+    "FrageFreitext": "Was ist über Sicherung korrekt?",
+    "FrageMC": "Was ist über Sicherung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5633,7 +5674,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu den sicheren Schussfeld ist korrekt?",
+    "Frage": "Was ist über den sicheren Schussfeld korrekt?",
     "Antwort": "Ziel und dahinter liegender Kugelfang müssen sicher sein",
     "FalscheAntwort1": "Nur das Ziel muss sichtbar sein",
     "FalscheAntwort2": "Bei kurzer Distanz ist Kugelfang egal",
@@ -5643,8 +5684,8 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu den sicheren Schussfeld ist korrekt?",
-    "FrageMC": "Welche Aussage zu den sicheren Schussfeld ist korrekt?",
+    "FrageFreitext": "Was ist über den sicheren Schussfeld korrekt?",
+    "FrageMC": "Was ist über den sicheren Schussfeld korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5665,7 +5706,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Sicherung ist korrekt?",
+    "Frage": "Was ist über die Sicherung korrekt?",
     "Antwort": "Sie ersetzt niemals die sichere Waffenhandhabung",
     "FalscheAntwort1": "Sie ist nur auf dem Schießstand nötig",
     "FalscheAntwort2": "Sie macht eine geladene Waffe ungefährlich",
@@ -5675,13 +5716,13 @@
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu die Sicherung ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Sicherung ist korrekt?",
+    "FrageFreitext": "Was ist über die Sicherung korrekt?",
+    "FrageMC": "Was ist über die Sicherung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu den Schalldämpfer auf Jagdwaffen ist korrekt?",
+    "Frage": "Was ist über den Schalldämpfer auf Jagdwaffen korrekt?",
     "Antwort": "Nutzung richtet sich nach geltendem Waffen- und Jagdrecht",
     "FalscheAntwort1": "Er erhöht automatisch die Präzision jeder Waffe",
     "FalscheAntwort2": "Er ist überall grundsätzlich verboten",
@@ -5691,8 +5732,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu den Schalldämpfer auf Jagdwaffen ist korrekt?",
-    "FrageMC": "Welche Aussage zu den Schalldämpfer auf Jagdwaffen ist korrekt?",
+    "FrageFreitext": "Was ist über den Schalldämpfer auf Jagdwaffen korrekt?",
+    "FrageMC": "Was ist über den Schalldämpfer auf Jagdwaffen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5758,7 +5799,13 @@
     "FrageFreitext": "Welche Aufgabe hat ein Vorstehhund primär?",
     "FrageMC": "Welche Aufgabe hat ein Vorstehhund primär?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Welche Arbeit gehört zur Schweißarbeit?",
@@ -5809,7 +5856,14 @@
     "FrageFreitext": "Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "FrageMC": "Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Feldhase",
+      "Kaninchen",
+      "Fasan",
+      "Rebhuhn",
+      "Ringeltaube",
+      "Stockente"
+    ]
   },
   {
     "Frage": "Was ist bei der Baujagd wesentlich?",
@@ -6037,7 +6091,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Fangjagd ist korrekt?",
+    "Frage": "Was ist über Fangjagd korrekt?",
     "Antwort": "Sie erfordert zulässige Fallen und Fachkunde",
     "FalscheAntwort1": "Sie ist grundsätzlich verboten",
     "FalscheAntwort2": "Sie ist nur für Federwild zulässig",
@@ -6047,8 +6101,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Fangjagd ist korrekt?",
-    "FrageMC": "Welche Aussage zu Fangjagd ist korrekt?",
+    "FrageFreitext": "Was ist über Fangjagd korrekt?",
+    "FrageMC": "Was ist über Fangjagd korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -6162,7 +6216,13 @@
     "FrageFreitext": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "FrageMC": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Welche Aufgabe hat ein Schweißhund primär?",
@@ -6359,7 +6419,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "Frage": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6369,13 +6429,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Inbesitznahmebruch“ korrekt?",
+    "FrageMC": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "Frage": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -6385,13 +6445,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Inbesitznahmebruch“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Inbesitznahmebruch“ korrekt?",
+    "FrageMC": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "Frage": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6401,13 +6461,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
+    "FrageMC": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "Frage": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -6417,13 +6477,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
+    "FrageMC": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "Frage": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6433,13 +6493,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
+    "FrageMC": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "Frage": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "Antwort": "ist strikt verboten",
     "FalscheAntwort1": "ist bei Schrot immer erlaubt",
     "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
@@ -6449,13 +6509,13 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „Schuss in Richtung Treiberkette“ ist korrekt?",
+    "FrageFreitext": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
+    "FrageMC": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
+    "Frage": "Was ist über „brauchbarer Jagdhund“ korrekt?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -6465,13 +6525,13 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
+    "FrageFreitext": "Was ist über „brauchbarer Jagdhund“ korrekt?",
+    "FrageMC": "Was ist über „brauchbarer Jagdhund“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
+    "Frage": "Was ist über „brauchbarer Jagdhund“ korrekt?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -6481,8 +6541,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
-    "FrageMC": "Welche Aussage zu „brauchbarer Jagdhund“ ist korrekt?",
+    "FrageFreitext": "Was ist über „brauchbarer Jagdhund“ korrekt?",
+    "FrageMC": "Was ist über „brauchbarer Jagdhund“ korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -6567,7 +6627,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Fangjagd ist korrekt?",
+    "Frage": "Was ist über die Fangjagd korrekt?",
     "Antwort": "Sie erfordert zulässige Fallen und Fachkunde",
     "FalscheAntwort1": "Sie ist grundsätzlich verboten",
     "FalscheAntwort2": "Sie ist nur für Federwild zulässig",
@@ -6577,8 +6637,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu die Fangjagd ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Fangjagd ist korrekt?",
+    "FrageFreitext": "Was ist über die Fangjagd korrekt?",
+    "FrageMC": "Was ist über die Fangjagd korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -6612,7 +6672,13 @@
     "FrageFreitext": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "FrageMC": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
@@ -6789,7 +6855,14 @@
     "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "FrageMC": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Feldhase",
+      "Kaninchen",
+      "Fasan",
+      "Rebhuhn",
+      "Ringeltaube",
+      "Stockente"
+    ]
   },
   {
     "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
@@ -7046,7 +7119,13 @@
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Im Prüfungsstil gefragt: Welche Aufgabe hat ein Schweißhund primär?",
@@ -7320,7 +7399,13 @@
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Aufgabe hat ein Vorstehhund primär?",
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Aufgabe hat ein Vorstehhund primär?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
@@ -7384,7 +7469,14 @@
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Feldhase",
+      "Kaninchen",
+      "Fasan",
+      "Rebhuhn",
+      "Ringeltaube",
+      "Stockente"
+    ]
   },
   {
     "Frage": "Was ist korrekt? Was ist bei der Baujagd wesentlich?",
@@ -7611,7 +7703,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Leinenführung bei Gesellschaftsjagden ist korrekt?",
+    "Frage": "Was ist über Leinenführung bei Gesellschaftsjagden korrekt?",
     "Antwort": "Sie richtet sich nach Sicherheitslage und Jagdleitung",
     "FalscheAntwort1": "Leine ist bei Treibern verboten",
     "FalscheAntwort2": "Hunde müssen immer unangeleint laufen",
@@ -7621,8 +7713,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Leinenführung bei Gesellschaftsjagden ist korrekt?",
-    "FrageMC": "Welche Aussage zu Leinenführung bei Gesellschaftsjagden ist korrekt?",
+    "FrageFreitext": "Was ist über Leinenführung bei Gesellschaftsjagden korrekt?",
+    "FrageMC": "Was ist über Leinenführung bei Gesellschaftsjagden korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7675,7 +7767,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schweißriemen ist korrekt?",
+    "Frage": "Was ist über Schweißriemen korrekt?",
     "Antwort": "Er ermöglicht kontrollierte Nachsuchenarbeit am Hund",
     "FalscheAntwort1": "Er ersetzt GPS-Ortung vollständig",
     "FalscheAntwort2": "Er ist nur für Vorstehhunde gedacht",
@@ -7685,8 +7777,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Schweißriemen ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schweißriemen ist korrekt?",
+    "FrageFreitext": "Was ist über Schweißriemen korrekt?",
+    "FrageMC": "Was ist über Schweißriemen korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7739,7 +7831,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schussdisziplin ist korrekt?",
+    "Frage": "Was ist über Schussdisziplin korrekt?",
     "Antwort": "Nur schießen, wenn Wild eindeutig angesprochen ist",
     "FalscheAntwort1": "Bei Bewegung immer sofort schießen",
     "FalscheAntwort2": "Bei Dämmerung reicht Umriss",
@@ -7749,8 +7841,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Schussdisziplin ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schussdisziplin ist korrekt?",
+    "FrageFreitext": "Was ist über Schussdisziplin korrekt?",
+    "FrageMC": "Was ist über Schussdisziplin korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7800,10 +7892,16 @@
     "FrageFreitext": "Welche Kernaufgabe hat ein Vorstehhund?",
     "FrageMC": "Welche Kernaufgabe hat ein Vorstehhund?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
-    "Frage": "Welche Aussage zu Einsatz eines Vorstehhund ist korrekt?",
+    "Frage": "Was ist über Einsatz eines Vorstehhund korrekt?",
     "Antwort": "Er wird entsprechend seiner Anlage für Vorstehen geführt",
     "FalscheAntwort1": "Er ersetzt den sicheren Kugelfang",
     "FalscheAntwort2": "Er darf ohne Gehorsam eingesetzt werden",
@@ -7813,10 +7911,16 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Einsatz eines Vorstehhund ist korrekt?",
-    "FrageMC": "Welche Aussage zu Einsatz eines Vorstehhund ist korrekt?",
+    "FrageFreitext": "Was ist über Einsatz eines Vorstehhund korrekt?",
+    "FrageMC": "Was ist über Einsatz eines Vorstehhund korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Deutsch Kurzhaar",
+      "Deutsch Drahthaar",
+      "Weimaraner",
+      "Kleiner Münsterländer",
+      "Großer Münsterländer"
+    ]
   },
   {
     "Frage": "Welche Kernaufgabe hat ein Schweißhund?",
@@ -7835,7 +7939,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Einsatz eines Schweißhund ist korrekt?",
+    "Frage": "Was ist über Einsatz eines Schweißhund korrekt?",
     "Antwort": "Er wird entsprechend seiner Anlage für Nachsuche auf Schalenwild geführt",
     "FalscheAntwort1": "Er ersetzt den sicheren Kugelfang",
     "FalscheAntwort2": "Er darf ohne Gehorsam eingesetzt werden",
@@ -7845,8 +7949,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Einsatz eines Schweißhund ist korrekt?",
-    "FrageMC": "Welche Aussage zu Einsatz eines Schweißhund ist korrekt?",
+    "FrageFreitext": "Was ist über Einsatz eines Schweißhund korrekt?",
+    "FrageMC": "Was ist über Einsatz eines Schweißhund korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7867,7 +7971,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Einsatz eines Stöberhund ist korrekt?",
+    "Frage": "Was ist über Einsatz eines Stöberhund korrekt?",
     "Antwort": "Er wird entsprechend seiner Anlage für Stöbern in Dickungen geführt",
     "FalscheAntwort1": "Er ersetzt den sicheren Kugelfang",
     "FalscheAntwort2": "Er darf ohne Gehorsam eingesetzt werden",
@@ -7877,8 +7981,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Einsatz eines Stöberhund ist korrekt?",
-    "FrageMC": "Welche Aussage zu Einsatz eines Stöberhund ist korrekt?",
+    "FrageFreitext": "Was ist über Einsatz eines Stöberhund korrekt?",
+    "FrageMC": "Was ist über Einsatz eines Stöberhund korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7931,7 +8035,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Einsatz eines Apportierhund ist korrekt?",
+    "Frage": "Was ist über Einsatz eines Apportierhund korrekt?",
     "Antwort": "Er wird entsprechend seiner Anlage für Bringen erlegten Wildes geführt",
     "FalscheAntwort1": "Er ersetzt den sicheren Kugelfang",
     "FalscheAntwort2": "Er darf ohne Gehorsam eingesetzt werden",
@@ -7941,8 +8045,8 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Einsatz eines Apportierhund ist korrekt?",
-    "FrageMC": "Welche Aussage zu Einsatz eines Apportierhund ist korrekt?",
+    "FrageFreitext": "Was ist über Einsatz eines Apportierhund korrekt?",
+    "FrageMC": "Was ist über Einsatz eines Apportierhund korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7963,7 +8067,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Drückjagd trifft ist korrekt?",
+    "Frage": "Was ist über Drückjagd trifft korrekt?",
     "Antwort": "klare Schusssektoren und Standruhe sind wesentlich",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -7973,8 +8077,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Drückjagd trifft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Drückjagd trifft ist korrekt?",
+    "FrageFreitext": "Was ist über Drückjagd trifft korrekt?",
+    "FrageMC": "Was ist über Drückjagd trifft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -7995,7 +8099,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Treibjagd trifft ist korrekt?",
+    "Frage": "Was ist über Treibjagd trifft korrekt?",
     "Antwort": "enge Abstimmung zwischen Schützen und Treibern ist notwendig",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8005,8 +8109,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Treibjagd trifft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Treibjagd trifft ist korrekt?",
+    "FrageFreitext": "Was ist über Treibjagd trifft korrekt?",
+    "FrageMC": "Was ist über Treibjagd trifft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8027,7 +8131,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Nachsuche trifft ist korrekt?",
+    "Frage": "Was ist über Nachsuche trifft korrekt?",
     "Antwort": "Anschusskontrolle und tierschutzgerechtes Handeln sind zentral",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8037,8 +8141,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Nachsuche trifft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Nachsuche trifft ist korrekt?",
+    "FrageFreitext": "Was ist über Nachsuche trifft korrekt?",
+    "FrageMC": "Was ist über Nachsuche trifft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8059,7 +8163,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Ansitzjagd trifft ist korrekt?",
+    "Frage": "Was ist über Ansitzjagd trifft korrekt?",
     "Antwort": "sichere Zielansprache vor Schuss ist zwingend",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8069,8 +8173,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Ansitzjagd trifft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Ansitzjagd trifft ist korrekt?",
+    "FrageFreitext": "Was ist über Ansitzjagd trifft korrekt?",
+    "FrageMC": "Was ist über Ansitzjagd trifft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8091,7 +8195,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Baujagd trifft ist korrekt?",
+    "Frage": "Was ist über Baujagd trifft korrekt?",
     "Antwort": "nur geeignete, brauchbare Hunde einsetzen",
     "FalscheAntwort1": "Sie erfordert keine Jagdleitung",
     "FalscheAntwort2": "Sie ist nur mit Kurzwaffen erlaubt",
@@ -8101,13 +8205,13 @@
     "Tags": [
       "hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu Baujagd trifft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Baujagd trifft ist korrekt?",
+    "FrageFreitext": "Was ist über Baujagd trifft korrekt?",
+    "FrageMC": "Was ist über Baujagd trifft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Leinenführung bei Gesellschaftsjagden ist korrekt?",
+    "Frage": "Was ist über die Leinenführung bei Gesellschaftsjagden korrekt?",
     "Antwort": "Sie richtet sich nach Sicherheitslage und Jagdleitung",
     "FalscheAntwort1": "Leine ist bei Treibern verboten",
     "FalscheAntwort2": "Hunde müssen immer unangeleint laufen",
@@ -8117,8 +8221,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zu die Leinenführung bei Gesellschaftsjagden ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Leinenführung bei Gesellschaftsjagden ist korrekt?",
+    "FrageFreitext": "Was ist über die Leinenführung bei Gesellschaftsjagden korrekt?",
+    "FrageMC": "Was ist über die Leinenführung bei Gesellschaftsjagden korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8139,7 +8243,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zur Schussdisziplin ist korrekt?",
+    "Frage": "Was gilt bei der Schussdisziplin?",
     "Antwort": "Nur schießen, wenn Wild eindeutig angesprochen ist",
     "FalscheAntwort1": "Bei Bewegung immer sofort schießen",
     "FalscheAntwort2": "Bei Dämmerung reicht Umriss",
@@ -8149,8 +8253,8 @@
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
-    "FrageFreitext": "Welche Aussage zur Schussdisziplin ist korrekt?",
-    "FrageMC": "Welche Aussage zur Schussdisziplin ist korrekt?",
+    "FrageFreitext": "Was gilt bei der Schussdisziplin?",
+    "FrageMC": "Was gilt bei der Schussdisziplin?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8328,7 +8432,12 @@
     "FrageFreitext": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
     "FrageMC": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Was ist Waidgerechtigkeit rechtlich betrachtet?",
@@ -8411,7 +8520,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu einem Unfall mit Schalenwild auf der Straße ist korrekt?",
+    "Frage": "Was ist über einem Unfall mit Schalenwild auf der Straße korrekt?",
     "Antwort": "Unfallstelle sichern und Polizei informieren",
     "FalscheAntwort1": "Wild sofort ins Auto laden",
     "FalscheAntwort2": "Weiterfahren ohne Meldung",
@@ -8421,10 +8530,16 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu einem Unfall mit Schalenwild auf der Straße ist korrekt?",
-    "FrageMC": "Welche Aussage zu einem Unfall mit Schalenwild auf der Straße ist korrekt?",
+    "FrageFreitext": "Was ist über einem Unfall mit Schalenwild auf der Straße korrekt?",
+    "FrageMC": "Was ist über einem Unfall mit Schalenwild auf der Straße korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild",
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
@@ -8555,7 +8670,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Hegegemeinschaft ist korrekt?",
+    "Frage": "Was ist über Hegegemeinschaft korrekt?",
     "Antwort": "Sie dient der revierübergreifenden Abstimmung, besonders beim Schalenwild",
     "FalscheAntwort1": "Sie ersetzt die Jagdbehörde",
     "FalscheAntwort2": "Sie ist für Führerscheine zuständig",
@@ -8565,8 +8680,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Hegegemeinschaft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Hegegemeinschaft ist korrekt?",
+    "FrageFreitext": "Was ist über Hegegemeinschaft korrekt?",
+    "FrageMC": "Was ist über Hegegemeinschaft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8619,7 +8734,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Jagdausübung ist korrekt?",
+    "Frage": "Was ist über Jagdausübung korrekt?",
     "Antwort": "Aufsuchen, Nachstellen, Erlegen, Fangen",
     "FalscheAntwort1": "nur Erlegen",
     "FalscheAntwort2": "nur Hege",
@@ -8629,13 +8744,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Jagdausübung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Jagdausübung ist korrekt?",
+    "FrageFreitext": "Was ist über Jagdausübung korrekt?",
+    "FrageMC": "Was ist über Jagdausübung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Jagdgenossenschaft ist korrekt?",
+    "Frage": "Was ist über Jagdgenossenschaft korrekt?",
     "Antwort": "Zusammenschluss der Grundstückseigentümer",
     "FalscheAntwort1": "Verein der Jagdscheininhaber",
     "FalscheAntwort2": "Behörde des Landkreises",
@@ -8645,13 +8760,13 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Jagdgenossenschaft ist korrekt?",
-    "FrageMC": "Welche Aussage zu Jagdgenossenschaft ist korrekt?",
+    "FrageFreitext": "Was ist über Jagdgenossenschaft korrekt?",
+    "FrageMC": "Was ist über Jagdgenossenschaft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Waidgerechtigkeit ist korrekt?",
+    "Frage": "Was ist über Waidgerechtigkeit korrekt?",
     "Antwort": "anerkannte ethische Grundsätze der Jagd",
     "FalscheAntwort1": "nur freiwillige Tradition",
     "FalscheAntwort2": "reiner Schießstandard",
@@ -8661,13 +8776,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Waidgerechtigkeit ist korrekt?",
-    "FrageMC": "Welche Aussage zu Waidgerechtigkeit ist korrekt?",
+    "FrageFreitext": "Was ist über Waidgerechtigkeit korrekt?",
+    "FrageMC": "Was ist über Waidgerechtigkeit korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu befriedeter Bezirk ist korrekt?",
+    "Frage": "Was ist über befriedeter Bezirk korrekt?",
     "Antwort": "Fläche mit ruhender/eingeschränkter Jagd",
     "FalscheAntwort1": "jeder Privatwald mit Jagdpflicht",
     "FalscheAntwort2": "nur Hochwildrevier",
@@ -8677,13 +8792,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu befriedeter Bezirk ist korrekt?",
-    "FrageMC": "Welche Aussage zu befriedeter Bezirk ist korrekt?",
+    "FrageFreitext": "Was ist über befriedeter Bezirk korrekt?",
+    "FrageMC": "Was ist über befriedeter Bezirk korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Wildschaden Feldflur ist korrekt?",
+    "Frage": "Was ist über Wildschaden Feldflur korrekt?",
     "Antwort": "fristgerechte Meldung ist erforderlich",
     "FalscheAntwort1": "Meldung erst nach Ernte",
     "FalscheAntwort2": "nur mündlich beim Nachbarn",
@@ -8693,13 +8808,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Wildschaden Feldflur ist korrekt?",
-    "FrageMC": "Welche Aussage zu Wildschaden Feldflur ist korrekt?",
+    "FrageFreitext": "Was ist über Wildschaden Feldflur korrekt?",
+    "FrageMC": "Was ist über Wildschaden Feldflur korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Abschussplan ist korrekt?",
+    "Frage": "Was ist über Abschussplan korrekt?",
     "Antwort": "regelt v. a. Schalenwildabschüsse",
     "FalscheAntwort1": "gilt nur für Niederwild",
     "FalscheAntwort2": "ist optional ohne Bindung",
@@ -8709,8 +8824,8 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Abschussplan ist korrekt?",
-    "FrageMC": "Welche Aussage zu Abschussplan ist korrekt?",
+    "FrageFreitext": "Was ist über Abschussplan korrekt?",
+    "FrageMC": "Was ist über Abschussplan korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8731,7 +8846,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
+    "Frage": "Was ist über Schutzgebietsjagd korrekt?",
     "Antwort": "richtet sich nach Schutzgebietsverordnung",
     "FalscheAntwort1": "nur nach Wunsch des Pächters",
     "FalscheAntwort2": "ist überall gleich geregelt",
@@ -8741,8 +8856,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
+    "FrageFreitext": "Was ist über Schutzgebietsjagd korrekt?",
+    "FrageMC": "Was ist über Schutzgebietsjagd korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8779,7 +8894,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Mastjahr im Reviermanagement korrekt?",
     "Antwort": "starke Fruktifikation von Waldbäumen",
     "FalscheAntwort1": "jährlicher Holzeinschlag",
     "FalscheAntwort2": "Bodenkalkung",
@@ -8789,8 +8904,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Mastjahr im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Mastjahr im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8811,7 +8926,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Waldumbau im Reviermanagement korrekt?",
     "Antwort": "standortgerechte klimaresiliente Mischbestände",
     "FalscheAntwort1": "Monokultur ausweiten",
     "FalscheAntwort2": "ausschließlich Kahlschlag",
@@ -8821,8 +8936,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Waldumbau im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Waldumbau im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8843,7 +8958,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Fichte im Reviermanagement korrekt?",
     "Antwort": "Flachwurzler und trockenheitsempfindlich",
     "FalscheAntwort1": "Tiefwurzler mit hoher Dürretoleranz",
     "FalscheAntwort2": "typische Auenbaumart",
@@ -8853,8 +8968,8 @@
     "Tags": [
       "waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Fichte im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Fichte im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -8939,7 +9054,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Wildfolge ist korrekt?",
+    "Frage": "Was ist über die Wildfolge korrekt?",
     "Antwort": "Sie ist nur im rechtlich zulässigen Rahmen im Nachbarrevier erlaubt",
     "FalscheAntwort1": "Sie ist überall ohne Einschränkung erlaubt",
     "FalscheAntwort2": "Sie ist grundsätzlich verboten",
@@ -8949,8 +9064,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu die Wildfolge ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Wildfolge ist korrekt?",
+    "FrageFreitext": "Was ist über die Wildfolge korrekt?",
+    "FrageMC": "Was ist über die Wildfolge korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9099,7 +9214,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Hegegemeinschaft ist korrekt?",
+    "Frage": "Was ist über die Hegegemeinschaft korrekt?",
     "Antwort": "Sie dient der revierübergreifenden Abstimmung, besonders beim Schalenwild",
     "FalscheAntwort1": "Sie ersetzt die Jagdbehörde",
     "FalscheAntwort2": "Sie ist für Führerscheine zuständig",
@@ -9109,13 +9224,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu die Hegegemeinschaft ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Hegegemeinschaft ist korrekt?",
+    "FrageFreitext": "Was ist über die Hegegemeinschaft korrekt?",
+    "FrageMC": "Was ist über die Hegegemeinschaft korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Biotophege im Reviermanagement korrekt?",
     "Antwort": "Verbesserung von Lebensräumen",
     "FalscheAntwort1": "ausschließlich Winterfütterung",
     "FalscheAntwort2": "nur Wegebau",
@@ -9125,8 +9240,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Biotophege im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Biotophege im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9147,7 +9262,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Mastjahr im Reviermanagement korrekt?",
     "Antwort": "starke Fruktifikation von Waldbäumen",
     "FalscheAntwort1": "jährlicher Holzeinschlag",
     "FalscheAntwort2": "Bodenkalkung",
@@ -9157,8 +9272,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Mastjahr im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Mastjahr im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9179,7 +9294,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Waldumbau im Reviermanagement korrekt?",
     "Antwort": "standortgerechte klimaresiliente Mischbestände",
     "FalscheAntwort1": "Monokultur ausweiten",
     "FalscheAntwort2": "ausschließlich Kahlschlag",
@@ -9189,8 +9304,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Waldumbau im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Waldumbau im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Waldumbau im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9211,7 +9326,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Fichte im Reviermanagement korrekt?",
     "Antwort": "Flachwurzler und trockenheitsempfindlich",
     "FalscheAntwort1": "Tiefwurzler mit hoher Dürretoleranz",
     "FalscheAntwort2": "typische Auenbaumart",
@@ -9221,8 +9336,8 @@
     "Tags": [
       "waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Fichte im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Fichte im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Fichte im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9243,7 +9358,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
+    "Frage": "Was ist über Naturschutz im Reviermanagement korrekt?",
     "Antwort": "Erhalt von Arten und Funktionen",
     "FalscheAntwort1": "nur jagdbare Arten maximieren",
     "FalscheAntwort2": "nur Trophäenträger fördern",
@@ -9253,8 +9368,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
-    "FrageMC": "Welche Aussage zu Naturschutz im Reviermanagement ist korrekt?",
+    "FrageFreitext": "Was ist über Naturschutz im Reviermanagement korrekt?",
+    "FrageMC": "Was ist über Naturschutz im Reviermanagement korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9368,7 +9483,12 @@
     "FrageFreitext": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
     "FrageMC": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rotwild",
+      "Damwild",
+      "Muffelwild",
+      "Schwarzwild"
+    ]
   },
   {
     "Frage": "Wählen Sie die richtige Antwort: Was ist Waidgerechtigkeit rechtlich betrachtet?",
@@ -9595,7 +9715,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Jagdausübung ist korrekt?",
+    "Frage": "Was ist über Jagdausübung korrekt?",
     "Antwort": "Aufsuchen, Nachstellen, Erlegen, Fangen",
     "FalscheAntwort1": "nur Erlegen",
     "FalscheAntwort2": "nur Hege",
@@ -9605,8 +9725,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Jagdausübung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Jagdausübung ist korrekt?",
+    "FrageFreitext": "Was ist über Jagdausübung korrekt?",
+    "FrageMC": "Was ist über Jagdausübung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9755,7 +9875,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
+    "Frage": "Was ist über Schutzgebietsjagd korrekt?",
     "Antwort": "richtet sich nach Schutzgebietsverordnung",
     "FalscheAntwort1": "nur nach Wunsch des Pächters",
     "FalscheAntwort2": "ist überall gleich geregelt",
@@ -9765,8 +9885,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schutzgebietsjagd ist korrekt?",
+    "FrageFreitext": "Was ist über Schutzgebietsjagd korrekt?",
+    "FrageMC": "Was ist über Schutzgebietsjagd korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9867,7 +9987,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Wildschaden ist korrekt?",
+    "Frage": "Was ist über Wildschaden korrekt?",
     "Antwort": "Ansprüche sind fristgebunden geltend zu machen",
     "FalscheAntwort1": "Nur Schäden im Wald zählen",
     "FalscheAntwort2": "Nur mündliche Meldung genügt immer",
@@ -9877,8 +9997,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Wildschaden ist korrekt?",
-    "FrageMC": "Welche Aussage zu Wildschaden ist korrekt?",
+    "FrageFreitext": "Was ist über Wildschaden korrekt?",
+    "FrageMC": "Was ist über Wildschaden korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9899,7 +10019,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Hege ist korrekt?",
+    "Frage": "Was ist über Hege korrekt?",
     "Antwort": "Sie umfasst Pflege von Wild und Lebensraum",
     "FalscheAntwort1": "Sie ist nur bei Hochwild erlaubt",
     "FalscheAntwort2": "Sie ersetzt Naturschutzrecht",
@@ -9909,8 +10029,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Hege ist korrekt?",
-    "FrageMC": "Welche Aussage zu Hege ist korrekt?",
+    "FrageFreitext": "Was ist über Hege korrekt?",
+    "FrageMC": "Was ist über Hege korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9963,7 +10083,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Verkehrsunfallmeldung mit Wild ist korrekt?",
+    "Frage": "Was ist über Verkehrsunfallmeldung mit Wild korrekt?",
     "Antwort": "Unfallstelle sichern und zuständige Stellen informieren",
     "FalscheAntwort1": "Nur Versicherung später informieren",
     "FalscheAntwort2": "Keine Meldung nötig, wenn Fahrzeug fahrbereit",
@@ -9973,8 +10093,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Verkehrsunfallmeldung mit Wild ist korrekt?",
-    "FrageMC": "Welche Aussage zu Verkehrsunfallmeldung mit Wild ist korrekt?",
+    "FrageFreitext": "Was ist über Verkehrsunfallmeldung mit Wild korrekt?",
+    "FrageMC": "Was ist über Verkehrsunfallmeldung mit Wild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -10011,7 +10131,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Wildschadensverfahren ist korrekt?",
+    "Frage": "Was ist über Wildschadensverfahren korrekt?",
     "Antwort": "Fristen und formgerechte Meldung sind einzuhalten",
     "FalscheAntwort1": "Sie ist rechtlich bedeutungslos",
     "FalscheAntwort2": "Sie gilt nur für Forstbeamte",
@@ -10021,13 +10141,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Wildschadensverfahren ist korrekt?",
-    "FrageMC": "Welche Aussage zu Wildschadensverfahren ist korrekt?",
+    "FrageFreitext": "Was ist über Wildschadensverfahren korrekt?",
+    "FrageMC": "Was ist über Wildschadensverfahren korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Abschussplanung ist korrekt?",
+    "Frage": "Was ist über Abschussplanung korrekt?",
     "Antwort": "dient der geordneten Bewirtschaftung v.a. beim Schalenwild",
     "FalscheAntwort1": "Sie ist rechtlich bedeutungslos",
     "FalscheAntwort2": "Sie gilt nur für Forstbeamte",
@@ -10037,13 +10157,13 @@
     "Tags": [
       "jagdrecht"
     ],
-    "FrageFreitext": "Welche Aussage zu Abschussplanung ist korrekt?",
-    "FrageMC": "Welche Aussage zu Abschussplanung ist korrekt?",
+    "FrageFreitext": "Was ist über Abschussplanung korrekt?",
+    "FrageMC": "Was ist über Abschussplanung korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Schutzgebiet ist korrekt?",
+    "Frage": "Was ist über Schutzgebiet korrekt?",
     "Antwort": "maßgeblich sind die Regelungen der Schutzgebietsverordnung",
     "FalscheAntwort1": "Sie ist rechtlich bedeutungslos",
     "FalscheAntwort2": "Sie gilt nur für Forstbeamte",
@@ -10053,8 +10173,8 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Schutzgebiet ist korrekt?",
-    "FrageMC": "Welche Aussage zu Schutzgebiet ist korrekt?",
+    "FrageFreitext": "Was ist über Schutzgebiet korrekt?",
+    "FrageMC": "Was ist über Schutzgebiet korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -10075,7 +10195,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Monokultur im Revier ist korrekt?",
+    "Frage": "Was ist über Monokultur im Revier korrekt?",
     "Antwort": "ist gegenüber Risiken oft anfälliger",
     "FalscheAntwort1": "Sie hat keinen Einfluss auf Wildlebensräume",
     "FalscheAntwort2": "Sie ersetzt das Jagdrecht vollständig",
@@ -10085,13 +10205,13 @@
     "Tags": [
       "waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Monokultur im Revier ist korrekt?",
-    "FrageMC": "Welche Aussage zu Monokultur im Revier ist korrekt?",
+    "FrageFreitext": "Was ist über Monokultur im Revier korrekt?",
+    "FrageMC": "Was ist über Monokultur im Revier korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Biotophege im Revier ist korrekt?",
+    "Frage": "Was ist über Biotophege im Revier korrekt?",
     "Antwort": "verbessert Lebensräume für Wild und andere Arten",
     "FalscheAntwort1": "Sie hat keinen Einfluss auf Wildlebensräume",
     "FalscheAntwort2": "Sie ersetzt das Jagdrecht vollständig",
@@ -10101,13 +10221,13 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Welche Aussage zu Biotophege im Revier ist korrekt?",
-    "FrageMC": "Welche Aussage zu Biotophege im Revier ist korrekt?",
+    "FrageFreitext": "Was ist über Biotophege im Revier korrekt?",
+    "FrageMC": "Was ist über Biotophege im Revier korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Naturverjüngung im Revier ist korrekt?",
+    "Frage": "Was ist über Naturverjüngung im Revier korrekt?",
     "Antwort": "nutzt standortangepasste Nachwuchsentwicklung",
     "FalscheAntwort1": "Sie hat keinen Einfluss auf Wildlebensräume",
     "FalscheAntwort2": "Sie ersetzt das Jagdrecht vollständig",
@@ -10117,13 +10237,13 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Naturverjüngung im Revier ist korrekt?",
-    "FrageMC": "Welche Aussage zu Naturverjüngung im Revier ist korrekt?",
+    "FrageFreitext": "Was ist über Naturverjüngung im Revier korrekt?",
+    "FrageMC": "Was ist über Naturverjüngung im Revier korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu Wildschadensprävention im Revier ist korrekt?",
+    "Frage": "Was ist über Wildschadensprävention im Revier korrekt?",
     "Antwort": "kombiniert jagdliche und land-/forstliche Maßnahmen",
     "FalscheAntwort1": "Sie hat keinen Einfluss auf Wildlebensräume",
     "FalscheAntwort2": "Sie ersetzt das Jagdrecht vollständig",
@@ -10133,8 +10253,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu Wildschadensprävention im Revier ist korrekt?",
-    "FrageMC": "Welche Aussage zu Wildschadensprävention im Revier ist korrekt?",
+    "FrageFreitext": "Was ist über Wildschadensprävention im Revier korrekt?",
+    "FrageMC": "Was ist über Wildschadensprävention im Revier korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -10171,7 +10291,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu die Verkehrsunfallmeldung mit Wild ist korrekt?",
+    "Frage": "Was ist über die Verkehrsunfallmeldung mit Wild korrekt?",
     "Antwort": "Unfallstelle sichern und zuständige Stellen informieren",
     "FalscheAntwort1": "Nur Versicherung später informieren",
     "FalscheAntwort2": "Keine Meldung nötig, wenn Fahrzeug fahrbereit",
@@ -10181,8 +10301,8 @@
     "Tags": [
       "jagdrecht_naturschutz_land-_waldbau"
     ],
-    "FrageFreitext": "Welche Aussage zu die Verkehrsunfallmeldung mit Wild ist korrekt?",
-    "FrageMC": "Welche Aussage zu die Verkehrsunfallmeldung mit Wild ist korrekt?",
+    "FrageFreitext": "Was ist über die Verkehrsunfallmeldung mit Wild korrekt?",
+    "FrageMC": "Was ist über die Verkehrsunfallmeldung mit Wild korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },

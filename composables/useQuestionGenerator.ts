@@ -75,10 +75,14 @@ export const useQuestionGenerator = () => {
       throw new Error(`Nicht genug MC-Fragen im Fach ${subject}. Vorhanden: ${pool.length}`)
     }
 
+    const multiCandidates = shuffle(pool.filter(q => (q.AlternativeAntworten || []).length > 0)).slice(0, 5)
+    const restPool = pool.filter(q => !multiCandidates.includes(q))
+    const picked = [...multiCandidates, ...shuffle(restPool).slice(0, 20 - multiCandidates.length)]
+
     return {
       subject,
       createdAt: new Date().toISOString(),
-      questions: shuffle(pool).slice(0, 20),
+      questions: shuffle(picked).slice(0, 20),
     }
   }
 
