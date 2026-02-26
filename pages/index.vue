@@ -442,12 +442,22 @@ const isAiEligible = (q: Question) => {
 }
 
 const startAi = () => {
-  const set = generateMcSubject(aiSelectedSubject.value)
-  const preferred = set.questions.filter(isAiEligible)
-  const fallback = set.questions.filter(q => !preferred.includes(q))
+  // Build a 20-question set from AI-eligible questions only.
+  const selected: Question[] = []
+  const seen = new Set<string>()
 
-  // Always keep exactly 20 questions per run.
-  aiQuestions.value = [...preferred, ...fallback].slice(0, 20)
+  for (let attempt = 0; attempt < 12 && selected.length < 20; attempt++) {
+    const set = generateMcSubject(aiSelectedSubject.value)
+    for (const q of set.questions.filter(isAiEligible)) {
+      const key = (q.FrageFreitext || q.Frage || '').toLowerCase().trim()
+      if (seen.has(key)) continue
+      seen.add(key)
+      selected.push(q)
+      if (selected.length >= 20) break
+    }
+  }
+
+  aiQuestions.value = selected.slice(0, 20)
 
   aiStarted.value = true
   aiIndex.value = 0
