@@ -141,7 +141,7 @@ interface McQuestion extends Question {
 
 const { subjects, generate, generateMcSubject, generateMcFull } = useQuestionGenerator()
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
-const { public: { appVersion } } = useRuntimeConfig()
+const { public: { appVersion, aiApiBase } } = useRuntimeConfig()
 
 const mode = ref<'pdf' | 'mc' | 'ai'>('pdf')
 
@@ -375,7 +375,8 @@ const submitAiAnswer = async () => {
   aiReason.value = ''
 
   try {
-    const result = await $fetch<{ score: number, reason?: string }>('/api/ai-evaluate', {
+    const endpoint = aiApiBase ? `${aiApiBase.replace(/\/$/, '')}/ai-evaluate` : '/api/ai-evaluate'
+    const result = await $fetch<{ score: number, reason?: string }>(endpoint, {
       method: 'POST',
       body: {
         question: aiCurrent.value.FrageFreitext || aiCurrent.value.Frage,

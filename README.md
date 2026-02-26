@@ -23,6 +23,24 @@ npm run generate
 
 The GitHub Action in `.github/workflows/deploy.yml` deploys automatically on push to `main`.
 
+## Monorepo structure
+- `./` = Nuxt web app (GitHub Pages)
+- `./api` = AI evaluation API (Docker deploy to your server)
+
+## AI API deploy (server)
+Workflow: `.github/workflows/deploy-api.yml`
+
+Required repository secrets:
+- `SSH_HOST`
+- `SSH_USER`
+- `SSH_PRIVATE_KEY`
+- `API_DEPLOY_PATH` (e.g. `/opt/jagdkurs-pruefungs-generator/api`)
+
+On the server, set `OPENAI_API_KEY` (or `CHATGPT_API_KEY`) in `${API_DEPLOY_PATH}/.env`.
+
+Set web app API base URL at build/deploy time:
+- `NUXT_PUBLIC_AI_API_BASE=https://<your-api-domain-or-ip>:8080`
+
 ## WhatsApp notification after each deploy
 Configured in workflow with two options:
 

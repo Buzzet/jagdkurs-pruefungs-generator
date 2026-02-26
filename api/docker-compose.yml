@@ -1,0 +1,9 @@
+services:
+  jagdkurs-ai-api:
+    image: jagdkurs-ai-api:latest
+    container_name: jagdkurs-ai-api
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"

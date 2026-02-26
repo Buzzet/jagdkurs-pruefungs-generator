@@ -1,6 +1,7 @@
 .nuxt
 .output
 node_modules
+api/node_modules
 .DS_Store
 .env
 .env.*

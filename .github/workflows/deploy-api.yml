@@ -1,0 +1,72 @@
+name: Deploy AI API
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'api/**'
+      - '.github/workflows/deploy-api.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy-api:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build ./api --file ./api/Dockerfile --tag jagdkurs-ai-api:latest
+
+      - name: Save Docker image as tar
+        run: docker save jagdkurs-ai-api:latest > jagdkurs-ai-api.tar
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: 'placeholder'
+
+      - name: Accept host key
+        run: ssh -o StrictHostKeyChecking=accept-new ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} 'echo ok'
+
+      - name: Deploy artifacts via rsync
+        run: |
+          rsync -e "ssh" -avz jagdkurs-ai-api.tar ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.API_DEPLOY_PATH }}/
+          rsync -e "ssh" -avz api/docker-compose.yml ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.API_DEPLOY_PATH }}/docker-compose.yml
+          rsync -e "ssh" -avz api/.env.example ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.API_DEPLOY_PATH }}/.env.example
+
+      - name: Ensure .env exists
+        uses: appleboy/ssh-action@v1.1.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            mkdir -p ${{ secrets.API_DEPLOY_PATH }}
+            if [ ! -f ${{ secrets.API_DEPLOY_PATH }}/.env ]; then
+              cp ${{ secrets.API_DEPLOY_PATH }}/.env.example ${{ secrets.API_DEPLOY_PATH }}/.env
+            fi
+
+      - name: Stop old api
+        uses: appleboy/ssh-action@v1.1.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: docker stop jagdkurs-ai-api || true
+
+      - name: Load new Docker image
+        uses: appleboy/ssh-action@v1.1.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: docker load < ${{ secrets.API_DEPLOY_PATH }}/jagdkurs-ai-api.tar
+
+      - name: Start new api
+        uses: appleboy/ssh-action@v1.1.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: docker compose --file ${{ secrets.API_DEPLOY_PATH }}/docker-compose.yml up -d

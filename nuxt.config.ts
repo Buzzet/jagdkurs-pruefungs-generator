@@ -9,7 +9,8 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      appVersion: process.env.NUXT_APP_VERSION || 'v1.0.0'
+      appVersion: process.env.NUXT_APP_VERSION || 'v1.0.0',
+      aiApiBase: process.env.NUXT_PUBLIC_AI_API_BASE || ''
     }
   },
   compatibilityDate: '2026-02-26'
