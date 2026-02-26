@@ -9,7 +9,6 @@
         <p class="muted">Prüfungsfragen als PDF, Multiple Choice und KI-Freitext</p>
       </div>
       <div class="hero-actions">
-        <button class="alert-btn" :disabled="!reportQuestion" @click="openReportModal">!</button>
         <div class="pill">{{ appVersion }}</div>
       </div>
     </section>
@@ -60,7 +59,10 @@
           — Frage {{ mcIndex + 1 }} / {{ mcQuestions.length }}
         </p>
 
-        <h3>{{ mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
+        <div class="question-head">
+          <h3>{{ mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
+          <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
+        </div>
         <p class="muted small">Mehrfachantworten möglich ({{ mcCurrent.correctAnswers.length }} richtige Antwort{{ mcCurrent.correctAnswers.length === 1 ? '' : 'en' }}).</p>
 
         <div class="options">
@@ -111,7 +113,10 @@
 
       <div v-else-if="aiCurrent">
         <p class="muted">{{ aiCurrent.Pruefungsfach }} — Frage {{ aiIndex + 1 }} / {{ aiQuestions.length }}</p>
-        <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
+        <div class="question-head">
+          <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
+          <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
+        </div>
         <textarea v-model="aiUserAnswer" rows="6" class="freeform" placeholder="Deine Antwort im Prüfungsstil..." />
 
         <div class="row">
@@ -551,11 +556,20 @@ const submitReport = async () => {
   border-radius: 999px;
   font-size: .85rem;
 }
-.alert-btn {
-  width: 2.1rem;
-  height: 2.1rem;
-  border-radius: 999px;
-  font-weight: 800;
+.question-head {
+  display: flex;
+  gap: .8rem;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.question-head h3 { margin: 0; }
+.report-inline {
+  white-space: nowrap;
+  font-size: .88rem;
+  padding: .45rem .65rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255,180,120,.45);
+  background: rgba(255,150,80,.12);
 }
 
 .liquid {
@@ -577,6 +591,10 @@ const submitReport = async () => {
   border-radius: 14px;
 }
 .light .liquid-soft { border-color: rgba(15,23,42,.12); background: rgba(255,255,255,.7); }
+.light .report-inline {
+  border-color: rgba(180,95,20,.35);
+  background: rgba(255,188,120,.35);
+}
 
 .card { margin-top: 1rem; padding: 1rem 1.1rem; }
 .card h2 { margin: 0 0 .75rem; }
