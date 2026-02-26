@@ -126,6 +126,14 @@
 
         <p v-if="aiAnswered" class="ok">Punkte für diese Frage: {{ aiLastScore }} / 2</p>
         <p v-if="aiReason" class="muted">Hinweis: {{ aiReason }}</p>
+
+        <div v-if="aiAnswered && aiLastScore < 2" class="solution-box liquid-soft">
+          <strong>Musterlösung:</strong>
+          <p>{{ aiCurrent.Antwort }}</p>
+          <p v-if="(aiCurrent.AlternativeAntworten || []).length" class="muted small">
+            Weitere akzeptierte Antworten: {{ aiCurrent.AlternativeAntworten?.join(', ') }}
+          </p>
+        </div>
       </div>
 
       <div v-else class="card-sub liquid-soft">
@@ -676,5 +684,11 @@ button.ghost { min-width: 2.6rem; }
   border: 1px solid rgba(255,255,255,.15);
   margin: .6rem 0;
 }
+.solution-box {
+  margin-top: .8rem;
+  padding: .7rem .8rem;
+  border-radius: 12px;
+}
+.solution-box p { margin: .35rem 0 0; }
 .light .quote { background: rgba(255,255,255,.9); border-color: rgba(15,23,42,.12); }
 </style>
