@@ -56,10 +56,10 @@ Regeln:
 - 0 = falsch
 - 1 = teilweise richtig
 - 2 = Kernaussagen korrekt
-- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles..."):
-  - 2 nur, wenn ausschließlich korrekte Beispiele genannt sind
-  - 1 bei Mischung aus korrekten und falschen Beispielen
-  - 0 bei nur falschen Beispielen`;
+- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles...") gilt ausdrücklich:
+  - Wenn die geforderten/korrekten Punkte enthalten sind, KEIN Punktabzug für zusätzliche Nennungen.
+  - Zusätzliche Nennungen sind erlaubt, solange sie die korrekten Kernaussagen nicht widersprechen.
+  - Nur klare fachliche Falschaussagen oder fehlende Kernaussagen führen zu Abzug.`;
 
   const response = await fetch('https://api.openai.com/v1/responses', {
     method: 'POST',

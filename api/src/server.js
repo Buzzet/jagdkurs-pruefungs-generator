@@ -136,7 +136,7 @@ app.post('/ai-evaluate', async (req, res) => {
   }
 
   const accepted = [modelAnswer, ...(alternativeAnswers || [])].filter(Boolean)
-  const prompt = `Bewerte eine Jagdkurs-Prüfungsantwort.\n\nFrage: ${question}\nMusterantwort: ${modelAnswer}\nWeitere akzeptierte Antworten: ${accepted.join(', ')}\nNutzerantwort: ${userAnswer || ''}\n\nGib ausschließlich JSON zurück mit:\n{"score":0|1|2,"reason":"kurz"}\n\nRegeln:\n- 0 = falsch\n- 1 = teilweise richtig\n- 2 = Kernaussagen korrekt\n- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles..."):\n  - 2 nur, wenn ausschließlich korrekte Beispiele genannt sind\n  - 1, wenn Mischung aus korrekten und falschen Beispielen\n  - 0, wenn nur falsche Beispiele`;
+  const prompt = `Bewerte eine Jagdkurs-Prüfungsantwort.\n\nFrage: ${question}\nMusterantwort: ${modelAnswer}\nWeitere akzeptierte Antworten: ${accepted.join(', ')}\nNutzerantwort: ${userAnswer || ''}\n\nGib ausschließlich JSON zurück mit:\n{"score":0|1|2,"reason":"kurz"}\n\nRegeln:\n- 0 = falsch\n- 1 = teilweise richtig\n- 2 = Kernaussagen korrekt\n- Bei Aufzählungsfragen ("Nennen Sie...", "Was gehört alles...") gilt ausdrücklich:\n  - Wenn die geforderten/korrekten Punkte enthalten sind, KEIN Punktabzug für zusätzliche Nennungen.\n  - Zusätzliche Nennungen sind erlaubt, solange sie die korrekten Kernaussagen nicht widersprechen.\n  - Nur klare fachliche Falschaussagen oder fehlende Kernaussagen führen zu Abzug.`;
 
   try {
     const response = await fetch('https://api.openai.com/v1/responses', {
