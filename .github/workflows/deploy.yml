@@ -43,21 +43,27 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Notify WhatsApp via Webhook (success)
-        if: ${{ success() && secrets.WHATSAPP_WEBHOOK_URL != '' }}
+      - name: Notify WhatsApp (success)
+        if: ${{ success() }}
         run: |
-          curl -sS -X POST "$WHATSAPP_WEBHOOK_URL" \
-            -H "Content-Type: application/json" \
-            -d "{\"message\":\"✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}\"}"
+          MSG="✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}"
+
+          if [ -n "$WHATSAPP_WEBHOOK_URL" ]; then
+            curl -sS -X POST "$WHATSAPP_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d "{\"message\":\"${MSG}\"}"
+            exit 0
+          fi
+
+          if [ -n "$WHATSAPP_PHONE" ] && [ -n "$WHATSAPP_APIKEY" ]; then
+            ENCODED_TEXT=$(python3 -c 'import urllib.parse,os; print(urllib.parse.quote(os.environ["MSG"]))')
+            curl -sS "https://api.callmebot.com/whatsapp.php?phone=${WHATSAPP_PHONE}&apikey=${WHATSAPP_APIKEY}&text=${ENCODED_TEXT}"
+            exit 0
+          fi
+
+          echo "No WhatsApp secrets configured; skipping notification."
         env:
           WHATSAPP_WEBHOOK_URL: ${{ secrets.WHATSAPP_WEBHOOK_URL }}
-
-      - name: Notify WhatsApp via CallMeBot (success)
-        if: ${{ success() && secrets.WHATSAPP_WEBHOOK_URL == '' && secrets.WHATSAPP_PHONE != '' && secrets.WHATSAPP_APIKEY != '' }}
-        run: |
-          ENCODED_TEXT=$(python3 -c 'import urllib.parse,os; print(urllib.parse.quote(os.environ["MSG"]))')
-          curl -sS "https://api.callmebot.com/whatsapp.php?phone=${WHATSAPP_PHONE}&apikey=${WHATSAPP_APIKEY}&text=${ENCODED_TEXT}"
-        env:
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
           MSG: "✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}"
