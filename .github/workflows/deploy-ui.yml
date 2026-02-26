@@ -1,0 +1,61 @@
+name: Deploy UI to Server
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'pages/**'
+      - 'components/**'
+      - 'composables/**'
+      - 'assets/**'
+      - 'public/**'
+      - 'app.vue'
+      - 'nuxt.config.ts'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/deploy-ui.yml'
+      - 'ui/**'
+  workflow_dispatch:
+
+jobs:
+  deploy-ui:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+      - run: npm run generate
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: 'placeholder'
+
+      - name: Accept host key
+        run: ssh -o StrictHostKeyChecking=accept-new ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} 'echo ok'
+
+      - name: Sync UI files
+        run: |
+          ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} 'mkdir -p /opt/jagdkurs-pruefungs-generator/ui'
+          rsync -e "ssh" -avz --delete .output/public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/opt/jagdkurs-pruefungs-generator/ui/
+
+      - name: Sync UI compose/nginx config
+        run: |
+          rsync -e "ssh" -avz ui/docker-compose.ui.yml ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/opt/jagdkurs-pruefungs-generator/docker-compose.ui.yml
+          rsync -e "ssh" -avz ui/nginx.ui.conf ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/opt/jagdkurs-pruefungs-generator/nginx.ui.conf
+
+      - name: Restart UI container
+        uses: appleboy/ssh-action@v1.1.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd /opt/jagdkurs-pruefungs-generator
+            docker compose -f docker-compose.ui.yml up -d
