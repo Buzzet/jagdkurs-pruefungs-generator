@@ -673,8 +673,9 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
@@ -1918,8 +1919,9 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
@@ -2428,7 +2430,7 @@
     ],
     "FrageFreitext": "Was ist über den Dachs korrekt?",
     "FrageMC": "Was ist über den Dachs korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -2616,7 +2618,7 @@
     ],
     "FrageFreitext": "Was ist über Nutria korrekt?",
     "FrageMC": "Was ist über Nutria korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -4120,7 +4122,7 @@
     ],
     "FrageFreitext": "Was ist über „Geschossknall“ korrekt?",
     "FrageMC": "Was ist über „Geschossknall“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6437,7 +6439,7 @@
     ],
     "FrageFreitext": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "FrageMC": "Was ist über „Inbesitznahmebruch“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6453,7 +6455,7 @@
     ],
     "FrageFreitext": "Was ist über „Inbesitznahmebruch“ korrekt?",
     "FrageMC": "Was ist über „Inbesitznahmebruch“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6469,7 +6471,7 @@
     ],
     "FrageFreitext": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "FrageMC": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6485,7 +6487,7 @@
     ],
     "FrageFreitext": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "FrageMC": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6501,7 +6503,7 @@
     ],
     "FrageFreitext": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "FrageMC": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6517,7 +6519,7 @@
     ],
     "FrageFreitext": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
     "FrageMC": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
