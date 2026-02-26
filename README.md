@@ -26,6 +26,7 @@ The GitHub Action in `.github/workflows/deploy.yml` deploys automatically on pus
 ## Monorepo structure
 - `./` = Nuxt web app (GitHub Pages)
 - `./api` = AI evaluation API (Docker deploy to your server)
+- `./automation` = email report worker (auto-fixes from report mails)
 
 ## AI API deploy (server)
 Workflow: `.github/workflows/deploy-api.yml`
