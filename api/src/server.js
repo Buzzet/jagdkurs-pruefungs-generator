@@ -200,6 +200,71 @@ app.post('/ai-evaluate', async (req, res) => {
   }
 })
 
+app.post('/ai-followup', async (req, res) => {
+  const { question, modelAnswer, userAnswer, followupQuestion } = req.body || {}
+  const apiKey = process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
+
+  if (!followupQuestion || !question || !modelAnswer) {
+    return res.status(400).json({ error: 'question, modelAnswer and followupQuestion are required' })
+  }
+
+  if (!apiKey) {
+    return res.json({
+      answer: 'Hinweis: Rückfrage-Antworten sind nicht garantiert korrekt. Bitte orientiere dich primär an der Musterlösung.',
+      mode: 'fallback',
+    })
+  }
+
+  const prompt = `Du bist Tutor für Jagdkurs-Prüfungsfragen.
+Wichtig: Deine Antwort kann unvollständig sein. Formuliere daher vorsichtig.
+
+Originalfrage: ${question}
+Musterlösung: ${modelAnswer}
+Nutzerantwort: ${userAnswer || '-'}
+Rückfrage des Nutzers: ${followupQuestion}
+
+Antworte kurz (max 4 Sätze), sachlich und auf Deutsch.
+Beginne zwingend mit: "Hinweis: Die folgende Antwort ist nicht mit Sicherheit korrekt."`;
+
+  try {
+    const response = await fetch('https://api.openai.com/v1/responses', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({ model: process.env.OPENAI_MODEL || 'gpt-5-mini', input: prompt }),
+    })
+
+    if (!response.ok) {
+      return res.json({
+        answer: 'Hinweis: Die folgende Antwort ist nicht mit Sicherheit korrekt. Ich kann die Rückfrage gerade nicht sicher beantworten.',
+        mode: 'fallback',
+      })
+    }
+
+    const data = await response.json()
+    const textFromOutput = (data?.output || [])
+      .flatMap(o => o?.content || [])
+      .map(c => c?.text || '')
+      .join('\n')
+      .trim()
+    const answer = (data?.output_text || textFromOutput || '').trim()
+
+    return res.json({
+      answer: answer || 'Hinweis: Die folgende Antwort ist nicht mit Sicherheit korrekt. Keine Antwort erhalten.',
+      mode: 'llm',
+    })
+  }
+  catch (e) {
+    log('[AI-FOLLOWUP] exception', e?.message || e)
+    return res.json({
+      answer: 'Hinweis: Die folgende Antwort ist nicht mit Sicherheit korrekt. Rückfrage konnte gerade nicht beantwortet werden.',
+      mode: 'fallback',
+    })
+  }
+})
+
 app.listen(PORT, () => {
   console.log(`jagdkurs-ai-api listening on :${PORT}`)
 })

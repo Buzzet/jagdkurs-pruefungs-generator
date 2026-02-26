@@ -133,6 +133,20 @@
           <p v-if="(aiCurrent.AlternativeAntworten || []).length" class="muted small">
             Weitere akzeptierte Antworten: {{ aiCurrent.AlternativeAntworten?.join(', ') }}
           </p>
+
+          <div class="followup-box">
+            <p class="warn">Hinweis: Antworten auf Rückfragen können fehlerhaft sein und sind nicht garantiert korrekt.</p>
+            <textarea
+              v-model="aiFollowupQuestion"
+              rows="3"
+              class="freeform"
+              placeholder="Rückfrage zur Musterlösung stellen..."
+            />
+            <div class="row">
+              <button :disabled="!aiFollowupQuestion.trim() || aiFollowupLoading" @click="submitAiFollowup">Rückfrage senden</button>
+            </div>
+            <p v-if="aiFollowupAnswer" class="muted">{{ aiFollowupAnswer }}</p>
+          </div>
         </div>
       </div>
 
@@ -363,6 +377,9 @@ const aiLastScore = ref(0)
 const aiReason = ref('')
 const aiLoading = ref(false)
 const aiAnswered = ref(false)
+const aiFollowupQuestion = ref('')
+const aiFollowupAnswer = ref('')
+const aiFollowupLoading = ref(false)
 
 const aiCurrent = computed(() => aiQuestions.value[aiIndex.value] || null)
 const aiMaxPoints = computed(() => aiQuestions.value.length * 2)
@@ -400,6 +417,8 @@ const startAi = () => {
   aiLastScore.value = 0
   aiReason.value = ''
   aiAnswered.value = false
+  aiFollowupQuestion.value = ''
+  aiFollowupAnswer.value = ''
 }
 
 const localHeuristicScore = (modelAnswer: string, userAnswer: string) => {
@@ -449,6 +468,30 @@ const submitAiAnswer = async () => {
   }
 }
 
+const submitAiFollowup = async () => {
+  if (!aiCurrent.value || !aiFollowupQuestion.value.trim() || aiFollowupLoading.value) return
+  aiFollowupLoading.value = true
+  try {
+    const endpoint = aiApiBase ? `${aiApiBase.replace(/\/$/, '')}/ai-followup` : '/api/ai-followup'
+    const result = await $fetch<{ answer: string }>(endpoint, {
+      method: 'POST',
+      body: {
+        question: aiCurrent.value.FrageFreitext || aiCurrent.value.Frage,
+        modelAnswer: aiCurrent.value.Antwort,
+        userAnswer: aiUserAnswer.value,
+        followupQuestion: aiFollowupQuestion.value,
+      },
+    })
+    aiFollowupAnswer.value = result.answer || 'Keine Antwort erhalten.'
+  }
+  catch {
+    aiFollowupAnswer.value = 'Rückfrage konnte gerade nicht beantwortet werden.'
+  }
+  finally {
+    aiFollowupLoading.value = false
+  }
+}
+
 const nextAiQuestion = () => {
   if (aiIndex.value + 1 >= aiQuestions.value.length) {
     aiIndex.value = aiQuestions.value.length
@@ -459,6 +502,8 @@ const nextAiQuestion = () => {
   aiLastScore.value = 0
   aiReason.value = ''
   aiAnswered.value = false
+  aiFollowupQuestion.value = ''
+  aiFollowupAnswer.value = ''
 }
 
 const resetAi = () => {
@@ -470,6 +515,8 @@ const resetAi = () => {
   aiLastScore.value = 0
   aiReason.value = ''
   aiAnswered.value = false
+  aiFollowupQuestion.value = ''
+  aiFollowupAnswer.value = ''
 }
 
 const switchToAi = () => {
@@ -690,5 +737,11 @@ button.ghost { min-width: 2.6rem; }
   border-radius: 12px;
 }
 .solution-box p { margin: .35rem 0 0; }
+.followup-box { margin-top: .8rem; }
+.warn {
+  color: #ffd27a;
+  font-size: .9rem;
+  margin: 0 0 .5rem;
+}
 .light .quote { background: rgba(255,255,255,.9); border-color: rgba(15,23,42,.12); }
 </style>
