@@ -54,7 +54,7 @@
           — Frage {{ mcIndex + 1 }} / {{ mcQuestions.length }}
         </p>
 
-        <h3>{{ mcCurrent.FrageMC || mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
+        <h3>{{ mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
         <p class="muted small">Mehrfachantworten möglich ({{ mcCurrent.correctAnswers.length }} richtige Antwort{{ mcCurrent.correctAnswers.length === 1 ? '' : 'en' }}).</p>
 
         <div class="options">

@@ -10,6 +10,21 @@ const shuffle = <T>(arr: T[]): T[] => {
   return copy
 }
 
+const normalizeQuestion = (q: Question): string =>
+  (q.FrageFreitext || q.Frage || '').toLowerCase().replace(/\s+/g, ' ').trim()
+
+const uniqueByQuestion = (arr: Question[]): Question[] => {
+  const seen = new Set<string>()
+  const out: Question[] = []
+  for (const q of arr) {
+    const key = normalizeQuestion(q)
+    if (seen.has(key)) continue
+    seen.add(key)
+    out.push(q)
+  }
+  return out
+}
+
 const isMcStyleQuestion = (q: Question): boolean => {
   const text = (q.FrageFreitext || q.Frage || '').trim()
   return /^(Wie lautet die korrekte Antwort\?|Welche Aussage ist richtig\?|Welche Antwort ist richtig\?|Was trifft zu\?|Bitte wählen Sie)/i.test(text)
@@ -42,7 +57,7 @@ export const useQuestionGenerator = () => {
   })
 
   const generate = (subject: string): GeneratedSet => {
-    const pool = questions.filter(q => q.Pruefungsfach === subject && q.PdfEligible !== false)
+    const pool = uniqueByQuestion(questions.filter(q => q.Pruefungsfach === subject && q.PdfEligible !== false))
     if (pool.length < 20) {
       throw new Error(`Nicht genug Fragen im Fach ${subject}. Vorhanden: ${pool.length}`)
     }
@@ -55,7 +70,7 @@ export const useQuestionGenerator = () => {
   }
 
   const generateMcSubject = (subject: string): GeneratedSet => {
-    const pool = questions.filter(q => q.Pruefungsfach === subject)
+    const pool = uniqueByQuestion(questions.filter(q => q.Pruefungsfach === subject))
     if (pool.length < 20) {
       throw new Error(`Nicht genug MC-Fragen im Fach ${subject}. Vorhanden: ${pool.length}`)
     }
