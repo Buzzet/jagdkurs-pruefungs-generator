@@ -10,8 +10,20 @@ const shuffle = <T>(arr: T[]): T[] => {
   return copy
 }
 
-const normalizeQuestion = (q: Question): string =>
-  (q.FrageFreitext || q.Frage || '').toLowerCase().replace(/\s+/g, ' ').trim()
+const normalizeQuestion = (q: Question): string => {
+  const raw = (q.FrageFreitext || q.Frage || '')
+    .normalize('NFKC')
+    .toLowerCase()
+    // remove common MC wrappers/prefixes to avoid duplicate stems in one run
+    .replace(/^(wie lautet die korrekte antwort\?|welche aussage ist richtig\?|welche antwort ist richtig\?|was trifft zu\?|bitte wählen sie[^:]*:?\s*)/i, '')
+    // unify quote variants and punctuation noise
+    .replace(/[„“”\"'`´]/g, '')
+    .replace(/[?!.,;:()\[\]{}]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+
+  return raw
+}
 
 const uniqueByQuestion = (arr: Question[]): Question[] => {
   const seen = new Set<string>()
