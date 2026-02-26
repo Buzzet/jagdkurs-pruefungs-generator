@@ -15,8 +15,15 @@ const ensurePage = (doc: jsPDF, y: number, needed = 30) => {
   return y
 }
 
-const isMcStyleQuestion = (text: string) =>
-  /^(Wie lautet die korrekte Antwort\?|Welche Aussage ist richtig\?|Welche Antwort ist richtig\?|Was trifft zu\?|Bitte wählen Sie)/i.test(text.trim())
+const pickMcIndexes = (length: number, maxMc = 5): Set<number> => {
+  const count = Math.min(maxMc, length)
+  const idx = Array.from({ length }, (_, i) => i)
+  for (let i = idx.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[idx[i], idx[j]] = [idx[j], idx[i]]
+  }
+  return new Set(idx.slice(0, count))
+}
 
 export const usePdfExport = () => {
   const downloadExamPdf = (set: GeneratedSet) => {
@@ -31,9 +38,11 @@ export const usePdfExport = () => {
     doc.text('Name: ______________________   Datum: ______________________', 15, y)
     y += 8
 
+    const mcIndexes = pickMcIndexes(set.questions.length, 5)
+
     set.questions.forEach((q, idx) => {
-      const questionText = q.FrageFreitext || q.Frage
-      const isMc = isMcStyleQuestion(questionText)
+      const isMc = mcIndexes.has(idx)
+      const questionText = isMc ? (q.FrageMC || q.FrageFreitext || q.Frage) : (q.FrageFreitext || q.Frage)
 
       y = ensurePage(doc, y, isMc ? 40 : 45)
       doc.setFontSize(11)
