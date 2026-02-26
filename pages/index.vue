@@ -6,6 +6,7 @@
       <div class="row">
         <button :class="{ active: mode === 'pdf' }" @click="mode = 'pdf'">Feature 1: PDF</button>
         <button :class="{ active: mode === 'mc' }" @click="switchToMc">Feature 2: MC-Simulation</button>
+        <button :class="{ active: mode === 'ai' }" @click="switchToAi">Feature 3: KI-Modus</button>
       </div>
     </section>
 
@@ -89,6 +90,42 @@
       </div>
     </section>
 
+    <section v-if="mode === 'ai'" class="card">
+      <h2>KI-Modus (Freitextbewertung)</h2>
+
+      <div v-if="!aiStarted">
+        <label for="ai-subject">Prüfungsfach</label>
+        <select id="ai-subject" v-model="aiSelectedSubject">
+          <option disabled value="">Bitte wählen</option>
+          <option v-for="subject in subjects" :key="subject" :value="subject">{{ subject }}</option>
+        </select>
+        <div class="row spacer">
+          <button :disabled="!aiSelectedSubject" @click="startAi">KI-Session starten (20 Fragen)</button>
+        </div>
+      </div>
+
+      <div v-else-if="aiCurrent">
+        <p class="muted">{{ aiCurrent.Pruefungsfach }} — Frage {{ aiIndex + 1 }} / {{ aiQuestions.length }}</p>
+        <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
+        <textarea v-model="aiUserAnswer" rows="6" class="freeform" placeholder="Deine Antwort im Prüfungsstil..."></textarea>
+
+        <div class="row">
+          <button :disabled="!aiUserAnswer.trim() || aiLoading || aiAnswered" @click="submitAiAnswer">Antwort bewerten</button>
+          <button v-if="aiAnswered" @click="nextAiQuestion">{{ aiIndex + 1 === aiQuestions.length ? 'Auswertung' : 'Nächste Frage' }}</button>
+        </div>
+
+        <p v-if="aiAnswered" class="ok">Punkte für diese Frage: {{ aiLastScore }} / 2</p>
+        <p v-if="aiReason" class="muted">Hinweis: {{ aiReason }}</p>
+      </div>
+
+      <div v-else class="card-sub">
+        <h3>KI-Auswertung</h3>
+        <p><strong>{{ aiPointsTotal }}</strong> / {{ aiMaxPoints }} Punkte ({{ aiPointsPercent }}%)</p>
+        <p><strong>Note:</strong> {{ aiGrade }}</p>
+        <button @click="resetAi">Neue KI-Session</button>
+      </div>
+    </section>
+
     <footer class="version">Version {{ appVersion }}</footer>
   </main>
 </template>
@@ -106,7 +143,7 @@ const { subjects, generate, generateMcSubject, generateMcFull } = useQuestionGen
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
 const { public: { appVersion } } = useRuntimeConfig()
 
-const mode = ref<'pdf' | 'mc'>('pdf')
+const mode = ref<'pdf' | 'mc' | 'ai'>('pdf')
 
 const selectedSubject = ref('')
 const generated = ref<GeneratedSet | null>(null)
@@ -277,6 +314,99 @@ const switchToMc = () => {
   mode.value = 'mc'
   resetMc()
 }
+
+// Feature 3 (AI free-text)
+const aiSelectedSubject = ref('')
+const aiStarted = ref(false)
+const aiQuestions = ref<Question[]>([])
+const aiIndex = ref(0)
+const aiUserAnswer = ref('')
+const aiPointsTotal = ref(0)
+const aiLastScore = ref(0)
+const aiReason = ref('')
+const aiLoading = ref(false)
+const aiAnswered = ref(false)
+
+const aiCurrent = computed(() => aiQuestions.value[aiIndex.value] || null)
+const aiMaxPoints = computed(() => aiQuestions.value.length * 2)
+const aiPointsPercent = computed(() => {
+  if (!aiMaxPoints.value) return 0
+  return Math.round((aiPointsTotal.value / aiMaxPoints.value) * 100)
+})
+const aiGrade = computed(() => {
+  const p = aiPointsPercent.value
+  if (p >= 90) return '1'
+  if (p >= 80) return '2'
+  if (p >= 67) return '3'
+  if (p >= 50) return '4'
+  if (p >= 30) return '5'
+  return '6'
+})
+
+const startAi = () => {
+  const set = generateMcSubject(aiSelectedSubject.value)
+  aiQuestions.value = set.questions
+  aiStarted.value = true
+  aiIndex.value = 0
+  aiUserAnswer.value = ''
+  aiPointsTotal.value = 0
+  aiLastScore.value = 0
+  aiReason.value = ''
+  aiAnswered.value = false
+}
+
+const submitAiAnswer = async () => {
+  if (!aiCurrent.value || !aiUserAnswer.value.trim()) return
+  aiLoading.value = true
+  aiReason.value = ''
+
+  try {
+    const result = await $fetch<{ score: number, reason?: string }>('/api/ai-evaluate', {
+      method: 'POST',
+      body: {
+        question: aiCurrent.value.FrageFreitext || aiCurrent.value.Frage,
+        modelAnswer: aiCurrent.value.Antwort,
+        userAnswer: aiUserAnswer.value,
+      },
+    })
+
+    aiLastScore.value = Math.max(0, Math.min(2, Number(result.score) || 0))
+    aiPointsTotal.value += aiLastScore.value
+    aiReason.value = result.reason || ''
+    aiAnswered.value = true
+  }
+  finally {
+    aiLoading.value = false
+  }
+}
+
+const nextAiQuestion = () => {
+  if (aiIndex.value + 1 >= aiQuestions.value.length) {
+    aiIndex.value = aiQuestions.value.length
+    return
+  }
+  aiIndex.value += 1
+  aiUserAnswer.value = ''
+  aiLastScore.value = 0
+  aiReason.value = ''
+  aiAnswered.value = false
+}
+
+const resetAi = () => {
+  aiStarted.value = false
+  aiQuestions.value = []
+  aiIndex.value = 0
+  aiUserAnswer.value = ''
+  aiPointsTotal.value = 0
+  aiLastScore.value = 0
+  aiReason.value = ''
+  aiAnswered.value = false
+}
+
+const switchToAi = () => {
+  mode.value = 'ai'
+  resetAi()
+}
 </script>
 
 <style scoped>
@@ -297,5 +427,6 @@ button:disabled { opacity: .5; cursor: not-allowed; }
 .partial { color: #b26a00; margin-top: .8rem; }
 .muted { color: #555; }
 .small { font-size: .9rem; }
+.freeform { width: 100%; margin-top: .8rem; border: 1px solid #ccc; border-radius: 8px; padding: .7rem; font: inherit; }
 .version { margin-top: 2rem; color: #555; font-size: .9rem; text-align: center; }
 </style>
