@@ -666,12 +666,15 @@ const submitReport = async () => {
   font-size: .85rem;
 }
 .question-head {
-  display: flex;
-  gap: .8rem;
-  align-items: flex-start;
-  justify-content: space-between;
+  position: relative;
+  padding-right: 8.2rem;
 }
 .question-head h3 { margin: 0; }
+.question-head .report-inline {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 .report-inline {
   white-space: nowrap;
   font-size: .88rem;
@@ -679,6 +682,11 @@ const submitReport = async () => {
   border-radius: 10px;
   border: 1px solid rgba(255,180,120,.45);
   background: rgba(255,150,80,.12);
+}
+@media (max-width: 600px) {
+  .question-head {
+    padding-right: 6.5rem;
+  }
 }
 
 .liquid {
