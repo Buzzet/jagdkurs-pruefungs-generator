@@ -4926,8 +4926,9 @@
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Definitionen"
   },
   {
     "Frage": "Was ist die Aufgabe der Sicherung?",
@@ -16196,7 +16197,7 @@
   {
     "Frage": "Nennen Sie drei Anzeichen, die auf Wildkrankheiten im Revier hindeuten.",
     "FrageFreitext": "Nennen Sie drei Anzeichen, die auf Wildkrankheiten im Revier hindeuten.",
-    "FrageMC": "Welche drei Anzeichen deuten auf Erkrankungen von Wildtieren in einem Revier hin?",
+    "FrageMC": "Nennen Sie drei Anzeichen, die auf Wildkrankheiten im Revier hindeuten.",
     "Antwort": "Vermehrte Todesfälle, Verhaltensauffälligkeiten, auffällige Körpergerüche.",
     "FalscheAntwort1": "Hoher Wildbestand, blühende Flora, viele Kielfedern.",
     "FalscheAntwort2": "Geringe Ansitzdichte, ruhige Tiere, klare Gewässer.",
