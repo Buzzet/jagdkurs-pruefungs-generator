@@ -9723,7 +9723,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Tagesjagdschein ist richtig?",
+    "Frage": "Welche Aussage zum Tagesjagdschein ist richtig?",
     "Antwort": "maximal 14 aufeinanderfolgende Tage",
     "FalscheAntwort1": "genau 24 Stunden",
     "FalscheAntwort2": "maximal 3 Tage",
@@ -9733,8 +9733,8 @@
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Tagesjagdschein ist richtig?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Tagesjagdschein ist richtig?",
+    "FrageFreitext": "Welche Aussage zum Tagesjagdschein ist richtig?",
+    "FrageMC": "Welche Aussage zum Tagesjagdschein ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
