@@ -4,18 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'pages/**'
-      - 'components/**'
-      - 'composables/**'
-      - 'assets/**'
-      - 'public/**'
-      - 'app.vue'
-      - 'nuxt.config.ts'
-      - 'package.json'
-      - 'package-lock.json'
-      - '.github/workflows/deploy-ui.yml'
-      - 'data/questions.final.tagged.json'
-      - 'ui/**'
+      - '**'
   workflow_dispatch:
 
 jobs:
