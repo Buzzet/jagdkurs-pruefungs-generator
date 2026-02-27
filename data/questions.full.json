@@ -10998,5 +10998,117 @@
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
     "FalscheAntwort3": "Nur Sicherung einlegen und weiterjagen",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Bedingungen gelten für den Jugendjagdschein?",
+    "Antwort": "Ab 16 Jahre; Jagdausübung nur in Begleitung eines Erziehungsberechtigten oder schriftlich beauftragter Aufsichtsperson; kein eigenständiger Waffen- und Munitionserwerb möglich",
+    "FalscheAntwort1": "Ab 14 Jahre; eigenständige Jagdausübung im befriedeten Bezirk erlaubt",
+    "FalscheAntwort2": "Ab 16 Jahre; Waffen- und Munitionserwerb mit schriftlicher Zustimmung der Eltern möglich",
+    "FalscheAntwort3": "Ab 18 Jahre; es gelten dieselben Rechte wie beim Jahresjagdschein",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Ab welchem Alter kann ein Jugendjagdschein beantragt werden, und was berechtigt er?",
+    "Antwort": "Ab 16 Jahren; berechtigt nur zur Jagdausübung in Begleitung eines Erziehungsberechtigten oder einer von diesem beauftragten jagdlich erfahrenen Person",
+    "FalscheAntwort1": "Ab 14 Jahren; berechtigt zur selbststaendigen Jagd in Begleitung eines erfahrenen Jaehgers",
+    "FalscheAntwort2": "Ab 16 Jahren; berechtigt auch zum eigenstaendigen Erwerb von Jagdwaffen",
+    "FalscheAntwort3": "Ab 18 Jahren; erlaubt Gesellschaftsjagden als Schuetze ohne Begleitung",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie wollen Munition fuer Ihren Revolver beim Waffenhaendler kaufen. Was muessen Sie vorlegen?",
+    "Antwort": "Die Waffenbesitzkarte (WBK) mit dem Eintrag der Kurzwaffe und dem Munitionserwerb; ein Jagdschein ist dafuer nicht erforderlich",
+    "FalscheAntwort1": "Nur den gueltigen Jagdschein",
+    "FalscheAntwort2": "Personalausweis und Jagdschein",
+    "FalscheAntwort3": "Jagdschein und Schiessnachweiss",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie wollen Munition für Ihren Revolver und für Ihre Flinte kaufen. Was müssen Sie dem Waffenhändler vorlegen?",
+    "Antwort": "Für die Flinte den Jagdschein; für den Revolver die WBK mit Eintrag Kurzwaffe und Munitionserwerb",
+    "FalscheAntwort1": "Nur den Jagdschein für beide Waffen",
+    "FalscheAntwort2": "Nur die WBK für beide Waffen",
+    "FalscheAntwort3": "Jagdschein, WBK und Schießnachweis für beide Waffen",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Ihnen ist auf der Drückjagd eine Waffe abhanden gekommen. Was müssen Sie tun?",
+    "Antwort": "Unverzüglich Anzeige bei der zuständigen Waffenbehörde und der Polizei erstatten",
+    "FalscheAntwort1": "Den Jagdleiter informieren und eigenständig im Revier suchen",
+    "FalscheAntwort2": "Anzeige erst erstatten, wenn die Suche nach 24 Stunden erfolglos war",
+    "FalscheAntwort3": "Die WBK bei der Behörde abgeben und Ersatzwaffe beantragen",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Anforderungen gelten für den Transport von Jagdwaffen zum Schießstand?",
+    "Antwort": "Waffe muss entladen, in einem verschlossenen Behältnis und nicht zugriffsbereit transportiert werden",
+    "FalscheAntwort1": "Waffe muss entladen sein; Verschluss und Zugriffsbereitschaft sind nicht vorgeschrieben",
+    "FalscheAntwort2": "Waffe darf geladen, muss aber gesichert und im Kofferraum sein",
+    "FalscheAntwort3": "Waffe muss entladen im offenen Futteral sichtbar transportiert werden",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Anforderungen gelten für den Transport von Jagdwaffen ins Revier?",
+    "Antwort": "Waffe muss entladen sein; ein verschlossenes Behältnis ist nicht zwingend vorgeschrieben",
+    "FalscheAntwort1": "Waffe muss entladen, verschlossen und nicht zugriffsbereit sein – wie beim Schießstand",
+    "FalscheAntwort2": "Waffe darf geladen und gesichert transportiert werden",
+    "FalscheAntwort3": "Keine besonderen Vorschriften, solange die Waffe im Kofferraum liegt",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Dürfen Sie ein Waidblatt (Klingenlänge über 12 cm) in der Öffentlichkeit führen?",
+    "Antwort": "Nein; das Führen ist nur bei der Jagdausübung einschließlich des Hin- und Rückweges erlaubt, nicht in der Öffentlichkeit",
+    "FalscheAntwort1": "Ja, mit gültigem Jagdschein ist das Führen jederzeit erlaubt",
+    "FalscheAntwort2": "Ja, sofern die Klinge in einer Scheide getragen wird",
+    "FalscheAntwort3": "Nein, Waidblätter mit Klingenlänge über 12 cm sind grundsätzlich verboten",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Kennzeichen müssen laut Gesetz auf einer Feuerwaffe eingeschlagen sein?",
+    "Antwort": "Hersteller (oder Importeur), Kaliber, Seriennummer und Beschusszeichen",
+    "FalscheAntwort1": "Nur Hersteller und Seriennummer",
+    "FalscheAntwort2": "Hersteller, Kaliber, Herstellungsjahr und Verkaufspreis",
+    "FalscheAntwort3": "Nur Beschusszeichen und Seriennummer",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was sind wesentliche Teile einer Jagdwaffe im waffenrechtlichen Sinne?",
+    "Antwort": "Lauf, Patronenlager, Verschluss sowie Gehäuse bzw. Basküle – diese Teile sind WBK- bzw. NWR-pflichtig",
+    "FalscheAntwort1": "Nur der Lauf und das Magazin",
+    "FalscheAntwort2": "Alle sichtbaren Außenteile der Waffe inklusive Schaft",
+    "FalscheAntwort3": "Griffstück, Schaft und Zielfernrohr",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie viele Patronen darf eine Selbstladebüchse auf der Drückjagd maximal enthalten?",
+    "Antwort": "Maximal 3 Patronen insgesamt in der Waffe",
+    "FalscheAntwort1": "Maximal 5 Patronen",
+    "FalscheAntwort2": "Keine Begrenzung, solange die Waffe jagdrechtlich zugelassen ist",
+    "FalscheAntwort3": "Maximal 2 Patronen im Magazin plus eine im Patronenlager",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Dürfen Vollmantelgeschosse bei der Jagd auf Schalenwild verwendet werden?",
+    "Antwort": "Nein; für die Jagd auf Schalenwild sind Vollmantelgeschosse verboten – erlaubt nur auf Raubwild (balgschonend) und in Ausnahmen auf Großwild",
+    "FalscheAntwort1": "Ja, wenn das Kaliber die Mindestenergievorgaben erfüllt",
+    "FalscheAntwort2": "Ja, ausnahmslos auf Schwarzwild",
+    "FalscheAntwort3": "Ja, sofern das Geschoss bleifrei ist",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie erhalten eine Einzelabschusserlaubnis für einen Rehbock. Welche Papiere müssen Sie bei der Jagd mit sich führen?",
+    "Antwort": "Jagdschein, Waffenbesitzkarte (WBK), Personalausweis und die Einzelabschusserlaubnis",
+    "FalscheAntwort1": "Nur die Einzelabschusserlaubnis",
+    "FalscheAntwort2": "Jagdschein und Einzelabschusserlaubnis genügen",
+    "FalscheAntwort3": "WBK und Jagdschein genügen",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Dokumente muss der Jagdleiter bei einer Bewegungsjagd auf Schalenwild kontrollieren?",
+    "Antwort": "Gültigen Jagdschein, Waffen und Munition sowie den gültigen Schießnachweis jedes Schützen",
+    "FalscheAntwort1": "Nur WBK und Jagdschein",
+    "FalscheAntwort2": "Nur den Jagdschein jedes Schützen",
+    "FalscheAntwort3": "Jagdschein, WBK und Personalausweis",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
   }
 ]
