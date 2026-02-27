@@ -662,7 +662,7 @@
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Rotwild?",
-    "Antwort": "Hinde",
+    "Antwort": "Alttier",
     "FalscheAntwort1": "Ricke",
     "FalscheAntwort2": "Bache",
     "FalscheAntwort3": "Fähe",
@@ -673,9 +673,11 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
+    "PdfEligible": true,
+    "AlternativeAntworten": [
+      "Schmaltier",
+      "Kahlwild"
+    ]
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
@@ -1908,7 +1910,7 @@
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Rotwild?",
-    "Antwort": "Hinde",
+    "Antwort": "Alttier",
     "FalscheAntwort1": "Ricke",
     "FalscheAntwort2": "Bache",
     "FalscheAntwort3": "Fähe",
@@ -1919,9 +1921,11 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
+    "PdfEligible": true,
+    "AlternativeAntworten": [
+      "Schmaltier",
+      "Kahlwild"
+    ]
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
