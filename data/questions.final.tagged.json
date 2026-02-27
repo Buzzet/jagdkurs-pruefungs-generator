@@ -4153,8 +4153,9 @@
     ],
     "FrageFreitext": "Was bedeutet „Freiflug“?",
     "FrageMC": "Was bedeutet „Freiflug“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Freiflug falsch fmdefinier mit freiflug ist der Weg zwischen patronenlager und Zügen und Feldern gemeint!"
   },
   {
     "Frage": "Was ist im Fall „Hahn in Ruh“ korrektes Verhalten?",
