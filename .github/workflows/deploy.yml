@@ -41,27 +41,18 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Notify WhatsApp (success)
+      - name: Notify Telegram (success)
         if: ${{ success() }}
-        run: |
-          MSG="✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}"
-
-          if [ -n "$WHATSAPP_WEBHOOK_URL" ]; then
-            curl -sS -X POST "$WHATSAPP_WEBHOOK_URL" \
-              -H "Content-Type: application/json" \
-              -d "{\"message\":\"${MSG}\"}"
-            exit 0
-          fi
-
-          if [ -n "$WHATSAPP_PHONE" ] && [ -n "$WHATSAPP_APIKEY" ]; then
-            ENCODED_TEXT=$(python3 -c 'import urllib.parse,os; print(urllib.parse.quote(os.environ["MSG"]))')
-            curl -sS "https://api.callmebot.com/whatsapp.php?phone=${WHATSAPP_PHONE}&apikey=${WHATSAPP_APIKEY}&text=${ENCODED_TEXT}"
-            exit 0
-          fi
-
-          echo "No WhatsApp secrets configured; skipping notification."
         env:
-          WHATSAPP_WEBHOOK_URL: ${{ secrets.WHATSAPP_WEBHOOK_URL }}
-          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
-          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MSG: "✅ Deploy fertig: ${{ steps.deployment.outputs.page_url }}"
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Skipping Telegram notification (missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID)."
+            exit 0
+          fi
+
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\":\"${TELEGRAM_CHAT_ID}\",\"text\":\"${MSG}\"}"

@@ -4362,8 +4362,9 @@
     ],
     "FrageFreitext": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
     "FrageMC": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Kann falsch verstanden werden"
   },
   {
     "Frage": "Was bedeutet die Selbstladebüchse auf der Jagd?",
@@ -4733,7 +4734,7 @@
     "FrageMC": "Was ist über eine Kurzwaffe korrekt?",
     "PdfEligible": false,
     "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsche Frage für die antworten"
+    "ReportFlag": "AUTO_REVIEW:Falsch gestellte Frage"
   },
   {
     "Frage": "Was ist über Kaliber 12/70 korrekt?",
@@ -12941,7 +12942,7 @@
   {
     "Frage": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder?",
     "FrageFreitext": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder?",
-    "FrageMC": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder? a) Kehlfleckfarbe b) Schwanzlänge c) Ohrengröße d) Schnauzenform",
+    "FrageMC": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder?",
     "Antwort": "Der Baummarder hat einen gelblichen Kehlfleck, der Steinmarder einen weißen.",
     "FalscheAntwort1": "Der Baummarder hat eine längere Schwanzlänge als der Steinmarder.",
     "FalscheAntwort2": "Der Baummarder hat größere Ohren als der Steinmarder.",
