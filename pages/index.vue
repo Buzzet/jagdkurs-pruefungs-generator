@@ -76,9 +76,9 @@
           — Frage {{ mcIndex + 1 }} / {{ mcQuestions.length }}
         </p>
 
+        <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
         <div class="question-head">
           <h3>{{ mcCurrent.FrageFreitext || mcCurrent.Frage }}</h3>
-          <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
         </div>
         <p class="muted small">Mehrfachantworten möglich ({{ mcCurrent.correctAnswers.length }} richtige Antwort{{ mcCurrent.correctAnswers.length === 1 ? '' : 'en' }}).</p>
 
@@ -130,9 +130,9 @@
 
       <div v-else-if="aiCurrent">
         <p class="muted">{{ aiCurrent.Pruefungsfach }} — Frage {{ aiIndex + 1 }} / {{ aiQuestions.length }}</p>
+        <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
         <div class="question-head">
           <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
-          <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
         </div>
         <textarea
           v-model="aiUserAnswer"
@@ -670,28 +670,17 @@ const submitReport = async () => {
   border-radius: 999px;
   font-size: .85rem;
 }
-.question-head {
-  position: relative;
-  padding-right: 8.2rem;
-}
 .question-head h3 { margin: 0; }
-.question-head .report-inline {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
 .report-inline {
+  position: absolute;
+  top: 1rem;
+  right: 1.1rem;
   white-space: nowrap;
   font-size: .88rem;
   padding: .45rem .65rem;
   border-radius: 10px;
   border: 1px solid rgba(255,180,120,.45);
   background: rgba(255,150,80,.12);
-}
-@media (max-width: 600px) {
-  .question-head {
-    padding-right: 6.5rem;
-  }
 }
 
 .liquid {
