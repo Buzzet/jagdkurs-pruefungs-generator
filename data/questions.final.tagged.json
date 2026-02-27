@@ -3645,7 +3645,7 @@
   },
   {
     "Frage": "Was ist „Freiflug“?",
-    "Antwort": "Geschossweg zwischen Mündung und Ziel",
+    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
     "FalscheAntwort1": "Weg der Patrone im Magazin",
     "FalscheAntwort2": "Laufweg des Schlagbolzens",
     "FalscheAntwort3": "Rückstoßweg im Schaft",
@@ -4126,7 +4126,7 @@
   },
   {
     "Frage": "Erklären Sie den Begriff „Freiflug“?",
-    "Antwort": "Weg des Geschosses nach der Mündung",
+    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
     "FalscheAntwort1": "Weg im Magazin",
     "FalscheAntwort2": "Bewegung des Schlagbolzens",
     "FalscheAntwort3": "Rücklauf des Verschlusses",
@@ -4142,7 +4142,7 @@
   },
   {
     "Frage": "Was bedeutet „Freiflug“?",
-    "Antwort": "Weg des Geschosses nach der Mündung",
+    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
     "FalscheAntwort1": "Weg im Magazin",
     "FalscheAntwort2": "Bewegung des Schlagbolzens",
     "FalscheAntwort3": "Rücklauf des Verschlusses",
@@ -4153,9 +4153,8 @@
     ],
     "FrageFreitext": "Was bedeutet „Freiflug“?",
     "FrageMC": "Was bedeutet „Freiflug“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Freiflug falsch definiert"
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Was ist im Fall „Hahn in Ruh“ korrektes Verhalten?",
@@ -4673,7 +4672,7 @@
   },
   {
     "Frage": "Was beschreibt der Begriff „Freiflug“?",
-    "Antwort": "Weg des Geschosses nach der Mündung",
+    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
     "FalscheAntwort1": "Weg im Magazin",
     "FalscheAntwort2": "Bewegung des Schlagbolzens",
     "FalscheAntwort3": "Rücklauf des Verschlusses",
@@ -4915,7 +4914,7 @@
   },
   {
     "Frage": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "Antwort": "Geschossweg zwischen Mündung und Ziel",
+    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
     "FalscheAntwort1": "Weg der Patrone im Magazin",
     "FalscheAntwort2": "Laufweg des Schlagbolzens",
     "FalscheAntwort3": "Rückstoßweg im Schaft",
@@ -4926,9 +4925,8 @@
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsche Definitionen"
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Was ist die Aufgabe der Sicherung?",
