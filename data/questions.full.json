@@ -11110,5 +11110,637 @@
     "FalscheAntwort2": "Nur den Jagdschein jedes Schützen",
     "FalscheAntwort3": "Jagdschein, WBK und Personalausweis",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie müssen Waffen und Munition aufbewahrt werden?",
+    "Antwort": "Getrennt voneinander: Waffen im Stahlschrank Klasse A, Munition im Schrank AB mit separatem abschließbarem Fach oder in einem separaten abschließbaren Blechschrank.",
+    "FalscheAntwort1": "Gemeinsam in einem abschließbaren Waffenschrank Klasse A – es gibt keine Trennungspflicht.",
+    "FalscheAntwort2": "Waffen und Munition dürfen zusammen aufbewahrt werden, solange der Schrank ein Sicherheitsschloss hat.",
+    "FalscheAntwort3": "Waffen im Schrank Klasse B, Munition frei im Keller – eine spezielle Aufbewahrung ist gesetzlich nicht vorgeschrieben.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Ihre Kugelbüchse schießt über Zielfernrohr hoch/rechts. Wohin verstellen Sie den Zielstachel?",
+    "Antwort": "Nach oben rechts – immer in Richtung des letzten Schusses, also zum Einschlag hin.",
+    "FalscheAntwort1": "Nach unten links – entgegen dem Einschlag, um die Treffpunktlage zu korrigieren.",
+    "FalscheAntwort2": "Nach unten rechts – das ZF wird immer nach unten verstellt, wenn der Schuss zu hoch liegt.",
+    "FalscheAntwort3": "Nach oben links – das ZF wird lateral entgegen dem Einschlag, vertikal zum Einschlag verstellt.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Darf die Jagdbehörde den Waffenschrank in Ihrer Wohnung kontrollieren?",
+    "Antwort": "Ja, aber nur auf dem direkten Weg zum Waffenschrank – kein Durchsuchen der Wohnung.",
+    "FalscheAntwort1": "Nein, die Wohnung ist unantastbar – eine Kontrolle ist nur mit richterlichem Durchsuchungsbeschluss möglich.",
+    "FalscheAntwort2": "Ja, die Behörde darf die gesamte Wohnung nach Waffen und Munition durchsuchen.",
+    "FalscheAntwort3": "Nein, die Kontrolle des Waffenschranks obliegt ausschließlich der Polizei, nicht der Jagdbehörde.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Erklären Sie Feldkaliber und Zugkaliber!",
+    "Antwort": "Feldkaliber ist der Innendurchmesser des Laufs gemessen von Feld zu Feld (kleiner). Zugkaliber ist der Durchmesser gemessen von Zug zu Zug (größer).",
+    "FalscheAntwort1": "Feldkaliber ist der Außendurchmesser des Laufs, Zugkaliber der Innendurchmesser.",
+    "FalscheAntwort2": "Beide Begriffe bezeichnen denselben Wert – sie sind synonyme Bezeichnungen für den Laufinnendurchmesser.",
+    "FalscheAntwort3": "Zugkaliber ist kleiner als Feldkaliber, da die Züge die Laufbohrung verengen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist die 'Drallänge' und was bewirkt sie?",
+    "Antwort": "Der Weg, den das Geschoss im Lauf zurücklegt, um eine vollständige Umdrehung zu vollziehen. Die Drallänge bestimmt die Drallsteilheit und damit die Rotationsgeschwindigkeit – sie stabilisiert das Geschoss im Flug.",
+    "FalscheAntwort1": "Die Gesamtlänge des gezogenen Laufteils; eine größere Drallänge bedeutet stärkere Rotation und höhere Präzision.",
+    "FalscheAntwort2": "Die Anzahl der Züge im Lauf; mehr Züge erzeugen einen stärkeren Drall und damit mehr Stabilisierung.",
+    "FalscheAntwort3": "Die Tiefe der Züge im Lauf; tiefere Züge erzeugen mehr Drall und damit eine geringere Streuung.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie vier Verschlüsse für Kipplaufwaffen!",
+    "Antwort": "Flankenverschluss, Purdeyverschluss, Kerstenverschluss (Doppel-Greener), einfache Laufhakenverriegelung.",
+    "FalscheAntwort1": "Zylinderverschluss, Drehkopfverschluss, Keilverschluss, Rollenverschluss.",
+    "FalscheAntwort2": "Revolververschluss, Gasverschluss, Rückstoßverschluss, Fallblockverschluss.",
+    "FalscheAntwort3": "Drallverschluss, Auszieherverschluss, Basküleverschluss, Magazinverschluss.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie Vor- und Nachteile eines Stutzens!",
+    "Antwort": "Vorteile: kurze Bauform, sehr führig, Lauf durch Vollschäftung geschützt. Nachteile: lauter Mündungsknall, starkes Mündungsfeuer, größerer Rückschlag, geringere Treffgenauigkeit als vollläufige Büchse.",
+    "FalscheAntwort1": "Vorteile: höhere Treffgenauigkeit durch kürzeren Lauf, geringerer Rückschlag. Nachteil: schlechte Führigkeit im Revier.",
+    "FalscheAntwort2": "Vorteile: leiser Schuss durch kurzen Lauf, leicht. Nachteil: Lauf durch Vollschäftung anfälliger für Überhitzung.",
+    "FalscheAntwort3": "Vorteile: größere V0 durch Vollschäftung, ruhigere Flugbahn. Nachteil: unhandlich im Ansitz.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Waffen haben in der Regel keine (manuelle) Sicherung?",
+    "Antwort": "Revolver, Hahngewehre (Handspanner) und Waffen mit separater Spanneinrichtung – sie gelten als sicher, weil sie nur bei bewusstem Spannen schussbereit sind.",
+    "FalscheAntwort1": "Pistolen und Selbstladebüchsen, da sie immer gesichert durch die Magazinsicherung sind.",
+    "FalscheAntwort2": "Doppelflinten und Drilling – sie haben statt Sicherungen automatische Entspannvorrichtungen.",
+    "FalscheAntwort3": "Repetierbüchsen, weil der geöffnete Verschluss ausreichende Sicherheit bietet.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie groß ist die gefährliche Reichweite von: 16/70 4mm Schrot, FLG, .30-06, .22 Magnum?",
+    "Antwort": "16/70 4mm Schrot: ca. 400 m; FLG: ca. 1500 m; .30-06: ca. 5000–7000 m; .22 Magnum: ca. 1500–2500 m.",
+    "FalscheAntwort1": "16/70 4mm: 800 m; FLG: 3000 m; .30-06: 2000 m; .22 Magnum: 500 m.",
+    "FalscheAntwort2": "16/70 4mm: 200 m; FLG: 800 m; .30-06: 10.000 m; .22 Magnum: 3000 m.",
+    "FalscheAntwort3": "16/70 4mm: 400 m; FLG: 400 m; .30-06: 400 m; .22 Magnum: 400 m – alle Schrot- und Büchsenpatronen haben dieselbe Gefahrenreichweite.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Das erste Treiben wird als 'Böhmische Streife' durchgeführt. Wie verhalten Sie sich als Schütze?",
+    "Antwort": "Schützen laufen mit den Treibern in einer gemeinsamen Linie gegen den Wind. Schießen nach vorne ist möglich (solange keine Personen von vorne kommen), nach Ansage auch nach hinten.",
+    "FalscheAntwort1": "Schützen stehen an festen Ständen; Treiber treiben das Wild auf die Schützenlinie zu – Schüsse nur nach vorne.",
+    "FalscheAntwort2": "Schützen bilden einen Halbkreis, Treiber treiben Wild in den offenen Teil – Schüsse nur innerhalb des Halbkreises erlaubt.",
+    "FalscheAntwort3": "Alle Beteiligten (Schützen + Treiber) stehen; auf Signal darf 360° geschossen werden.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wieviel Gramm Schrotladung enthält eine Jagdpatrone im Kaliber 12/70?",
+    "Antwort": "Ca. 32–40 Gramm (Standardladung ca. 32–36 g, Magnumladung bis 40 g).",
+    "FalscheAntwort1": "Ca. 12 Gramm – die Zahl 12 im Kaliber gibt die ungefähre Ladungsmenge in Gramm an.",
+    "FalscheAntwort2": "Ca. 60–70 Gramm Schrot; 70 steht für die Ladungsmenge in Dezigramm.",
+    "FalscheAntwort3": "Ca. 20 Gramm; Magnumpatronen enthalten das Doppelte, also ca. 40 Gramm.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie verschiedene Zielfernrohrmontagen!",
+    "Antwort": "Aufschubmontage, Suhler Einhakmontage (SEM), Schwenkmontage, Sattelmontage (z.B. Blaser), Picatinny-Schiene.",
+    "FalscheAntwort1": "Druckmontage, Klemmmontage, Federmontage, Gummimontage.",
+    "FalscheAntwort2": "Einschraubmontage, Löt­montage, Schweißmontage, Klebehalterung.",
+    "FalscheAntwort3": "Standardmontage, Jagdmontage, Sportmontage, Militärmontage.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Ein Steinmarder hat sich in der Kastenfalle gefangen. Welche Waffe und welches Kaliber verwenden Sie für den Fangschuss?",
+    "Antwort": "Eine Kurzwaffe (Pistole oder Revolver), Kaliber .22 lfB – balgschonend, geringe Abprallegefahr, ausreichende Wirkung auf kleines Raubwild.",
+    "FalscheAntwort1": "Büchse .308 Win – nur ein Büchsenkaliber mit ausreichend Energie ist für Fangschüsse vorgeschrieben.",
+    "FalscheAntwort2": "Schrotflinte 12/70 – breite Streuung gewährleistet sicheren Treffer im Abfangkorb.",
+    "FalscheAntwort3": "Keine Schusswaffe – der Fangschuss in der Kastenfalle muss immer mit einem Schlagwerkzeug erfolgen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Lauflängen gibt es bei Schrotflinten?",
+    "Antwort": "71 cm, 76 cm und 81 cm sind die üblichen Normlauflängen.",
+    "FalscheAntwort1": "50 cm, 60 cm und 70 cm.",
+    "FalscheAntwort2": "65 cm, 70 cm und 75 cm.",
+    "FalscheAntwort3": "80 cm, 90 cm und 100 cm – kürzere Läufe sind jagdlich nicht zugelassen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welcher Lauf einer Querflinte ist für den 'weiteren Schuss' besser geeignet und warum?",
+    "Antwort": "Der linke Lauf, weil er in der Regel die engere Chokebohrung hat – die Schrotgarbe bleibt länger zusammen und erzielt größere Reichweite.",
+    "FalscheAntwort1": "Der rechte Lauf, da dieser immer als erster betätigt wird und daher für den sicheren Nahschuss ausgelegt ist.",
+    "FalscheAntwort2": "Beide Läufe haben dieselbe Chokebohrung – der weitere Schuss hängt nur von der Schrotstärke ab.",
+    "FalscheAntwort3": "Der linke Lauf hat immer die weiteste Bohrung (Zylinderbohrung), weshalb er für den Weitschuss genutzt wird.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie sind zur Entenjagd eingeladen. Welches Schrot laden Sie?",
+    "Antwort": "Nicht-toxisches (bleifreies) Schrot, z.B. Stahl 2,7–3,2 mm – im Bereich Feuchtgebiete/Gewässer ist Bleischrot verboten.",
+    "FalscheAntwort1": "Bleischrot Nr. 4 (3,25 mm) – Blei ist das einzig zugelassene Material für Entenjagd.",
+    "FalscheAntwort2": "Wismutschrot 4 mm – Wismut ist das einzig gesetzlich vorgeschriebene bleifreie Schrotmaterial.",
+    "FalscheAntwort3": "Stahlschrot 5 mm Magnum – es ist eine größere Schrotstärke erforderlich als bei Bleischrot.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Bei einem Kesseltreiben ertönt das Signal 'Treiber in den Kessel'. Was müssen Sie als Schütze beachten?",
+    "Antwort": "Stehen bleiben und nur noch nach außen schießen – nicht mehr in den Kessel hinein.",
+    "FalscheAntwort1": "Waffe entladen, das Treiben ist damit beendet.",
+    "FalscheAntwort2": "Auf die Treiberlinie zumarschieren und das Wild gemeinsam mit den Treibern stellen.",
+    "FalscheAntwort3": "In den Kessel hineingehen um Wild am Rand zu erlegen, bevor es ausbricht.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Bei welchen Licht- oder Witterungsverhältnissen ist auf der Jagd besondere Vorsicht bei der Schussabgabe notwendig?",
+    "Antwort": "Dämmerung, Dunkelheit, Nebel, starker Regen, Schneefall, Sturm, Gegenlicht, Frost (gefrorener Boden = Abprallerrisiko).",
+    "FalscheAntwort1": "Nur bei Dunkelheit – in allen anderen Situationen kann normal geschossen werden.",
+    "FalscheAntwort2": "Bei starkem Wind und Regen – alle anderen Bedingungen beeinflussen die Sicherheit nicht.",
+    "FalscheAntwort3": "Bei Temperaturen unter 0°C – nur Frost führt zu gefährlichen Schussverhältnissen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Erklären Sie den Unterschied zwischen Randpatronen, randlosen Patronen und Randfeuerpatronen!",
+    "Antwort": "Randpatronen haben einen vorstehenden Flansch am Hülsenboden (für Kipplaufwaffen/Revolver). Randlose Patronen haben eine Auszieherrille, keinen überstehenden Rand (für Repetierer/Pistolen). Randfeuerpatronen (z.B. .22 lfB) haben den Zündsatz im Rand des Hülsenbodens.",
+    "FalscheAntwort1": "Randpatronen werden nur in Pistolen verwendet, randlose in Revolvern. Randfeuerpatronen sind moderne Hochleistungspatronen.",
+    "FalscheAntwort2": "Alle drei Bezeichnungen beschreiben denselben Patronentyp – sie unterscheiden sich nur in der Größe des Randes.",
+    "FalscheAntwort3": "Randlose Patronen haben keinen Zünder – sie zünden durch Reibung beim Einführen. Randpatronen haben einen herkömmlichen Zentralfeuerzünder.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie verstellen Ihr 3–12-faches Zielfernrohr von 12-facher auf 5-fache Vergrößerung. Welche Auswirkungen hat das?",
+    "Antwort": "Das Sehfeld wird größer, das Ziel erscheint kleiner, das Bild wird ruhiger und heller.",
+    "FalscheAntwort1": "Das Sehfeld wird kleiner, das Ziel erscheint größer – die Vergrößerung ist trotzdem ausreichend.",
+    "FalscheAntwort2": "Das Bild wird dunkler, da weniger Licht durch das kleinere Okular fällt.",
+    "FalscheAntwort3": "Es ändert sich nichts an der Treffpunktlage, aber das Absehen wird größer dargestellt.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist ein 'Handspanner'? Nennen Sie Beispiele!",
+    "Antwort": "Eine Waffe, bei der der Schlagbolzen oder die Schlösser von Hand gespannt werden (kein Selbstspanner). Beispiele: Blaser R93/R8, Sauer 303, Revolver, Hahnflinte.",
+    "FalscheAntwort1": "Eine Waffe mit einem seitlich montierten Handgriff zum Spannen – nur bei Militärwaffen verbaut.",
+    "FalscheAntwort2": "Eine Selbstladewaffe, die durch Rückziehen des Schlittens gespannt wird – Beispiele: Pistole, SLB.",
+    "FalscheAntwort3": "Ein anderer Begriff für den Abzug – Handspanner sind Abzüge mit sehr geringem Druckpunkt.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie wird eine Doppelflinte (BDF) mit automatischer Sicherung entspannt?",
+    "Antwort": "Über Pufferpatronen: Waffe schließen, entsichern, Schlösser abschlagen, dabei Läufe sicher halten.",
+    "FalscheAntwort1": "Durch langsames Ziehen beider Abzüge bei geöffneter Waffe – so werden die Federn ohne Schuss entspannt.",
+    "FalscheAntwort2": "Durch Betätigen des Sicherungshebels zweimal hintereinander – die automatische Sicherung entspannt dabei die Schlösser.",
+    "FalscheAntwort3": "Doppelflinten müssen nicht entspannt werden – die Schlossfedern sind für dauerhafte Spannung ausgelegt.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Können Sie aus einer Repetierbüchse verschiedene Laborierungen verschießen? Welche Folgen hat es?",
+    "Antwort": "Ja, aber die Treffpunktlage kann sich je nach Laborierung unterscheiden – die Waffe sollte mit der verwendeten Munition neu eingeschossen werden.",
+    "FalscheAntwort1": "Nein, aus einer Repetierbüchse darf nur eine einzige zugelassene Laborierung verschossen werden.",
+    "FalscheAntwort2": "Ja, verschiedene Laborierungen haben keinerlei Auswirkung auf die Treffpunktlage moderner Präzisionsbüchsen.",
+    "FalscheAntwort3": "Nein, unterschiedliche Laborierungen beschädigen Lauf und Verschluss durch unterschiedliche Gasdrücke.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist der Stoßboden? Wo befindet er sich und welche Aufgabe hat er?",
+    "Antwort": "Der Stoßboden ist die Fläche hinter dem Patronenlager (an der Basküle oder am Verschluss). Er dichtet das Patronenlager nach hinten ab, nimmt den Gasdruck-Rückstoß auf und enthält die Bohrung für den Schlagbolzen.",
+    "FalscheAntwort1": "Der Stoßboden ist die verstärkte Schaftkappe, die den Rückstoß für den Schützen dämpft.",
+    "FalscheAntwort2": "Der Stoßboden ist der vordere Teil des Magazins, der die Patronen in Richtung Patronenlager führt.",
+    "FalscheAntwort3": "Der Stoßboden ist ein Teil des Visiers, der den Abstand zwischen Kimme und Korn festlegt.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wozu dient der Schrotschuss und wie wirkt er auf den Wildkörper?",
+    "Antwort": "Zum Erlegen von bewegtem, flüchtigem Niederwild. Die Wirkung erfolgt durch Schocktod infolge von Nervenreizung durch mehrere gleichzeitig treffende Schrotkörner.",
+    "FalscheAntwort1": "Zum Erlegen von Hochwild auf große Entfernung – die Streuung kompensiert Haltepunktfehler.",
+    "FalscheAntwort2": "Ausschließlich zur Schadwildbekämpfung – auf jagdbares Wild darf Schrot nicht eingesetzt werden.",
+    "FalscheAntwort3": "Der Schrotschuss tötet durch hydraulischen Schock wie ein Büchsengeschoss – er hinterlässt einen sauberen Einschuss.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was versteht man auf dem Schießstand unter 'Parcoursschießen'?",
+    "Antwort": "Das Nachstellen jagdlicher Situationen (auffliegende Taube, abstreichende Ente, hoher Fasan, springender Hase usw.) mit verschieden geformten und dimensionierten Wurfscheiben auf einem Jagdparcours.",
+    "FalscheAntwort1": "Ein Wettkampfformat, bei dem Schützen auf feste Scheiben in bestimmter Reihenfolge schießen – ähnlich wie Biathlon.",
+    "FalscheAntwort2": "Das Schießen auf mehrere Ziele gleichzeitig mit einer Schrotflinte – nur für den Schießnachweis vorgeschrieben.",
+    "FalscheAntwort3": "Ein Kugeldisziplin, bei der auf wechselnde Entfernungen (50–300 m) geschossen wird.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Dürfen Sie auf der Drückjagd mit eingestochenem Stecher schießen?",
+    "Antwort": "Nein – bei Bewegungsjagden ist der Stecher wegen der Unfallgefahr durch unkontrollierte Auslösung (kalte Finger, Aufregung) nicht empfehlenswert und in Schleswig-Holstein im Landesforst ausdrücklich untersagt.",
+    "FalscheAntwort1": "Ja, der Stecher verbessert die Treffgenauigkeit und ist auf Bewegungsjagden vorgeschrieben.",
+    "FalscheAntwort2": "Ja, sofern der Abzugsdruck des Stechers über 500 g eingestellt ist.",
+    "FalscheAntwort3": "Ja, aber nur auf flüchtiges Schalenwild – auf Sauen ist der Stecher verboten.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Abweichung ergibt sich bei einer auf 100 m Fleck eingeschossenen Büchse (.30-06) auf 10 m, 50 m und 150 m?",
+    "Antwort": "10 m: ca. 5–8 cm Tiefschuss (Abstand Laufachse/ZF-Achse). 50 m: nahezu Fleck (erster Schnittpunkt). 150 m: ca. 3–5 cm Tiefschuss.",
+    "FalscheAntwort1": "10 m: Fleckschuss. 50 m: 5 cm Hochschuss. 150 m: 10 cm Hochschuss.",
+    "FalscheAntwort2": "10 m: 15 cm Hochschuss. 50 m: Fleckschuss. 150 m: 20 cm Tiefschuss.",
+    "FalscheAntwort3": "Auf allen drei Entfernungen trifft die Waffe Fleck – das ZF gleicht alle Entfernungsschwankungen automatisch aus.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Typen von Büchsenpatronen werden nach ihrem Zündsystem unterschieden?",
+    "Antwort": "Zentralfeuerpatronen (Zünder in der Mitte des Hülsenbodens; Systeme: Berdan mit 2 Zündlöchern oder Boxer mit 1 Zündloch) und Randfeuerpatronen (Zündsatz im Rand des Hülsenbodens, z.B. .22 lfB).",
+    "FalscheAntwort1": "Elektrische Zündung, mechanische Zündung und chemische Zündung.",
+    "FalscheAntwort2": "Vorderladerpatronen, Hinterladerpatronen und Einheitspatronen.",
+    "FalscheAntwort3": "Bleipatronen, kupferummantelte Patronen und bleifreie Patronen – das Zündsystem ist immer identisch.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie drei Möglichkeiten, die zu einer Laufsprengung führen können!",
+    "Antwort": "Fremdkörper im Lauf (Erde, Schnee, Wasser), falsche Munition (z.B. 8x57IS in 8x57I), abgerissene Reinigungsbürste im Lauf.",
+    "FalscheAntwort1": "Zu alte Munition, zu langes Schießen ohne Pause, zu hohe Außentemperatur.",
+    "FalscheAntwort2": "Fehlende Wartung des Schlagbolzens, verrostete Züge, zu kurze Lauflänge.",
+    "FalscheAntwort3": "Falsches Kaliber des Zielfernrohrs, fehlende Waffenreinigung nach der Jagd, beschädigter Schaft.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Abzugsarten gibt es nach ihrer Funktionsweise?",
+    "Antwort": "Direkt wirkend: Druckpunktabzug, Flintenabzug (kein Druckpunkt), Feinabzug. Indirekt (über Stecherwerk): deutscher Stecher, französischer Stecher. Kombiniert: Rückstecher.",
+    "FalscheAntwort1": "Einabzug, Doppelabzug, Dreifachabzug – unterschieden nur nach Anzahl der Abzugszungen.",
+    "FalscheAntwort2": "Kurzabzug, Langabzug, Federabzug – alle Jagdwaffen müssen einen Kurzabzug haben.",
+    "FalscheAntwort3": "Automatischer Abzug, halbautomatischer Abzug und manueller Abzug.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was verstehen Sie unter 'Mag-na-port'?",
+    "Antwort": "Eine Schlitzeinrichtung kurz vor der Laufmündung (oben), die Pulvergase nach oben ausleitet und dadurch das Hochschlagen der Mündung beim Schuss reduziert.",
+    "FalscheAntwort1": "Eine besondere Laufbeschichtung, die den Gasdruckstoß im Patronenlager abpuffert.",
+    "FalscheAntwort2": "Ein vergrößertes Magazin für Drückjagden – erlaubt mehr als 3 Schuss bei Selbstladebüchsen.",
+    "FalscheAntwort3": "Ein Schalldämpfertyp, der direkt auf die Laufmündung aufgeschraubt wird.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie drei 'kalte Waffen' (Blankwaffen) im jagdlichen Bereich!",
+    "Antwort": "Saufeder (Sauspiess), Waidblatt, Hirschfänger (Nicker, Waidmesser).",
+    "FalscheAntwort1": "Flinte, Revolver, Pistole.",
+    "FalscheAntwort2": "Fangschussmesser, Kugelbüchse, Drilling.",
+    "FalscheAntwort3": "Stahlschrot, Bleischrot, Flintenlaufgeschoss.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie fahren zur Gamsjagd in die Alpen (2500 m Höhe). Wie verändert sich die Treffpunktlage gegenüber dem Einschießen im Flachland?",
+    "Antwort": "In großer Höhe ist die Luft dünner – weniger Luftwiderstand, das Geschoss fliegt gestreckter. Die Treffpunktlage liegt leicht höher als im Flachland (Hochschuss). Ein Kontrollschuss vor Ort wird empfohlen.",
+    "FalscheAntwort1": "Die Treffpunktlage liegt tiefer, da die Schwerkraft in größerer Höhe stärker wirkt.",
+    "FalscheAntwort2": "Es gibt keine Veränderung – modernes Büchsenpulver kompensiert automatisch Höhenunterschiede.",
+    "FalscheAntwort3": "Die Treffpunktlage liegt tiefer wegen des geringeren Luftdrucks, der das Geschoss schneller abbremst.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wird durch den amtlichen Beschuss auch die Schussleistung (Präzision) der Waffe geprüft?",
+    "Antwort": "Nein. Der amtliche Beschuss prüft nur die Festigkeit und Haltbarkeit der Waffe gegenüber erhöhtem Gasdruck – nicht die Treffergenauigkeit.",
+    "FalscheAntwort1": "Ja, jede Waffe wird beim Beschuss auf 100 m eingeschossen und muss einen Streukreis von max. 5 cm haben.",
+    "FalscheAntwort2": "Ja, der Beschuss beinhaltet sowohl Festigkeitsprüfung als auch Präzisionstest mit 5 Schuss.",
+    "FalscheAntwort3": "Ja, aber nur für Büchsen – bei Flinten wird nur die Festigkeit geprüft.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Können Flintenlaufgeschosse (FLG) auch aus Läufen mit Chokebohrung verschossen werden?",
+    "Antwort": "Ja, FLG können auch aus Chokebohrungen verschossen werden – allerdings sollte die Waffenempfehlung des Herstellers beachtet werden.",
+    "FalscheAntwort1": "Nein, FLG dürfen ausschließlich aus Zylinderbohrungen verschossen werden – Choke würde das Geschoss verformen.",
+    "FalscheAntwort2": "Nein, FLG sind nur für Läufe mit Stahlschrotbeschuss zugelassen, unabhängig von der Bohrung.",
+    "FalscheAntwort3": "Ja, aber nur aus Halbchoke (1/2) – Voll- und 3/4-Choke sind für FLG verboten.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welcher Unterschied besteht zwischen Revolver und Pistole?",
+    "Antwort": "Pistole: Patronenlager im Lauf, Patronenzufuhr aus Magazin im Griff, Verschluss (Schlitten) wird durchgeladen. Revolver: Patronenlager in der Trommel, getrennt vom Lauf; beim Spannen dreht die Trommel weiter, keine manuelle Sicherung.",
+    "FalscheAntwort1": "Revolver sind Langwaffen, Pistolen Kurzwaffen – der Unterschied liegt in der Lauflänge.",
+    "FalscheAntwort2": "Pistolen verwenden Revolvermunition, Revolver Pistolenmunition – sie sind technisch identisch.",
+    "FalscheAntwort3": "Revolver haben ein Magazin im Griff, Pistolen fassen die Patronen in einem Trommelmagazin.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was bedeutet die Patronenbezeichnung .243 Winchester?",
+    "Antwort": ".243' = ca. 6,2 mm Geschossdurchmesser, Hülsenlänge 51 mm, 1955 von Winchester entwickelt. Für Repetierbüchsen (mit Rille). In Deutschland auf Schalenwild unter 6,5 mm nicht als hochwildtauglich anerkannt – gute Rehwildpatrone.",
+    "FalscheAntwort1": ".243 gibt die Hülsenlänge in Zoll an – das Kaliber ist 6,5 mm.",
+    "FalscheAntwort2": ".243 bezeichnet das Geschossgewicht in Gramm – ein englisches Maßsystem für Büchsenpatronen.",
+    "FalscheAntwort3": ".243 beschreibt den Laufdurchmesser in cm – 2,43 cm = ca. 24 mm Kaliber.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was sagt Ihnen der Begriff 'Subsonic'? Wie hoch ist die Geschwindigkeit?",
+    "Antwort": "Unterschallmunition (V0 unter 330 m/s, der Schallgeschwindigkeit). Wird für Waffen mit Schalldämpfer verwendet – kein Überschallknall. In Schleswig-Holstein jagdlich nicht relevant (keine bleifreie Ausführung üblich).",
+    "FalscheAntwort1": "Überschallmunition mit V0 über 500 m/s – besonders flacher Flugbahn.",
+    "FalscheAntwort2": "Eine spezielle Hohlspitzmunition mit V0 ca. 800 m/s für schnelle Expansion.",
+    "FalscheAntwort3": "Munition mit reduziertem Pulver für kürzere Reichweite – V0 ca. 600 m/s.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Beschreiben Sie die Wirkungsweise eines Deformationsgeschosses!",
+    "Antwort": "Nach dem Eindringen in den Wildkörper nimmt das Geschoss Flüssigkeit auf und pilzt auf – der Durchmesser vergrößert sich stark. Dadurch wird mehr Energie auf Gewebe und Knochen übertragen (großer Wundkanal, sicherer Stopp).",
+    "FalscheAntwort1": "Das Geschoss zerbricht beim Auftreff in viele kleine Splitter, die sich im Wildkörper verteilen.",
+    "FalscheAntwort2": "Das Geschoss durchschlägt den Wildkörper ohne Verformung für maximale Reichweite im Ziel.",
+    "FalscheAntwort3": "Das Geschoss explodiert beim Auftreffen und überträgt seine Energie durch Druckwelle – kein Durchschuss.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wann stechen Sie die Waffe ein (Stecher aktivieren)?",
+    "Antwort": "Im Anschlag, nach dem Entsichern, unmittelbar vor der Schussauslösung.",
+    "FalscheAntwort1": "Sofort beim Besteigen des Hochsitzes, damit die Waffe jederzeit schussbereit ist.",
+    "FalscheAntwort2": "Beim Laden der Waffe – Stecher und Sicherung werden gleichzeitig aktiviert.",
+    "FalscheAntwort3": "Auf Drückjagden direkt nach dem Anstellen, um schnell reagieren zu können.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was versteht man unter einer 'unterladenen Waffe'?",
+    "Antwort": "Magazin gefüllt, Patronenlager leer, Verschluss geschlossen – die Waffe ist nicht schussbereit, aber rasch ladebereit.",
+    "FalscheAntwort1": "Eine Waffe, in der weniger als die maximale Patronenzahl geladen ist.",
+    "FalscheAntwort2": "Eine Waffe, die mit einer Patrone geladen ist und gesichert getragen wird.",
+    "FalscheAntwort3": "Eine Waffe, bei der Magazin und Patronenlager leer sind – völlig ungeladen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nach welchen zwei Prinzipien funktionieren Selbstladegewehre?",
+    "Antwort": "Gasdrucklader: Pulvergase werden aus dem Lauf abgezapft und betätigen den Verschluss. Rückstoßlader: der Rückstoß des Schusses treibt den Verschluss zurück.",
+    "FalscheAntwort1": "Federlader und Magnetsystem.",
+    "FalscheAntwort2": "Drehverschlusssystem und Rollenverschlusssystem.",
+    "FalscheAntwort3": "Hydrauliksystem und Pneumatiksystem.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was bedeutet der Unterschied zwischen den Kaliberbezeichnungen 8x57 'I' und 8x57 'IS'?",
+    "Antwort": "I (Infanterie): älteres Kaliber mit Geschossdurchmesser 8,09 mm. IS (Infanterie Spitz): neueres, stärkeres Kaliber mit Geschossdurchmesser 8,22 mm – IS-Patronen dürfen NICHT in I-Waffen verschossen werden.",
+    "FalscheAntwort1": "I bedeutet 'International', IS bedeutet 'International Standard' – rein marketingbezogene Bezeichnungen ohne Auswirkung auf Ladedaten.",
+    "FalscheAntwort2": "I und IS haben identische Außenmaße und können beliebig in allen 8x57-Waffen verwendet werden.",
+    "FalscheAntwort3": "I ist die Standard-, IS die Magnumvariante – IS hat eine längere Hülse und höheren Gasdruck.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wann wird die Waffe auf der Drückjagd geladen?",
+    "Antwort": "Nach dem Anstellen am Stand und nach dem Anlasen (Signal zum Beginn des Treibens) oder nach der vorgegebenen Zeit.",
+    "FalscheAntwort1": "Bereits auf dem Weg zum Drückjagdstand – die Waffe muss bei Ankunft geladen sein.",
+    "FalscheAntwort2": "Erst wenn Wild in Sicht ist – ein vorzeitiges Laden ist verboten.",
+    "FalscheAntwort3": "Beim Einsteigen ins Fahrzeug zur Drückjagd – Transport muss mit geladenem, gesichertem Gewehr erfolgen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Erklären Sie die Begriffe 'Abkommen' und 'Absehen'!",
+    "Antwort": "Abkommen: die Position der Zielmarke im Zielfernrohr im Augenblick der Schussauslösung. Absehen: das Fadenkreuz oder die Strichmarkierung im Zielfernrohr (ggf. mit Leuchtpunkt).",
+    "FalscheAntwort1": "Abkommen ist das Herausnehmen der Waffe aus dem Anschlag, Absehen das Einrichten auf das Ziel.",
+    "FalscheAntwort2": "Absehen ist das Vergessen der genauen Schussposition nach dem Schuss, Abkommen der bewusste Verzicht auf einen Schuss.",
+    "FalscheAntwort3": "Beide Begriffe sind identisch und bezeichnen das Einrichten des Visiers auf das Ziel.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welchen Durchmesser hat die Schrotgarbe einer 3 mm Schrotpatrone aus Halbchoke auf 35 m Entfernung?",
+    "Antwort": "Ca. 1 m (100 cm) – ein hilfreicher Richtwert für die Praxis.",
+    "FalscheAntwort1": "Ca. 10 cm – die Schrotgarbe bleibt durch den Halbchoke auf kurzer Distanz sehr eng.",
+    "FalscheAntwort2": "Ca. 3 m – die Garbe streut bereits auf 35 m sehr stark.",
+    "FalscheAntwort3": "Ca. 30 cm – entspricht dem dreifachen Schrotkorn-Durchmesser mal der Schussentfernung in Metern.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie wollen aus Ihrer Flinte Stahlschrote verschießen. Worauf müssen Sie achten?",
+    "Antwort": "Die Flinte muss einen gültigen Stahlschrotbeschuss haben (gekennzeichnet mit der stilisierten Lilie). Wechselchokes müssen ebenfalls stahlschrottauglich sein. In Waffen ohne Stahlschrotbeschuss sind nur Stahlschrote bis 3 mm weiterhin erlaubt.",
+    "FalscheAntwort1": "Es gibt keine besonderen Anforderungen – Stahlschrot kann in jede Jagdflinte geladen werden.",
+    "FalscheAntwort2": "Die Flinte muss einen Kunststoffschaft haben – Holzschäfte werden durch Stahlschrote beschädigt.",
+    "FalscheAntwort3": "Der Lauf muss mindestens 76 cm lang sein – kürzere Läufe dürfen nicht mit Stahlschrot verwendet werden.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Warum sollte ein zu beschießendes Stück Wild bei der Schussabgabe immer das Haupt erhoben haben?",
+    "Antwort": "Bei gesenktem Haupt verschieben sich Decke und Muskulatur – der Einschuss und Ausschuss können sich schließen und das Stück schweißt schlechter. Zudem ist das Stück aufmerksam und steht ruhig.",
+    "FalscheAntwort1": "Nur damit der Jäger das Wild besser ansprechen kann – die Fluchtwirkung des Schusses ist unabhängig von der Kopfhaltung.",
+    "FalscheAntwort2": "Damit der Schuss immer auf den Kopf zielt – das ist der sicherste Schuss auf Schalenwild.",
+    "FalscheAntwort3": "Weil Wild mit gesenktem Haupt als nicht schusswürdig gilt und nicht erlegt werden darf.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welches Fernglas hat die größere Lichtstärke: 6×42 oder 10×50?",
+    "Antwort": "Das 6×42: Lichtstärke = (42/6)² = 7² = 49. Das 10×50: (50/10)² = 5² = 25. Das 6×42 ist deutlich lichtstärker.",
+    "FalscheAntwort1": "Das 10×50, weil es ein größeres Objektiv (50 mm) hat.",
+    "FalscheAntwort2": "Beide sind gleich stark – Lichtstärke hängt nur vom Objektivdurchmesser ab.",
+    "FalscheAntwort3": "Das 6×42, weil die geringere Vergrößerung automatisch zu einem helleren Bild führt – unabhängig vom Objektivdurchmesser.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Aufgaben hat der Vorderschaft einer Kipplaufwaffe?",
+    "Antwort": "Handhabe für die zweite Hand, Hitzeschutz, Gegenlager vom Öffnungsscharnier, nimmt die Ejektorsteuerung auf, spannt beim Öffnen die Schlösser.",
+    "FalscheAntwort1": "Nur ästhetische Funktion – er macht die Waffe optisch ansprechend und schützt den Lauf vor äußeren Einflüssen.",
+    "FalscheAntwort2": "Aufnahme des Magazins und Führung der Patronen ins Patronenlager.",
+    "FalscheAntwort3": "Verriegelung des Verschlusses und Aufnahme der Hauptfeder.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wo ist im Gewehrlauf der Gasdruck am höchsten?",
+    "Antwort": "Im Patronenlager – dort zündet die Treibladung und der Maximaldruck baut sich direkt hinter dem Geschoss auf, bevor es sich in Bewegung setzt.",
+    "FalscheAntwort1": "An der Laufmündung – dort verlässt das Gas den Lauf und hat den höchsten Druck.",
+    "FalscheAntwort2": "In der Mitte des Laufs – dort hat das Geschoss seine maximale Beschleunigung erreicht.",
+    "FalscheAntwort3": "Am Stoßboden – die Kraft wirkt ausschließlich rückwärts auf den Verschluss.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was verstehen Sie unter 'Variochoke' oder 'Polychoke'?",
+    "Antwort": "Ein verstellbarer Choke an der Laufmündung einer einläufigen Flinte – die Chokestärke kann stufenlos eingestellt werden. Heute kaum noch gebaut, nie stahlschrottauglich.",
+    "FalscheAntwort1": "Ein Wechselchoke-System, bei dem verschiedene aufschraubbare Choke-Aufsätze im Set mitgeliefert werden.",
+    "FalscheAntwort2": "Ein selbstreinigender Choke, der sich nach jedem Schuss automatisch von Pulverrückständen befreit.",
+    "FalscheAntwort3": "Ein verstärkter Choke speziell für Stahlschrot – der einzige zugelassene Choke für bleifreies Schrot.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was verstehen Sie unter 'Vergütung' bei einer Optik?",
+    "Antwort": "Eine Beschichtung auf den Linsen, die Lichtreflexionen reduziert und dadurch die Lichtdurchlässigkeit erhöht – das Bild wird heller und kontrastreicher, besonders bei Dämmerung.",
+    "FalscheAntwort1": "Die Verstärkung des Objektivgehäuses gegen Stöße und Witterungseinflüsse.",
+    "FalscheAntwort2": "Ein interner Mechanismus, der die Schärfe bei verschiedenen Entfernungen automatisch anpasst.",
+    "FalscheAntwort3": "Eine Beschichtung zum Schutz der Linsen vor Kratzen durch Zweige und Äste.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Schrotstärke gilt als 'Universalgröße' für die Niederwildjagd?",
+    "Antwort": "3,2 mm – sie eignet sich für die meisten Niederwildarten und ist ein guter Kompromiss zwischen Schrotzahl und Einzelwirkung.",
+    "FalscheAntwort1": "2,0 mm – kleine Schrote haben die höchste Schrotanzahl und damit die beste Treffer­wahrscheinlichkeit.",
+    "FalscheAntwort2": "4,0 mm – größere Schrotkörner sichern die nötige Wirkung auf alle Jagdwildarten.",
+    "FalscheAntwort3": "5,0 mm – Universalgröße für Hoch- und Niederwild gleichzeitig.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welchen Vorteil hat ein freiliegender Büchsenlauf bei einer kombinierten Waffe?",
+    "Antwort": "Thermostabilität – der Lauf kann sich frei ausdehnen und kühlt schnell ab. Dadurch bleibt die Treffpunktlage auch bei warmgeschossener Waffe stabil.",
+    "FalscheAntwort1": "Der Lauf ist leichter zugänglich für die Reinigung und kann schneller gewechselt werden.",
+    "FalscheAntwort2": "Der freiliegende Lauf erhöht die V0, da keine Reibung durch den Schaft bremst.",
+    "FalscheAntwort3": "Geringeres Gewicht durch den fehlenden Vorderschaft – die Waffe ist führiger im Revier.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was sind Signalstifte bei Kurzwaffen? Was zeigen sie an?",
+    "Antwort": "Herausstehende Stifte am Gehäuse oder Schlagbolzen, die den Zustand der Waffe anzeigen. Bei Kurzwaffen: Patrone im Patronenlager geladen.",
+    "FalscheAntwort1": "Farbmarkierungen auf dem Schlitten, die das zulässige Kaliber anzeigen.",
+    "FalscheAntwort2": "Sicherheitsstifte, die das unabsichtliche Laden der Waffe verhindern.",
+    "FalscheAntwort3": "Markierungen auf dem Lauf, die die maximale Schusszahl vor der nächsten Inspektion anzeigen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Nennen Sie fünf kombinierte Waffen (Kombinationen aus Flinte und Büchse)!",
+    "Antwort": "Büchsflinte (BF), Bockbüchsflinte (BBF), Standarddrilling (2 Schrotläufe + 1 Büchsenlauf), Bockdrilling, Doppelbüchsdrilling, Vierling.",
+    "FalscheAntwort1": "Repetierbüchse, Selbstladebüchse, Kipplaufbüchse, Laufbüchse, Stutzen.",
+    "FalscheAntwort2": "Schrotflinte, Büchse, Pistole, Revolver, Drilling.",
+    "FalscheAntwort3": "Hahnflinte, Hammerless, Boxlock, Sidelock, Enfield.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was besagen die Angaben 'RWS 16/67,5 Nr. 3' auf einer Patronenschachtel?",
+    "Antwort": "RWS = Hersteller. 16 = Kaliber (1/16 eines engl. Pfund Blei als Kugel = Laufinnendurchmesser). 67,5 = Hülsenlänge in mm (abgeschossen). Nr. 3 = Schrotstärke 3,5 mm.",
+    "FalscheAntwort1": "RWS = Reichs-Waffen-Standard (Gütesiegel). 16 = Schrotanzahl in der Patrone. 67,5 = Pulvermenge in mg. Nr. 3 = Qualitätsstufe.",
+    "FalscheAntwort2": "16 = Schrotgröße in 1/10 mm, also 1,6 mm Schrote. 67,5 = Patronengewicht in Gramm.",
+    "FalscheAntwort3": "RWS = Rückstoßwert Schrot. 16/67,5 = Verhältnis Pulver zu Schrot. Nr. 3 = Choke-Empfehlung.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Können Sie mit einem Flintenlaufgeschoss (FLG) Schalenwild (z.B. einen Damhirsch) erlegen?",
+    "Antwort": "Ja, FLG sind für Schalenwild (Hochwild) jagdrechtlich zugelassen. In Schleswig-Holstein muss das FLG bleifrei sein.",
+    "FalscheAntwort1": "Nein, FLG sind ausschließlich für Niederwild und Raubwild zugelassen.",
+    "FalscheAntwort2": "Nein, FLG haben zu wenig Energie (unter 2000 J) für Schalenwild.",
+    "FalscheAntwort3": "Ja, aber nur auf Schwarzwild – auf Rotwild und Damwild ist das FLG verboten.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist ein 'Ölschuss' und was hat er zur Folge?",
+    "Antwort": "Ein Schuss mit Ölrückständen im Lauf (nicht trockengewischt nach der Reinigung). Folge: Treffpunktabweichungen durch veränderte Geschossreibung, im schlimmsten Fall Laufaufbauchungen.",
+    "FalscheAntwort1": "Ein Schuss, der mit geölter Patrone abgegeben wird – die Hülse gleitet zu leicht heraus und verliert Energie.",
+    "FalscheAntwort2": "Ein Schuss bei Regenwetter mit ins Wasser geratener Waffe – das Öl wird ausgewaschen und der Lauf rostet.",
+    "FalscheAntwort3": "Das unabsichtliche Einspritzen von Waffenöl ins Patronenlager beim Reinigen – führt zu Versagern.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche äußeren Einflüsse wirken auf die Flugbahn eines Geschosses?",
+    "Antwort": "Luftwiderstand, Erdanziehung (Schwerkraft), Wind (Richtung und Stärke), Temperatur, Luftdruck, Luftfeuchtigkeit (Regen/Schnee).",
+    "FalscheAntwort1": "Geschossgewicht, Geschwindigkeit und Geschossform – das sind die einzigen Faktoren, die die Flugbahn beeinflussen.",
+    "FalscheAntwort2": "Nur Schwerkraft und Luftwiderstand – alle anderen Faktoren sind vernachlässigbar.",
+    "FalscheAntwort3": "Der Lauf selbst und die Treibladung – äußere Einflüsse sind erst ab 500 m relevant.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist der Gefahrenbereich bei Kaliber 20/70 mit einer Schrotstärke von 3,25 mm?",
+    "Antwort": "Ca. 325 m – bei Schrot gilt als Faustformel: Schrotstärke in mm × 100 = Gefahrenbereich in Metern.",
+    "FalscheAntwort1": "Ca. 100 m – alle Schrotpatronen haben unabhängig von Stärke und Kaliber einen Gefahrenbereich von 100 m.",
+    "FalscheAntwort2": "Ca. 600 m – Kaliber 20 schießt weiter als Kaliber 12.",
+    "FalscheAntwort3": "Ca. 1500 m – Schrotstärke 3,25 mm entspricht fast einem FLG.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Um wieviel mm wird die Laufbohrung bei einem Vollchoke (Vollwürge) verengt?",
+    "Antwort": "Ca. 1 mm – die Mündungsverengung beim Vollchoke beträgt etwa 1 mm gegenüber der Zylinderbohrung.",
+    "FalscheAntwort1": "Ca. 5 mm – der Vollchoke muss die Garbe stark zusammenpressen.",
+    "FalscheAntwort2": "Ca. 0,1 mm – eine minimale Verengung genügt für die Wirkung.",
+    "FalscheAntwort3": "Ca. 3 mm – 1 mm pro Choke-Stufe (Viertel, Halb, Dreiviertel, Voll).",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welchen 'Knall' dämpft ein Schalldämpfer auf der Jagdwaffe?",
+    "Antwort": "Den Mündungsknall – die expandierenden Pulvergase an der Laufmündung werden abgepuffert. Der Überschallknall des Geschosses (Geschossknall) kann nicht gedämpft werden.",
+    "FalscheAntwort1": "Den Geschossknall – der Überschallknall des Geschosses wird durch die Schallisolierung des Dämpfers absorbiert.",
+    "FalscheAntwort2": "Sowohl Mündungs- als auch Geschossknall werden vollständig eliminiert.",
+    "FalscheAntwort3": "Nur den Rückstoßknall beim Aufschlagen des Verschlusses – die Schussgeräusche selbst bleiben unverändert.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Sie haben einen Standard-Drilling und wollen aus dem rechten Schrotlauf schießen. Beschreiben Sie die Vorgehensweise.",
+    "Antwort": "Umschaltschieber nach hinten schieben (Schrotstellung), Waffe laden, entsichern, vorderen Abzug betätigen (rechter Schrotlauf).",
+    "FalscheAntwort1": "Umschaltschieber nach vorne (Kugelstellung), Waffe laden, hinteren Abzug betätigen.",
+    "FalscheAntwort2": "Keine Umschaltung nötig – beim Drilling ist der erste Abzug immer dem rechten Schrotlauf zugeordnet.",
+    "FalscheAntwort3": "Umschaltschieber in Mittelstellung, dann beliebigen Abzug betätigen – der Drilling wählt automatisch.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Linien kreuzen sich bei Repetierbüchsen mit Zielfernrohr nie?",
+    "Antwort": "Die Seelenachse (Laufmittellinie) und die Visier-/ZF-Achse kreuzen sich nie – die Visierachse liegt immer über der Seelenachse. Die Geschossflugbahn schneidet die Visierachse zweimal (Ein- und Ausschuss­punkt).",
+    "FalscheAntwort1": "Seelenachse und Geschossflugbahn – sie verlaufen immer parallel.",
+    "FalscheAntwort2": "Visierachse und Geschossflugbahn – sie befinden sich in unterschiedlichen Ebenen.",
+    "FalscheAntwort3": "ZF-Achse und Laufmündungslinie – der Lauf ist leicht nach oben geneigt damit sie zusammenfallen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welches Zielfernrohr wählen Sie für eine Drückjagd? (Zur Wahl: 3–12×56 / 1,5–6×20 / 6×42 / 8×56)",
+    "Antwort": "1,5–6×20 – wegen niedrigster Vergrößerung, großem Sehfeld, kurzer Parallaxe und schnellem Zielerfassen auf kurze Distanzen.",
+    "FalscheAntwort1": "8×56 – das größte Objektiv liefert das hellste Bild für Dämmerungsschüsse.",
+    "FalscheAntwort2": "3–12×56 – die variable Vergrößerung erlaubt Anpassung an alle Situationen.",
+    "FalscheAntwort3": "6×42 – der Klassiker für alle Jagdsituationen, auch Drückjagd.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was sind die Vorzüge/die Besonderheit einer Büchse gegenüber einer Flinte?",
+    "Antwort": "Gezogener Lauf – das Geschoss rotiert und fliegt präzise auf große Entfernungen. Geeignet für Einzelkugelschuss auf Schalenwild.",
+    "FalscheAntwort1": "Mehr Schuss möglich ohne Nachladen – Büchsen haben immer ein größeres Magazin als Flinten.",
+    "FalscheAntwort2": "Kürzere Gefahrenreichweite – Büchsenkugeln sind auf ca. 200 m begrenzt.",
+    "FalscheAntwort3": "Breitere Streuung durch gezogenen Lauf – sicherer Treffer auch auf bewegtes Wild.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Was ist der Unterschied zwischen 'Einschießen' und 'Anschießen' einer Waffe?",
+    "Antwort": "Einschießen: Korrektur der Treffpunktlage bis die Waffe Fleck zeigt. Anschießen (Kontrollschuss): Überprüfung, ob die Waffe noch Fleck schießt – ohne Korrektur. Beides ist auch im Revier erlaubt.",
+    "FalscheAntwort1": "Einschießen ist das erstmalige Schießen einer neuen Waffe, Anschießen die jährliche Überprüfung.",
+    "FalscheAntwort2": "Anschießen ist verboten – nur das Einschießen auf dem Schießstand ist erlaubt.",
+    "FalscheAntwort3": "Beide Begriffe sind identisch und bezeichnen das Justieren des Zielfernrohrs.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie verhalten Sie sich bei einem Versager (Klick, kein Schuss, Büchse)?",
+    "Antwort": "Waffe in sicherer Richtung (Boden) halten und mindestens 10 Sekunden warten – Gefahr des Nachzünders (langsam brennende Patrone). Danach vorsichtig entladen.",
+    "FalscheAntwort1": "Sofort Verschluss öffnen und Patrone herausziehen – es liegt ein einfacher Versager vor.",
+    "FalscheAntwort2": "Nochmals abdrücken – Versager kommen selten doppelt vor.",
+    "FalscheAntwort3": "Waffe ablegen und einen Waffenmeister rufen – Versager dürfen nur von Fachleuten behandelt werden.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Kann aus einem Revolver mit Schrot geschossen werden?",
+    "Antwort": "Ja – es gibt spezielle Schrotpatronen (z.B. CCI) für Revolver. Sinnvoll für Fang­schüsse auf Raubwild/Schädlinge in der Falle aus nächster Nähe.",
+    "FalscheAntwort1": "Nein, Revolver sind bauartbedingt nur für Einzelkugelgeschosse geeignet.",
+    "FalscheAntwort2": "Nein, Schrotpatronen sind ausschließlich für glattläufige Flinten zugelassen.",
+    "FalscheAntwort3": "Ja, aber nur aus einem Revolver mit Speziallauf (Trommelflinte) – Standard-Revolver sind nicht geeignet.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wozu dient ein Stecher an einer Jagdwaffe?",
+    "Antwort": "Zur Reduzierung des Abzugsgewichts – nach dem Einstechen löst die Waffe bei minimalem Druck auf den Abzug aus, was präzisere Schüsse auf große Entfernungen ermöglicht.",
+    "FalscheAntwort1": "Als zusätzliche Sicherung – die Waffe kann nur mit eingestochenem Stecher gesichert werden.",
+    "FalscheAntwort2": "Zur Erhöhung der Schussfolge – mit Stecher können Schüsse schneller wiederholt werden.",
+    "FalscheAntwort3": "Als Abzugsschutz, der unbeabsichtigtes Betätigen des Abzugs verhindert.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Disziplinen gibt es beim jagdsportlichen Schießen?",
+    "Antwort": "Schrot: Trap, Skeet, Parcours (Jagdparcours), Rollhase, Kipphase. Kugel: Bock angestrichen 100 m, Fuchs liegend 100 m, Überläufer stehend 100 m, laufender Keiler 50 m.",
+    "FalscheAntwort1": "Nur Schießen auf feste Scheiben in verschiedenen Entfernungen (50/100/200 m) – jagdliche Simulation ist nicht erlaubt.",
+    "FalscheAntwort2": "Biathlon (Laufen + Schießen), Biatlon-Variante (Schießen + Hund), Jagdparcours.",
+    "FalscheAntwort3": "Ausschließlich Trap und Skeet für Schrotwaffen; Kugeldisziplinen sind dem Militär vorbehalten.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wieviel wiegt die Schrotladung einer 12/70 3 mm Schrotpatrone und wie viele Schrotkörner enthält sie?",
+    "Antwort": "Ca. 32–36 g Schrotladung, ca. 200–240 einzelne Schrotkörner bei 3 mm Schrotgröße.",
+    "FalscheAntwort1": "Ca. 12 g Schrotladung, ca. 12 Körner (eine pro Gramm).",
+    "FalscheAntwort2": "Ca. 60–70 g Schrotladung, ca. 30–40 Körner bei 3 mm.",
+    "FalscheAntwort3": "Ca. 32 g, ca. 80–90 Körner – 3 mm Schrot ist annähernd so groß wie Posten.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie führt man eine Repetierbüchse auf dem Schießstand?",
+    "Antwort": "Geöffnet, entladen, Magazin entnommen, Mündung nach oben gerichtet – ohne umgehängten Riemen.",
+    "FalscheAntwort1": "Geladen und gesichert, Mündung nach unten – wie auf der Ansitzjagd.",
+    "FalscheAntwort2": "Entladen mit geschlossenem Verschluss und eingestecktem Magazin.",
+    "FalscheAntwort3": "Im Futteral, geschlossen – auf dem Schießstand darf die Waffe nie offen getragen werden.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Ist die Sicherung eines Gewehres in jedem Fall zuverlässig?",
+    "Antwort": "Nein. Keine Sicherung ist zu 100 % verlässlich. Am sichersten ist eine Waffe ungeladen und offen. Schlagbolzensicherungen sind zuverlässiger als Abzugssicherungen.",
+    "FalscheAntwort1": "Ja, moderne Waffensicherungen sind durch mehrfache Sicherheitsstufen absolut verlässlich.",
+    "FalscheAntwort2": "Ja, zumindest bei Waffen mit Stangensicherung – diese ist immer absolut sicher.",
+    "FalscheAntwort3": "Ja, solange die Waffe regelmäßig gewartet wird, ist die Sicherung hundertprozentig verlässlich.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Welche Schussgenauigkeit (Streukreis) ist von einer modernen Repetierbüchse auf 100 m als sehr gut zu bezeichnen?",
+    "Antwort": "Ca. 25–30 mm (2,5–3 cm) Streukreis auf 100 m gelten als sehr gut; Präzisionsbüchsen erreichen auch unter 20 mm.",
+    "FalscheAntwort1": "Ca. 10 cm – auf der Jagd ist ein Streukreis von 10 cm auf 100 m ausreichend.",
+    "FalscheAntwort2": "Ca. 1 mm – modernes CNC-Fräsen macht solche Präzision zum Standard.",
+    "FalscheAntwort3": "Ca. 5 cm – das ist der gesetzlich vorgeschriebene Maximalstreukreis für zugelassene Jagdwaffen.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "Wie verfahren Sie mit einer nicht gezündeten Schrotpatrone (Versager)?",
+    "Antwort": "Waffe gesichert in sicherer Richtung halten, mind. 10 Sekunden warten (Nachzündergefahr). Patrone getrennt von anderen Patronen aufbewahren und vom Fachmann entsorgen lassen.",
+    "FalscheAntwort1": "Patrone sofort aus dem Lauf entfernen und im Gelände vergraben – sie ist unschädlich.",
+    "FalscheAntwort2": "Patrone nochmals in die Waffe laden und erneut abfeuern.",
+    "FalscheAntwort3": "Patrone im Hausmüll entsorgen – Schrotpatronen ohne Zündung sind ungefährlich.",
+    "Pruefungsfach": "Waffenkunde und Waffenrecht"
   }
 ]
