@@ -134,7 +134,12 @@
           <h3>{{ aiCurrent.FrageFreitext || aiCurrent.Frage }}</h3>
           <button class="report-inline" @click="openReportModal">⚠︎ Frage melden</button>
         </div>
-        <textarea v-model="aiUserAnswer" rows="6" class="freeform" placeholder="Deine Antwort im Prüfungsstil..." />
+        <textarea
+          v-model="aiUserAnswer"
+          rows="6"
+          class="freeform answer-field"
+          placeholder="Deine Antwort im Prüfungsstil..."
+        />
 
         <div class="row">
           <button :disabled="!aiUserAnswer.trim() || aiLoading || aiAnswered" @click="submitAiAnswer">Antwort bewerten</button>
@@ -747,8 +752,12 @@ button.active { background: rgba(91,140,255,.65); border-color: rgba(91,140,255,
 button:disabled { opacity: .5; cursor: not-allowed; }
 button.ghost { min-width: 2.6rem; }
 
-.options { display: grid; gap: .6rem; margin: .95rem 0; }
+.options { display: grid; gap: .6rem; margin: 1.25rem 0 1rem; }
 .option { padding: .65rem .72rem; display: flex; gap: .6rem; align-items: center; }
+
+.answer-field {
+  margin-top: 1.25rem;
+}
 
 .error { color: #ff8d8d; margin-top: .8rem; }
 .ok { color: #8cf2b7; margin-top: .8rem; }
