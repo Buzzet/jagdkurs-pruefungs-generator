@@ -17,9 +17,13 @@ LOG_FILE = ROOT / 'data' / 'report-fixes.log.jsonl'
 
 
 def keychain_password(account: str, service: str) -> str:
-    return subprocess.check_output([
-        'security', 'find-generic-password', '-a', account, '-s', service, '-w'
-    ], text=True).strip()
+    import os
+    pw = os.environ.get('GMAIL_APP_PASSWORD', '')
+    if not pw:
+        raise ValueError(f"GMAIL_APP_PASSWORD not set in environment (needed for {service})")
+    return pw
+
+
 
 
 def decode_subject(msg) -> str:
@@ -173,6 +177,13 @@ def git_commit_push(msg: str):
     c = subprocess.run(['git', 'commit', '-m', msg], cwd=ROOT)
     if c.returncode == 0:
         subprocess.run(['git', 'push'], cwd=ROOT, check=False)
+
+    # Sync workspace to git
+    workspace = Path('/root/.openclaw/workspace')
+    if workspace.exists():
+        subprocess.run(['git', 'add', '-A'], cwd=workspace, check=False)
+        subprocess.run(['git', 'commit', '-m', f'Server: {msg}'], cwd=workspace, check=False)
+        subprocess.run(['git', 'push', 'origin', 'main'], cwd=workspace, check=False)
 
 
 def run_once(gmail_account: str, keychain_service: str, auto_commit: bool):
