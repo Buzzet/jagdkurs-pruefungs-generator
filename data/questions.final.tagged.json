@@ -1262,7 +1262,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie kommen Jungkaninchen zur Welt?",
+    "Frage": "Wie setzt das Kaninchen?",
     "Antwort": "blind und nackt im Bau",
     "FalscheAntwort1": "sichtig im freien Feld",
     "FalscheAntwort2": "nur in Baumhöhlen",
@@ -1272,11 +1272,13 @@
     "Tags": [
       "wildtierkunde"
     ],
-    "FrageFreitext": "Wie kommen Jungkaninchen zur Welt?",
-    "FrageMC": "Welche Aussage ist richtig: Wie kommen Jungkaninchen zur Welt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Fragestellung unklar. Besser wäre z.B. wie setzt das Kanninchen oder so."
+    "FrageFreitext": "Wie setzt das Kaninchen?",
+    "FrageMC": "Wie setzt das Kaninchen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": [
+      "voll behaart im offenen Kessel",
+      "im Flachssitz mit Augen offen"
+    ]
   },
   {
     "Frage": "Kaninchen setzt Junge …?",
@@ -4353,21 +4355,20 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
-    "Antwort": "zulässig im gesetzlichen Rahmen",
-    "FalscheAntwort1": "grundsätzlich verboten",
-    "FalscheAntwort2": "nur auf Schießstand",
-    "FalscheAntwort3": "nur ohne Magazin",
+    "Frage": "Wieviele Patronen dürfen in einer Selbstladebüchse zur Jagd geladen sein?",
+    "Antwort": "maximal 3 Patronen (1 im Lauf, 2 im Magazin)",
+    "FalscheAntwort1": "beliebig viele",
+    "FalscheAntwort2": "nur eine Patrone insgesamt",
+    "FalscheAntwort3": "fünf im Magazin plus eine im Lauf",
     "Pruefungsfach": "Waffenkunde und Waffenrecht",
     "Difficulty": "hard",
     "Tags": [
       "büchse"
     ],
-    "FrageFreitext": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
-    "FrageMC": "Wann gilt Folgendes bei die Selbstladebüchse auf der Jagd?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Kann falsch verstanden werden"
+    "FrageFreitext": "Wieviele Patronen dürfen in einer Selbstladebüchse zur Jagd geladen sein?",
+    "FrageMC": "Wieviele Patronen dürfen in einer Selbstladebüchse zur Jagd geladen sein?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Was bedeutet die Selbstladebüchse auf der Jagd?",
@@ -4723,21 +4724,20 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über eine Kurzwaffe korrekt?",
-    "Antwort": "Revolver",
-    "FalscheAntwort1": "Repetierbüchse",
-    "FalscheAntwort2": "Bockdoppelflinte",
-    "FalscheAntwort3": "Drilling",
+    "Frage": "Wie ist eine Kurzwaffe definiert?",
+    "Antwort": "Gesamtlänge unter 60 cm bzw. Lauflänge unter 30 cm",
+    "FalscheAntwort1": "Immer mit gezogenen Läufen",
+    "FalscheAntwort2": "Nur Revolver gelten als Kurzwaffen",
+    "FalscheAntwort3": "Alle Waffen mit Magazin sind Kurzwaffen",
     "Pruefungsfach": "Waffenkunde und Waffenrecht",
     "Difficulty": "hard",
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was ist über eine Kurzwaffe korrekt?",
-    "FrageMC": "Was ist über eine Kurzwaffe korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsch gestellte Frage"
+    "FrageFreitext": "Wie ist eine Kurzwaffe definiert?",
+    "FrageMC": "Wie ist eine Kurzwaffe definiert?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Was ist über Kaliber 12/70 korrekt?",
@@ -10976,10 +10976,10 @@
     "Frage": "Welchen Schaden verursacht Schwarzwild im Feld?",
     "FrageFreitext": "Welchen Schaden verursacht Schwarzwild im Feld?",
     "FrageMC": "Welchen Schaden verursacht Schwarzwild im Feld?",
-    "Antwort": "Schädigung von Getreide.",
-    "FalscheAntwort1": "Zerstörung von Bäumen.",
-    "FalscheAntwort2": "Tötung anderer Wildtiere.",
-    "FalscheAntwort3": "Fressen von Gras.",
+    "Antwort": "Wühlt Saaten auf, frisst Getreide und Mais, zerstört Wiesen (Umbruch)",
+    "FalscheAntwort1": "Knabbert nur Baumrinde an",
+    "FalscheAntwort2": "Verwechselt Feldfrüchte mit Holz",
+    "FalscheAntwort3": "Keinen, es lebt nur vom Wald",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -10988,13 +10988,8 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": false,
-    "AlternativeAntworten": [
-      "Fraß- und Wühlschäden an Feldfrüchten",
-      "Erhebliche Schäden an Getreide- und Maisflächen",
-      "Umbruch von Ackerflächen durch Wühlen"
-    ],
-    "ReportFlag": "AUTO_REVIEW:Unklare Antworten"
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Was versteht man beim Schwarzwild unter Gebräch, Gebrech, Gewehre, Haderer, Gewaff, Haken?",
@@ -14048,10 +14043,10 @@
     "Frage": "Was sind Balzrosen?",
     "FrageFreitext": "Was sind Balzrosen?",
     "FrageMC": "Was sind Balzrosen?",
-    "Antwort": "Das sind spezielle Freiflächen, die Männchen zum Balzen nutzen.",
-    "FalscheAntwort1": "Das sind Nester für Vögel.",
-    "FalscheAntwort2": "Das sind Blumenarrangements.",
-    "FalscheAntwort3": "Das sind Futterplätze.",
+    "Antwort": "Wulstige Hautpartien um die Augen von Waldhühnern/Fasanen, die während der Balz anschwellen",
+    "FalscheAntwort1": "Besonders gepflegte Balzplätze im Wald",
+    "FalscheAntwort2": "Blütenpflanzen, die Balzplätze kennzeichnen",
+    "FalscheAntwort3": "Geruchsstoffe, die Hähne während der Balz versprühen",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -14059,9 +14054,8 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsche Antwort"
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   },
   {
     "Frage": "Welche Hühnervögel sind im Jagdrecht und welcher davon ist Zugvogel?",
@@ -14747,10 +14741,10 @@
     "Frage": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
     "FrageFreitext": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
     "FrageMC": "Welches Nagetier unterliegt in Deutschland dem Jagdrecht?",
-    "Antwort": "Murmeltier",
-    "FalscheAntwort1": "Mäuse",
-    "FalscheAntwort2": "Ratten",
-    "FalscheAntwort3": "Wühlmäuse",
+    "Antwort": "Nutria (Myocastor coypus)",
+    "FalscheAntwort1": "Hausmaus",
+    "FalscheAntwort2": "Wanderratte",
+    "FalscheAntwort3": "Siebenschläfer",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -14758,9 +14752,12 @@
       "Nagetier",
       "wildtierkunde"
     ],
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsche Antwort, richtig:Murmeltier"
+    "PdfEligible": true,
+    "AlternativeAntworten": [
+      "Bisam (Ondatra zibethicus)",
+      "Biber (Castor fiber)",
+      "Feldhamster (Cricetus cricetus)"
+    ]
   },
   {
     "Frage": "Nennen Sie die bei uns vorkommenden Schwimmenten.",
@@ -14790,10 +14787,10 @@
     "Frage": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
     "FrageFreitext": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
     "FrageMC": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
-    "Antwort": "Reiherente, Tafelente, Blässhuhn.",
-    "FalscheAntwort1": "Mandarinente, Stockente, Pfeifente.",
-    "FalscheAntwort2": "Kranich, Löffelente, Graugans.",
-    "FalscheAntwort3": "Eiderente, Schwimmenten, Haubentaucher.",
+    "Antwort": "Reiherente, Tafelente, Bergente",
+    "FalscheAntwort1": "Stockente",
+    "FalscheAntwort2": "Blässhuhn",
+    "FalscheAntwort3": "Graugans",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -14801,13 +14798,10 @@
       "Tauchenten",
       "wildtierkunde"
     ],
-    "PdfEligible": false,
+    "PdfEligible": true,
     "AlternativeAntworten": [
-      "Reiherente",
-      "Tafelente",
-      "Blässhuhn"
-    ],
-    "ReportFlag": "AUTO_REVIEW:Die Antwort ist irreführend! Da das Blässhuhn mit aufgeführt ist ! Blässhuhn ist keine Schwimmente"
+      "Schellente"
+    ]
   },
   {
     "Frage": "Welche Ente brütet bei uns in Schwarzspechthöhlen bzw. Nistkästen?",
