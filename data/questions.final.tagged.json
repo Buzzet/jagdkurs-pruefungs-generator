@@ -12940,8 +12940,8 @@
   {
     "Frage": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder?",
     "FrageFreitext": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder?",
-    "FrageMC": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder? a) Bauchfarbe b) Schwanzlänge c) Ohrengröße d) Schnauzenform",
-    "Antwort": "Der Baummarder hat eine hellere Bauchfarbe als der Steinmarder.",
+    "FrageMC": "Welche Kennzeichen im Balg unterscheidet den Baummarder vom Steinmarder? a) Kehlfleckfarbe b) Schwanzlänge c) Ohrengröße d) Schnauzenform",
+    "Antwort": "Der Baummarder hat einen gelblichen Kehlfleck, der Steinmarder einen weißen.",
     "FalscheAntwort1": "Der Baummarder hat eine längere Schwanzlänge als der Steinmarder.",
     "FalscheAntwort2": "Der Baummarder hat größere Ohren als der Steinmarder.",
     "FalscheAntwort3": "Der Baummarder hat eine breitere Schnauze als der Steinmarder.",
@@ -14784,7 +14784,7 @@
   {
     "Frage": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
     "FrageFreitext": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
-    "FrageMC": "Welche der folgenden Enten sind Tauchenten, die im Binnenland vorkommen?",
+    "FrageMC": "Nennen Sie 3 Tauchenten, die im Binnenland vorkommen.",
     "Antwort": "Reiherente, Tafelente, Blässhuhn.",
     "FalscheAntwort1": "Mandarinente, Stockente, Pfeifente.",
     "FalscheAntwort2": "Kranich, Löffelente, Graugans.",
@@ -14796,12 +14796,13 @@
       "Tauchenten",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": [
       "Reiherente",
       "Tafelente",
       "Blässhuhn"
-    ]
+    ],
+    "ReportFlag": "AUTO_REVIEW:Die Antwort ist irreführend! Da das Blässhuhn mit aufgeführt ist ! Blässhuhn ist keine Schwimmente"
   },
   {
     "Frage": "Welche Ente brütet bei uns in Schwarzspechthöhlen bzw. Nistkästen?",
@@ -15178,8 +15179,8 @@
   {
     "Frage": "Zählen Sie bitte 3 Säger auf.",
     "FrageFreitext": "Zählen Sie bitte 3 Säger auf.",
-    "FrageMC": "Nennen Sie drei Arten von Sägern.",
-    "Antwort": "Männlicher Säger, Haubentaucher, Gänsesäger.",
+    "FrageMC": "Zählen Sie bitte 3 Säger auf.",
+    "Antwort": "Gänsesäger, Mittelsäger, Zwergsäger.",
     "FalscheAntwort1": "Eisvogel, Rothalstaucher, Blässhuhn.",
     "FalscheAntwort2": "Kranich, Schwan, Reiher.",
     "FalscheAntwort3": "Wasserralle, Nilgans, Kuckuck.",
@@ -15193,7 +15194,9 @@
     ],
     "PdfEligible": true,
     "AlternativeAntworten": [
-      "Säger, Gänsesäger, Haubentaucher"
+      "Gänsesäger, Mittelsäger, Zwergsäger",
+      "Zwergsäger, Mittelsäger, Gänsesäger",
+      "Mergus merganser, Mergus serrator, Mergellus albellus"
     ]
   },
   {
