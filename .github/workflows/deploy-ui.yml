@@ -53,3 +53,19 @@ jobs:
           script: |
             cd /opt/jagdkurs-pruefungs-generator
             docker compose -f docker-compose.ui.yml up -d
+
+      - name: Notify Telegram (success)
+        if: ${{ success() }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo 'Skipping Telegram notification (missing token/chat id).'
+            exit 0
+          fi
+
+          CHANGES=$(git log -1 --pretty=format:"%s")
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H 'Content-Type: application/json' \
+            -d "{\"chat_id\":\"${TELEGRAM_CHAT_ID}\",\"text\":\"✅ Deploy fertig: Änderung: ${CHANGES}\nGrund: siehe Commit\"}"
