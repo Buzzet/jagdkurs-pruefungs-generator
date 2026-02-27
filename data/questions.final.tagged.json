@@ -673,11 +673,12 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": [
       "Schmaltier",
       "Kahlwild"
-    ]
+    ],
+    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
@@ -1923,11 +1924,12 @@
     ],
     "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
     "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": [
       "Schmaltier",
       "Kahlwild"
-    ]
+    ],
+    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
   },
   {
     "Frage": "Wie heißt das weibliche Stück beim Damwild?",
@@ -3907,18 +3909,18 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Erklären Sie den Begriff „Zielballistik“?",
+    "Frage": "Was beschreibt die Zielballistik?",
     "Antwort": "Wirkung des Geschosses im Ziel",
-    "FalscheAntwort1": "Flugbahn in der Luft",
-    "FalscheAntwort2": "Waffenpflege",
-    "FalscheAntwort3": "Jagdzeiten",
+    "FalscheAntwort1": "Innenvorgänge im Lauf (Innenballistik)",
+    "FalscheAntwort2": "Flugbahn des Geschosses (Außenballistik)",
+    "FalscheAntwort3": "Pflege und Lagerung der Waffe",
     "Pruefungsfach": "Waffenkunde und Waffenrecht",
     "Difficulty": "medium",
     "Tags": [
       "ballistik"
     ],
-    "FrageFreitext": "Erklären Sie den Begriff „Zielballistik“?",
-    "FrageMC": "Erklären Sie den Begriff „Zielballistik“?",
+    "FrageFreitext": "Was beschreibt die Zielballistik?",
+    "FrageMC": "Was beschreibt die Zielballistik?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4159,8 +4161,9 @@
     ],
     "FrageFreitext": "Was bedeutet „Freiflug“?",
     "FrageMC": "Was bedeutet „Freiflug“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Freiflug falsch definiert"
   },
   {
     "Frage": "Was ist im Fall „Hahn in Ruh“ korrektes Verhalten?",
@@ -4307,18 +4310,18 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist den Transport im Auto?",
-    "Antwort": "entladen und nicht zugriffsbereit",
-    "FalscheAntwort1": "geladen im Futteral",
-    "FalscheAntwort2": "durchgeladen auf Rückbank",
-    "FalscheAntwort3": "nur mit Sicherung im Handschuhfach",
+    "Frage": "Wie ist die Waffe auf dem Weg zum Schießstand zu transportieren?",
+    "Antwort": "Entladen, getrennt von der Munition und nicht zugriffsbereit transportieren",
+    "FalscheAntwort1": "Geladene Waffe offen auf dem Sitz ablegen",
+    "FalscheAntwort2": "Mit eingelegtem Magazin und entsicherter Waffe fahren",
+    "FalscheAntwort3": "Waffe und Munition schussbereit im Handschuhfach aufbewahren",
     "Pruefungsfach": "Waffenkunde und Waffenrecht",
     "Difficulty": "hard",
     "Tags": [
       "waffenrecht"
     ],
-    "FrageFreitext": "Was ist den Transport im Auto?",
-    "FrageMC": "Was ist den Transport im Auto?",
+    "FrageFreitext": "Wie ist die Waffe auf dem Weg zum Schießstand zu transportieren?",
+    "FrageMC": "Wie ist die Waffe auf dem Weg zum Schießstand zu transportieren?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -4929,8 +4932,9 @@
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
     "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Definitionen"
   },
   {
     "Frage": "Was ist die Aufgabe der Sicherung?",
@@ -5045,18 +5049,18 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über ein sicheres Schussfeld korrekt?",
+    "Frage": "Was ist bei einem sicheren Schussfeld zu beachten?",
     "Antwort": "Ziel und dahinter liegender Kugelfang müssen sicher sein",
-    "FalscheAntwort1": "Nur das Ziel muss sichtbar sein",
-    "FalscheAntwort2": "Bei kurzer Distanz ist Kugelfang egal",
-    "FalscheAntwort3": "Bei Regen entfällt Kugelfangprüfung",
+    "FalscheAntwort1": "Nur das unmittelbare Ziel betrachten",
+    "FalscheAntwort2": "Bei geringer Distanz entfällt der Kugelfang",
+    "FalscheAntwort3": "Witterung entscheidet über Kugelfang",
     "Pruefungsfach": "Waffenkunde und Waffenrecht",
     "Difficulty": "hard",
     "Tags": [
       "waffenkunde_waffenrecht"
     ],
-    "FrageFreitext": "Was ist über ein sicheres Schussfeld korrekt?",
-    "FrageMC": "Was ist über ein sicheres Schussfeld korrekt?",
+    "FrageFreitext": "Was ist bei einem sicheren Schussfeld zu beachten?",
+    "FrageMC": "Was ist bei einem sicheren Schussfeld zu beachten?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5698,7 +5702,8 @@
     "FrageFreitext": "Was ist über den sicheren Schussfeld korrekt?",
     "FrageMC": "Was ist über den sicheren Schussfeld korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Formulierung falsches Deutsch"
   },
   {
     "Frage": "Welche Aussage zur Flinte ist korrekt?",
@@ -10789,11 +10794,11 @@
   {
     "Frage": "Was sind Grandeln?",
     "FrageFreitext": "Was sind Grandeln?",
-    "FrageMC": "Was sind Grandeln? a) Die nicht geschlechtsreifen Rehe b) Die gesträubten Haare von Wildschweinen c) Die Fohlen von Damwild d) Eine spezielle Fütterung für Wildtiere",
-    "Antwort": "Die nicht geschlechtsreifen Rehe.",
-    "FalscheAntwort1": "Die gesträubten Haare von Wildschweinen.",
-    "FalscheAntwort2": "Die Fohlen von Damwild.",
-    "FalscheAntwort3": "Eine spezielle Fütterung für Wildtiere.",
+    "FrageMC": "Was sind Grandeln?",
+    "Antwort": "Die beiden oberen Eckzähne (Canini) von Rot- und Damwild",
+    "FalscheAntwort1": "Besonders lange Haare an der Decke",
+    "FalscheAntwort2": "Ein Teil des Laufes einer Büchse",
+    "FalscheAntwort3": "Gallensteine beim Schwarzwild",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -10988,8 +10993,9 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Unklare Antworten"
   },
   {
     "Frage": "Was versteht man beim Schwarzwild unter Gebräch, Gebrech, Gewehre, Haderer, Gewaff, Haken?",
@@ -14056,8 +14062,9 @@
       "Wildtierkunde",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Falsche Antwort"
   },
   {
     "Frage": "Welche Hühnervögel sind im Jagdrecht und welcher davon ist Zugvogel?",
@@ -14754,12 +14761,13 @@
       "Nagetier",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": [
       "Bisam (Ondatra zibethicus)",
       "Biber (Castor fiber)",
       "Feldhamster (Cricetus cricetus)"
-    ]
+    ],
+    "ReportFlag": "AUTO_REVIEW:Falsche Antwort, richtig:Murmeltier"
   },
   {
     "Frage": "Nennen Sie die bei uns vorkommenden Schwimmenten.",
@@ -14800,10 +14808,11 @@
       "Tauchenten",
       "wildtierkunde"
     ],
-    "PdfEligible": true,
+    "PdfEligible": false,
     "AlternativeAntworten": [
       "Schellente"
-    ]
+    ],
+    "ReportFlag": "AUTO_REVIEW:Die Antwort ist irreführend! Da das Blässhuhn mit aufgeführt ist ! Blässhuhn ist keine Schwimmente"
   },
   {
     "Frage": "Welche Ente brütet bei uns in Schwarzspechthöhlen bzw. Nistkästen?",
