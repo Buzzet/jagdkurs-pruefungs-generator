@@ -13230,11 +13230,11 @@
   {
     "Frage": "Nach wie viel Monaten ist der Zahnwechsel beendet bei Reh, Schwarzwild, Damwild und Rotwild?",
     "FrageFreitext": "Nach wie viel Monaten ist der Zahnwechsel beendet bei Reh, Schwarzwild, Damwild und Rotwild?",
-    "FrageMC": "Wie lange dauert der Zahnwechsel bei den genannten Wildarten?",
-    "Antwort": "Rehwild ca. 13–15 Monate, Schwarzwild ca. 24 Monate, Damwild ca. 18–20 Monate, Rotwild ca. 24–26 Monate",
-    "FalscheAntwort1": "Rehwild 6–7 Monate, Schwarzwild 7–9 Monate, Damwild 7–8 Monate, Rotwild 8–9 Monate",
-    "FalscheAntwort2": "Rehwild 4 Monate, Schwarzwild 6 Monate, Damwild 5 Monate, Rotwild 7 Monate",
-    "FalscheAntwort3": "Rehwild 10 Monate, Schwarzwild 8 Monate, Damwild 9 Monate, Rotwild 12 Monate",
+    "FrageMC": "Nach wie viel Monaten ist der Zahnwechsel bei den genannten Wildarten abgeschlossen?",
+    "Antwort": "Rehwild ca. 14 Monate, Schwarzwild ca. 24 Monate, Damwild ca. 26 Monate, Rotwild ca. 28–30 Monate",
+    "FalscheAntwort1": "Rehwild ca. 6 Monate, Schwarzwild ca. 9 Monate, Damwild ca. 8 Monate, Rotwild ca. 12 Monate",
+    "FalscheAntwort2": "Rehwild ca. 24 Monate, Schwarzwild ca. 14 Monate, Damwild ca. 30 Monate, Rotwild ca. 18 Monate",
+    "FalscheAntwort3": "Rehwild ca. 10 Monate, Schwarzwild ca. 16 Monate, Damwild ca. 14 Monate, Rotwild ca. 20 Monate",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
