@@ -13231,10 +13231,10 @@
     "Frage": "Nach wie viel Monaten ist der Zahnwechsel beendet bei Reh, Schwarzwild, Damwild und Rotwild?",
     "FrageFreitext": "Nach wie viel Monaten ist der Zahnwechsel beendet bei Reh, Schwarzwild, Damwild und Rotwild?",
     "FrageMC": "Wie lange dauert der Zahnwechsel bei den genannten Wildarten?",
-    "Antwort": "Rehwild 6-7 Monate, Schwarzwild 7-9 Monate, Damwild 7-8 Monate, Rotwild 8-9 Monate",
-    "FalscheAntwort1": "Rehwild 4 Monate, Schwarzwild 6 Monate, Damwild 5 Monate, Rotwild 7 Monate",
-    "FalscheAntwort2": "Rehwild 10 Monate, Schwarzwild 8 Monate, Damwild 9 Monate, Rotwild 12 Monate",
-    "FalscheAntwort3": "Rehwild 5 Monate, Schwarzwild 6 Monate, Damwild 8 Monate, Rotwild 9 Monate",
+    "Antwort": "Rehwild ca. 13–15 Monate, Schwarzwild ca. 24 Monate, Damwild ca. 18–20 Monate, Rotwild ca. 24–26 Monate",
+    "FalscheAntwort1": "Rehwild 6–7 Monate, Schwarzwild 7–9 Monate, Damwild 7–8 Monate, Rotwild 8–9 Monate",
+    "FalscheAntwort2": "Rehwild 4 Monate, Schwarzwild 6 Monate, Damwild 5 Monate, Rotwild 7 Monate",
+    "FalscheAntwort3": "Rehwild 10 Monate, Schwarzwild 8 Monate, Damwild 9 Monate, Rotwild 12 Monate",
     "Pruefungsfach": "Wildtierkunde",
     "Difficulty": "medium",
     "Tags": [
@@ -13243,7 +13243,9 @@
       "wildtierkunde"
     ],
     "PdfEligible": true,
-    "AlternativeAntworten": []
+    "AlternativeAntworten": [
+      "Rehwild etwa 14 Monate, Schwarzwild 2 Jahre, Damwild knapp 1,5 Jahre, Rotwild gut 2 Jahre"
+    ]
   },
   {
     "Frage": "Was ist beim Rehbock ein Perückengehörn, wodurch entsteht es?",
