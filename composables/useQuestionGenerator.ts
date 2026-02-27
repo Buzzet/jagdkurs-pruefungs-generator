@@ -89,7 +89,13 @@ export const useQuestionGenerator = () => {
 
     const multiCandidates = shuffle(pool.filter(q => (q.AlternativeAntworten || []).length > 0)).slice(0, 5)
     const restPool = pool.filter(q => !multiCandidates.includes(q))
-    const picked = [...multiCandidates, ...shuffle(restPool).slice(0, 20 - multiCandidates.length)]
+    const picked = uniqueByQuestion([...multiCandidates, ...shuffle(restPool).slice(0, 20 - multiCandidates.length)])
+
+    // If dedup reduced the count, fill up from remaining pool
+    if (picked.length < 20) {
+      const fillPool = pool.filter(q => !picked.includes(q))
+      picked.push(...shuffle(fillPool).slice(0, 20 - picked.length))
+    }
 
     return {
       subject,
