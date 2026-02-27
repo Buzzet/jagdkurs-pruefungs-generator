@@ -11742,5 +11742,765 @@
     "FalscheAntwort2": "Patrone nochmals in die Waffe laden und erneut abfeuern.",
     "FalscheAntwort3": "Patrone im Hausmüll entsorgen – Schrotpatronen ohne Zündung sind ungefährlich.",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
+  },
+  {
+    "Frage": "In welchen Lebensräumen kommt der Wolf (Canis lupus) in Deutschland vor und wie beeinflusst seine Rückkehr das Schalenwild?",
+    "Antwort": "Wälder und Offenland; Wölfe regulieren Schalenwildbestände und verändern das Raumverhalten der Beute durch Stress (Landscape of Fear)",
+    "FalscheAntwort1": "Nur in Gebirgslagen über 500 m; Wölfe fressen ausschließlich Hasen und Füchse",
+    "FalscheAntwort2": "Ausschließlich in Feuchtgebieten; Wölfe haben keinen messbaren Einfluss auf Schalenwild",
+    "FalscheAntwort3": "Nur in Nadelwäldern; Wölfe konkurrieren hauptsächlich mit Luchsen, nicht mit Schalenwild",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Merkmale unterscheiden die Turteltaube von der Ringeltaube?",
+    "Antwort": "Turteltaube: kleiner, rotbraun geschuppter Rücken, roséfarbene Brust, schwarzweiß gestreifter Halsfleck; Ringeltaube: grau, weißer Halsfleck, weiße Flügelbinden",
+    "FalscheAntwort1": "Turteltaube ist größer mit grauem Rücken; Ringeltaube hat roten Halsfleck",
+    "FalscheAntwort2": "Beide Arten sind äußerlich nicht zu unterscheiden; nur der Lebensraum differs",
+    "FalscheAntwort3": "Turteltaube hat blaues Gefieder; Ringeltaube ist vollständig braun",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was versteht man unter Biotopvernetzung und warum ist sie für Wildtiere wichtig?",
+    "Antwort": "Verbindung isolierter Lebensrauminseln durch Korridore (Hecken, Grünstreifen, Gewässer), um Genaustausch, Ausbreitung und Einwanderung zu ermöglichen",
+    "FalscheAntwort1": "Zusammenlegung aller Biotope zu einem großen Schutzgebiet ohne Verbindungen",
+    "FalscheAntwort2": "Austausch von Tieren zwischen Zoos zur Stärkung der Zuchtpopulationen",
+    "FalscheAntwort3": "Markierung von Reviersgrenzen durch Duftstoffe; hat keinen Einfluss auf Genfluss",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist ein Verbissgutachten und wofür wird es verwendet?",
+    "Antwort": "Periodische Bestandserhebung des Verbissschadens durch Schalenwild an Jungpflanzen; dient der Abschussplanung und Nachweis der Wildbestandsregulierung",
+    "FalscheAntwort1": "Gutachten über Wildschäden am Getreide; wird für Entschädigungsklagen beim Bauern verwendet",
+    "FalscheAntwort2": "Bewertung der Jagdbeute nach Trophäenqualität; dient dem Deutschen Jagdverband",
+    "FalscheAntwort3": "Zählung der Jagdstrecke; wird nur für Rotwild und Damwild erstellt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie verhält sich die Bekassine und in welchem Lebensraum ist sie zu finden?",
+    "Antwort": "Bekassine lebt in Feuchtwiesen, Mooren und Sümpfen; Balzflug mit Meckern durch Außensteuerfedern; wählt Nahrung durch Sondieren im weichen Boden",
+    "FalscheAntwort1": "Bekassine lebt ausschließlich in Nadelbaumwäldern; sucht Nahrung in Baumritzen",
+    "FalscheAntwort2": "Bekassine ist ein Bewohner von Sandstränden; Nahrung sind Fische und Muscheln",
+    "FalscheAntwort3": "Bekassine kommt nur in Bergregionen vor; balzt durch Gesang ohne Fluggeräusch",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Der Graureiher (Ardea cinerea) gilt als Fischräuber. Welche Jagdmethode verwendet er?",
+    "Antwort": "Graureiher lauert bewegungslos am Wasserrand oder watet langsam; stößt blitzschnell mit dem Schnabel auf Fische, Frösche und andere Beute",
+    "FalscheAntwort1": "Graureiher taucht nach Fischen wie ein Kormoran",
+    "FalscheAntwort2": "Graureiher kreist hoch in der Luft und stürzt senkrecht ins Wasser",
+    "FalscheAntwort3": "Graureiher treibt Fische in Gruppen ins Flachufer und fängt sie mit den Füßen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Die Nilgans ist ein Neozoon in Deutschland. Was bedeutet das und woher stammt sie?",
+    "Antwort": "Neozoon: nach 1492 durch menschlichen Einfluss eingebürgerte Tierart; Nilgans stammt aus Afrika, wurde als Ziervogel gehalten und verwilderte",
+    "FalscheAntwort1": "Neozoon: heimische Art die nach langer Abwesenheit zurückkehrt; Nilgans war früher in Nordsee-Küstengebieten heimisch",
+    "FalscheAntwort2": "Neozoon: schutzlose bedrohte Art; Nilgans wurde in Deutschland ausgewildert um sie zu schützen",
+    "FalscheAntwort3": "Neozoon: Tier das sich von seiner angestammten Art genetisch unterscheidet; Nilgans ist eine Mutation der Graugans",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Merkmale hat der Mink (Amerikanischer Nerz) und warum ist er problematisch?",
+    "Antwort": "Mink: klein, dunkelbraun, weißer Kehlfleck, gewandt im Wasser; verdrängt heimischen Europäischen Nerz und dezimiert Wasservögel, Fische und bodenbrütende Vögel",
+    "FalscheAntwort1": "Mink ist ein Pflanzenfresser ohne Einfluss auf andere Arten; weit verbreitet und heimisch in Europa",
+    "FalscheAntwort2": "Mink ist identisch mit dem Fischotter; Verwechslungsgefahr nur bei flüchtigem Blick",
+    "FalscheAntwort3": "Mink lebt ausschließlich in Baumhöhlen und frisst Nüsse; gilt als harmloser Eindringling",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Funktion haben Weidengehölze (Weidenbüsche) als Lebensraum?",
+    "Antwort": "Wichtige Struktur- und Deckungselemente; bieten Brutraum (Grasmücken, Pirol), Nahrung (Blüten für Insekten, Früchte für Vögel) und Sichtschutz für Rehwild",
+    "FalscheAntwort1": "Weidengehölze sind ökologisch wertlos; sie verdrängen Bodenpflanzen und sind zu entfernen",
+    "FalscheAntwort2": "Weidenbüsche dienen ausschließlich als Windschutz in der Landwirtschaft",
+    "FalscheAntwort3": "Weidengebüsche sind ausschließlich für Wasservögel als Nistmöglichkeit relevant",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie lange trägt der Habicht (Accipiter gentilis) und wie viele Eier legt er?",
+    "Antwort": "Brutdauer ca. 35-38 Tage; Gelege 3-4 Eier; Jungvögel sind nach ca. 35-40 Tagen flügge",
+    "FalscheAntwort1": "Brutdauer 20 Tage; 6-8 Eier; Jungvögel fliegen nach 20 Tagen aus",
+    "FalscheAntwort2": "Brutdauer 50 Tage; stets nur 1 Ei; Jungvogel braucht 3 Monate bis zur Selbstständigkeit",
+    "FalscheAntwort3": "Habicht brütet nicht; er stiehlt Jungvögel anderer Arten und zieht sie auf",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie verändert sich das Gehörn eines Rehbocks nach dem Abwurf im Laufe der Entwicklung?",
+    "Antwort": "Abwurf meist Oktober-November; danach Kolbenentwicklung mit Bastbedeckung; Fegen (Bast abstreifen) im März-April; fertiges Gehörn hart und farbig bis zur nächsten Saison",
+    "FalscheAntwort1": "Rehböcke werfen das Gehörn im Frühling ab; im Sommer wächst ein neues und ist direkt hart",
+    "FalscheAntwort2": "Das Rehgehörn wächst einmalig und wird nie abgeworfen; es ist ein Dauergebilde",
+    "FalscheAntwort3": "Rehböcke werfen im Sommer ab; im Herbst fegen sie den Bast durch Wettereinfluss",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie ist die Tüpfelung des Damwildes und wann verschwindet sie bei Kälbern?",
+    "Antwort": "Damwild trägt im Sommerhaar weiße Flecken auf rotbraunem Grund (Tüpfelung); Kälber verlieren die Tüpfelung beim ersten Haarwechsel im Herbst",
+    "FalscheAntwort1": "Damwild ist niemals getüpfelt; Tüpfelung kommt nur beim Sikawild vor",
+    "FalscheAntwort2": "Damwild behält die Tüpfelung lebenslang; sie wird nur im Winterhaar nicht sichtbar",
+    "FalscheAntwort3": "Damkälber verlieren die Tüpfelung erst im zweiten Lebensjahr beim Haarwechsel im Frühjahr",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was frisst der Wespenbussard und wie ist er von anderen Bussarden zu unterscheiden?",
+    "Antwort": "Wespenbussard gräbt Wespennester aus und frisst Larven, Puppen und Waben; kleiner Kopf, kurzer Hals; Gesicht ohne Supraziliarbogen (kein Augenbrauenwulst) im Gegensatz zum Mäusebussard",
+    "FalscheAntwort1": "Wespenbussard frisst ausschließlich Mäuse und ist identisch mit dem Mäusebussard",
+    "FalscheAntwort2": "Wespenbussard ernährt sich von Fischen; hat blaue Beine als Unterscheidungsmerkmal",
+    "FalscheAntwort3": "Wespenbussard frisst Beeren und Körner; hat einen langen Schnabel ähnlich dem Kranich",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Unterschiede bestehen zwischen Graugans und Saatgans?",
+    "Antwort": "Graugans: orangeroter Schnabel, blassgrau; Saatgans: schwarz-orangener Schnabel (bandartig), dunkelbraun-grau; beide als Zugvögel in SH",
+    "FalscheAntwort1": "Saatgans ist deutlich kleiner und hat einen rein roten Schnabel ohne dunkle Zeichnung",
+    "FalscheAntwort2": "Grau- und Saatgans sind identisch; Unterschied besteht nur im Zugverhalten",
+    "FalscheAntwort3": "Graugans hat schwarzen Schnabel; Saatgans hat vollständig gelben Schnabel",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist extensive Bewirtschaftung und welchen Nutzen hat sie für die Wildtiere?",
+    "Antwort": "Extensivierung: geringer Dünger- und Pestizideinsatz, seltene Mahd, Blühstreifen; fördert Insekten, Feldvögel und Feldhase durch mehr Nahrung und Deckung",
+    "FalscheAntwort1": "Extensive Bewirtschaftung bedeutet flächendeckende Brache ohne jegliche Nutzung; nachteilig da Zuwachsen mit Gebüsch",
+    "FalscheAntwort2": "Extensivierung meint den Anbau von Energiepflanzen wie Mais; gut für Schwarzwild, schlecht für Feldvögel",
+    "FalscheAntwort3": "Extensive Bewirtschaftung ist Intensivlandwirtschaft mit reduziertem Wasserverbrauch; kein direkter Wildtierbezug",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Hexenringe und wie entstehen sie?",
+    "Antwort": "Kreisförmige Pilzringe auf Wiesen; entstehen durch radialen Wachstum des Pilzmyzels vom Zentrum nach außen; Gras am Rand oft üppiger durch Nährstofffreisetzung",
+    "FalscheAntwort1": "Hexenringe entstehen durch zirkuläres Graben von Schwarzwild; sind ein Zeichen von Sauen-Drückjagdpfaden",
+    "FalscheAntwort2": "Hexenringe sind Drückstellen von Rehen; das Gras wird durch Schalen niedergetreten",
+    "FalscheAntwort3": "Hexenringe entstehen durch Blitzeinschlag; kreisförmige Brandflecken erholen sich nie vollständig",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie unterscheidet sich die Spur des Dachses von der des Fuchses?",
+    "Antwort": "Dachs: breit, trapezförmig, 5 Zehen mit langen Grabkrallen, Sohlenballen zusammenhängend; Fuchs: schmal, länglich, 4 Zehen, Zwischenzehenballen klein, Abdrücke kleiner",
+    "FalscheAntwort1": "Dachs hat 4 Zehen wie Fuchs; Unterschied nur in der Schrittlänge",
+    "FalscheAntwort2": "Fuchsspur hat 5 Zehen; Dachsspur ist kleiner und runder als Fuchsspur",
+    "FalscheAntwort3": "Beide Spuren sind identisch; Unterschied nur im Gelände durch unterschiedliche Laufweise",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Woran erkennt man den Baumfalken und wie unterscheidet er sich vom Sperber?",
+    "Antwort": "Baumfalke: schmale Flügel, langer Schwanz, rostroter Hosenfleck, weißliche Unterseite; Sperber: kurze breite Flügel, langer Stufenschwanz, feine Querstreifung unten",
+    "FalscheAntwort1": "Baumfalke hat breite runde Flügel; Sperber hat schmale Spitzschwingen",
+    "FalscheAntwort2": "Beide Arten sind im Flug nicht zu unterscheiden; Unterschied nur im Nest erkennbar",
+    "FalscheAntwort3": "Baumfalke ist deutlich größer als Sperber; Sperber hat roten Rücken",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie ist das Dauergebiss beim Rehwild aufgebaut und wann ist es vollständig?",
+    "Antwort": "Rehwild Dauergebiss: 32 Zähne; 3 Schneidezähne + 1 Eckzahn je Seite im Unterkiefer, kein Oberkieferschneidezahn (Nagezähne); vollständig mit ca. 14-18 Monaten",
+    "FalscheAntwort1": "Rehwild hat 20 Zähne; Oberkiefer mit Schneidezähnen wie beim Hund",
+    "FalscheAntwort2": "Dauergebiss vollständig erst mit 4 Jahren; bis dahin gemischtes Gebiss",
+    "FalscheAntwort3": "Rehwild hat kein Dauergebiss; Zähne werden wie beim Menschen einmal gewechselt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist eine Saatkrähe (Corvus frugilegus) und wie unterscheidet sie sich von der Rabenkrähe?",
+    "Antwort": "Saatkrähe: Koloniebrüter, weißgrauer nackter Schnabelgrund (adulte), blau-violett schimmerndes Gefieder, gesellig; Rabenkrähe: einzeln oder paarweise, Schnabel komplett schwarz befiedert",
+    "FalscheAntwort1": "Saatkrähe ist größer als Rabenkrähe und hat braunen Rücken",
+    "FalscheAntwort2": "Beide Arten sind identisch; Unterschied nur im Brutverhalten",
+    "FalscheAntwort3": "Saatkrähe hat weißen Bauch; Rabenkrähe ist ausschließlich in Städten zu finden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie viele Würfe bringt das Wildkaninchen pro Jahr und wie viele Junge pro Wurf?",
+    "Antwort": "Wildkaninchen: 4-5 Würfe pro Jahr, je 4-8 Junge; Trächtigkeit ca. 28-31 Tage; Jungtiere zunächst nackt, blind, Nesthocker",
+    "FalscheAntwort1": "Wildkaninchen bringt 1-2 Würfe pro Jahr mit je 2-3 Jungen",
+    "FalscheAntwort2": "Wildkaninchen bringt 10 Würfe pro Jahr; Jungtiere sind Nestflüchter",
+    "FalscheAntwort3": "Wildkaninchen bringt 3 Würfe mit je 12-15 Jungen; Trächtigkeit dauert 60 Tage",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Blühstreifen und welchen Nutzen haben sie für das Wild?",
+    "Antwort": "Blühstreifen: schmale Feldrandstreifen mit blühenden Wildkräutern und Getreide; Nahrungsquelle (Insekten, Samen), Deckung und Brutbiotop für Feldvögel, Feldhase und Rehkitze",
+    "FalscheAntwort1": "Blühstreifen sind Zierbeete; haben keinen direkten Wildtierwert",
+    "FalscheAntwort2": "Blühstreifen dienen als Bienenweiden; Wildtiere meiden blühende Streifen",
+    "FalscheAntwort3": "Blühstreifen werden ausschließlich zur optischen Aufwertung der Landschaft angelegt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie unterscheiden sich Grandeln beim Rothirsch? Was sind sie?",
+    "Antwort": "Grandeln (Eckzähne/Canini) im Oberkiefer des Rothirschs; Rudiment aus der Stammesgeschichte; werden als Trophäe geschätzt; Weibchen haben kleinere Grandeln",
+    "FalscheAntwort1": "Grandeln sind hornige Drüsen am Läufen des Rothirschs; dienen zur Duftmarkierung",
+    "FalscheAntwort2": "Grandeln sind überzählige Kronen am Geweih; kein Merkmal des Gebisses",
+    "FalscheAntwort3": "Grandeln existieren nur beim Damwild und Muffelwild; Rothirsch hat keine Grandeln",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Vögel brüten in Schilfrohrzonen (Röhrichten)?",
+    "Antwort": "Rohrsänger, Rohrammer, Blaukehlchen, Rohrweihe, Drosselrohrsänger; Röhricht als wichtiger Brutbiotop für viele Schilfspezialisten",
+    "FalscheAntwort1": "Nur Wasservögel wie Stockente und Graugans brüten im Schilf; Singvögel meiden Röhricht",
+    "FalscheAntwort2": "Schilf bietet keinen Brutplatz; Vögel nutzen es nur als Winterschlafstätte",
+    "FalscheAntwort3": "Im Schilf brüten ausschließlich Reiher; alle anderen Arten meiden nasse Röhrichte",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Damwild-Entwicklungsstufen bei männlichem Damwild?",
+    "Antwort": "Kalb (1. Jahr), Schmaltier/Spießer (2. Jahr), Gabler (3. Jahr), Dreier (4. Jahr), Vierer und aufwärts bis Schaufler (Alter); Schaufeln entwickeln sich ab 4-5 Jahren",
+    "FalscheAntwort1": "Damwild hat keine festgelegten Entwicklungsstufen; Geweih wächst kontinuierlich ohne Muster",
+    "FalscheAntwort2": "Damwild-Männchen heißen immer Hirsch; Entwicklungsstufen entsprechen genau dem Rotwild",
+    "FalscheAntwort3": "Männliches Damwild heißt bis zum 3. Jahr Kalb, dann sofort Schaufler",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie unterscheidet man Nadelbaum-Verbiss durch Rehwild von dem durch Hasen?",
+    "Antwort": "Rehwild reißt Zweige ab (fransiger Schnitt, Zug); Hase schneidet glatt und schräg (scharfe Schneidezähne); Hasenfraß meist tiefer als Rehwildfraß (bis 50 cm Höhe)",
+    "FalscheAntwort1": "Rehwild hinterlässt glatten Schnitt; Hasenfraß ist immer fransig",
+    "FalscheAntwort2": "Unterschied nicht möglich; Verbiss von Reh und Hase ist identisch",
+    "FalscheAntwort3": "Rehwild verbisst nur Laubbäume; Hasen fressen ausschließlich Gras",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Woran erkennt man einen alten Feldhasen (Lepus europaeus)?",
+    "Antwort": "Alter Feldhase: dickerer, stärker gekrümmter Knochenkiel (Stroh) im Läufer; schwereres Gewicht; trübere Augen; Zähne stärker abgenutzt; Ohren dünner",
+    "FalscheAntwort1": "Alter Feldhase hat helles weiß-graues Fell; Jungtiere sind immer braun",
+    "FalscheAntwort2": "Alter Feldhase ist an der Körpergröße erkennbar; Jungtiere immer kleiner",
+    "FalscheAntwort3": "Alter Feldhase hat kürzere Ohren und ist von Junghasen äußerlich nicht zu unterscheiden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Pflanzen sind typisch für Blühstreifen im Ackerbau?",
+    "Antwort": "Kornblume, Klatschmohn, Kamille, Wilde Möhre, Phacelia, Buchweizen; nektarreiche Pflanzen für Insekten und Saatgut für Feldvögel",
+    "FalscheAntwort1": "Blühstreifen bestehen aus Mais und Raps; attraktiv für Schwarzwild",
+    "FalscheAntwort2": "Typische Blühstreifen-Arten: Brennnessel, Brombeere und Schilf",
+    "FalscheAntwort3": "Blühstreifen enthalten ausschließlich Gräser; Blühpflanzen sind nicht vorgeschrieben",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Die Kegelrobbe (Halichoerus grypus) ist ein Wildtier in Schleswig-Holstein. Was sind Besonderheiten ihrer Fortpflanzung?",
+    "Antwort": "Kegelrobben gebären im Winter auf Sandbänken und Inseln; Welpen mit weißem Erstlingsfell (Lanugo); Mütter säugen ca. 3 Wochen intensiv; Jungtier hungert dann bis zur Mauser",
+    "FalscheAntwort1": "Kegelrobben gebären im Sommer; Welpen können sofort schwimmen",
+    "FalscheAntwort2": "Kegelrobben bringen Junge im Wasser zur Welt; säugen nie an Land",
+    "FalscheAntwort3": "Kegelrobbe gebiert wie alle Seehunde in Höhlen; hat bis zu 5 Jungtiere",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Baumarten sind typisch für Knicks (Wallhecken) in Schleswig-Holstein?",
+    "Antwort": "Schwarz-Erle, Haselnuss, Eingriffeliger Weißdorn, Schwarzer Holunder, Schlehe, Esche, Eiche, Feldahorn; artenreiche Heckenstrukturen",
+    "FalscheAntwort1": "Knicks bestehen ausschließlich aus Fichten und Kiefern",
+    "FalscheAntwort2": "Typische Knick-Arten: Pappel, Birke und Thuja (Lebensbaum)",
+    "FalscheAntwort3": "Knick-Baumarten sind ausschließlich Obstbäume wie Apfel und Birne",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Rehbocklaut gibt man beim Blatten und welche Wirkung hat er?",
+    "Antwort": "Blatten: Imitation des Schreilauts der Ricke (fiep- oder pfeifartiger Ton); lockt Rehböcke in Brunft (Juli-August) an; auch Imitation des Kitzschreis möglich",
+    "FalscheAntwort1": "Beim Blatten wird der Blöklaut des Bockes imitiert; lockt Ricken an",
+    "FalscheAntwort2": "Blatten bedeutet den Warnstoßlaut der Rehgeiß; wirkt abschreckend auf Böcke",
+    "FalscheAntwort3": "Blatten ist ein Trommelgeräusch auf der Blattseite; lockt Hasen an",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist ein Kolbenhirsch und woran erkennt man ihn?",
+    "Antwort": "Kolbenhirsch: Rothirsch mit noch nicht gefegtem Geweih im Bast (Kolbengeweih); Bast (Samthaut) bedeckt das wachsende Geweih; charakteristisch für Frühjahr/Frühsommer",
+    "FalscheAntwort1": "Kolbenhirsch ist ein junger Hirsch ohne Geweih im 1. Jahr",
+    "FalscheAntwort2": "Kolbenhirsch bezeichnet alten Rothirsch mit abgeworfenem Geweih",
+    "FalscheAntwort3": "Kolbenhirsch ist eine eigene Art (Unterart des Damwildes) mit kugelförmigem Geweih",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Hauptbeute hat der Baummarder (Martes martes)?",
+    "Antwort": "Baummarder: Hauptbeute Eichhörnchen, Vögel (inkl. Eier und Nestlinge), Mäuse und kleine Säuger; auch Beeren, Früchte und Insekten im Sommer",
+    "FalscheAntwort1": "Baummarder frisst ausschließlich Insekten und Beeren; keine Wirbeltiere",
+    "FalscheAntwort2": "Hauptbeute des Baummarders ist Fisch; er lebt hauptsächlich an Gewässern",
+    "FalscheAntwort3": "Baummarder frisst Hasen und Rehe; ist ein Raubwild der Grünflächen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was bedeutet 'ausneuen' und bei welchem Wild kommt es vor?",
+    "Antwort": "Ausneuen: Verhalten von Schwarzwild (Sauen); Suhlen nach dem Suhlen mit frischem Schlamm; Frischbädern in nasser Erde; auch: Herauswühlen aus Suhle",
+    "FalscheAntwort1": "Ausneuen: Rehwild das seine Kitze aus dem Versteck holt; Fürsorge der Ricke",
+    "FalscheAntwort2": "Ausneuen: Rothirsch der sein Geweih am Baum fegt; typisch im September",
+    "FalscheAntwort3": "Ausneuen: Fuchs der seine Jungen erstmals aus dem Bau führt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was bedeutet 'verhoffen' beim Schalenwild?",
+    "Antwort": "Verhoffen: kurzes plötzliches Innehalten und Aufhorchen des Wilds beim Äsen oder Wechseln; Reaktion auf Wahrnehmung von Geräusch, Geruch oder Bewegung",
+    "FalscheAntwort1": "Verhoffen: Schwarzwild das eine Suhle aufsucht und in der Erde suhlt",
+    "FalscheAntwort2": "Verhoffen: Rehwild das im Herbst Vorräte anlegt (Futtercaching)",
+    "FalscheAntwort3": "Verhoffen: Brunftverhalten des Rothirschs; lautes Röhren auf einer Anhöhe",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann erreicht Rehwild die Geschlechtsreife und ab wann sind Böcke und Geißen fortpflanzungsfähig?",
+    "Antwort": "Rehgeißen werden mit ca. 14-16 Monaten fortpflanzungsfähig; Rehböcke meist mit 14-16 Monaten; Brunft im Juli-August; Keimverzögerung (Diapause) verlängert Tragzeit",
+    "FalscheAntwort1": "Rehwild wird erst mit 3 Jahren geschlechtsreif; vorher keine Brunft",
+    "FalscheAntwort2": "Rehböcke sind ab 6 Monaten brunftfähig; Geißen erst mit 2 Jahren",
+    "FalscheAntwort3": "Rehwild hat keine festgelegte Geschlechtsreife; abhängig von Körpergewicht und Region",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie verhält sich ein Wolf im Revier und was sollte der Jäger beachten?",
+    "Antwort": "Wolf ist streng geschützt (FFH-Anhang IV, BNatSchG); kann Schafe und Wild reißen; Streifgebiete bis hunderte km²; Jäger meldet Beobachtungen an Wolfsmonitoring",
+    "FalscheAntwort1": "Wolf darf ohne Genehmigung bejagt werden wenn er Nutztiere schädigt",
+    "FalscheAntwort2": "Wölfe in Deutschland sind alle markiert und dürfen nicht berührt werden",
+    "FalscheAntwort3": "Wolf ist jagdbar sobald Bestand über 10 Tiere im Bundesland liegt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist Prossholz und wozu dient es bei der Hege?",
+    "Antwort": "Prossholz (Protzholz): abgeschnittene Laubholzäste (Weide, Birke, Esche) die im Winter als Notäsung für Schalenwild ins Revier gelegt werden; reduziert Schälschäden",
+    "FalscheAntwort1": "Prossholz: gefälltes Nadelholz zum Bauen von Hochsitzen",
+    "FalscheAntwort2": "Prossholz: Holzpflöcke zur Markierung von Wildwechseln",
+    "FalscheAntwort3": "Prossholz: vermorschtes Totholz das als Nisthilfe für Käfer aufgestellt wird",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie funktioniert ein Elektrozaun gegen Schwarzwild und worauf ist zu achten?",
+    "Antwort": "Elektrozaun: 2-4 Drähte gestaffelt (20, 40, 60 cm), ausreichend Spannung (mind. 3000 V); Schwarzwild lernt schnell; muss regelmäßig auf Bewuchs-Kurzschlüsse überprüft werden",
+    "FalscheAntwort1": "Elektrozaun: ein Draht in 80 cm Höhe genügt; Schwarzwild überwindet nichts darunter",
+    "FalscheAntwort2": "Elektrozaun ist gegen Schwarzwild wirkungslos; nur Knochen-Schotterzäune helfen",
+    "FalscheAntwort3": "Elektrozaun darf nur von Landwirten betrieben werden; Jäger haben keine Erlaubnis",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Sträucher sind im Winter an der Rute (ohne Blätter) erkennbar und wichtig für Wild?",
+    "Antwort": "Weißdorn: harte Dornen, grau-rindige Äste; Schwarzer Holunder: markige Äste, graubraun; Schlehe: dornig, schwärzliche Rinde; Haselnuss: kahle Stiele mit runden Knospen; alle liefern Beeren als Winternahrung",
+    "FalscheAntwort1": "Im Winter sind alle Sträucher identisch; Bestimmung nur mit Blättern möglich",
+    "FalscheAntwort2": "Weißdorn und Schlehe tragen ihr Laub ganzjährig; sind auch im Winter grün",
+    "FalscheAntwort3": "Heimische Sträucher haben im Winter keine Nahrungsbedeutung für Wild",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Lagerschnepfen und wohin wandern sie?",
+    "Antwort": "Lagerschnepfe (Waldschnepfe): durchziehende und überwinternde Waldschnepfen (Zugvögel aus Skandinavien/Russland); rasten in Wäldern und Knicks; ziehen im Oktober-November durch und im Februar-März zurück",
+    "FalscheAntwort1": "Lagerschnepfen sind Bekassinen die ganzjährig in SH leben",
+    "FalscheAntwort2": "Lagerschnepfen sind heimische Waldschnepfen die im Winter im Boden überdauern",
+    "FalscheAntwort3": "Lagerschnepfen wandern in die Tropen und überwintern in Afrika",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welcher Unterschied besteht zwischen Marderhund und Waschbär bezüglich Lebensweise?",
+    "Antwort": "Marderhund: asiatscher Neozoon, hält Winterruhe (kein echter Winterschlaf); Waschbär: amerikanischer Neozoon, hält ebenfalls Winterruhe; Marderhund ist dämmerungs-nachtaktiv; Waschbär vielseitiger Allesfresser mit geschickten Pfoten",
+    "FalscheAntwort1": "Marderhund hält echten Winterschlaf; Waschbär ist ganzjährig aktiv",
+    "FalscheAntwort2": "Marderhund ist tagaktiv; Waschbär ausschließlich nachtaktiv",
+    "FalscheAntwort3": "Beide Arten sind heimisch in Deutschland und wurden nie eingebürgert",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Biotopbäume und welche Tiere sind auf sie angewiesen?",
+    "Antwort": "Biotopbäume: alte Bäume mit Höhlen, Totholzanteilen, Rindentaschen; Lebensraum für Höhlenbrüter (Specht, Meise, Dohle), Fledermäuse, Käfer und Pilze",
+    "FalscheAntwort1": "Biotopbäume sind Jungpflanzen unter 10 Jahren; dienen als Jungwild-Deckung",
+    "FalscheAntwort2": "Biotopbäume sind fremdländische Zierbäume im Park; haben keine heimischen Tiermieter",
+    "FalscheAntwort3": "Biotopbäume sind Bäume mit Wildschäden durch Verbiss; werden gefällt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist Sikawild in Schleswig-Holstein und wo kommt es vor?",
+    "Antwort": "Sikahirsch (Cervus nippon): aus Ostasien stammende Hirschart; in SH v.a. im Kreis Schleswig-Flensburg (Hüttener Berge); ähnlich Rotwild aber kleiner, sommers getüpfelt, weißer Spiegel mit dunklem Rand",
+    "FalscheAntwort1": "Sikawild ist eine heimische Art; kommt in ganz Deutschland weit verbreitet vor",
+    "FalscheAntwort2": "Sikawild ist ein anderer Name für Damwild; wird häufig verwechselt",
+    "FalscheAntwort3": "Sikawild kommt in SH nur in Zoos vor; in freier Wildbahn nicht jagdbar",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist ein Muffelfleck und bei welcher Wildart kommt er vor?",
+    "Antwort": "Muffelfleck: heller, weißlicher Sattelfleck auf dem Rücken des Muffelwidderstiers; typisches Erkennungsmerkmal des adulten Widders (Muffelwild, Ovis musimon)",
+    "FalscheAntwort1": "Muffelfleck: weißer Spiegel am Gesäß des Rehwildes; dient als Warnzeichen",
+    "FalscheAntwort2": "Muffelfleck: dunkler Fleck auf dem Fell des Damhirsches; Herkunftszeichen",
+    "FalscheAntwort3": "Muffelfleck: natürliche Pigmentmangel-Stelle beim Schwarzwild; kein artspezifisches Merkmal",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wozu dient der P2-Zahn (zweiter Prämolar) bei der Altersbestimmung des Rehwilds?",
+    "Antwort": "P2 (zweiter Vormahlzahn): beim Jungen dreihöckerig (Milchzahn); im Dauergebiss zweihöckerig; Wechsel mit ca. 12-14 Monaten; ermöglicht Unterscheidung Jährling von älteren Tieren",
+    "FalscheAntwort1": "P2 ist bei allen Altersklassen dreihöckerig; kein Altersbestimmungsmerkmal",
+    "FalscheAntwort2": "P2-Zahn ist der erste Molar; Wechsel erst mit 3 Jahren",
+    "FalscheAntwort3": "P2 kommt nur bei Rehböcken vor; bei Ricken ist er nicht vorhanden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Höhe sollte ein Schutzzaun für Rehwild haben und welche für Rotwild?",
+    "Antwort": "Rehwild: mind. 1,5 m; Rotwild: mind. 2,0-2,2 m; Schwarzwild-Elektrozaun: mehrzügig ab 20 cm",
+    "FalscheAntwort1": "Rehwild: 80 cm; Rotwild: 120 cm Zaunhöhe ausreichend",
+    "FalscheAntwort2": "Einheitliche Zaunhöhe 3 m für alle Schalenwildarten vorgeschrieben",
+    "FalscheAntwort3": "Zaunhöhe ist nicht vorgeschrieben; jeder Landwirt entscheidet selbst",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Vögel stehen auf der Roten Liste und sind in SH besonders schutzbedürftig?",
+    "Antwort": "Kiebitz, Großtrappe, Rebhuhn, Wachtel, Turteltaube, Uferschnepfe, Bekassine; Rückgang durch Lebensraumverlust in der Agrarlandschaft",
+    "FalscheAntwort1": "Rote Liste enthält nur Greifvögel; Rebhuhn und Rebhuhn sind nicht gefährdet",
+    "FalscheAntwort2": "Alle heimischen Vogelarten stehen auf der Roten Liste; generelle Gefährdung",
+    "FalscheAntwort3": "Rote Liste in SH umfasst nur Wasservögel; Feldvögel sind nicht bedroht",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was versteht man unter Kaninchen-Sitzes und wie unterscheidet er sich vom Hasensitz?",
+    "Antwort": "Kaninchen sitzt aufrecht auf Erdwall/Boden, dichter am Eingang seiner Röhre; Hase liegt in Sasse flach gedrückt in freiem Gelände; Kaninchen lebt gesellig in Kolonien, Hase einzeln",
+    "FalscheAntwort1": "Kaninchensitz und Hasensitz sind identisch; beide Arten verhalten sich gleich",
+    "FalscheAntwort2": "Kaninchen liegt wie der Hase flach in Sassen; baut keine Röhren",
+    "FalscheAntwort3": "Kaninchen sitzt grundsätzlich auf Bäumen; unterscheidet sich dadurch vom Feldhasen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist Borkenkäferbefall und wie beeinflusst er das Wild?",
+    "Antwort": "Borkenkäfer (v.a. Buchdrucker) befallen geschwächte Fichten; Massenbefall führt zu Windwurf und Lichtungen; schafft neue Lebensräume (Lichtungen, Reisig) gut für Rehwild und Vögel, kurzfristig Verlust von Deckung",
+    "FalscheAntwort1": "Borkenkäferbefall tötet alle Wildtiere im Revier durch freigesetzte Gifte",
+    "FalscheAntwort2": "Borkenkäfer befallen nur Laubbäume; Nadelwälder sind nicht betroffen",
+    "FalscheAntwort3": "Borkenkäferbefall ist positiv für alle Wildtiere; mehr Nahrung im Käferholz",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie liegt das Gelege der Waldschnepfe (Scolopax rusticola) und wie viele Eier umfasst es?",
+    "Antwort": "Waldschnepfengelege: 4 Eier, am Boden in Waldbiotopen, gut getarnt im Laub; Nesthocker; Brutdauer ca. 21-24 Tage",
+    "FalscheAntwort1": "Waldschnepfe legt 8-10 Eier in Baumhöhlen",
+    "FalscheAntwort2": "Waldschnepfe legt 2 Eier auf Felsen; Nesthocker-Küken können sofort fliegen",
+    "FalscheAntwort3": "Waldschnepfe legt kein Nest an; Eier werden im Geäst versteckt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Tauchenten kommen in SH vor und wie unterscheiden sie sich von Schwimmenten?",
+    "Antwort": "Tauchenten (Reiherente, Bergente, Schellente, Tafelente): tauchen vollständig unter; Beine weit hinten angesetzt, kurze Flügel; Schwimmenten (Stockente, Krickente) kippen nur vor zum Gründeln, Beine mittig",
+    "FalscheAntwort1": "Tauchenten und Schwimmenten sind identisch; Unterschied nur in der Zugrichtung",
+    "FalscheAntwort2": "Tauchenten können nicht fliegen; leben ganzjährig unter Wasser",
+    "FalscheAntwort3": "Tauchenten gründeln wie Schwimmenten; der Begriff ist veraltet",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Schäden kann Rotwild im Feldbaugebiet verursachen?",
+    "Antwort": "Rotwild schädigt Getreide durch Vertreten und Fressen; Mais und Raps durch Fraß; Schälschäden an Jungkulturen; Graben (Sauen) und Suhlen; wirtschaftliche Schäden können erheblich sein",
+    "FalscheAntwort1": "Rotwild richtet im Feldbaugebiet keine Schäden an; frisst ausschließlich im Wald",
+    "FalscheAntwort2": "Schäden durch Rotwild sind gering; nur Schwarzwild verursacht nennenswertes Schadensausmaß",
+    "FalscheAntwort3": "Rotwild schädigt nur Obstplantagen; Getreide und Raps werden nicht berührt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Neozoen? Nennen Sie drei Beispiele aus SH.",
+    "Antwort": "Neozoen: nach 1492 durch menschlichen Einfluss eingeführte Tierarten; Beispiele: Waschbär (Nordamerika), Marderhund (Ostasien), Nilgans (Afrika), Nutria, Amerikanischer Mink",
+    "FalscheAntwort1": "Neozoen sind ausgestorbene Tierarten; Beispiele: Ur, Wildpferd, Säbelzahntiger",
+    "FalscheAntwort2": "Neozoen sind heimische Tierarten die neu entdeckt wurden; Beispiele: Luchs, Wolf, Seeadler",
+    "FalscheAntwort3": "Neozoen sind Tiere die sich durch Mutation entwickelten; keine Einführung durch Menschen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann hat der Fuchs seine Ranzzeit und wie lange dauert die Tragzeit?",
+    "Antwort": "Fuchs-Ranzzeit: Januar-Februar; Tragzeit ca. 51-53 Tage; Geburt der Welpen (3-6) im März-April; Welpen verlassen Bau mit ca. 4 Wochen",
+    "FalscheAntwort1": "Fuchs-Ranzzeit: September-Oktober; Tragzeit 90 Tage",
+    "FalscheAntwort2": "Fuchs-Ranzzeit: April-Mai; Tragzeit nur 28 Tage wie Kaninchen",
+    "FalscheAntwort3": "Fuchs hat keine feste Ranzzeit; Paarung ganzjährig möglich",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Duftdrüsen hat das Rehwild und welche Funktion haben sie?",
+    "Antwort": "Metarsal- und Metatarsaldrüsen (Läufe), Stirndrüsen (Schlagern), Zwischenzehen- und Afterklauen-Drüsen; dienen der Revierkennzeichnung, Kommunikation und Fährtenspur",
+    "FalscheAntwort1": "Rehwild hat keine Duftdrüsen; Kommunikation erfolgt ausschließlich über Laute",
+    "FalscheAntwort2": "Rehwild hat nur eine Drüse am Schwanz; dient ausschließlich zur Feindwarnung",
+    "FalscheAntwort3": "Duftdrüsen befinden sich nur an der Nase; werden nur zur Nahrungssuche eingesetzt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie sieht das Jugendgefieder des Mäusebussards aus?",
+    "Antwort": "Mäusebussard-Jugendgefieder: stärker gestreift als Altvogel (längs gestreifte Unterseite); hellere Iris; im ersten Jahr heller variabel gefärbt; Schwanzstreifen weniger deutlich",
+    "FalscheAntwort1": "Junge Mäusebussarde sind vollständig schwarz; erst im 2. Jahr braun",
+    "FalscheAntwort2": "Jugendgefieder identisch mit Altvogel; kein Unterschied im ersten Jahr",
+    "FalscheAntwort3": "Junge Mäusebussarde haben rotes Gefieder; erst im 3. Jahr braun-weiß",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Lebendfangfallen sind für die Jagd in SH zugelassen?",
+    "Antwort": "Kastenfallen (Box-Trap), Rohrkastenfallen für Marder, Lebendfangfallen für Waschbär und Marderhund; müssen täglich kontrolliert werden; Fangbücher führen",
+    "FalscheAntwort1": "Alle Lebendfangfallen sind verboten; nur Totschlagfallen erlaubt",
+    "FalscheAntwort2": "Lebendfangfallen dürfen nur von Behörden aufgestellt werden; Jäger nicht zugelassen",
+    "FalscheAntwort3": "Lebendfangfallen müssen wöchentlich kontrolliert werden; Fangbücher nicht notwendig",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist Symbiose und nennen Sie ein Beispiel aus der Jagdwildkunde?",
+    "Antwort": "Symbiose: gegenseitig vorteilhafte Lebensgemeinschaft; Beispiel: Rehe/Rothirsch und Darmparasiten-Abbau durch Wiederkäuer-Magen; oder Stare die Insekten am Rinderhinterherr ablesen",
+    "FalscheAntwort1": "Symbiose: Parasitismus bei dem nur einer profitiert; kein positives Beispiel in der Jagd",
+    "FalscheAntwort2": "Symbiose: Konkurrenz zwischen Wildarten um Nahrungsressourcen",
+    "FalscheAntwort3": "Symbiose existiert in der Natur nicht; alle Tierbeziehungen sind Konkurrenz",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann fegen Rehböcke und was geschieht dabei?",
+    "Antwort": "Rehböcke fegen (Bast abstreifen) im März-April; reiben Geweih an Sträuchern und Jungbäumen; hinterlassen Fegestellen mit geschabter Rinde und Duftmarkierung aus Stirndrüsen",
+    "FalscheAntwort1": "Rehböcke fegen im Oktober nach der Brunft; Geweih wächst danach sofort neu",
+    "FalscheAntwort2": "Fegen bedeutet Geweih abwerfen; Rehböcke fegen im November",
+    "FalscheAntwort3": "Rehböcke fegen nie; der Bast fällt von selbst ab durch Trockenheit",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Laubbäume sind für die Jagd in Schleswig-Holstein besonders bedeutsam?",
+    "Antwort": "Eiche (Mastbaum), Buche (Mast), Esche, Erle (Knick), Weide (Äsung), Birke (Pionier); alle relevant als Äsung, Deckung und Masttreichen für Schalenwild",
+    "FalscheAntwort1": "In SH wachsen keine Laubbäume; ausschließlich Nadelwald ist relevant",
+    "FalscheAntwort2": "Nur die Eiche hat Bedeutung für Jagd in SH; alle anderen Laubbäume irrelevant",
+    "FalscheAntwort3": "Laubbäume sind für die Jagd bedeutungslos; Wild bevorzugt Nadelholzbestände",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Entenarten sind Baumbrüter (brüten in Baumhöhlen)?",
+    "Antwort": "Schellente, Hohltaube und Gänsesäger brüten in Baumhöhlen; Stockente brütet am Boden; Reiherente auf Schwimmendem Nestern",
+    "FalscheAntwort1": "Alle Entenarten brüten am Boden; keine Ente brütet in Baumhöhlen",
+    "FalscheAntwort2": "Stockente und Krickente sind Baumbrüter; alle anderen Enten brüten am Boden",
+    "FalscheAntwort3": "Baumbrütende Enten gibt es in SH nicht; nur in tropischen Regionen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist das Wiederkäuergebiss und welches Merkmal fehlt im Oberkiefer?",
+    "Antwort": "Wiederkäuer (Reh, Rind, Schaf) haben im Oberkiefer keine Schneidezähne; stattdessen eine harte Zahnleiste (Gaumenplatte); Unterkiefer hat 3 Schneidezähne + 1 Eckzahn je Seite",
+    "FalscheAntwort1": "Wiederkäuer haben Schneidezähne in Ober- und Unterkiefer wie Raubtiere",
+    "FalscheAntwort2": "Wiederkäuer haben im Oberkiefer Eckzähne statt Schneidezähne",
+    "FalscheAntwort3": "Wiederkäuergebiss unterscheidet sich nicht von Raubtiergebiss; gleiche Zahnformel",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie rettet man Rehkitze vor dem Mähtod und was sind die gängigsten Methoden?",
+    "Antwort": "Jungwildrettung: Absuchen zu Fuß vor Mahd; Drohnen mit Wärmebildkameras; akustische Scheuchmittel (Klangteppich); Abdeckung mit Kisten; Zusammenarbeit Jäger-Landwirt koordinieren",
+    "FalscheAntwort1": "Rehkitze retten sich selbst; Jungwildrettung nicht nötig da Kitze fliehen",
+    "FalscheAntwort2": "Einzige Methode: Absuchen nach Mahd; Vorher-Maßnahmen sind wirkungslos",
+    "FalscheAntwort3": "Jungwildrettung ist nicht erlaubt; Jäger dürfen nicht auf fremde Felder",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wo und wie brütet der Uhu (Bubo bubo)?",
+    "Antwort": "Uhu brütet am Boden oder in Felsnischen, gelegentlich in alten Adlerhorsten; in SH auch in alten Steinbrüchen; Gelege 1-3 Eier; Brutbeginn Februar-März",
+    "FalscheAntwort1": "Uhu brütet ausschließlich in Baumhöhlen; benötigt alte Eichen",
+    "FalscheAntwort2": "Uhu baut selbst Nester in Fichtenwipfeln; brütet immer in großen Höhen",
+    "FalscheAntwort3": "Uhu brütet in Erdhöhlen wie der Fuchs; kann keine anderen Nistplätze nutzen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist der Unterschied zwischen Sommer- und Winterschälung bei Rotwild?",
+    "Antwort": "Sommerschälung: Rindenfressen an Laubbäumen im Sommer durch Rotwild; Winterschälung: Rindenfressen (Schälen) an Nadelbäumen im Winter bei Nahrungsmangel; Winterschälung wirtschaftlich schädlicher",
+    "FalscheAntwort1": "Sommer- und Winterschälung sind identisch; nur der Zeitpunkt unterscheidet sich",
+    "FalscheAntwort2": "Schälung gibt es nur im Winter; Sommerschälung ist kein bekanntes Phänomen",
+    "FalscheAntwort3": "Sommerschälung ist schwerer als Winterschälung; Laubbaumschäden wertvoller",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche ökologischen Funktionen hat ein Moor?",
+    "Antwort": "Moorfunktionen: Kohlenstoffspeicher (Klimaschutz), Wasserrückhalt, Lebensraum für spezialisierte Arten (Moorfrosch, Wollgras, Sonnentau), Wasserqualität; intakte Moore = bedeutende Biotope",
+    "FalscheAntwort1": "Moore haben keine ökologische Funktion; sind Ödland und werden entwässert",
+    "FalscheAntwort2": "Moore dienen ausschließlich als Torfabbaugebiet; haben sonst keine Bedeutung",
+    "FalscheAntwort3": "Moore sind nutzlos und sollten in Ackerland umgewandelt werden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Ab wann ist bei Rothirschen die Rosenstock-Erhebung erkennbar (Altersbestimmung)?",
+    "Antwort": "Rosenstockerhebung: im 2. Lebensjahr sichtbar wenn Spießer-Geweih aufgesetzt; wird mit jedem Jahr deutlicher; ab 3. Jahr gut erkennbar und zur Altersbestimmung nutzbar",
+    "FalscheAntwort1": "Rosenstockerhebung erst mit 5 Jahren erkennbar; davor flache Schädeldecke",
+    "FalscheAntwort2": "Rosenstockerhebung ist ein Merkmal des Rehwildes; beim Rothirsch nicht vorhanden",
+    "FalscheAntwort3": "Rosenstockerhebung ist von Geburt an sichtbar und verändert sich nicht",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie sieht das Erstlingsgehörn eines Rehbocks aus?",
+    "Antwort": "Erstlingsgehörn (1. Gehörn): meist kurze Spießen oder einfache Gabeln; selten vollständige Rosenstöcke; Farbe nach Fegen zunächst hell, später nachdunkelnd",
+    "FalscheAntwort1": "Erstlingsgehörn ist ein ausgewachsenes Sechsergespließ; sofort vollständig",
+    "FalscheAntwort2": "Erstlingsgehörn ist nicht sichtbar; Böcke tragen kein Gehörn im ersten Jahr",
+    "FalscheAntwort3": "Erstlingsgehörn besteht immer aus Schaufeln; ähnlich dem Damwild",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche pflanzliche Nahrung nehmen Raubtiere (Fuchs, Marder, Waschbär) zu sich?",
+    "Antwort": "Fuchs: Beeren (Brombeere, Hagebutte), Fallobst; Baummarder: Beeren, Kirschen; Waschbär: Eicheln, Beeren, Früchte, Mais; alle Omnivoren mit hohem Fruchtanteil im Herbst",
+    "FalscheAntwort1": "Raubtiere fressen keine pflanzliche Nahrung; ausschließlich Fleisch",
+    "FalscheAntwort2": "Nur Waschbär frisst Pflanzen; Fuchs und Marder sind reine Fleischfresser",
+    "FalscheAntwort3": "Raubtiere fressen nur Gräser im Frühling; Beeren und Früchte werden gemieden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann hat Schwarzwild seinen dritten Molaren (Backenzahn) vollständig durchgebrochen (Altersbestimmung)?",
+    "Antwort": "Dritter Molar bricht mit ca. 12-14 Monaten durch; vollständig mit ca. 16-18 Monaten; bis dahin Übergangsgebiss; danach Dauergebiss vollständig",
+    "FalscheAntwort1": "Dritter Molar bricht mit 3 Jahren durch; vorher nur Milchgebiss",
+    "FalscheAntwort2": "Schwarzwild hat keinen dritten Molaren; nur 2 Backenzähne je Seite",
+    "FalscheAntwort3": "Dritter Molar ist schon bei Geburt vorhanden; kein Altersbestimmungsmerkmal",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann fegt der Damhirsch sein Geweih (entfernt den Bast)?",
+    "Antwort": "Damhirsch fegt im August-September; zeitgleich mit Beginn der Brunft im Oktober; Schaufeln werden freigelegt und oft von Schweiß und Pflanzenresten gefärbt",
+    "FalscheAntwort1": "Damhirsch fegt im April-Mai wie Rehböcke",
+    "FalscheAntwort2": "Damhirsch fegt im Dezember nach der Brunft",
+    "FalscheAntwort3": "Damhirsch fegt nie; Bast fällt von selbst im Winter ab",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was versteht man unter 'Einschlagen' bei der Baujagd auf Fuchs und Dachs?",
+    "Antwort": "Einschlagen: Hund fährt in den Bau und stellt (verbellt) das Wild; Jäger hört am Bellen wo das Wild im Bau steht; dann Graben zum Hund um das Wild herauszuholen",
+    "FalscheAntwort1": "Einschlagen: Jäger schlägt mit Hammer auf den Boden um Wild aus dem Bau zu treiben",
+    "FalscheAntwort2": "Einschlagen: Räuchern des Baus mit Qualm um Fuchs herauszutreiben",
+    "FalscheAntwort3": "Einschlagen: Fuchs wird mit Falle am Baueingang gefangen ohne Hund",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Kann Fuchs und Dachs denselben Bau gemeinsam nutzen?",
+    "Antwort": "Ja, Fuchs und Dachs können denselben Bau gleichzeitig oder abwechselnd nutzen; Dachs baut tiefe Erdbaue; Fuchs besetzt oft Teilbereiche; Koexistenz möglich",
+    "FalscheAntwort1": "Nein, Fuchs und Dachs sind natürliche Feinde; teilen nie einen Bau",
+    "FalscheAntwort2": "Dachs baut keine eigenen Baue; nutzt ausschließlich Fuchsbaue",
+    "FalscheAntwort3": "Nur weibliche Dachse teilen den Bau mit Füchsen; Dachsmänner nicht",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was bedeutet 'aufbäumen' beim Rebhuhn und wann tut es das?",
+    "Antwort": "Rebhuhn bäumt sehr selten auf; flüchtet meist laufend oder fliegend bodennah; im Ausnahmefall bei starker Beunruhigung kürze Aufbaumversuche; kein typisches Verhalten wie beim Fasan",
+    "FalscheAntwort1": "Rebhuhn bäumt regelmäßig zum Schlafen auf; übernachtet in Bäumen",
+    "FalscheAntwort2": "Rebhuhn bäumt immer bei Gefahr auf; sitzt dann stundenlang im Baum",
+    "FalscheAntwort3": "Rebhuhn kann nicht aufbäumen; Flügel zu kurz für Baumlandung",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist weißes Raubwild und welche Arten gehören dazu?",
+    "Antwort": "Weißes Raubwild (historischer Jägerbegriff): Hermelin, Mauswiesel, Iltis, Wiesel; kleines Raubwild mit meist weißem oder hellem Winterfell; in SH jagdbar",
+    "FalscheAntwort1": "Weißes Raubwild: Fuchs, Dachs, Marder in der Winterfärbung",
+    "FalscheAntwort2": "Weißes Raubwild bezeichnet Greifvögel mit weißem Gefieder",
+    "FalscheAntwort3": "Weißes Raubwild ist ein Begriff für Albino-Wildtiere jeder Art",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Vögel gelten als fischfressend und unterliegen der besonderen Regulierung?",
+    "Antwort": "Kormoran, Graureiher, Gänsesäger, Fischotter (kein Vogel); Regulierung nur per Ausnahmegenehmigung da streng geschützt; Kormoran in SH teilweise bejagbar per Verordnung",
+    "FalscheAntwort1": "Fischfressende Vögel sind grundsätzlich jagdbar; keine Genehmigung nötig",
+    "FalscheAntwort2": "Nur der Graureiher ist fischfressend; alle anderen Arten fressen keine Fische",
+    "FalscheAntwort3": "Alle Wasservögel sind fischfressend und dürfen ganzjährig bejagt werden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wer führt das Kahlwildrudel beim Rotwild und wie ist die Sozialstruktur?",
+    "Antwort": "Älteste erfahrene Kuh (Leittier/Leitkuh) führt das Kahlwildrudel; matriarchalische Struktur; Rudel besteht aus Kühen, Kälbern und jungen Tieren; Hirsche leben getrennt in Hirschrudeln",
+    "FalscheAntwort1": "Stärkster Hirsch führt das Kahlwildrudel ganzjährig",
+    "FalscheAntwort2": "Rotwild lebt grundsätzlich einzeln; Rudel existieren nur in der Brunft",
+    "FalscheAntwort3": "Kahlwildrudel werden von jungen Spießern geführt; Kühe folgen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist ein Malbaum und was sagt er über das Wild aus?",
+    "Antwort": "Malbaum: Baum mit abgeschabter Rinde durch Geweih-Fegen oder Schärfen; zeigt Anwesenheit und Reviergrenzen von Schalenwild (Rothirsch im Brunft); auch Duftmarkierung durch Stirndrüsen",
+    "FalscheAntwort1": "Malbaum: Baum an dem ein Jäger Pfeile markiert hat; jagdtechnischer Hilfsmittel",
+    "FalscheAntwort2": "Malbaum: kranker Baum mit natürlichem Rindenverlust; kein Wildtier-Zeichen",
+    "FalscheAntwort3": "Malbaum: Hochsitz-Markierung; zeigt den besten Ansitzplatz an",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie lange ist die Tragzeit beim Rehwild und wann werden die Kitze gesetzt?",
+    "Antwort": "Rehwild-Tragzeit: ca. 9-10 Monate (290-300 Tage) inkl. Keimverzögerung (Diapause ca. 4-5 Monate); Brunft Juli-August; Setzen der Kitze Mai-Juni",
+    "FalscheAntwort1": "Rehwild-Tragzeit: 5 Monate; Kitze werden im Herbst gesetzt",
+    "FalscheAntwort2": "Rehwild-Tragzeit: 3 Monate ohne Diapause; Kitze werden im Winter gesetzt",
+    "FalscheAntwort3": "Rehwild-Tragzeit: 18 Monate; eine der längsten Tragzeiten bei Säugern",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Sträucher haben im Frühjahr weiße Blüten und sind wichtig als Nahrungsquelle?",
+    "Antwort": "Weißdorn (Crataegus), Schlehdorn (Schlehe), Holunderblüte, Kirschpflaume, Vogelkirsche; alle im April-Mai blühend; wichtig für Insekten und Vögel",
+    "FalscheAntwort1": "Nur Schlehe hat weiße Blüten; alle anderen heimischen Sträucher blühen gelb",
+    "FalscheAntwort2": "Weiße Frühlingsblüten haben keine Nahrungsbedeutung für Wildtiere",
+    "FalscheAntwort3": "Weiß blühende Sträucher sind ausschließlich Zierpflanzen ohne ökologischen Wert",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Warum ist der Bestand der Schleiereule (Tyto alba) in SH zurückgegangen und was fördert ihn?",
+    "Antwort": "Rückgang durch fehlende Nistmöglichkeiten (renovierte Scheunen, Türme), Mäusemangel durch Intensivierung, Verkehrstod; Förderung durch Nistkästen, offene Scheunen, artenreiche Wiesen",
+    "FalscheAntwort1": "Schleiereule nimmt in SH zu; kein Rückgang feststellbar",
+    "FalscheAntwort2": "Rückgang ausschließlich durch Bejagung; Schleiereule war früher Jagdtier",
+    "FalscheAntwort3": "Schleiereulen-Rückgang durch eingeschleppte Krankheiten aus Asien",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Damwild-Geweihstufen gibt es und wie heißen die Trophäen?",
+    "Antwort": "Spießer (1. Jahr), Gabler (2. Jahr), Eissprossenschaufler (3. Jahr), Schaufler (ab 4. Jahr); ältere Schaufler mit ausgeprägten Schaufeln und Eissprossen",
+    "FalscheAntwort1": "Damwild hat keine Geweihstufen; wächst kontinuierlich ohne Klassifizierung",
+    "FalscheAntwort2": "Damwild Trophäen heißen Kolben, Speer, Krone wie beim Rotwild",
+    "FalscheAntwort3": "Damwild hat nur 2 Stufen: Jungtier und adulter Schaufler",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wann ist der Waschbär hauptsächlich aktiv und wie beeinflusst das die Jagd?",
+    "Antwort": "Waschbär vorwiegend nacht- und dämmerungsaktiv; hält Winterruhe (kein echter Winterschlaf); Jagd v.a. mit Lebendfallen bei Nacht oder früh morgens; ganzjährig ohne Schonzeit jagdbar",
+    "FalscheAntwort1": "Waschbär ist tagaktiv; bevorzugt Jagd mittags an Gewässern",
+    "FalscheAntwort2": "Waschbär hat echten Winterschlaf von Oktober bis März; dann nicht zu fangen",
+    "FalscheAntwort3": "Waschbär hat keine feste Aktivzeit; gleichmäßig über den Tag verteilt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist eine Brunftkuhle und welches Wild legt sie an?",
+    "Antwort": "Brunftkuhle: flache Erdwanne die Rothirsch in der Brunft (September-Oktober) mit Urin tränkt und darin wälzt; hinterlässt intensiven Geruch; dient als Revierkennzeichnung und Paarungsritual",
+    "FalscheAntwort1": "Brunftkuhle: Wassergrube die Schwarzwild zum Suhlen gräbt; kein Brunftbezug",
+    "FalscheAntwort2": "Brunftkuhle: natürliche Erdmulde; nicht vom Wild angelegt",
+    "FalscheAntwort3": "Brunftkuhle wird vom Rehbock in der Brunft Juli-August angelegt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was bedeutet 'kreisen' bei der Jagd (z.B. auf Schwarzwild)?",
+    "Antwort": "Kreisen: Jäger umkreist einen Einstand um festzustellen ob Wild darin liegt; prüft Fährten und Wechsel; methodisches Einkreisen vor Drückjagd oder Pirsch",
+    "FalscheAntwort1": "Kreisen: Wild das sich im Kreis um einen Jäger bewegt; Ablenkverhalteh",
+    "FalscheAntwort2": "Kreisen: Greifvögel die über einem Revier kreisen; kein Jägerbegriff",
+    "FalscheAntwort3": "Kreisen: verbotene Jagdmethode mit Netzen die kreisförmig ausgelegt werden",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Rabenvögel sind Koloniebrüter?",
+    "Antwort": "Saatkrähe (Corvus frugilegus) ist der einzige echte Koloniebrüter der Rabenvögel; brütet in Baumkolonien (Rookeries); Dohle brütet häufig in lockerer Kolonie in Gebäuden/Felsen",
+    "FalscheAntwort1": "Alle Rabenvögel sind Koloniebrüter; keine Art brütet einzeln",
+    "FalscheAntwort2": "Kolkrabe und Rabenkrähe sind Koloniebrüter; Saatkrähe brütet einzeln",
+    "FalscheAntwort3": "Rabenvögel brüten nie in Kolonien; immer nur paarweise",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was frisst der Kuckuck (Cuculus canorus) und was ist an seiner Fortpflanzung ungewöhnlich?",
+    "Antwort": "Kuckuck: frisst v.a. behaarte Raupen (die andere Vögel meiden); Brutparasit - legt Eier in Nester anderer Vogelarten (Teichrohrsänger, Grasmücke, Bachstelze); Küken schmeißt andere Eier aus Nest",
+    "FalscheAntwort1": "Kuckuck frisst Fische; baut großes Nest am Gewässerrand",
+    "FalscheAntwort2": "Kuckuck ist Pflanzenfresser; brütet selbst in Baumhöhlen",
+    "FalscheAntwort3": "Kuckuck ist Allesfresser; führt normale Brutpflege in selbst gebautem Nest",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Warum zieht Schwarzwild in Maisfelder und welche Schäden entstehen?",
+    "Antwort": "Mais bietet Schwarzwild optimale Deckung und energiereiche Nahrung; Schäden durch Wühlen, Fressen und Brechen der Pflanzen; wirtschaftlich erhebliche Schäden für Landwirte; Jagd im Mais erschwert",
+    "FalscheAntwort1": "Schwarzwild meidet Mais; frisst ausschließlich Waldfrüchte",
+    "FalscheAntwort2": "Maisschäden durch Schwarzwild sind vernachlässigbar; kaum wirtschaftliche Bedeutung",
+    "FalscheAntwort3": "Mais ist für Schwarzwild giftig; meidet das Getreide instinktiv",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Welche Wildtiere haben im Oberkiefer keine Schneidezähne (Wiederkäuer/Nagezähne)?",
+    "Antwort": "Wiederkäuer (Reh, Rotwild, Damwild, Schwarzwild hat keine – Ausnahme: Schwarzwild hat Schneidezähne oben); Reh, Rotwild, Damwild, Schaf, Ziege: im Oberkiefer nur Zahnleiste",
+    "FalscheAntwort1": "Alle Säugetiere haben Schneidezähne im Oberkiefer",
+    "FalscheAntwort2": "Nur Nagetiere (Hase, Kaninchen) haben keine Oberkieferschneidezähne",
+    "FalscheAntwort3": "Schwarzwild hat keine Oberkieferschneidezähne; alle anderen Wildtiere schon",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie unterscheidet man Kolkrabe (Corvus corax) von der Rabenkrähe (Corvus corone) im Flug?",
+    "Antwort": "Kolkrabe: deutlich größer, keilförmiger Schwanz, tiefe bassige Rufe; Rabenkrähe: kleiner, gerader Schwanz, höheres Krächzen; Kolkrabe hat auch rautenförmigen Schwanz",
+    "FalscheAntwort1": "Kolkrabe und Rabenkrähe sind im Flug nicht zu unterscheiden",
+    "FalscheAntwort2": "Rabenkrähe ist größer als Kolkrabe; hat keilförmigeren Schwanz",
+    "FalscheAntwort3": "Kolkrabe hat weißliche Unterflügel; Rabenkrähe vollständig schwarz",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was sind Nesthocker und Nestflüchter? Nennen Sie je zwei Beispiele.",
+    "Antwort": "Nesthocker: blind, nackt, hilflos bei Geburt (Kleinvögel, Spechte, Tauben); Nestflüchter: sehend, bedunst, sofort mobil (Enten, Hühner, Hasen, Rehe); Enten und Rebhuhn: Nestflüchter",
+    "FalscheAntwort1": "Alle Vögel sind Nesthocker; alle Säuger sind Nestflüchter",
+    "FalscheAntwort2": "Nesthocker: Enten und Gänse; Nestflüchter: Spechte und Singvögel",
+    "FalscheAntwort3": "Nestflüchter können sofort fliegen; Nesthocker können nie fliegen",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie sieht die Ricke im Winter aus und woran erkennt man sie?",
+    "Antwort": "Ricke im Winterhaar: graubraun, dicker wirkend als im Sommer; kein Gehörn; Spiegel (Hinterpartie) gelblich-weiß; Zitzen bei näherer Betrachtung sichtbar; Körperbau zierlicher als Bock",
+    "FalscheAntwort1": "Ricke im Winter trägt ein kleines Gehörn wie Böcke; als Unterscheidungsmerkmal",
+    "FalscheAntwort2": "Ricke ist im Winter von Rehbock nicht zu unterscheiden",
+    "FalscheAntwort3": "Ricke verfärbt sich im Winter weiß wie der Schneehase",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Wie wird der Waschbär jagdlich am häufigsten bejagt?",
+    "Antwort": "Waschbär: Lebendfangfallen (Kastenfallen), Ansitz an Kirrungen und Gewässern in der Dämmerung/Nacht; auch mit Hunden (Baujagd wenn er Erdbaue nutzt); ganzjährig ohne Schonzeit",
+    "FalscheAntwort1": "Waschbär wird ausschließlich durch Treibjagden im Rudel bejagt",
+    "FalscheAntwort2": "Waschbär hat eine Schonzeit von April bis August; sonst ganzjährig jagdbar",
+    "FalscheAntwort3": "Waschbär darf nur mit besonderer Genehmigung bejagt werden; in SH streng geschützt",
+    "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Was ist die Tragzeit beim Wildkaninchen und wie unterscheidet sie sich vom Hasen?",
+    "Antwort": "Wildkaninchen: Tragzeit ca. 28-31 Tage; Jungtiere nackt, blind, hilflos (Nesthocker); Feldhase: Tragzeit ca. 42-44 Tage; Jungtiere behaart, sehend, sofort mobil (Nestflüchter)",
+    "FalscheAntwort1": "Wildkaninchen und Feldhase haben identische Tragzeiten und Jungtier-Entwicklung",
+    "FalscheAntwort2": "Wildkaninchen hat längere Tragzeit als Feldhase; Jungtiere sind Nestflüchter",
+    "FalscheAntwort3": "Wildkaninchen Tragzeit 90 Tage; Jungtiere kommen vollentwickelt zur Welt",
+    "Pruefungsfach": "Wildtierkunde"
   }
 ]
