@@ -9911,7 +9911,7 @@
     ],
     "FrageFreitext": "Was ist über Schutzgebietsjagd korrekt?",
     "FrageMC": "Was ist über Schutzgebietsjagd korrekt?",
-    "PdfEligible": false,
+    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -9931,7 +9931,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Wofür steht Biotophege am ehesten?",
+    "Frage": "Wozu dient die Biotophege?",
     "Antwort": "Verbesserung von Lebensräumen",
     "FalscheAntwort1": "ausschließlich Winterfütterung",
     "FalscheAntwort2": "nur Wegebau",
@@ -9941,11 +9941,10 @@
     "Tags": [
       "naturschutz"
     ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Wofür steht Biotophege am ehesten?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Wofür steht Biotophege am ehesten?",
-    "PdfEligible": false,
+    "FrageFreitext": "Wozu dient die Biotophege?",
+    "FrageMC": "Wozu dient die Biotophege?",
+    "PdfEligible": true,
     "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Formulierung unklar. Wozu dient die Biotophege ist besser"
   },
   {
     "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
