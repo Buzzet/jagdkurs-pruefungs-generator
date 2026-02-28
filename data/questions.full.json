@@ -13278,5 +13278,797 @@
     "FalscheAntwort2": "Schalenwild auf 4 Grad; Federwild auf 7 Grad",
     "FalscheAntwort3": "Keine gesetzliche Temperaturvorgabe; Kuehlkette nach Ermessen",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Dokumente müssen Jäger bei sich tragen, wenn sie zur Jagdausübung in ihrem Revier eine Schusswaffe führen?",
+    "Antwort": "Gültiger Jagdschein, Waffenbesitzkarte (WBK), Personalausweis; bei Gästen zusätzlich Jagderlaubnisschein",
+    "FalscheAntwort1": "Nur der Jagdschein; WBK und Personalausweis sind nicht erforderlich",
+    "FalscheAntwort2": "Nur Personalausweis und Waffenschein reichen aus",
+    "FalscheAntwort3": "Jagdschein und Vereinsmitgliedsausweis des Jagdverbandes",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Über welche Mindestdeckungssumme muss die Jagdhaftpflichtversicherung verfügen?",
+    "Antwort": "Personenschäden: mindestens 1.000.000 Euro; Sachschäden: mindestens 100.000 Euro (gemäß LJG SH)",
+    "FalscheAntwort1": "Einheitlich mindestens 50.000 Euro für alle Schäden",
+    "FalscheAntwort2": "Personenschäden: 300.000 Euro; Sachschäden: 50.000 Euro",
+    "FalscheAntwort3": "Nur Sachschäden müssen versichert sein; Personenschäden sind durch die gesetzliche Unfallversicherung abgedeckt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Berechtigt der Jugendjagdschein zur Teilnahme als Schütze an Gesellschaftsjagden?",
+    "Antwort": "Nein; der Jugendjagdschein berechtigt nur zur Jagdausübung in Begleitung eines Erziehungsberechtigten oder beauftragter Aufsichtsperson; nicht als eigenständiger Schütze",
+    "FalscheAntwort1": "Ja, Jugendjagdscheininhaber dürfen uneingeschränkt an Gesellschaftsjagden teilnehmen",
+    "FalscheAntwort2": "Ja, aber nur auf Niederwild und nur als Treiber",
+    "FalscheAntwort3": "Ja, sofern der Jagdleiter zustimmt und ein Erwachsener daneben steht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was hat die Hege zum Ziel?",
+    "Antwort": "Erhaltung eines artenreichen, gesunden, den landschaftlichen und landeskulturellen Verhältnissen angepassten Wildbestandes sowie die Pflege und Sicherung seiner Lebensgrundlagen",
+    "FalscheAntwort1": "Maximierung der Jagdstrecke für wirtschaftlichen Gewinn der Jagdgenossenschaft",
+    "FalscheAntwort2": "Ausschließlich Schutz von Rotwild und Schwarzwild vor natürlichen Feinden",
+    "FalscheAntwort3": "Verhinderung jeglicher Bejagung zum Schutz aller Wildtiere",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welchem Gesetz ist der Tatbestand der Jagdwilderei geregelt?",
+    "Antwort": "Im Strafgesetzbuch (StGB) §292; Jagdwilderei ist eine Straftat und kann mit Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe bestraft werden",
+    "FalscheAntwort1": "Im Bundesjagdgesetz (BJG) §1; Jagdwilderei ist dort als Ordnungswidrigkeit geregelt",
+    "FalscheAntwort2": "Im Landesjagdgesetz (LJG) SH; jedes Bundesland regelt Wilderei selbst",
+    "FalscheAntwort3": "Im Tierschutzgesetz (TierSchG); Wilderei gilt primär als Tierschutzvergehen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ein gemeinschaftlicher Jagdbezirk ist 753 ha groß. Wie viele Pächter sind nach dem Jagdgesetz möglich?",
+    "Antwort": "5 Pächter; Staffelung nach BJG: bis 300 ha = 2, bis 450 ha = 3, bis 600 ha = 4, bis 750 ha = 5, darüber hinaus je weitere 150 ha ein weiterer Pächter",
+    "FalscheAntwort1": "Maximal 2 Pächter; mehr sind grundsätzlich nicht zulässig",
+    "FalscheAntwort2": "3 Pächter; die Fläche wird durch 250 geteilt",
+    "FalscheAntwort3": "Unbegrenzt viele Pächter; das Gesetz schreibt keine Obergrenze vor",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welchem Gebietstyp werden in der Regel besondere Regelungen zur Ausübung der Jagd getroffen?",
+    "Antwort": "In Naturschutzgebieten, Nationalparks, Wildschutzgebieten und Wildparks; die Jagdausübung wird dort durch die zuständigen Naturschutzbehörden besonders geregelt",
+    "FalscheAntwort1": "In Wasserschutzgebieten; dort gilt ein generelles Jagdverbot",
+    "FalscheAntwort2": "In Landschaftsschutzgebieten; diese haben die strengsten Jagdvorschriften",
+    "FalscheAntwort3": "Nur in gemeinschaftlichen Jagdbezirken; Eigenjagdbezirke unterliegen keinen Sonderregeln",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welche Dokumente sind Voraussetzung für die erstmalige Erteilung eines Jahresjagdscheines?",
+    "Antwort": "Jagdprüfungszeugnis, Nachweis der Jagdhaftpflichtversicherung, Personalausweis; ggf. Vorlage des Führungszeugnisses",
+    "FalscheAntwort1": "Nur der Personalausweis; alle anderen Dokumente werden vom Amt selbst beschafft",
+    "FalscheAntwort2": "Empfehlungsschreiben des Kreisjägermeisters und Lichtbilder",
+    "FalscheAntwort3": "Mitgliedsnachweis im Jagdverband und Waffenbesitzkarte",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Darf auf forstlichen Kulturflächen, die zum Schutz gegen Wildverbiss eingezäunt sind, die Jagd ausgeübt werden?",
+    "Antwort": "Ja; die Jagd darf auf eingezäunten Forstkulturen ausgeübt werden, jedoch nur mit Zustimmung des Grundeigentümers oder Nutzungsberechtigten",
+    "FalscheAntwort1": "Nein; eingezäunte Forstkulturen gelten als befriedete Bezirke wo die Jagd ruht",
+    "FalscheAntwort2": "Nur wenn der Zaun mindestens 2 m hoch ist und eine offizielle Ausnahmegenehmigung vorliegt",
+    "FalscheAntwort3": "Nein; auf Kulturflächen darf generell nicht gejagt werden um die Pflanzen zu schützen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Verursachen Dachse in einem Maisfeld Schaden – handelt es sich um einen nach dem Gesetz ersatzpflichtigen Wildschaden?",
+    "Antwort": "Nein; Wildschaden ist in SH nur durch Schalenwild, Wildkaninchen und Fasan ersatzpflichtig; Dachsschäden sind nicht ersatzpflichtig",
+    "FalscheAntwort1": "Ja; alle durch Wild verursachten Schäden sind ersatzpflichtig",
+    "FalscheAntwort2": "Ja; Dachs ist Schalenwild und daher immer ersatzpflichtig",
+    "FalscheAntwort3": "Nur wenn der Schaden über 500 Euro beträgt; kleinere Schäden sind nicht ersatzpflichtig",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Auf der Fahrt ins Revier treffen Sie auf einen Verkehrsunfall mit Rehwild. Das Stück leidet schwer. Die Straße liegt nicht in Ihrem Revier. Dürfen Sie den Fangschuss abgeben?",
+    "Antwort": "Ja; nach dem Tierschutzgesetz besteht die Pflicht, einem verletzten Tier unnötige Leiden zu ersparen; der Tierschutz geht der Revierzuständigkeit vor",
+    "FalscheAntwort1": "Nein; nur der zuständige Revierinhaber darf den Fangschuss abgeben",
+    "FalscheAntwort2": "Nein; Sie müssen die Polizei rufen und warten bis der Revierinhaber kommt",
+    "FalscheAntwort3": "Nur mit ausdrücklicher Genehmigung der Unteren Jagdbehörde",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nennen Sie mindestens 3 Grundsätze jeder Tierhaltung nach dem Tierschutzgesetz.",
+    "Antwort": "Artgerechte Ernährung (Fütterung), Bewegungsfreiheit, artgemäße Unterbringung/Behausung, tierärztliche Betreuung bei Krankheit, kein unnötiges Leiden",
+    "FalscheAntwort1": "Tiere müssen täglich gewogen werden; Impfungen sind monatlich durchzuführen; Freilauf ist verboten",
+    "FalscheAntwort2": "Tiere dürfen nur in Käfigen gehalten werden; tägliche Kontrolle durch Veterinär ist vorgeschrieben",
+    "FalscheAntwort3": "Wildtiere unterliegen dem Tierschutzgesetz nicht; es gilt nur für Haustiere",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer vertritt die Jagdgenossenschaft gerichtlich und außergerichtlich?",
+    "Antwort": "Der Jagdvorstand (Vorstand der Jagdgenossenschaft); er wird von der Jagdgenossenschaftsversammlung gewählt",
+    "FalscheAntwort1": "Der Kreisjägermeister; er ist gesetzlicher Vertreter aller Jagdgenossenschaften im Kreis",
+    "FalscheAntwort2": "Der Jagdaufseher; er übernimmt alle rechtlichen Aufgaben",
+    "FalscheAntwort3": "Jedes Mitglied der Jagdgenossenschaft hat gleiches Vertretungsrecht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was bestimmt das Bundesjagdgesetz bezüglich der Jagdausübung in den Setz- und Brutzeiten?",
+    "Antwort": "Vom 1. März bis 15. Juni ist das Aufsuchen von Nestern sowie das Erlegen oder Fangen von Elterntieren, die für die Aufzucht der Jungen notwendig sind, verboten",
+    "FalscheAntwort1": "Jede Jagd ist vom 1. März bis 31. August vollständig verboten",
+    "FalscheAntwort2": "Nur Raubwild darf in der Brutzeit nicht bejagt werden; Schalenwild ist ausgenommen",
+    "FalscheAntwort3": "Setz- und Brutzeit-Schutz gilt nur in Naturschutzgebieten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nach welchen Grundsätzen darf die Jagd nur ausgeübt werden?",
+    "Antwort": "Nach den Grundsätzen der Weidgerechtigkeit; nachhaltig und tierschutzgerecht; im Einklang mit den Interessen der Land-, Forst- und Fischereiwirtschaft sowie des Naturschutzes",
+    "FalscheAntwort1": "Ausschließlich nach wirtschaftlichen Gesichtspunkten zur Maximierung der Strecke",
+    "FalscheAntwort2": "Nach Belieben des Jagdinhabers ohne gesetzliche Einschränkungen",
+    "FalscheAntwort3": "Nur nach Vorgaben des Deutschen Jagdverbandes ohne staatliche Aufsicht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wo ruht nach dem Gesetz die Jagd?",
+    "Antwort": "Die Jagd ruht auf befriedeten Bezirken (bewohnte Gebäude, Hofräume, Hausgärten) und auf Grundflächen, die zu keinem Jagdbezirk gehören",
+    "FalscheAntwort1": "Die Jagd ruht auf allen Fließgewässern und Seen in Deutschland",
+    "FalscheAntwort2": "Die Jagd ruht grundsätzlich im gesamten Staatswald",
+    "FalscheAntwort3": "Die Jagd ruht nur in ausgewiesenen Naturschutzgebieten der Klasse I",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie lenkt man großräumige, mehrere Reviere umfassende Drückjagden?",
+    "Antwort": "Durch einen gemeinsamen Jagdleiter der alle beteiligten Revierinhaber koordiniert; gemeinsame Schützeneinweisung; einheitliche Signalzeichen; Revierübergreifende Absprachen über Treiberwege und Schusslinien",
+    "FalscheAntwort1": "Jeder Revierinhaber leitet seinen Teil selbstständig ohne Absprache",
+    "FalscheAntwort2": "Die untere Jagdbehörde übernimmt immer die Leitung großräumiger Jagden",
+    "FalscheAntwort3": "Großräumige Drückjagden sind ohne besondere Koordination erlaubt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Worauf ist bei der Entenjagd in Schleswig-Holstein besonders zu achten?",
+    "Antwort": "Einhaltung der Jagdzeiten; Unterscheidung jagdbarer von geschützten Arten (z.B. Tafelente geschützt); kein Schuss auf ziehende Enten bei Dunkelheit; Abstandsregeln zu Schutzgebieten (Küste, Feuchtgebiete)",
+    "FalscheAntwort1": "Entenjagd ist in SH ganzjährig und ohne Einschränkungen erlaubt",
+    "FalscheAntwort2": "Nur Stockenten dürfen bejagt werden; alle anderen Entenarten sind vollständig verboten",
+    "FalscheAntwort3": "Bei der Entenjagd gelten keine besonderen Vorschriften gegenüber anderen Federwildarten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nennen Sie 3 Punkte, die bei einer Gesellschaftsjagd vorgeschrieben sind.",
+    "Antwort": "Bestellung eines Jagdleiters (ab 5 Schützen), Schießnachweis-Kontrolle auf Schalenwild, Einweisung aller Beteiligten (Schützensicherheitssignale), Kontrolle von Jagdscheinen und Waffen",
+    "FalscheAntwort1": "Mindestens 10 Treiber, tierärztliche Begleitung, amtliche Genehmigung jeder Gesellschaftsjagd",
+    "FalscheAntwort2": "Schriftliches Einverständnis aller Grundeigentümer, Polizeiaufsicht, Ersthelfer vor Ort",
+    "FalscheAntwort3": "Gesellschaftsjagden haben keine besonderen Vorschriften außer dem gültigen Jagdschein",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ab wie vielen Jägern ist bei einer Gesellschaftsjagd ein Jagdleiter vorgeschrieben?",
+    "Antwort": "Ab 5 Schützen ist ein Jagdleiter vorgeschrieben (gemäß Unfallverhütungsvorschrift Jagd / LJG SH)",
+    "FalscheAntwort1": "Ab 2 Jägern; bereits bei zwei Schützen braucht man einen Jagdleiter",
+    "FalscheAntwort2": "Ab 10 Jägern; kleinere Gruppen brauchen keinen Jagdleiter",
+    "FalscheAntwort3": "Ein Jagdleiter ist immer nur freiwillig; es gibt keine gesetzliche Pflicht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sie erlegen mitten in einem Weizenschlag ein Stück Rehwild. Beim Bergen entsteht eine Schleifspur im Weizen. Um welchen Schaden handelt es sich?",
+    "Antwort": "Es handelt sich um Jagdschaden (durch die Jagdausübung entstanden); nicht um Wildschaden; Jagdschaden muss vom Jagdausübungsberechtigten ersetzt werden",
+    "FalscheAntwort1": "Es handelt sich um Wildschaden; der Grundeigentümer trägt das Risiko selbst",
+    "FalscheAntwort2": "Es handelt sich um keinen ersatzpflichtigen Schaden; Bergen von Wild ist immer schadensfrei",
+    "FalscheAntwort3": "Es ist ein allgemeines Naturereignis ohne Ersatzpflicht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Von wem und für wie lange wird der Abschussplan für Rehwild in Schleswig-Holstein festgesetzt?",
+    "Antwort": "Der Jagdausübungsberechtigte stellt den Abschussplan auf; die Untere Jagdbehörde bestätigt ihn; Laufzeit 1-3 Jagdjahre",
+    "FalscheAntwort1": "Der Kreisjägermeister setzt den Plan fest; er gilt immer nur für 1 Jahr",
+    "FalscheAntwort2": "Die Jagdgenossenschaft allein legt den Abschussplan fest; Behörde muss nicht zustimmen",
+    "FalscheAntwort3": "Der Revierförster legt den Plan fest; Jagdausübungsberechtigte haben kein Mitspracherecht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Bis zu welcher Gesamtfläche darf einem Pächter die Ausübung des Jagdrechts zustehen?",
+    "Antwort": "Maximal 1.000 ha darf ein Pächter insgesamt in einem Kreis gepachtet haben (§ 11 BJG)",
+    "FalscheAntwort1": "Es gibt keine Obergrenze; ein Pächter darf beliebig viele Flächen pachten",
+    "FalscheAntwort2": "Maximal 500 ha insgesamt im Bundesgebiet",
+    "FalscheAntwort3": "Maximal 2.000 ha; gilt jedoch nur für gemeinschaftliche Jagdbezirke",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nennen Sie die Mindestpachtdauer eines Jagdpachtvertrages.",
+    "Antwort": "Mindestens 9 Jahre (§ 11 BJG); kürzere Pachtverträge sind nichtig",
+    "FalscheAntwort1": "Mindestens 1 Jahr; danach jährliche Verlängerung möglich",
+    "FalscheAntwort2": "Mindestens 5 Jahre; gilt einheitlich in allen Bundesländern",
+    "FalscheAntwort3": "Keine Mindestdauer; Pachtvertrag kann auf beliebige Zeit abgeschlossen werden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was versteht man unter 'jagdbarer Fläche'?",
+    "Antwort": "Jagdbare Fläche (bejagbare Fläche): Grundflächen, auf denen das Jagdrecht ausgeübt werden darf; ausgenommen sind befriedete Bezirke, Flächen ohne Jagdbezirkszugehörigkeit",
+    "FalscheAntwort1": "Jede Fläche in Deutschland gilt als jagdbar; Ausnahmen gibt es nicht",
+    "FalscheAntwort2": "Nur Waldflächen sind jagdbar; landwirtschaftliche Flächen sind ausgenommen",
+    "FalscheAntwort3": "Jagdbare Fläche ist nur der staatliche Forst; Privatflächen können nicht bejagt werden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie viele Jagdpächter werden bei einem Jagdbezirk bis zu 300 ha zugelassen?",
+    "Antwort": "2 Pächter (§ 11 Abs. 4 BJG); bis 300 ha: 2 Pächter",
+    "FalscheAntwort1": "Nur 1 Pächter; Aufteilung auf mehrere ist nicht erlaubt",
+    "FalscheAntwort2": "Bis zu 5 Pächter; keine Einschränkung bei kleinen Bezirken",
+    "FalscheAntwort3": "3 Pächter; ein Pächter pro 100 ha",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Kann Landesrecht weitere Tierarten zum Wild erklären, die im BJG §2 nicht aufgeführt sind?",
+    "Antwort": "Ja; Landesrecht kann weitere Tierarten dem Jagdrecht unterstellen (z.B. Marderhund, Waschbär, Nilgans in einigen Ländern); dies gilt dann nur im jeweiligen Bundesland",
+    "FalscheAntwort1": "Nein; nur das Bundesjagdgesetz darf Wildarten festlegen; Landesrecht hat keine Kompetenz",
+    "FalscheAntwort2": "Nur Bundesgesetze können Wild definieren; Landesrecht ist auf Jagdzeiten beschränkt",
+    "FalscheAntwort3": "Nur der Deutsche Jagdverband (DJV) kann neue Wildarten bestimmen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wem steht grundsätzlich nach dem Gesetz in gemeinschaftlichen Jagdbezirken das Jagdrecht zu?",
+    "Antwort": "Den Grundeigentümern gemeinsam als Mitglieder der Jagdgenossenschaft; die Jagdgenossenschaft ist Inhaberin des Jagdrechts im gemeinschaftlichen Jagdbezirk",
+    "FalscheAntwort1": "Der Gemeinde, in deren Gebiet das Revier liegt",
+    "FalscheAntwort2": "Dem Staat (Land); alle Jagdrechte gehören grundsätzlich dem Freistaat",
+    "FalscheAntwort3": "Dem Jagdpächter, der das Revier am längsten bewirtschaftet",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wo ist die Untere Naturschutzbehörde in der Regel angesiedelt?",
+    "Antwort": "Bei der Kreisverwaltung (Landratsamt / Kreis); in kreisfreien Städten beim Stadtamt",
+    "FalscheAntwort1": "Beim Bundesumweltministerium in Berlin",
+    "FalscheAntwort2": "Beim Landesumweltministerium des jeweiligen Bundeslandes",
+    "FalscheAntwort3": "Beim Deutschen Naturschutzring als privatem Träger",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer gibt – falls nicht anders bestimmt – bei einer Nachsuche den Fangschuss ab?",
+    "Antwort": "Der Hundeführer; er ist für die Nachsuche verantwortlich und gibt den Fangschuss ab wenn das Wild gestellt ist",
+    "FalscheAntwort1": "Immer der Schütze, der das Wild angeschossen hat",
+    "FalscheAntwort2": "Der Jagdherr oder Revierinhaber; der Hundeführer darf nicht schießen",
+    "FalscheAntwort3": "Jeder anwesende Jagdscheininhaber kann den Fangschuss abgeben",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welcher internationale Vertrag regelt den Handel mit bedrohten Tieren und Pflanzen?",
+    "Antwort": "Das Washingtoner Artenschutzabkommen (CITES – Convention on International Trade in Endangered Species); in Deutschland umgesetzt durch die Bundesartenschutzverordnung",
+    "FalscheAntwort1": "Das Kyoto-Protokoll; es regelt den Handel mit allen Lebewesen weltweit",
+    "FalscheAntwort2": "Das Abkommen von Rio (Biodiversitätskonvention); regelt direkt den Tier- und Pflanzenhandel",
+    "FalscheAntwort3": "Die Bonner Konvention; zuständig für alle bedrohten Arten des Warenhandels",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welche Tierart unterliegt dem Jagdrecht und ist gleichzeitig streng geschützt?",
+    "Antwort": "Die Wildkatze (Felis silvestris); sie unterliegt dem Jagdrecht, hat aber ganzjährige Schonzeit und ist nach BNatSchG streng geschützt",
+    "FalscheAntwort1": "Der Wolf; er unterliegt dem Jagdrecht und hat eine offizielle Jagdzeit",
+    "FalscheAntwort2": "Das Große Wiesel (Hermelin); es unterliegt dem Jagdrecht und ist nicht geschützt",
+    "FalscheAntwort3": "Der Steinadler; er unterliegt dem Jagdrecht mit besonderer Schonzeit",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was versteht man unter dem Begriff 'Jagdausübung'?",
+    "Antwort": "Aufsuchen, Nachstellen, Erlegen und Fangen von Wild sowie das Aneignen von Wild und Fallwild; umfasst alle Tätigkeiten im Zusammenhang mit der Jagd",
+    "FalscheAntwort1": "Nur das Erlegen von Wild; Nachstellen und Fallenwesen sind keine Jagdausübung",
+    "FalscheAntwort2": "Ausschließlich die Schussabgabe; Anschleichen und Aufsuchen zählen nicht dazu",
+    "FalscheAntwort3": "Jede Tätigkeit im Wald gilt als Jagdausübung; auch Waldspaziergang",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Muss ein im Februar verendet aufgefundenes Rehkitz in die Streckenliste eingetragen werden?",
+    "Antwort": "Ja; Fallwild (verendetes Wild) muss in die Jahresstrecke eingetragen werden; die Strecke umfasst erlegtes und gefundenes (verendetes) Wild",
+    "FalscheAntwort1": "Nein; nur erlegtes Wild kommt in die Streckenliste; Fallwild nicht",
+    "FalscheAntwort2": "Nur wenn das Kitz Anzeichen einer Krankheit zeigt; gesundes Fallwild wird nicht gemeldet",
+    "FalscheAntwort3": "Nein; Kitze unter 6 Monaten werden generell nicht in die Streckenliste aufgenommen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "An welcher Stelle hat ein Geschädigter seinen Anspruch auf Wildschaden geltend zu machen?",
+    "Antwort": "Bei der zuständigen Gemeinde/Amtsverwaltung innerhalb einer Woche nach Kenntnisnahme des Schadens (§ 35 LJG SH); die Gemeinde vermittelt einen Sachverständigen",
+    "FalscheAntwort1": "Direkt beim Jagdpächter; keine Behörde muss eingeschaltet werden",
+    "FalscheAntwort2": "Beim Amtsgericht; Wildschäden sind immer gerichtlich geltend zu machen",
+    "FalscheAntwort3": "Bei der Jagdgenossenschaft innerhalb von 30 Tagen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Dürfen in Schleswig-Holstein Ablenkfütterungen zur Verhütung von Wildschäden angelegt werden?",
+    "Antwort": "Nein; Ablenkfütterungen zur Verhütung von Wildschäden sind in SH grundsätzlich nicht zulässig; Fütterung ist auf Notzeiten beschränkt",
+    "FalscheAntwort1": "Ja; Ablenkfütterungen sind eine anerkannte Methode zur Wildschadensvorbeugung",
+    "FalscheAntwort2": "Nur in Notzeitperioden (Schnee) dürfen Ablenkfütterungen angelegt werden",
+    "FalscheAntwort3": "Ja, aber nur für Schwarzwild und nur auf eigenen Flächen des Jägers",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welcher Zeit darf in Schleswig-Holstein der Knick auf den Stock gesetzt werden?",
+    "Antwort": "Vom 1. Oktober bis zum letzten Tag im Februar (28./29. Februar); außerhalb dieser Zeit ist das Auf-den-Stock-Setzen von Knicks verboten (BNatSchG, LNatSchG SH)",
+    "FalscheAntwort1": "Ganzjährig erlaubt; Knicks können jederzeit auf den Stock gesetzt werden",
+    "FalscheAntwort2": "Nur im Sommer (1. Juni bis 31. August); im Winter ist es verboten",
+    "FalscheAntwort3": "Nur mit behördlicher Genehmigung; kein fester Zeitraum vorgeschrieben",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie hoch muss die Summe der Jagdhaftpflichtversicherung beim Jagdschein sein?",
+    "Antwort": "Personenschäden: mindestens 1.000.000 Euro; Sachschäden: mindestens 100.000 Euro; ohne Nachweis wird kein Jagdschein erteilt",
+    "FalscheAntwort1": "Einheitlich 500.000 Euro für alle Schadensarten",
+    "FalscheAntwort2": "Mindestens 200.000 Euro Personenschäden; 50.000 Euro Sachschäden",
+    "FalscheAntwort3": "Keine gesetzliche Mindestdeckungssumme; der Versicherungsmarkt regelt dies",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie unterscheidet der Gesetzgeber die Tierarten, die dem Jagdrecht unterliegen?",
+    "Antwort": "In Tierarten mit Jagdzeit (ganzjährig bejagbar oder mit Schonzeit) und Tierarten mit ganzjähriger Schonzeit (im Jagdrecht, aber derzeit nicht bejagbar); aufgeführt in §2 BJG und Landesrecht",
+    "FalscheAntwort1": "Nur in einheimische und nicht einheimische Arten; Unterscheidung nach Herkunft",
+    "FalscheAntwort2": "In geschützte und nicht geschützte Arten; alle geschützten unterliegen dem Jagdrecht",
+    "FalscheAntwort3": "Es gibt keine Unterscheidung; alle dem Jagdrecht unterliegenden Arten haben gleiche Regelungen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer haftet für einen durch Jagdgäste verursachten Wildschaden?",
+    "Antwort": "Der Jagdausübungsberechtigte (Jagdinhaber oder Pächter) haftet für Wildschäden die durch Jagdgäste verursacht werden; er kann Regressansprüche gegen den Gast geltend machen",
+    "FalscheAntwort1": "Der Jagdgast haftet persönlich für alle von ihm verursachten Schäden",
+    "FalscheAntwort2": "Die Jagdgenossenschaft haftet immer, auch bei Gastjägern",
+    "FalscheAntwort3": "Bei Jagdgästen haftet grundsätzlich niemand; Schäden bleiben beim Geschädigten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was wird im §19 des Bundesjagdgesetzes behandelt?",
+    "Antwort": "§19 BJG regelt verbotene Jagdmethoden und Jagdmittel; z.B. Verbot von Schlingen, Selbstschussgeräten, Fallen die nicht lebend fangen oder sofort töten, Betäubungsmittel ohne Zulassung",
+    "FalscheAntwort1": "§19 BJG regelt die Mindestgröße von Jagdbezirken",
+    "FalscheAntwort2": "§19 BJG enthält die Streckenlistenpflicht für alle Wildarten",
+    "FalscheAntwort3": "§19 BJG definiert den Begriff des Jagdscheins und seine Voraussetzungen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie häufig sind Fallen für den Lebendfang und für den Totfang zu kontrollieren?",
+    "Antwort": "Mindestens einmal täglich; Lebendfangfallen müssen täglich kontrolliert werden um unnötige Leiden zu vermeiden; Totschlagfallen ebenfalls täglich",
+    "FalscheAntwort1": "Einmal wöchentlich reicht; häufigere Kontrolle ist nicht vorgeschrieben",
+    "FalscheAntwort2": "Nur bei Frost täglich; ansonsten reicht wöchentliche Kontrolle",
+    "FalscheAntwort3": "Nur Lebendfangfallen müssen täglich kontrolliert werden; Totfangfallen sind ausgenommen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ab wann darf bei einem Kesselstreiben nicht mehr in den Kessel geschossen werden?",
+    "Antwort": "Sobald Treiber in den Kessel eingedrungen sind oder das Signal 'Treiber in den Kessel' gegeben wird; danach darf nur noch nach außen (aus dem Kessel heraus) geschossen werden",
+    "FalscheAntwort1": "Kesselstreiben ist grundsätzlich verboten; darf nicht durchgeführt werden",
+    "FalscheAntwort2": "Schüsse in den Kessel sind immer erlaubt; keine Einschränkung",
+    "FalscheAntwort3": "Sobald mehr als 5 Stück Wild im Kessel sind, ist das Schießen einzustellen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ihr Nachbar verlässt während einer Drückjagd seinen Stand. Wie ist dieses Verhalten zu beurteilen?",
+    "Antwort": "Verstoß gegen die Unfallverhütungsvorschrift (UVV Jagd); der Stand darf ohne Genehmigung des Jagdleiters nicht verlassen werden; Gefährdung anderer Jäger und Treiber",
+    "FalscheAntwort1": "Verstoß gegen das Jagdgesetz; der Jäger verliert seinen Jagdschein",
+    "FalscheAntwort2": "Verstoß gegen das Waffengesetz; unerlaubtes Führen der Waffe außerhalb des Standes",
+    "FalscheAntwort3": "Kein Verstoß; jeder Jäger kann seinen Stand jederzeit verlassen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Dürfen Sie als Jäger eine wildernde Katze aus dem Kfz erlegen?",
+    "Antwort": "Nein; das Erlegen aus einem Kraftfahrzeug heraus ist verboten (§19 BJG: verbotene Jagdmethoden); auch wildernde Katzen dürfen nicht aus dem fahrenden oder stehenden Kfz geschossen werden",
+    "FalscheAntwort1": "Ja; bei wildernden Katzen ist das Erlegen aus dem Kfz ausdrücklich erlaubt",
+    "FalscheAntwort2": "Nur wenn das Fahrzeug steht und der Motor ausgestellt ist",
+    "FalscheAntwort3": "Ja, aber nur bei Dunkelheit und mit Schalldämpfer",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer ist ausschließlich befugt, sich Wild in einem Jagdrevier anzueignen?",
+    "Antwort": "Der Jagdausübungsberechtigte (Eigenjagdbesitzer oder Jagdpächter); nur er hat das Aneignungsrecht an Wild im Revier",
+    "FalscheAntwort1": "Jeder Grundeigentümer darf sich Wild auf seinem Grundstück aneignen",
+    "FalscheAntwort2": "Der Staat (Land) hat das vorrangige Aneignungsrecht an allem Wild",
+    "FalscheAntwort3": "Finder von Wild haben immer ein Aneignungsrecht unabhängig vom Revier",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Muss der durch einen Fuchs am Haushuhnestand verursachte Schaden ersetzt werden?",
+    "Antwort": "Nein; der Fuchs ist kein Schalenwild; Schäden durch Fuchs an Hausgeflügel sind kein ersatzpflichtiger Wildschaden; Eigentümer muss seinen Bestand selbst schützen",
+    "FalscheAntwort1": "Ja; alle durch Wildtiere verursachten Schäden sind grundsätzlich ersatzpflichtig",
+    "FalscheAntwort2": "Ja; der Jagdpächter muss Schäden durch alle jagdbaren Wildtiere ersetzen",
+    "FalscheAntwort3": "Nur wenn der Jäger den Fuchs nicht rechtzeitig bejagt hat; dann haftet er",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wann und von welchen Personen darf ein wildernder Hund im Jagdbezirk getötet werden?",
+    "Antwort": "Wenn der Hund Wild hetzt, reißt oder stellt und nicht anders abzuhalten ist; befugt sind: Jagdausübungsberechtigte, Jagdaufseher und Jagdschutzberechtigte (§ 25 BJG)",
+    "FalscheAntwort1": "Jeder Jagdscheininhaber darf jederzeit jeden Hund im Revier töten",
+    "FalscheAntwort2": "Wildernde Hunde dürfen nie getötet werden; nur Polizei ist befugt",
+    "FalscheAntwort3": "Nur der Grundeigentümer darf auf seinem Grundstück wildernde Hunde töten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Auf einem Waldweg treffen Sie einen Spaziergänger an, der einen unangeleinten Hund und eine Katze an der Leine bei sich führt. Wie ist der Sachverhalt rechtlich zu beurteilen?",
+    "Antwort": "Der unangeleinete Hund im Wald verstößt gegen das Landeswaldgesetz SH (Anleinpflicht im Wald); es besteht keine gesetzliche Pflicht die Katze anzuleinen; der JAB kann den Spaziergänger auf die Anleinpflicht hinweisen",
+    "FalscheAntwort1": "Beide Tiere müssen angeleint sein; sonst begeht der Spaziergänger eine Straftat",
+    "FalscheAntwort2": "Es liegt kein Verstoß vor; Hunde und Katzen dürfen im Wald frei laufen",
+    "FalscheAntwort3": "Nur der Hund muss angeleint sein; die Katze an der Leine ist eine Ordnungswidrigkeit",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wo ist das Jedermannrecht der vorläufigen Festnahme geregelt?",
+    "Antwort": "In §127 der Strafprozessordnung (StPO); jeder Bürger darf eine auf frischer Tat betroffene Person vorläufig festhalten wenn Fluchtgefahr besteht und Identität nicht feststellbar ist",
+    "FalscheAntwort1": "Im Bundesjagdgesetz (BJG); gilt nur für Jäger gegenüber Wilderern",
+    "FalscheAntwort2": "Im Bürgerlichen Gesetzbuch (BGB); als zivilrechtliche Regelung",
+    "FalscheAntwort3": "Im Ordnungswidrigkeitengesetz (OWiG); gilt nur für kleinere Verstöße",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welcher Zeit darf im Umkreis von 200 m um eine anerkannte Fischzuchtanlage ohne Antrag bis zu 8 Graureiher erlegt werden?",
+    "Antwort": "Vom 16. Oktober bis 31. März (Winterhalbjahr); der Jagdausübungsberechtigte darf ohne besonderen Antrag bis zu 8 Graureiher pro Jagdjahr zum Schutz der Fischzucht erlegen",
+    "FalscheAntwort1": "Ganzjährig ohne jede Einschränkung; Graureiher an Fischzuchten sind immer jagdbar",
+    "FalscheAntwort2": "Nur im Sommer (April bis September); Winterschonung gilt für Graureiher",
+    "FalscheAntwort3": "Graureiher sind streng geschützt; Abschuss ist auch an Fischzuchten nie erlaubt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nennen Sie die Waldeigentumsarten, wie sie im Landeswaldgesetz bezeichnet sind.",
+    "Antwort": "Staatswald (Bundes- und Landeswald), Körperschaftswald (Gemeinden, Kirchen), Privatwald; in SH auch Kleinprivatwald als besondere Kategorie",
+    "FalscheAntwort1": "Jagdwald, Schutzwald und Wirtschaftswald; Einteilung nach Nutzungsart",
+    "FalscheAntwort2": "Nur Staatswald und Privatwald; weitere Kategorien gibt es nicht",
+    "FalscheAntwort3": "Nadelwald, Laubwald und Mischwald; Einteilung nach Baumarten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Erläutern Sie den Begriff 'Notwehr'.",
+    "Antwort": "Notwehr (§32 StGB): die Abwehr eines gegenwärtigen rechtswidrigen Angriffs auf sich oder andere durch die notwendige (erforderliche) Verteidigung; keine Pflicht zum Rückzug",
+    "FalscheAntwort1": "Notwehr bedeutet: Angriff ist die beste Verteidigung; jeder darf präventiv angreifen",
+    "FalscheAntwort2": "Notwehr ist nur erlaubt wenn man zuvor Anzeige erstattet hat",
+    "FalscheAntwort3": "Notwehr gilt nur in der eigenen Wohnung; im öffentlichen Raum muss man flüchten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Die jährliche Jagdstrecke ist wem, bis wann und in welcher Form anzuzeigen?",
+    "Antwort": "Der Unteren Jagdbehörde (UJB); bis 10. April des Folgejahres; schriftlich auf dem amtlichen Formblatt (Streckenbericht)",
+    "FalscheAntwort1": "Dem Kreisjägermeister; bis 31. Dezember des laufenden Jahres; mündlich",
+    "FalscheAntwort2": "Dem Jagdverband; bis 1. März des Folgejahres; per E-Mail",
+    "FalscheAntwort3": "Der Gemeinde; bis Jahresende; formlos in beliebiger Form",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Innerhalb welcher Frist muss die Jagdbehörde einen angezeigten Pachtvertrag beanstanden?",
+    "Antwort": "Innerhalb von 3 Wochen nach Eingang der Anzeige; danach gilt der Pachtvertrag als genehmigt",
+    "FalscheAntwort1": "Innerhalb von 6 Monaten; die Behörde hat ausreichend Zeit zur Prüfung",
+    "FalscheAntwort2": "Innerhalb von 1 Jahr; Pachtverträge genießen zunächst Vertrauensschutz",
+    "FalscheAntwort3": "Es gibt keine Frist; die Behörde kann jederzeit Pachtverträge beanstanden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ein Bussard verendet durch Stromschlag an der Hochspannungsleitung. Darf der Jagdausübungsberechtigte ihn sich aneignen und präparieren lassen?",
+    "Antwort": "Ja; der Bussard unterliegt dem Jagdrecht (§2 BJG); als Wild darf der JAB ihn sich aneignen und präparieren lassen; Streckenliste eintragen",
+    "FalscheAntwort1": "Nein; Greifvögel sind streng geschützt und dürfen nicht angeeignet werden",
+    "FalscheAntwort2": "Nur mit behördlicher Genehmigung der Naturschutzbehörde",
+    "FalscheAntwort3": "Nein; Fallwild von Greifvögeln muss immer der Vogelschutzwarte gemeldet werden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sind die Pächter landwirtschaftlicher Nutzflächen in einem gemeinschaftlichen Jagdbezirk Jagdgenossen?",
+    "Antwort": "Nein; Jagdgenosse ist nur, wer Eigentümer der Grundflächen ist; Pächter (Mieter) von landwirtschaftlichen Flächen sind keine Jagdgenossen",
+    "FalscheAntwort1": "Ja; alle Nutzer einer Fläche – ob Eigentümer oder Pächter – sind Jagdgenossen",
+    "FalscheAntwort2": "Nur Pächter von mehr als 50 ha werden als Jagdgenossen anerkannt",
+    "FalscheAntwort3": "Landwirtschaftliche Pächter haben ein Sonderstimmrecht in der Jagdgenossenschaft",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was ist ein Jagdvorstand und welche Aufgaben hat er?",
+    "Antwort": "Der Jagdvorstand ist das leitende und vertretungsberechtigte Organ der Jagdgenossenschaft; führt die Beschlüsse der Genossenschaftsversammlung aus, verwaltet die Genossenschaft und vertritt sie gerichtlich und außergerichtlich",
+    "FalscheAntwort1": "Der Jagdvorstand ist ein staatlicher Beamter der die Jagdbehörde vor Ort vertritt",
+    "FalscheAntwort2": "Der Jagdvorstand ist identisch mit dem Jagdpächter und hat keine eigenen Befugnisse",
+    "FalscheAntwort3": "Der Jagdvorstand ist nur für die Organisation von Gesellschaftsjagden zuständig",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Den Austritt aus der Jagdgenossenschaft kann ein Grundeigentümer aus welchen Gründen beantragen?",
+    "Antwort": "Aus ethischen Gründen (Gewissensgründen); wirtschaftliche oder andere Gründe reichen nicht; über den Austritt entscheidet die Untere Jagdbehörde",
+    "FalscheAntwort1": "Aus wirtschaftlichen Gründen; wenn die Jagdpacht nicht ausreicht",
+    "FalscheAntwort2": "Der Austritt ist grundsätzlich nicht möglich; Mitgliedschaft ist zwingend",
+    "FalscheAntwort3": "Aus persönlichen Gründen nach freiem Ermessen; kein besonderer Grund nötig",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wildschaden im Feld ist innerhalb welcher Frist anzumelden?",
+    "Antwort": "Spätestens innerhalb einer Woche nach Kenntnisnahme des Schadens; bei der zuständigen Gemeinde/Amtsverwaltung; Versäumnis der Frist führt zum Verlust des Anspruchs",
+    "FalscheAntwort1": "Innerhalb von 30 Tagen nach Schadenseintritt",
+    "FalscheAntwort2": "Zweimal jährlich zu festen Terminen; individuelle Anmeldung nicht möglich",
+    "FalscheAntwort3": "Innerhalb von 3 Monaten; danach verjährt der Anspruch automatisch",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie müssen Treiber und Jäger nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) ausgerüstet sein?",
+    "Antwort": "Mit gut sichtbarer Oberbekleidung in Signalfarbe (leuchtorange oder signalgelb); mindestens Weste und Kopfbedeckung (Hut, Mütze oder Stirnband); für alle Beteiligten an Gesellschaftsjagden",
+    "FalscheAntwort1": "Treiber und Jäger müssen vollständig in dunkel-grüner Jagdkleidung erscheinen",
+    "FalscheAntwort2": "Nur Treiber müssen Signalfarbe tragen; Jäger am Stand sind ausgenommen",
+    "FalscheAntwort3": "Keine Vorschrift zur Kleidung; eigenverantwortliche Entscheidung jedes Jägers",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welcher Zeit kann in Schleswig-Holstein Rot- und Damwild zur Nachtzeit erlegt werden, soweit es zur Erfüllung der Abschusspläne erforderlich ist?",
+    "Antwort": "Vom 15. November bis 31. Januar; in dieser Zeit darf Rot- und Damwild zur Nachtzeit im Rahmen des Abschussplans erlegt werden (§ 29 LJG SH)",
+    "FalscheAntwort1": "Nachtjagd auf Rot- und Damwild ist ganzjährig erlaubt; keine zeitliche Einschränkung",
+    "FalscheAntwort2": "Nur im Oktober während der Brunft; sonst ist Nachtjagd auf Hochwild verboten",
+    "FalscheAntwort3": "Nachtjagd auf Schalenwild ist grundsätzlich verboten; keine Ausnahmen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie werden einzelne, unter Schutz gestellte, Naturschöpfungen bezeichnet?",
+    "Antwort": "Naturdenkmale; einzelne Bäume, Felsen, Quellen oder andere Naturgebilde die aus wissenschaftlichen, heimatkundlichen oder landschaftsästhetischen Gründen unter Schutz gestellt werden",
+    "FalscheAntwort1": "Naturschutzgebiete; jedes geschützte Objekt ist ein Naturschutzgebiet",
+    "FalscheAntwort2": "Biotope; alle geschützten Naturobjekte werden als Biotope bezeichnet",
+    "FalscheAntwort3": "Flächennaturdenkmale; der Begriff gilt für alle Naturschöpfungen gleich",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "In welcher Vorschrift ist das Halten von heimischen Greifvögeln und Falken verbindlich geregelt?",
+    "Antwort": "In der Bundeswildschutzverordnung (BWildSchV); sie regelt Haltung, Zucht und Handel mit besonders geschützten Tieren einschließlich Greifvögel und Falken",
+    "FalscheAntwort1": "Im Bundesjagdgesetz (BJG); Greifvögel sind Wild und unterliegen dem Jagdrecht allein",
+    "FalscheAntwort2": "In der Bundesartenschutzverordnung (BArtSchV); ausschließlich diese ist maßgeblich",
+    "FalscheAntwort3": "Im Tierschutzgesetz; alle Tier-Haltungsvorschriften stehen nur dort",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sind Eigentümer von befriedeten Grundstücken, die in einem Jagdrevier liegen, Mitglieder der Jagdgenossenschaft?",
+    "Antwort": "Nein; befriedete Bezirke gehören nicht zum Jagdbezirk; ihre Eigentümer sind daher keine Jagdgenossen; die Jagd ruht auf befriedeten Bezirken",
+    "FalscheAntwort1": "Ja; alle Grundeigentümer im Revierbereich sind automatisch Jagdgenossen",
+    "FalscheAntwort2": "Nur wenn das befriedete Grundstück größer als 1 ha ist",
+    "FalscheAntwort3": "Eigentümer befriedeter Bezirke haben ein Sonderstimmrecht in der Jagdgenossenschaft",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer muss Wildschaden in einem Gemeinschaftsjagdrevier ersetzen, wenn keine Vereinbarung zwischen Pächter und Verpächter getroffen wurde?",
+    "Antwort": "Die Jagdgenossenschaft; sie ist grundsätzlich für Wildschäden im gemeinschaftlichen Jagdbezirk ersatzpflichtig wenn keine abweichende Vereinbarung im Pachtvertrag getroffen wurde",
+    "FalscheAntwort1": "Der Jagdpächter haftet immer persönlich; Genossenschaft haftet nie",
+    "FalscheAntwort2": "Niemand; ohne besondere Vereinbarung gibt es keinen Ersatzanspruch",
+    "FalscheAntwort3": "Der Grundeigentümer der Schadensfläche muss den Schaden selbst tragen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer ist nicht von sich aus jagdschutzberechtigst?",
+    "Antwort": "Jagdgäste; sie haben kein eigenes Jagdschutzrecht; nur Jagdausübungsberechtigte, bestätigte Jagdaufseher und in SH amtlich bestätigte Jagdschutzbeauftragte sind jagdschutzberechtigt",
+    "FalscheAntwort1": "Der Jagdpächter; er muss erst behördlich bestätigt werden",
+    "FalscheAntwort2": "Der Eigenjagdbesitzer; er benötigt eine Sondergenehmigung",
+    "FalscheAntwort3": "Der Forstbeamte; Forstpersonal ist nie jagdschutzberechtigt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Darf ein Jagdscheininhaber ein Nachtsichtgerät einsetzen, wenn er Sauen bejagen will?",
+    "Antwort": "Nur als Zielgerät (Nachtzielgerät) ist es verboten (§ 19 BJG); als Beobachtungsgerät (Restlichtverstärker ohne Zielvorrichtung) ist es erlaubt; in SH gibt es für Schwarzwild eine Ausnahmeregelung für Nachtzielmittel",
+    "FalscheAntwort1": "Nein; Nachtsichtgeräte jeder Art sind bei der Jagd vollständig verboten",
+    "FalscheAntwort2": "Ja; Nachtsichtgeräte sind für alle Zwecke bei der Jagd uneingeschränkt erlaubt",
+    "FalscheAntwort3": "Nur für Berufsjäger ist der Einsatz von Nachtsichtgeräten auf Schwarzwild erlaubt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ein Autofahrer überfährt ein Reh und nimmt das Stück mit um es zu verwerten. Welcher Tatbestand liegt vor?",
+    "Antwort": "Jagdwilderei (§ 292 StGB); das Reh gehört nach dem Unfall dem Jagdausübungsberechtigten; der Autofahrer hat kein Aneignungsrecht; er muss Unfallwild der Polizei oder dem Revierinhaber melden",
+    "FalscheAntwort1": "Kein Tatbestand; Unfallwild gehört dem Finder",
+    "FalscheAntwort2": "Sachbeschädigung; das Reh ist Eigentum des Grundeigentümers",
+    "FalscheAntwort3": "Diebstahl; der Autofahrer stiehlt Wild das dem Staat gehört",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wem steht das Jagdrecht auf Flächen ohne Eigentümer zu?",
+    "Antwort": "Dem Land Schleswig-Holstein; herrenlose Flächen fallen dem Landesfiskus zu, damit auch das Jagdrecht",
+    "FalscheAntwort1": "Der benachbarten Jagdgenossenschaft; sie übernimmt automatisch angrenzende herrenlose Flächen",
+    "FalscheAntwort2": "Dem Bund; herrenlose Flächen gehören grundsätzlich dem Bundesfiskus",
+    "FalscheAntwort3": "Der Gemeinde, in der die Fläche liegt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer ist Inhaber des Jagdrechts?",
+    "Antwort": "Der Grundeigentümer; das Jagdrecht ist ein öffentlich-rechtliches Privileg, das mit dem Eigentum am Grundstück verbunden ist",
+    "FalscheAntwort1": "Der Jagdpächter; mit Abschluss des Pachtvertrags geht das Jagdrecht auf ihn über",
+    "FalscheAntwort2": "Der Staat; das Jagdrecht gehört immer dem Bundesland",
+    "FalscheAntwort3": "Der Kreisjägermeister als Vertreter aller Jagdberechtigten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Warum darf ein 1.100 ha großer Eigenjagdbezirk nicht an nur eine Person verpachtet werden?",
+    "Antwort": "Weil gemäß §11 BJG niemand mehr als 1.000 ha Jagdfläche in einem Kreis pachten darf; 1.100 ha überschreiten diese gesetzliche Höchstgrenze",
+    "FalscheAntwort1": "Weil bei mehr als 1.000 ha zwingend ein staatlicher Jagdaufseher bestellt werden muss",
+    "FalscheAntwort2": "Aus Naturschutzgründen; große Reviere müssen auf mehrere Pächter aufgeteilt werden",
+    "FalscheAntwort3": "Weil die Jagdgenossenschaft bei Eigenjagdbezirken über 500 ha mitbestimmen muss",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Darf man einen Hasen mit Kugel erlegen?",
+    "Antwort": "Grundsätzlich ja, aber in SH ist bleifreie Munition vorgeschrieben; die Kugelart ist wählbar solange sie bleifrei ist und die Mindestenergie erfüllt",
+    "FalscheAntwort1": "Nein; Hasen dürfen ausschließlich mit Schrot erlegt werden",
+    "FalscheAntwort2": "Nur mit besonderer Genehmigung; Hasen sind grundsätzlich Schrotwild",
+    "FalscheAntwort3": "Ja, mit Bleikugel; bleifreie Munition ist nur für Schalenwild vorgeschrieben",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welche Papiere muss ein Jagdgast mit sich führen, der mit seiner eigenen Waffe jagt?",
+    "Antwort": "Gültiger Jagdschein, Waffenbesitzkarte (WBK), Personalausweis und Jagderlaubnisschein (Gasterlaubnis des Revierinhabers)",
+    "FalscheAntwort1": "Nur der Jagdschein; alle anderen Dokumente sind für Gäste nicht erforderlich",
+    "FalscheAntwort2": "Jagdschein und Jagderlaubnisschein reichen; WBK ist beim Gast nicht nötig",
+    "FalscheAntwort3": "Personalausweis und Jagderlaubnisschein; der Jagdschein ist Sache des Gastgebers",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer zahlt den Schaden von Hasen an Laubgehölzen im Wald?",
+    "Antwort": "Niemand; Wildschäden durch Hasen an Forstflächen sind nicht ersatzpflichtig; ersatzpflichtig sind nur Schäden durch Schalenwild, Wildkaninchen und Fasan auf landwirtschaftlichen Flächen",
+    "FalscheAntwort1": "Der Jagdpächter; er haftet für alle Schäden durch jagdbare Wildtiere",
+    "FalscheAntwort2": "Die Jagdgenossenschaft; sie trägt alle Wildschäden im Revierbereich",
+    "FalscheAntwort3": "Der Staat; Waldschäden durch Wild werden aus dem Naturschutzfonds ersetzt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was gehört zu den befriedeten Bezirken?",
+    "Antwort": "Bewohnte Gebäude und deren unmittelbares Umfeld (Hofräume, Hausgärten soweit umfriedet), Sportplätze, Spielplätze innerhalb geschlossener Ortschaften; auf diesen Flächen ruht die Jagd",
+    "FalscheAntwort1": "Alle eingezäunten Flächen; jeder Zaun schafft einen befriedeten Bezirk",
+    "FalscheAntwort2": "Naturschutzgebiete und Nationalparks; dort ist die Jagd immer verboten",
+    "FalscheAntwort3": "Nur Bundeswehranlagen und Botschaftsgelände; alle anderen Flächen sind jagdbar",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Aufgrund von starkem Schneefall ist Wild in einem Revier ohne Pächter zu füttern. Wer muss dafür sorge tragen?",
+    "Antwort": "Der Jagdgenossenschaftsvorstand; bei verpachtetem Revier der Pächter; die Notzeit muss zuvor von der Unteren Jagdbehörde ausgerufen worden sein",
+    "FalscheAntwort1": "Die Gemeinde; sie ist für alle Notfallmaßnahmen im Gemeindegebiet zuständig",
+    "FalscheAntwort2": "Der Kreisjägermeister; er koordiniert alle Notzeiteinsätze im Kreis",
+    "FalscheAntwort3": "Das Veterinäramt; Tierfütterung ist stets Aufgabe der Veterinärbehörde",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer ist nach der Bundesartenschutzverordnung besonders geschützt (Beispiel)?",
+    "Antwort": "Siebenschläfer, alle heimischen Fledermäuse, Feldhamster, Laubfrosch, viele Vogelarten; besonders geschützte Arten dürfen nicht gefangen, verletzt oder getötet werden",
+    "FalscheAntwort1": "Fuchs, Dachs und Marderhund; alle Raubwildarten sind besonders geschützt",
+    "FalscheAntwort2": "Rotwild und Damwild; Schalenwild genießt besonderen Schutz",
+    "FalscheAntwort3": "Alle jagdbaren Wildtiere sind nach Bundesartenschutzverordnung geschützt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wer wählt den Kreisjägermeister und für wie lange?",
+    "Antwort": "Alle im Kreis ansässigen Jahresjagdscheinbesitzer und Revierinhaber; Amtszeit 5 Jahre",
+    "FalscheAntwort1": "Die Untere Jagdbehörde ernennt den Kreisjägermeister; Amtszeit unbegrenzt",
+    "FalscheAntwort2": "Der Landesjagdverband; Wahl alle 3 Jahre durch den Vorstand",
+    "FalscheAntwort3": "Alle Grundeigentümer im Kreis; nur Eigentümer haben Stimmrecht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ein Damhirsch wechselt verletzt ins Nachbarrevier und verendet dort im sichtbaren Bereich. Wie gehen Sie vor?",
+    "Antwort": "Nachbarn (Revierinhaber) sofort informieren; mit entladener Waffe (nur zur Sicherheit) ins Nachbarrevier gehen wenn Revierinhaber nicht erreichbar und Wild zu versorgen ist; Wild sichern und dalassen; ggf. vor Fäulnis schützen",
+    "FalscheAntwort1": "Wild sofort selbst versorgen und mitnehmen; das Nachbarrevier hat kein Recht daran",
+    "FalscheAntwort2": "Wild im Nachbarrevier liegenlassen; kein Betreten des Nachbarreviers erlaubt",
+    "FalscheAntwort3": "Polizei rufen; nur Behörden dürfen Wild aus Nachbarrevieren bergen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was wird als ersatzpflichtiger Jagdschaden gewertet?",
+    "Antwort": "Schäden die durch die Jagdausübung an landwirtschaftlichen oder forstwirtschaftlichen Flächen entstehen; z.B. niedergetretenes Getreide beim Bergen von Wild, beschädigter Wildzaun durch Keiler, eingesäte Fläche durch Drückjagd",
+    "FalscheAntwort1": "Alle Schäden die Wildtiere verursachen gelten als Jagdschaden",
+    "FalscheAntwort2": "Nur Schäden an Hochsitzen und jagdlichen Einrichtungen sind Jagdschäden",
+    "FalscheAntwort3": "Jagdschäden gibt es nicht; der Begriff ist veraltet",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Peter hat am 15.12.2023 seinen Jahresjagdschein gelöst. Wie lange ist er gültig?",
+    "Antwort": "Bis 31.3.2024 wenn ein Einjahres-Jagdschein gelöst wurde (Ende des Jagdjahres); ein Dreijahres-Jagdschein wäre bis 31.3.2026 gültig; das Jagdjahr läuft vom 1.4. bis 31.3.",
+    "FalscheAntwort1": "Genau 12 Monate; also bis 15.12.2024",
+    "FalscheAntwort2": "Bis zum 31.12.2024; Jagdscheine gelten immer bis Jahresende",
+    "FalscheAntwort3": "Bis zum 1.4.2025; immer bis zum übernächsten Jagdjahresbeginn",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welches Wild darf grundsätzlich nicht ausgesetzt werden?",
+    "Antwort": "Schwarzwild (Wildschweine) und Wildkaninchen dürfen grundsätzlich nie ausgesetzt werden (§ 28 BJG); für alle anderen Wildarten ist eine behördliche Genehmigung erforderlich",
+    "FalscheAntwort1": "Alle Wildarten dürfen frei ausgesetzt werden; keine Einschränkungen",
+    "FalscheAntwort2": "Nur Greifvögel dürfen nicht ausgesetzt werden; alle anderen Arten sind frei",
+    "FalscheAntwort3": "Nur Rotwild darf nicht ausgesetzt werden; für alle anderen Arten reicht eine Anzeige",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was muss passieren, um in der Notzeit Wild zuzufüttern?",
+    "Antwort": "Die Notzeit muss von der Unteren Jagdbehörde offiziell ausgerufen werden; erst dann ist Zufütterung in der Notzeit verpflichtend; eigenmächtige Fütterung außerhalb der Notzeit ist in SH nicht erlaubt",
+    "FalscheAntwort1": "Jeder Jäger darf nach eigenem Ermessen jederzeit füttern; keine Behörde muss zustimmen",
+    "FalscheAntwort2": "Der Kreisjägermeister ruft die Notzeit aus; keine Behördenbeteiligung nötig",
+    "FalscheAntwort3": "Die Jagdgenossenschaft beschließt Fütterungen in der Versammlung eigenständig",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Dürfen Kinder und Jugendliche an einer Nachsuche teilnehmen?",
+    "Antwort": "Nein; nach der Unfallverhütungsvorschrift Jagd (UVV §5 Abs. 4) dürfen Kinder und Jugendliche nicht an Nachsuchen teilnehmen",
+    "FalscheAntwort1": "Ja; Kinder ab 12 Jahren dürfen an Nachsuchen als Beobachter teilnehmen",
+    "FalscheAntwort2": "Nur mit schriftlicher Einverständniserklärung der Eltern ist die Teilnahme erlaubt",
+    "FalscheAntwort3": "Jugendliche mit Jugendjagdschein dürfen uneingeschränkt an Nachsuchen teilnehmen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was darf ein anerkanntes Nachsuchengespann, wenn der Revierinhaber nicht erreichbar ist?",
+    "Antwort": "Ein anerkanntes Nachsuchengespann darf fremde Reviere auch bewaffnet betreten wenn der dortige Jagdausübungsberechtigte nicht erreichbar ist; dies ist gesetzlich geregelt",
+    "FalscheAntwort1": "Nichts; fremde Reviere dürfen ohne ausdrückliche Erlaubnis nie betreten werden",
+    "FalscheAntwort2": "Das Revier unbewaffnet betreten; Waffe muss im Fahrzeug bleiben",
+    "FalscheAntwort3": "Nur die Polizei kann Nachsuchegespanne in fremde Reviere entsenden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welche Aufgaben hat der Jagdbeirat bei der Unteren Jagdbehörde?",
+    "Antwort": "Der Jagdbeirat berät die Untere Jagdbehörde; wirkt bei der Genehmigung der Abschusspläne mit; setzt sich zusammen aus Vertretern von Jägerschaft, Landwirtschaft, Forstwirtschaft, Naturschutz und Jagdgenossenschaften",
+    "FalscheAntwort1": "Der Jagdbeirat ist das oberste Entscheidungsgremium; Behörde ist an seine Beschlüsse gebunden",
+    "FalscheAntwort2": "Der Jagdbeirat regelt ausschließlich Wildschadensfragen; keine anderen Aufgaben",
+    "FalscheAntwort3": "Der Jagdbeirat wählt den Jagdpächter und bestimmt den Pachtpreis",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Schildern Sie die Aufstellung eines Abschussplanes im gemeinschaftlichen Jagdrevier.",
+    "Antwort": "Jagdausübungsberechtigter erstellt Plan auf Basis: Streckenzahlen der Vorjahre, Wildbestandsschätzung, Wildschadenssituation, Zustand der Vegetation; Unterschrift des Genossenschaftsvorstands; Einreichung über Hegering an Untere Jagdbehörde zur Bestätigung",
+    "FalscheAntwort1": "Die Behörde erstellt den Abschussplan allein; Jäger haben kein Mitspracherecht",
+    "FalscheAntwort2": "Der Abschussplan wird nur für Rotwild aufgestellt; Rehwild braucht keinen Plan",
+    "FalscheAntwort3": "Abschusspläne werden nur in Nationalparks benötigt; im Normalrevier nicht",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wonach richtet sich die Beteiligung der Jagdpächter am Wildschaden?",
+    "Antwort": "Ausschließlich nach dem Jagdpachtvertrag; gesetzlich haftet grundsätzlich die Jagdgenossenschaft; im Pachtvertrag kann die Haftung auf den Pächter übertragen werden",
+    "FalscheAntwort1": "Immer nach der Reviergröße; größere Reviere zahlen mehr",
+    "FalscheAntwort2": "Nach der Anzahl der erlegten Tiere; mehr Strecke = mehr Haftung",
+    "FalscheAntwort3": "Der Pächter haftet grundsätzlich nie; immer die Jagdgenossenschaft",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wann müssen nach der Unfallverhütungsvorschrift bei einem Kesseltreiben im Feld die Flintenläufe entladen werden?",
+    "Antwort": "Beim Überwinden von Hindernissen (Gräben, Zäune) sowie nach dem Signal zur Beendigung des Treibens; Sicherheit hat immer Vorrang",
+    "FalscheAntwort1": "Flinten müssen auf Feldtreibjagden grundsätzlich immer ungeladen bleiben",
+    "FalscheAntwort2": "Nur nach Abschluss der gesamten Jagd; während des Treibens nie entladen",
+    "FalscheAntwort3": "Beim Kesselschließen; wenn die Treiber im Außenbereich bleiben",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sie sind Besitzer einer Eigenjagd und möchten Wildkaninchen aussetzen. Dürfen Sie das?",
+    "Antwort": "Nein; das Aussetzen von Wildkaninchen ist nach §28 BJG ausdrücklich verboten; es gehört zusammen mit Schwarzwild zu den Arten, die grundsätzlich nicht ausgesetzt werden dürfen",
+    "FalscheAntwort1": "Ja; auf der eigenen Eigenjagd darf der Eigentümer alle Wildarten aussetzen",
+    "FalscheAntwort2": "Nur mit Genehmigung der Unteren Jagdbehörde; aber grundsätzlich möglich",
+    "FalscheAntwort3": "Nur im Winter dürfen Kaninchen ausgesetzt werden; im Sommer ist es verboten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Nennen Sie die Organe der Jagdgenossenschaft.",
+    "Antwort": "Jagdgenossenschaftsversammlung (oberstes Organ, trifft alle grundlegenden Entscheidungen) und Jagdgenossenschaftsvorstand (ausführendes und vertretendes Organ)",
+    "FalscheAntwort1": "Kreisjägermeister und Jagdbeirat; diese verwalten alle Jagdgenossenschaften",
+    "FalscheAntwort2": "Vorstand, Aufsichtsrat und Hauptversammlung wie bei einer GmbH",
+    "FalscheAntwort3": "Jagdleiter und Jagdaufseher; sie bilden die zwei Organe der Genossenschaft",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sie bekommen eine Einzelabschusserlaubnis für einen Rehbock. Welche Papiere müssen Sie bei der Jagd mitführen?",
+    "Antwort": "Gültiger Jagdschein, Waffenbesitzkarte (WBK), Personalausweis und die Einzelabschusserlaubnis",
+    "FalscheAntwort1": "Nur die Einzelabschusserlaubnis; alle anderen Dokumente sind bei Einzelerlaubnissen nicht nötig",
+    "FalscheAntwort2": "Jagdschein und Einzelabschusserlaubnis reichen; WBK und Perso nicht erforderlich",
+    "FalscheAntwort3": "Nur der Jagdschein; Einzelabschusserlaubnisse müssen nicht mitgeführt werden",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Welche Pflicht hat der Jagdleiter bei einer gemeinschaftlichen Bewegungsjagd auf Schalenwild?",
+    "Antwort": "Kontrolle des gültigen Jagdscheins jedes Schützen, Kontrolle von Waffen und Munition, Kontrolle des gültigen Schießnachweises auf Schalenwild; Einweisung aller Teilnehmer in die Sicherheitsregeln",
+    "FalscheAntwort1": "Der Jagdleiter muss nur die Strecke zählen; Kontrolle der Papiere ist freiwillig",
+    "FalscheAntwort2": "Nur die Waffenkontrolle ist Pflicht; Jagdscheine werden von der Behörde geprüft",
+    "FalscheAntwort3": "Der Jagdleiter hat keine besonderen Pflichten; jeder Jäger ist selbst verantwortlich",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Ein pachtfähiger Jäger schließt mit einer Jagdgenossenschaft einen Pachtvertrag auf 45 Jahre ab. Ist das zulässig?",
+    "Antwort": "Ja; das Bundesjagdgesetz schreibt nur eine Mindestpachtdauer von 9 Jahren vor; eine Höchstdauer ist nicht festgelegt; 45 Jahre sind rechtlich zulässig",
+    "FalscheAntwort1": "Nein; Jagdpachtverträge dürfen maximal 12 Jahre laufen",
+    "FalscheAntwort2": "Nein; die gesetzliche Höchstgrenze beträgt 25 Jahre",
+    "FalscheAntwort3": "Nur wenn die Jagdbehörde zustimmt; ohne Genehmigung max. 9 Jahre",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wann hat das Wildkaninchen in Schleswig-Holstein Jagdzeit?",
+    "Antwort": "Vom 1. Oktober bis 31. Dezember; auf Deichen und in Deichschutzstreifen ganzjährig wegen der Schadensrelevanz",
+    "FalscheAntwort1": "Ganzjährig; Wildkaninchen haben keine Schonzeit in SH",
+    "FalscheAntwort2": "Vom 1. September bis 28. Februar; halbes Jahr Jagdzeit",
+    "FalscheAntwort3": "Keine Jagdzeit; Wildkaninchen sind in SH vollständig geschützt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Sie beschießen eine Sau, sie flüchtet sichtlich krank. Dürfen Sie alleine nachsuchen?",
+    "Antwort": "Nein; bei der Nachsuche auf Schwarzwild muss immer mindestens eine zweite Person dabei sein (Sicherheitsvorschrift); angeschossene Sauen können aggressiv und gefährlich sein",
+    "FalscheAntwort1": "Ja; der Schütze darf und muss unverzüglich alleine nachsuchen",
+    "FalscheAntwort2": "Nur bei Tageslicht darf man alleine nachsuchen; bei Dunkelheit nicht",
+    "FalscheAntwort3": "Ja, aber nur mit einem Schweißhund; ohne Hund ist alleinige Nachsuche verboten",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Was zählt zu den Neozoen in Deutschland?",
+    "Antwort": "Mink (Amerikanischer Nerz), Marderhund, Waschbär, Nutria, Nilgans, Kanadagans, Muffelwild (in Teilen); eingeführte Tierarten nach 1492 die sich etabliert haben",
+    "FalscheAntwort1": "Wolf und Luchs; beide kehren als Neozoen aus Osteuropa zurück",
+    "FalscheAntwort2": "Rotfuchs und Dachs; heimische Arten die sich ausgebreitet haben",
+    "FalscheAntwort3": "Feldhase und Rebhuhn; beide wurden im Mittelalter eingeführt",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
+  },
+  {
+    "Frage": "Wie wird der Abschussplan für Damwild und Rotwild im gemeinschaftlichen Jagdrevier aufgestellt?",
+    "Antwort": "Jagdausübungsberechtigter erstellt Vorschlag auf Basis Streckendaten, Bestandsschätzung und Wildschadenssituation; Bestätigung durch Jagdgenossenschaftsvorstand; Einreichung über den Hegering an die Untere Jagdbehörde; Laufzeit 1-3 Jagdjahre",
+    "FalscheAntwort1": "Die Behörde schreibt die Abschusszahlen vor; Jäger haben kein Mitspracherecht",
+    "FalscheAntwort2": "Abschusspläne für Hochwild gibt es nicht; der Jäger entscheidet selbst",
+    "FalscheAntwort3": "Nur der Deutsche Jagdverband kann Abschusspläne für Hochwild genehmigen",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   }
 ]
