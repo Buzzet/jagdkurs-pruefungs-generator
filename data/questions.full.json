@@ -1249,7 +1249,7 @@
   },
   {
     "Frage": "Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
+    "Antwort": "Auf das rechte Blatt des Stückes",
     "FalscheAntwort1": "Auf den Lauf",
     "FalscheAntwort2": "Auf den Träger",
     "FalscheAntwort3": "In den Äser",
@@ -1505,7 +1505,7 @@
   },
   {
     "Frage": "Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
-    "Antwort": "liegt auf dem linken Blatt",
+    "Antwort": "liegt auf dem rechten Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
     "FalscheAntwort3": "markiert Schussentfernung",
@@ -1513,7 +1513,7 @@
   },
   {
     "Frage": "Was ist bei „Inbesitznahmebruch“ korrekt?",
-    "Antwort": "liegt auf dem linken Blatt",
+    "Antwort": "liegt auf dem rechten Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
     "FalscheAntwort3": "markiert Schussentfernung",
@@ -1641,7 +1641,7 @@
   },
   {
     "Frage": "Welche Antwort ist richtig? Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
+    "Antwort": "Auf das rechte Blatt des Stückes",
     "FalscheAntwort1": "Auf den Lauf",
     "FalscheAntwort2": "Auf den Träger",
     "FalscheAntwort3": "In den Äser",
@@ -1649,7 +1649,7 @@
   },
   {
     "Frage": "Was ist korrekt? Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
+    "Antwort": "Auf das rechte Blatt des Stückes",
     "FalscheAntwort1": "Auf den Lauf",
     "FalscheAntwort2": "Auf den Träger",
     "FalscheAntwort3": "In den Äser",
@@ -1953,7 +1953,7 @@
   },
   {
     "Frage": "Was ist korrekt? Welche Aussage zu „Inbesitznahmebruch“ trifft zu?",
-    "Antwort": "liegt auf dem linken Blatt",
+    "Antwort": "liegt auf dem rechten Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
     "FalscheAntwort3": "markiert Schussentfernung",
@@ -2177,7 +2177,7 @@
   },
   {
     "Frage": "Was trifft zu? Was ist korrekt? Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
+    "Antwort": "Auf das rechte Blatt des Stückes",
     "FalscheAntwort1": "Auf den Lauf",
     "FalscheAntwort2": "Auf den Träger",
     "FalscheAntwort3": "In den Äser",
@@ -2185,7 +2185,7 @@
   },
   {
     "Frage": "Welche Antwort ist fachlich richtig? Bitte wählen Sie die zutreffende Aussage: Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
+    "Antwort": "Auf das rechte Blatt des Stückes",
     "FalscheAntwort1": "Auf den Lauf",
     "FalscheAntwort2": "Auf den Träger",
     "FalscheAntwort3": "In den Äser",
@@ -5980,7 +5980,7 @@
     "Antwort": "Maximal 3 Patronen insgesamt in der Waffe",
     "FalscheAntwort1": "Maximal 5 Patronen",
     "FalscheAntwort2": "Keine Begrenzung, solange die Waffe jagdrechtlich zugelassen ist",
-    "FalscheAntwort3": "Maximal 2 Patronen im Magazin plus eine im Patronenlager",
+    "FalscheAntwort3": "Maximal 2 Patronen im Magazin; Patronenlager muss leer bleiben",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
   },
   {
@@ -5993,9 +5993,9 @@
   },
   {
     "Frage": "Sie erhalten eine Einzelabschusserlaubnis für einen Rehbock. Welche Papiere müssen Sie bei der Jagd mit sich führen?",
-    "Antwort": "Jagdschein, Waffenbesitzkarte (WBK), Personalausweis und die Einzelabschusserlaubnis",
+    "Antwort": "Jagdschein und die Einzelabschusserlaubnis (§ 15 Abs. 2 BJagdG); WBK und Personalausweis sind jagdrechtlich nicht vorgeschrieben mitzuführen",
     "FalscheAntwort1": "Nur die Einzelabschusserlaubnis",
-    "FalscheAntwort2": "Jagdschein und Einzelabschusserlaubnis genügen",
+    "FalscheAntwort2": "Jagdschein, WBK, Personalausweis und Einzelabschusserlaubnis",
     "FalscheAntwort3": "WBK und Jagdschein genügen",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
   },
@@ -6113,9 +6113,9 @@
   },
   {
     "Frage": "Welche Lauflängen gibt es bei Schrotflinten?",
-    "Antwort": "71 cm, 76 cm und 81 cm sind die üblichen Normlauflängen.",
+    "Antwort": "65 cm, 70 cm und 76 cm sind die üblichen Normlauflängen.",
     "FalscheAntwort1": "50 cm, 60 cm und 70 cm.",
-    "FalscheAntwort2": "65 cm, 70 cm und 75 cm.",
+    "FalscheAntwort2": "55 cm, 62 cm und 68 cm – kürzere Läufe für Kompaktflinten.",
     "FalscheAntwort3": "80 cm, 90 cm und 100 cm – kürzere Läufe sind jagdlich nicht zugelassen.",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
   },
@@ -6473,7 +6473,7 @@
   },
   {
     "Frage": "Was besagen die Angaben 'RWS 16/67,5 Nr. 3' auf einer Patronenschachtel?",
-    "Antwort": "RWS = Hersteller. 16 = Kaliber (1/16 eines engl. Pfund Blei als Kugel = Laufinnendurchmesser). 67,5 = Hülsenlänge in mm (abgeschossen). Nr. 3 = Schrotstärke 3,5 mm.",
+    "Antwort": "RWS = Hersteller. 16 = Kaliber (1/16 eines engl. Pfund Blei als Kugel = Laufinnendurchmesser). 67,5 = Hülsenlänge in mm (abgeschossen). Nr. 3 = Schrotstärke 3,25 mm.",
     "FalscheAntwort1": "RWS = Reichs-Waffen-Standard (Gütesiegel). 16 = Schrotanzahl in der Patrone. 67,5 = Pulvermenge in mg. Nr. 3 = Qualitätsstufe.",
     "FalscheAntwort2": "16 = Schrotgröße in 1/10 mm, also 1,6 mm Schrote. 67,5 = Patronengewicht in Gramm.",
     "FalscheAntwort3": "RWS = Rückstoßwert Schrot. 16/67,5 = Verhältnis Pulver zu Schrot. Nr. 3 = Choke-Empfehlung.",
@@ -7680,8 +7680,8 @@
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
   },
   {
-    "Frage": "Welche Jagdhundrasse wird auf der 'Solms' (Verbandsjugendprüfung Deutsch Kurzhaar) geprueft?",
-    "Antwort": "Deutsch Kurzhaar (DK); die Solms ist die traditionelle Verbandsjugendprüfung des Deutsch Kurzhaar Verbandes",
+    "Frage": "Welche Jagdhundrasse wird auf der 'Solms' (Verbandszuchtprüfung Deutsch Kurzhaar) geprüft?",
+    "Antwort": "Deutsch Kurzhaar (DK); die Solms ist die traditionelle Verbandszuchtprüfung (Körung mit Prüfungsanteil) des Deutsch Kurzhaar Verbandes (DKBV) – keine Verbandsjugendprüfung",
     "FalscheAntwort1": "Deutsch Drahthaar; die Solms ist die Hauptprüfung fuer Drahthaare",
     "FalscheAntwort2": "Weimaraner; die Solms ist die Verbandsprüfung der Weimaraner",
     "FalscheAntwort3": "Alle Vorstehhundrassen; Solms ist eine offene Prüfung",
@@ -8241,8 +8241,8 @@
   },
   {
     "Frage": "Darf auf forstlichen Kulturflächen, die zum Schutz gegen Wildverbiss eingezäunt sind, die Jagd ausgeübt werden?",
-    "Antwort": "Ja; die Jagd darf auf eingezäunten Forstkulturen ausgeübt werden, jedoch nur mit Zustimmung des Grundeigentümers oder Nutzungsberechtigten",
-    "FalscheAntwort1": "Nein; eingezäunte Forstkulturen gelten als befriedete Bezirke wo die Jagd ruht",
+    "Antwort": "Nein; eingezäunte Forstkulturen gelten als befriedete Bezirke wo die Jagd ruht",
+    "FalscheAntwort1": "Ja; die Jagd darf auf eingezäunten Forstkulturen ausgeübt werden, jedoch nur mit Zustimmung des Grundeigentümers oder Nutzungsberechtigten",
     "FalscheAntwort2": "Nur wenn der Zaun mindestens 2 m hoch ist und eine offizielle Ausnahmegenehmigung vorliegt",
     "FalscheAntwort3": "Nein; auf Kulturflächen darf generell nicht gejagt werden um die Pflanzen zu schützen",
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
@@ -8576,11 +8576,11 @@
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
   {
-    "Frage": "In welcher Zeit darf im Umkreis von 200 m um eine anerkannte Fischzuchtanlage ohne Antrag bis zu 8 Graureiher erlegt werden?",
-    "Antwort": "Vom 16. Oktober bis 31. März (Winterhalbjahr); der Jagdausübungsberechtigte darf ohne besonderen Antrag bis zu 8 Graureiher pro Jagdjahr zum Schutz der Fischzucht erlegen",
-    "FalscheAntwort1": "Ganzjährig ohne jede Einschränkung; Graureiher an Fischzuchten sind immer jagdbar",
-    "FalscheAntwort2": "Nur im Sommer (April bis September); Winterschonung gilt für Graureiher",
-    "FalscheAntwort3": "Graureiher sind streng geschützt; Abschuss ist auch an Fischzuchten nie erlaubt",
+    "Frage": "Wie können Schäden durch Graureiher an anerkannten Fischzuchtanlagen rechtlich bekämpft werden?",
+    "Antwort": "Der Graureiher ist kein Jagdwild nach § 2 BJG; er ist nach BNatSchG besonders geschützt. Abschüsse zum Schutz von Fischzuchten sind nur über eine artenschutzrechtliche Ausnahmegenehmigung der zuständigen Naturschutzbehörde (§ 45 BNatSchG) möglich",
+    "FalscheAntwort1": "Ganzjährig ohne Antrag; Graureiher an Fischzuchten sind als Jagdwild ohne Einschränkung bejagbar",
+    "FalscheAntwort2": "Der Jagdausübungsberechtigte darf ohne Antrag bis zu 8 Graureiher pro Jagdjahr erlegen",
+    "FalscheAntwort3": "Der Graureiher hat Jagdzeit vom 16. Oktober bis 31. März und darf dann immer erlegt werden",
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
   {
@@ -8681,9 +8681,9 @@
   },
   {
     "Frage": "In welcher Vorschrift ist das Halten von heimischen Greifvögeln und Falken verbindlich geregelt?",
-    "Antwort": "In der Bundeswildschutzverordnung (BWildSchV); sie regelt Haltung, Zucht und Handel mit besonders geschützten Tieren einschließlich Greifvögel und Falken",
+    "Antwort": "In der Bundesartenschutzverordnung (BArtSchV) i.V.m. dem BNatSchG; sie regelt Haltung, Zucht und Handel mit besonders geschützten Tieren einschließlich Greifvögel und Falken",
     "FalscheAntwort1": "Im Bundesjagdgesetz (BJG); Greifvögel sind Wild und unterliegen dem Jagdrecht allein",
-    "FalscheAntwort2": "In der Bundesartenschutzverordnung (BArtSchV); ausschließlich diese ist maßgeblich",
+    "FalscheAntwort2": "In der Bundeswildschutzverordnung (BWildSchV); ausschließlich diese ist maßgeblich",
     "FalscheAntwort3": "Im Tierschutzgesetz; alle Tier-Haltungsvorschriften stehen nur dort",
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
