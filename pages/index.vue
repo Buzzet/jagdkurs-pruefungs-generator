@@ -110,6 +110,16 @@
         <p><strong>{{ mcCorrectCount }} / {{ mcQuestions.length }}</strong> Fragen komplett richtig ({{ mcPercent }}%)</p>
         <p><strong>{{ mcPointsTotal }}</strong> / {{ mcMaxPoints }} Punkte ({{ mcPointsPercent }}%)</p>
         <p><strong>Note:</strong> {{ mcGrade }}</p>
+        <div v-if="mcResultsList.length" class="summary-list">
+          <h4>Fragenübersicht</h4>
+          <div v-for="(entry, idx) in mcResultsList" :key="idx" class="summary-item liquid-soft">
+            <p class="summary-title">Frage {{ idx + 1 }} · {{ entry.subject }}</p>
+            <p class="summary-question">{{ entry.question }}</p>
+            <p class="summary-row"><strong>Deine Antwort:</strong> {{ entry.userAnswers.length ? entry.userAnswers.join(', ') : '—' }}</p>
+            <p class="summary-row"><strong>Musterantwort:</strong> {{ entry.correctAnswers.join(', ') }}</p>
+            <p class="summary-points">Punkte: {{ entry.points }} / {{ entry.maxPoints }}</p>
+          </div>
+        </div>
         <button @click="resetMc">Neue Simulation</button>
       </div>
     </section>
@@ -176,6 +186,16 @@
         <h3>KI-Auswertung</h3>
         <p><strong>{{ aiPointsTotal }}</strong> / {{ aiMaxPoints }} Punkte ({{ aiPointsPercent }}%)</p>
         <p><strong>Note:</strong> {{ aiGrade }}</p>
+        <div v-if="aiResultsList.length" class="summary-list">
+          <h4>Fragenübersicht</h4>
+          <div v-for="(entry, idx) in aiResultsList" :key="idx" class="summary-item liquid-soft">
+            <p class="summary-title">Frage {{ idx + 1 }} · {{ entry.subject }}</p>
+            <p class="summary-question">{{ entry.question }}</p>
+            <p class="summary-row"><strong>Punkte:</strong> {{ entry.points }} / {{ entry.maxPoints }}</p>
+            <p class="summary-row"><strong>Musterlösung:</strong> {{ entry.sampleAnswer }}</p>
+            <p v-if="entry.alternatives.length" class="summary-row"><strong>Weitere Antworten:</strong> {{ entry.alternatives.join(', ') }}</p>
+          </div>
+        </div>
         <button @click="resetAi">Neue KI-Session</button>
       </div>
     </section>
@@ -849,3 +869,29 @@ button.ghost { min-width: 2.6rem; }
 }
 .light .quote { background: rgba(255,255,255,.9); border-color: rgba(15,23,42,.12); }
 </style>
+
+.summary-list {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.summary-item {
+  padding: 0.9rem 1rem;
+  border-radius: 14px;
+}
+.summary-title {
+  font-weight: 600;
+  margin: 0;
+}
+.summary-question {
+  margin: 0.25rem 0 0.5rem;
+}
+.summary-row {
+  margin: 0.1rem 0;
+  font-size: 0.92rem;
+}
+.summary-points {
+  margin-top: 0.4rem;
+  font-weight: 600;
+}
