@@ -4010,7 +4010,7 @@
   {
     "Frage": "Wie heißt die Fortpflanzungszeit beim Rehwild in der Jägersprache?",
     "Antwort": "Blattzeit",
-    "FalscheAntwort1": "Blattzeit",
+    "FalscheAntwort1": "Rauschzeit",
     "FalscheAntwort2": "Brunft",
     "FalscheAntwort3": "Ranzzeit",
     "Pruefungsfach": "Wildtierkunde"
@@ -4018,7 +4018,7 @@
   {
     "Frage": "Wie nennt man das Jungtier beim Rehwild?",
     "Antwort": "Kitz",
-    "FalscheAntwort1": "Kitz",
+    "FalscheAntwort1": "Lamm",
     "FalscheAntwort2": "Kalb",
     "FalscheAntwort3": "Frischling",
     "Pruefungsfach": "Wildtierkunde"
@@ -4043,7 +4043,7 @@
     "Frage": "Wie heißt die Fortpflanzungszeit beim Rotwild in der Jägersprache?",
     "Antwort": "Brunft",
     "FalscheAntwort1": "Blattzeit",
-    "FalscheAntwort2": "Brunft",
+    "FalscheAntwort2": "Rauschzeit",
     "FalscheAntwort3": "Ranzzeit",
     "Pruefungsfach": "Wildtierkunde"
   },
@@ -4051,7 +4051,7 @@
     "Frage": "Wie nennt man das Jungtier beim Rotwild?",
     "Antwort": "Kalb",
     "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Kalb",
+    "FalscheAntwort2": "Lamm",
     "FalscheAntwort3": "Frischling",
     "Pruefungsfach": "Wildtierkunde"
   },
@@ -4075,7 +4075,7 @@
     "Frage": "Wie heißt die Fortpflanzungszeit beim Damwild in der Jägersprache?",
     "Antwort": "Brunft",
     "FalscheAntwort1": "Blattzeit",
-    "FalscheAntwort2": "Brunft",
+    "FalscheAntwort2": "Rollzeit",
     "FalscheAntwort3": "Ranzzeit",
     "Pruefungsfach": "Wildtierkunde"
   },
@@ -4083,7 +4083,7 @@
     "Frage": "Wie nennt man das Jungtier beim Damwild?",
     "Antwort": "Kalb",
     "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Kalb",
+    "FalscheAntwort2": "Lamm",
     "FalscheAntwort3": "Frischling",
     "Pruefungsfach": "Wildtierkunde"
   },
@@ -4116,7 +4116,7 @@
     "Antwort": "Frischling",
     "FalscheAntwort1": "Kitz",
     "FalscheAntwort2": "Kalb",
-    "FalscheAntwort3": "Frischling",
+    "FalscheAntwort3": "Lamm",
     "Pruefungsfach": "Wildtierkunde"
   },
   {
@@ -4140,7 +4140,7 @@
     "Antwort": "Ranzzeit",
     "FalscheAntwort1": "Blattzeit",
     "FalscheAntwort2": "Brunft",
-    "FalscheAntwort3": "Ranzzeit",
+    "FalscheAntwort3": "Rollzeit",
     "Pruefungsfach": "Wildtierkunde"
   },
   {
@@ -4172,7 +4172,7 @@
     "Antwort": "Ranzzeit",
     "FalscheAntwort1": "Blattzeit",
     "FalscheAntwort2": "Brunft",
-    "FalscheAntwort3": "Ranzzeit",
+    "FalscheAntwort3": "Rollzeit",
     "Pruefungsfach": "Wildtierkunde"
   },
   {
@@ -4307,7 +4307,7 @@
     "Frage": "Welcher Gruppe wird der Kolkrabe zugeordnet?",
     "Antwort": "Rabenvogel",
     "FalscheAntwort1": "Hühnervogel",
-    "FalscheAntwort2": "Rabenvogel",
+    "FalscheAntwort2": "Greifvogel",
     "FalscheAntwort3": "Limikole",
     "Pruefungsfach": "Wildtierkunde"
   },
