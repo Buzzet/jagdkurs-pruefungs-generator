@@ -12502,5 +12502,781 @@
     "FalscheAntwort2": "Wildkaninchen hat längere Tragzeit als Feldhase; Jungtiere sind Nestflüchter",
     "FalscheAntwort3": "Wildkaninchen Tragzeit 90 Tage; Jungtiere kommen vollentwickelt zur Welt",
     "Pruefungsfach": "Wildtierkunde"
+  },
+  {
+    "Frage": "Nennen Sie fuenf Pruefungen, die es fuer Jagdhunde gibt.",
+    "Antwort": "VJP (Verbandsjugendprüfung), HZP (Herbstzuchtprüfung), VGP (Verbandsgebrauchsprüfung), Verbandsschweisprüfung (VSP), Brauchbarkeitsprüfung (BP)",
+    "FalscheAntwort1": "Leinenführungsprüfung, Gehorsamkeitsprüfung, Schussfestigkeitsprüfung, Wasserprüfung, Nasenprüfung",
+    "FalscheAntwort2": "Nur VJP, HZP und VGP; mehr gibt es nicht",
+    "FalscheAntwort3": "Rassestandprüfung, Schönheitsprüfung, Agilityprüfung, Gehorsamkeitsprüfung, Ausdauerprüfung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche zuechterische Haupteigenschaft zeichnet die Bracken aus?",
+    "Antwort": "Spurlaut (Spl): Bracken jagen Hase oder Fuchs laut auf der Spur; dieses lautgebende Jagen auf der Spur ist die wichtigste zuechterische Eigenschaft",
+    "FalscheAntwort1": "Vorstehen: Bracken verharren regungslos vor Wild und zeigen dem Jaeger an",
+    "FalscheAntwort2": "Apportieren: Bracken bringen erlegtes Wild zum Jaeger",
+    "FalscheAntwort3": "Stoeberarbeit: Bracken durchsuchen dichte Vegetation ohne zu jagen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Wildart wird bei der Bringtreueprüfung (BtP) ausgelegt?",
+    "Antwort": "Fuchs; bei der Bringtreueprüfung wird ein Fuchs ausgelegt, den der Hund finden und bringen muss",
+    "FalscheAntwort1": "Hase; der Hase ist die typische Wildart fuer Bringarbeiten",
+    "FalscheAntwort2": "Ente; Wasservögel sind die klassische Bringwildart",
+    "FalscheAntwort3": "Fasan; als Federwild besonders geeignet fuer Bringtreueprüfungen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wann sollte die Nachsuche auf einen Frischling mit Gebrechschuss beginnen?",
+    "Antwort": "Sofort oder nach kurzem Zuwarten (ca. 30 Minuten) da Schwarzwild bei Gebrechen schnell verendet und Witterung schadet; bei unsicherem Schuss eher warten",
+    "FalscheAntwort1": "Immer erst am naechsten Morgen beginnen; über Nacht liegt das Stueck fest",
+    "FalscheAntwort2": "Sofort nach dem Schuss, niemals warten; Schuss muss sofort kontrolliert werden",
+    "FalscheAntwort3": "Erst nach 24 Stunden beginnen; Schwarzwild zieht immer weit ab",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welcher Unterschied besteht zwischen den Begriffen Suche und Nachsuche beim Jagdhund?",
+    "Antwort": "Suche: Hund sucht selbstständig nach lebendem Wild im Gelände (vor dem Schuss). Nachsuche: Hund folgt der Wund- oder Schweissfaehrte eines angeschossenen Stückes (nach dem Schuss)",
+    "FalscheAntwort1": "Suche und Nachsuche sind synonym; kein Unterschied",
+    "FalscheAntwort2": "Suche ist die Arbeit nach erlegtem Wild; Nachsuche ist die Arbeit vor dem Schuss",
+    "FalscheAntwort3": "Suche gilt nur fuer Niederwild; Nachsuche gilt nur fuer Schalenwild",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie zeigt ein auf der Schweissfaehrte geschnallter Hund dem Fuehrer an, dass er das Stueck gefunden hat?",
+    "Antwort": "Totverbellen: Hund verbellt das verendete Stueck laut und haelt es fest bis der Fuehrer kommt; oder Bringselverweisen: Hund bringt Bringsel (Lederriemen am Halsband) und fuehrt Fuehrer zum Stueck",
+    "FalscheAntwort1": "Hund kehrt sofort zum Fuehrer zurueck und legt sich ab",
+    "FalscheAntwort2": "Hund apportiert das erlegte Stueck direkt zum Fuehrer",
+    "FalscheAntwort3": "Hund gibt kein Signal; Fuehrer muss selbst nach dem Stueck suchen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Bei welchen Jagdarten muessen braeuchbare Hunde mitgefuehrt werden?",
+    "Antwort": "Bei Treibjagden, Drückjagden, Jagd auf Deckenwild (Hase, Fasan), Nachsuche auf Schalenwild; Landesjagdgesetz SH schreibt bei bestimmten Jagdarten Hundeeinsatz vor",
+    "FalscheAntwort1": "Hunde muessen nur bei der Entenjagd am Wasser mitgefuehrt werden",
+    "FalscheAntwort2": "Hunde sind bei keiner Jagdart vorgeschrieben; ihr Einsatz ist freiwillig",
+    "FalscheAntwort3": "Nur bei der Bockjagd im Sommer muessen Hunde dabei sein",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welchen Vorteil bietet ein spurlauter Hund bei der Jagd?",
+    "Antwort": "Der Jäger weiss jederzeit wo sein Hund ist und was er jagt; Laut ermöglicht dem Wild die Flucht und dem Jaeger den Schuss wenn Wild vorbeilaeuft; koordiniert Treibjagden",
+    "FalscheAntwort1": "Spurlauter Hund schreckt Wild auf und verscheucht es aus dem Revier",
+    "FalscheAntwort2": "Kein Vorteil; lautgebende Hunde stoeren die Jagd und warnen das Wild",
+    "FalscheAntwort3": "Spurlauter Hund jagt schneller; aber Jaeger kann nicht folgen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie wird die Bakterienerkrankung Borreliose auf den Hund uebertragen?",
+    "Antwort": "Durch Zecken (Ixodes ricinus); Borreliose wird durch den Stich der Gemeinen Holzbockzecke übertragen; Erreger: Borrelia burgdorferi",
+    "FalscheAntwort1": "Durch Kontakt mit infizierten Wildtieren; Uebertragung durch Biss",
+    "FalscheAntwort2": "Ueber verunreinigtes Wasser; Hund infiziert sich beim Trinken",
+    "FalscheAntwort3": "Durch Fliegen und Muecken; keine Zecken beteiligt",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie haeufig wird eine geschlechtsreife Huendin in der Regel laeutig?",
+    "Antwort": "In der Regel zweimal jaehrlich (alle 6-7 Monate); Laeuftigkeit dauert ca. 3 Wochen",
+    "FalscheAntwort1": "Einmal jaehrlich; immer im Fruehling",
+    "FalscheAntwort2": "Viermal jaehrlich; alle 3 Monate",
+    "FalscheAntwort3": "Nur einmal im Leben; danach nicht mehr laeutig",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was sollte in einer Wildkammer, in der regelmaessig Wild aufgebrochen wird, grundsaetzlich vorhanden sein?",
+    "Antwort": "Flies- und Kaltwasser, Waschmoeglichkeit, Desinfektionsmittel, Handschuhe, Kuehlmoeglichkeit, Belueftung, saubere Arbeitsflächen; Moeglichkeit zur hygienischen Verarbeitung",
+    "FalscheAntwort1": "Nur eine Hakenleiste zum Aufhaengen; mehr ist nicht noetig",
+    "FalscheAntwort2": "Elektrischer Anschluss und Beleuchtung; Wasser ist nicht zwingend",
+    "FalscheAntwort3": "Saegemehl auf dem Boden und eine Wanne; reicht nach dem Gesetz",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was versteht man bei der Direktvermarktung von Wild unter dem Begriff 'Kleine Mengen'?",
+    "Antwort": "Kleine Mengen: Strecke eines Jagdtages; Abgabe an Endverbraucher oder oeliches Einzelhandelsgeschaeft im Umkreis von 100 km um Wohn- oder Erlegungsort moeglich",
+    "FalscheAntwort1": "Kleine Mengen: maximal 5 kg Wildbretatgewicht pro Jahr",
+    "FalscheAntwort2": "Kleine Mengen: bis 10 Stueck Wild im Kalendermonat",
+    "FalscheAntwort3": "Kleine Mengen: kein gesetzlich definierter Begriff; Jaeger entscheidet selbst",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "In welchem Umkreis darf der Jaeger bei der Direktvermarktung an oertliche Betriebe des Einzelhandels Wild abgeben?",
+    "Antwort": "Im Umkreis von 100 km um den Wohnort oder Erlegungsort des Jagdausübungsberechtigten",
+    "FalscheAntwort1": "Nur im eigenen Landkreis; keine Kilometergrenze",
+    "FalscheAntwort2": "Unbegrenzt im gesamten Bundesgebiet",
+    "FalscheAntwort3": "Im Umkreis von 50 km um den Erlegungsort",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie jeweils eine Wildart, bei der Sie beim Aufbrechen eine Gallenblase bzw. keine Gallenblase vorfinden.",
+    "Antwort": "Mit Gallenblase: Schwarzwild (Hausschwein), Feldhase, Federwild (z.B. Fasan). Ohne Gallenblase: Rehwild, Rotwild, Damwild (Wiederkaeuer haben keine Gallenblase)",
+    "FalscheAntwort1": "Alle Wildtiere haben eine Gallenblase; kein Wildtier ist ohne Gallenblase",
+    "FalscheAntwort2": "Nur Schwarzwild hat keine Gallenblase; alle anderen Wildtiere haben eine",
+    "FalscheAntwort3": "Nur Federwild hat eine Gallenblase; alle Saeugetiere haben keine",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wo finden Sie beim Aufbrechen eines Stueckes Schwarzwild die Zwerchfellpfeiler?",
+    "Antwort": "Die Zwerchfellpfeiler sitzen in der Mitte des Zwerchfells, dort wo der Schlund durch das Zwerchfell in den einhoehligen Magen tritt; beim haengenden Aufbrechen direkt unterhalb der Filets",
+    "FalscheAntwort1": "Zwerchfellpfeiler befinden sich an der Rippeninnenseite nahe der Wirbelsaeule",
+    "FalscheAntwort2": "Zwerchfellpfeiler sind an der Leber befestigt und liegen dort an",
+    "FalscheAntwort3": "Zwerchfellpfeiler gibt es nur beim Rindfleisch; Schwarzwild hat keine",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Benennen Sie zwei Feststellungen im Revier, die auf Wildkrankheiten hindeuten.",
+    "Antwort": "Verendete Stuecke (Fallwild), kranke / auffaellig verhaltende Tiere (Tollwutverdacht), abgemagerte Tiere, Haarausfall/Raeude, Gelbsucht, blutiger Durchfall",
+    "FalscheAntwort1": "Erhoehte Streckenzahlen und viele Junge; deuten auf besondere Gesundheit hin",
+    "FalscheAntwort2": "Starke Reproduktion und gutes Koerperbild; keine Krankheitszeichen",
+    "FalscheAntwort3": "Wildtiere verstecken Krankheitszeichen; Feststellungen im Revier unmoeglich",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie eine bakterielle und eine parasitaere Erkrankung des Hasen.",
+    "Antwort": "Bakteriell: Tularaemie (Hasenpest, Francisella tularensis). Parasitaer: Coccidiose (Darmparasiten, v.a. bei Jungtieren), oder Bandwurmbefall",
+    "FalscheAntwort1": "Bakteriell: Myxomatose. Parasitaer: EBHS (Europaeische Hasen-Seuche)",
+    "FalscheAntwort2": "Bakteriell: Staupe. Parasitaer: Chinaseuche",
+    "FalscheAntwort3": "Bakteriell: Blauzungenkrankheit. Parasitaer: Aujeszky-Krankheit",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wann sollte ein erlegtes Stueck Wild aufgebrochen werden?",
+    "Antwort": "So schnell wie moeglich nach dem Erlegen; spaetestens innerhalb von 1-2 Stunden; bei warmem Wetter sofort um Wildbretqualitaet zu erhalten und Verderb zu verhindern",
+    "FalscheAntwort1": "Erst am naechsten Morgen im Tageslicht; beim Aufbrechen in der Nacht entstehen Fehler",
+    "FalscheAntwort2": "Nach der Jagd gemeinsam in der Wildkammer; bis dahin unveraendert lassen",
+    "FalscheAntwort3": "Erst nach dem Transport nach Hause; Aufbrechen im Wald ist verboten",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie zwei aeusserlich feststellbare Merkmale, an denen Sie feststellen koennen, dass sich ein Stueck Wildbret im fortgeschrittenen Verderb befindet.",
+    "Antwort": "Fauliger / suesslich stechender Geruch; Verfaerbung des Fleisches (graugruen, schleimig); aufgeblasener Bauch; Haarerausfall; Einsinken der Augen; Schimmelbildung",
+    "FalscheAntwort1": "Nur das Gewicht ist ein sicheres Zeichen fuer Verderb; aesserlich nicht erkennbar",
+    "FalscheAntwort2": "Verderb ist nur im Labor nachweisbar; aeusserliche Zeichen reichen nicht aus",
+    "FalscheAntwort3": "Helles rotes Fleisch und neutraler Geruch deuten auf Verderb hin",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wofuer werden Jagdhunde vor dem Schuss und wofuer nach dem Schuss benoetigt?",
+    "Antwort": "Vor dem Schuss: Wild suchen, aufspueren, stellen, vorstehen, hetzen (Stoeberarbeit); nach dem Schuss: Anschuss pruefen, Schweissarbeit / Nachsuche, Apportieren von erlegtem Wild",
+    "FalscheAntwort1": "Vor dem Schuss: Wild apportieren; nach dem Schuss: Wild suchen",
+    "FalscheAntwort2": "Jagdhunde werden ausschliesslich nach dem Schuss benoetigt",
+    "FalscheAntwort3": "Jagdhunde werden nur vor dem Schuss beim Vorstehen eingesetzt; danach nicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was ist aus der Ahnentafel eines Jagdhundes ersichtlich?",
+    "Antwort": "Abstammung (Eltern, Grosseltern), Zuchtbuchnummer, Rasse, Geburtsdatum, Wurfnummer, Pruerunsgsergebnisse der Vorfahren, Zuechtername und -adresse",
+    "FalscheAntwort1": "Nur Name und Geburtsdatum des Hundes; Abstammung nicht ersichtlich",
+    "FalscheAntwort2": "Ahnentafel zeigt nur die Impfungen; Abstammung steht im Kaufvertrag",
+    "FalscheAntwort3": "Koerpergewicht, Fellfarbe und Zuchteignung; keine Prueungsergebnisse",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wann und warum wird bei einem Jagdhund ein Zuchtverbot ausgesprochen?",
+    "Antwort": "Bei schwerwiegenden Erbfehlern (HD, Epilepsie, Kryptorchismus, schwere Augenfehler, Aggressivitaet); Ziel: Erbkrankheiten aus der Zucht zu eliminieren und Rassestandard zu wahren",
+    "FalscheAntwort1": "Zuchtverbot nur wenn der Hund erkrankt ist; gesunde Hunde duerfen immer gezuechtet werden",
+    "FalscheAntwort2": "Zuchtverbot gibt es nicht; jeder Hundehalteer darf seinen Hund verpaaren",
+    "FalscheAntwort3": "Zuchtverbot nach 3. Wurf; jeder Hund darf nur dreimal gezuechtet werden",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Auf welches Schalenwild wird die Stoeberjagd ausgeubt?",
+    "Antwort": "Stoeberjagd hauptsaechlich auf Schwarzwild, Damwild und Rotwild; in manchen Revieren auch auf Rehwild; Hund stoebert Wild laut aus Dickungen",
+    "FalscheAntwort1": "Stoeberjagd nur auf Hasen und Fasanen; Schalenwild wird nicht gestobert",
+    "FalscheAntwort2": "Stoeberjagd ausschliesslich auf Rehwild; Rotwild und Schwarzwild nicht",
+    "FalscheAntwort3": "Stoeberjagd ist verboten; Hunde duerfen kein Schalenwild jagen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie handhabt man auf einer Treibjagd die Nachsuche?",
+    "Antwort": "Nachsuche waehrend der Treibjagd sofort nach jedem Schuss mit brachliegenden Hund; oder am Ende der Treibjagd gesammelt; bei schlechtem Schuss sofort Nachsuche unterbrechen und Hund anlegen",
+    "FalscheAntwort1": "Nachsuche erst nach Abschluss der gesamten Treibjagd am naechsten Tag",
+    "FalscheAntwort2": "Auf Treibjagden gibt es keine Nachsuche; erlegtes Wild bleibt liegen",
+    "FalscheAntwort3": "Nachsuche immer durch den Jagdleiter persoenlich; andere Jaeger duerfen nicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was findet man in der Regel am Anschuss bei getroffenem Wild?",
+    "Antwort": "Schweiss (Blut), Wildpfeffer (Wildbretteile), Haarwild: Pirschzeichen wie Schwartenschnitte, Mageninhalt bei Waidwundschuss, Knochensplitter bei Bruchschuss",
+    "FalscheAntwort1": "Nur Haarbueschel; Blut findet man immer erst spaeter auf der Faeehrte",
+    "FalscheAntwort2": "Am Anschuss ist nichts zu finden; Wild laeuft immer ohne Spuren weg",
+    "FalscheAntwort3": "Immer einen Knochen; Weichteilteffer hinterlassen nichts am Anschuss",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie alt muss ein Hund mindestens sein, um an einer Verbandsschweisspruefung teilzunehmen?",
+    "Antwort": "Mindestens 16 Monate (manche Verbände 20 Monate); Hund muss die HZP bestanden haben und Brauchbarkeit nachgewiesen sein",
+    "FalscheAntwort1": "Mindestens 6 Monate; Welpen koennen schon frueh auf Schweiss arbeiten",
+    "FalscheAntwort2": "Mindestens 3 Jahre; junge Hunde sind nicht zugelassen",
+    "FalscheAntwort3": "Kein Mindestalter; Alter ist fuer Schweisspruefung irrelevant",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie vier Infektionskrankheiten, gegen die ein Jagdhund regelmaessig schutzgeimpft werden sollte.",
+    "Antwort": "Staupe, Parvovirose, Leptospirose, Tollwut; auch: Hepatitis contagiosa canis (HCC), Zwingerhusten (Bordetella)",
+    "FalscheAntwort1": "Borreliose, Raeude, Staupe, Tollwut; gegen Borreliose ist Impfung wichtiger als Staupe",
+    "FalscheAntwort2": "Nur gegen Tollwut impfen; alle anderen sind unwichtig",
+    "FalscheAntwort3": "Impfungen bei Jagdhunden sind nicht vorgeschrieben und unnoetig",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Muss sich ein Jaeger, der regelmaessig Wildbret vermarktet, als Lebensmittelunternehmer registrieren lassen?",
+    "Antwort": "Ja; wer regelmaessig Wildbret vermarktet muss sich beim zust. Veterinaeramt als Lebensmittelunternehmer registrieren lassen (EU-Lebensmittelhygieneverordnung)",
+    "FalscheAntwort1": "Nein; Jaeger sind grundsaetzlich von der Registrierungspflicht befreit",
+    "FalscheAntwort2": "Nur bei mehr als 100 Stueck pro Jahr ist Registrierung noetig",
+    "FalscheAntwort3": "Registrierung nur wenn Wild in andere Bundeslaender verkauft wird",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie zwei sinnfaellige Veraenderungen, die beim Aufbrechen eines Stueckes Schwarzwild auf ein Verhaeltnis des Stueckes hindeuten.",
+    "Antwort": "Stickige Reifung / sauer-stechender Geruch (Buttersaeure); roetliche Verfaerbung der Leber und anderer Organe; aufgeblasener Bauch; erhoehte Koerpertemperatur der Organe",
+    "FalscheAntwort1": "Normales frisches Fleisch und klarer Geruch; kein Hinweis auf Probleme",
+    "FalscheAntwort2": "Weisse Leber und blasses Fleisch; immer Zeichen fuer Erhaeltnis",
+    "FalscheAntwort3": "Verhaeltnis ist nur durch Laboruntersuchung feststellbar; nicht durch Aufbrechen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welches Organ finden Sie beim Aufbrechen eines Stueckes Rehwild direkt vor dem Zwerchfell in der Brusthoehle, welches Organ direkt hinter dem Zwerchfell in der Bauchhoehle?",
+    "Antwort": "Vor dem Zwerchfell (Brusthoehle): Herz und Lunge (Krickeln). Hinter dem Zwerchfell (Bauchhoehle): Leber (direkt anliegend)",
+    "FalscheAntwort1": "Vor dem Zwerchfell: Magen; hinter dem Zwerchfell: Lunge",
+    "FalscheAntwort2": "Vor dem Zwerchfell: Milz; hinter dem Zwerchfell: Nieren",
+    "FalscheAntwort3": "Vor dem Zwerchfell: Leber; hinter dem Zwerchfell: Herz",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie eine bakterielle und eine virale Erkrankung, die beim Schwarzwild auftreten koennen.",
+    "Antwort": "Bakteriell: Rotlauf (Erysipelas), Brucellose; Viral: Afrikanische Schweinepest (ASP), Klassische Schweinepest (KSP), Aujeszky-Krankheit",
+    "FalscheAntwort1": "Bakteriell: Myxomatose; Viral: Tularaemie",
+    "FalscheAntwort2": "Bakteriell: Staupe; Viral: Coccidiose",
+    "FalscheAntwort3": "Beim Schwarzwild treten keine Krankheiten auf; es ist sehr robust",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie zwei parasitaere Erkrankungen, die beim Fuchs eine bedeutende Rolle spielen.",
+    "Antwort": "Raeude (Sarcoptes-Milbe / Sarkoptesraeude); Kleiner Fuchsbandwurm (Echinococcus multilocularis / Zoonose gefaehrlich fuer Menschen); auch Trichinellose",
+    "FalscheAntwort1": "Tollwut und Staupe; beide sind parasitaere Erkrankungen des Fuchses",
+    "FalscheAntwort2": "Borreliose und Tularaemie; wichtigste Parasiten des Fuchses",
+    "FalscheAntwort3": "Fueche haben keine Parasiten; ihr Immunsystem ist zu stark",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Form weist die Milz eines Stueckes Schwarzwild bzw. eines Stueckes Rehwild auf?",
+    "Antwort": "Schwarzwild-Milz: langgestreckt, zuengenfoermig. Rehwild-Milz: oval, abgeflacht, kompakter (beerenartig / birnenartig)",
+    "FalscheAntwort1": "Beide Milzen sind identisch rund; kein Unterschied",
+    "FalscheAntwort2": "Schwarzwild-Milz ist rund; Rehwild-Milz ist langgestreckt",
+    "FalscheAntwort3": "Wildtiere haben keine Milz; sie kommt nur bei Haustieren vor",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was hat ein durch das Veterinaeramt ermaechtiger Jaeger zu beachten, wenn er die Trichinproben beim Schwarzwild selbst entnimmt?",
+    "Antwort": "Mindestens 10g Muskelgewebe (Zwerchfellpfeiler, Zunge oder Unterarm); Wildursprungsschein ausfuellen; Probe korrekt beschriftet und verschlossen einsenden; Wild darf erst nach negativem Befund verwertet werden",
+    "FalscheAntwort1": "Nur 1g Gewebe genuegt; Wildursprungsschein ist freiwillig",
+    "FalscheAntwort2": "Trichinenprobe ist nur fuer Hausschweine vorgeschrieben; Schwarzwild ist ausgenommen",
+    "FalscheAntwort3": "Probe kann aus jedem Organ entnommen werden; Menge ist egal",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Bei welchen Arbeiten muss dem Hund die Halsung (Halsband) unbedingt abgenommen werden?",
+    "Antwort": "Bei Schliefen/Baujagd und bei der Leinenarbeit (Schweissleine); Halsband koennte am Bau einhaken und Hund erwuergen",
+    "FalscheAntwort1": "Das Halsband muss beim Baden abgenommen werden; sonst keine Pflicht",
+    "FalscheAntwort2": "Halsband immer anlassen; niemals abnehmen da Hund sonst nicht kontrollierbar",
+    "FalscheAntwort3": "Nur beim Futtern abnehmen; bei allen anderen Aktivitaeten Halsband anlassen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Jagdhundrasse wird auf der 'Solms' (Verbandsjugendprüfung Deutsch Kurzhaar) geprueft?",
+    "Antwort": "Deutsch Kurzhaar (DK); die Solms ist die traditionelle Verbandsjugendprüfung des Deutsch Kurzhaar Verbandes",
+    "FalscheAntwort1": "Deutsch Drahthaar; die Solms ist die Hauptprüfung fuer Drahthaare",
+    "FalscheAntwort2": "Weimaraner; die Solms ist die Verbandsprüfung der Weimaraner",
+    "FalscheAntwort3": "Alle Vorstehhundrassen; Solms ist eine offene Prüfung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Schleppen werden auf der Herbstzuchtpruefung (HZP) gezogen?",
+    "Antwort": "Federwildschleppe (Fasan oder Ente) und Haarwildschleppe (Hase oder Fuchs); Hund muss beide apportieren",
+    "FalscheAntwort1": "Nur Haarwildschleppe mit Fuchs; Federwild wird nicht auf der HZP geprueft",
+    "FalscheAntwort2": "Nur Wasservogel-Schleppe; Haarwild kommt auf der HZP nicht vor",
+    "FalscheAntwort3": "Gar keine Schleppen; HZP prüft ausschliesslich Vorstehen und Suche",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Warum soll der Stoeberhund bei der Arbeit laut jagen?",
+    "Antwort": "Lautjagen ermöglicht dem Jaeger den Standort des Hundes jederzeit zu verfolgen; Wild flueht laut vor dem Hund und kann an Wechseln gezielt gestellt werden; koordiniert Treibjagden",
+    "FalscheAntwort1": "Lautjagen ist unerwuenscht; Hund soll stille jagen um Wild nicht zu erschrecken",
+    "FalscheAntwort2": "Laut nur beider Nachsuche; bei Stoeberarbeit ist Stille wichtig",
+    "FalscheAntwort3": "Lautjagen ist verboten; Hunde muessen schweigend jagen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie fuenf Verweisstuecke, die der Schweisshund bei der Nachsuche finden kann.",
+    "Antwort": "Schweiss (Blut), Pirschzeichen (Wildbretteile), Knochen(splitter), Mageninhalt, Kehlkopf, Schweissfaeden an Zweigen, abgebrochene Aste (Brechen), Laeufchen",
+    "FalscheAntwort1": "Nur Blut und Haar; mehr Verweiszeichen gibt es nicht",
+    "FalscheAntwort2": "Schweisshunde koennen keine Verweisstuecke unterscheiden",
+    "FalscheAntwort3": "Schleppen und Schuhsolen; Hunde verweisen nur auf menschliche Dufte",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie vier Schweissarten, die man bei einem getroffenen Stueck Wild auf der Wundfaehrte finden kann.",
+    "Antwort": "Hellroter schaumiger Schweiss (Lungen), dunkelroter Schweiss (Herz, Leber), blauroter Schweiss (Muskelgewebe), weisslicher/ schleimiger Schweiss mit Futterteilen (Waidwund / Pansen)",
+    "FalscheAntwort1": "Alle Schweissarten sind identisch; Farbe gibt keinen Hinweis auf Trefferlage",
+    "FalscheAntwort2": "Nur Blutrot und Hellrot; mehr Varianten gibt es nicht",
+    "FalscheAntwort3": "Schweiss ist immer schwarz; Farbe verändert sich nach Minuten",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Bei welchen Treffern folgt in der Regel eine schwierige Nachsuche?",
+    "Antwort": "Waidwundschuss (Pansen-/Darmtreffer), Laeufchenschuss, Blattschuss (Schulterbereich ohne Knochen), Geaesstreffer; Wild laeuft weit, wenig Schweiss",
+    "FalscheAntwort1": "Herz- und Lungentreffer sind die schwersten Nachsuchen",
+    "FalscheAntwort2": "Alle Treffer fuehren zur gleich schwierigen Nachsuche",
+    "FalscheAntwort3": "Nur Kopftreffer sind schwierig; alle anderen Treffer sind einfach",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie zwei Erkrankungen des Hasen, die auch auf den Menschen uebertragen werden koennen (Zoonosen).",
+    "Antwort": "Tularaemie (Hasenpest, gefaehrlich fuer Menschen); FSME (Fruehsommer-Meningoenzephalitis durch Zecken); Toxoplasmose; Leptospirose",
+    "FalscheAntwort1": "Myxomatose und Chinaseuche; beide sind auf Menschen uebertragbar",
+    "FalscheAntwort2": "Hasen-Erkrankungen sind nicht auf Menschen uebertragbar",
+    "FalscheAntwort3": "Staupe und Parvovirose; beide sind Zoonosen des Hasen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Parasiten koennen beim Rehwild im Fruehjahr bei starkem Befall zum Kuemmern der Stuecke fuehren?",
+    "Antwort": "Raubmilben (Sarkoptes), Lungenwuermer, Leberegelbefall; im Fruehjahr geschwaeehte Stuecke anfaellig fuer starken Parasitenbefall",
+    "FalscheAntwort1": "Nur Zecken fuehren zum Kuemmern; andere Parasiten sind harmlos",
+    "FalscheAntwort2": "Parasiten haben keinen Einfluss auf das Wachstum des Rehwildes",
+    "FalscheAntwort3": "Nur Bandwuermer kuemmern Rehe; alle anderen Parasiten sind ungefaehrlich",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie kann sich ein Jaeger beim Aufbrechen vor Uebertragung durch moeglich Krankheitserreger schuetzen?",
+    "Antwort": "Einmalhandschuhe (Gummihandschuhe) tragen, Mund-Nasen-Schutz bei Verdacht auf Atemwegserkrankungen, Haende desinfizieren, kein Handkontakt mit Schleimhaeuten, Schutzbrille bei Spritzgefahr",
+    "FalscheAntwort1": "Impfung vor jeder Jagd; Schutzkleidung ist nicht notwendig",
+    "FalscheAntwort2": "Kein Schutz notwendig; Wildkrankheiten werden nicht auf Menschen übertragen",
+    "FalscheAntwort3": "Handschuhe sind unnotig; Hände nach dem Aufbrechen waschen reicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie ein bedenkliches Merkmal, das die Verwertung des Wildbretes als Lebensmittel ausschliesst.",
+    "Antwort": "Waidwundschuss (Kotverunreinigung), starker fauliger Geruch, ausgepraegter Abszess, erhebliche Parasitenschilder, ungewoehnliche Organveraenderungen, Fallwild (nicht erlegtes Wild)",
+    "FalscheAntwort1": "Kleiner Bluterguss am Einschuss schliesst Verwertung immer aus",
+    "FalscheAntwort2": "Bedenkliche Merkmale gibt es nicht; alles erlegte Wild ist verwertbar",
+    "FalscheAntwort3": "Nur Trichinen schliessen die Verwertung aus; alle anderen Merkmale sind egal",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Dokumente sollte der Zueechter beim Verkauf eines Jagdhundwelpen aushaendigen?",
+    "Antwort": "Ahnentafel (vom Zuchtverband), Impfpass (mit Grundimmunisierung), Entwurmungsnachweis, Wurfabnahmeprotokoll (vom Zuchtwart), Kaufvertrag; evtl. Chipmeldebescheinigung",
+    "FalscheAntwort1": "Nur Kaufquittung; Ahnentafel und Impfpass sind freiwillig",
+    "FalscheAntwort2": "Kein Dokument noetig; Kauf per Handschlag reicht",
+    "FalscheAntwort3": "Nur Impfpass; Ahnentafel erst nach Erwerb beantragen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie alt muss der Welpe mindestens sein, bevor der Zueechter ihn abgeben darf?",
+    "Antwort": "Mindestens 8 Wochen (56 Tage); frueheres Abgeben ist tierschutzrechtlich verboten",
+    "FalscheAntwort1": "Mindestens 4 Wochen; dann koennen Welpen bereits selbstaendig fressen",
+    "FalscheAntwort2": "Mindestens 12 Wochen; vorher ist die Sozialisierung noch nicht abgeschlossen",
+    "FalscheAntwort3": "Kein Mindestalter; Welpe kann jederzeit abgegeben werden",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Die Jagdhundrassen werden nach Arbeitsgebieten eingeteilt. Nennen Sie fuenf unterschiedliche Arbeitsgebiete.",
+    "Antwort": "Vorstehhunde, Schweisshunde, Stoeberhunde, Erdhunde, Apportierhunde (Retriever), Bracken, nordische Hunde",
+    "FalscheAntwort1": "Gross-, Mittel- und Kleinhunde; Einteilung nur nach Groesse",
+    "FalscheAntwort2": "Kurz-, Lang- und Rauhhaarhuende; Einteilung nur nach Fell",
+    "FalscheAntwort3": "Nur zwei Arbeitsgebiete: vor dem Schuss und nach dem Schuss",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie verstaendigen Sie sich im Jagdbetrieb mit Ihrem Jagdhund?",
+    "Antwort": "Pfeifzeichen (lang, kurz, mehrfach), Handzeichen, Koerperhaltung, Stimme (Abruf, Halt), akustische Signale; Hund lernt Signale durch Ausbildung",
+    "FalscheAntwort1": "Ausschliesslich durch Schreien; Handzeichen werden von Hunden nicht verstanden",
+    "FalscheAntwort2": "Nur durch direkten Koerperkontakt; Fernkommunikation nicht moeglich",
+    "FalscheAntwort3": "Ueber Elektrohalsband; kein anderes Signal funktioniert im Jagdbetrieb",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche 4 Fachgruppen unterscheidet man auf einer Verbands-Gebrauchspruefung (VGP)?",
+    "Antwort": "Wald, Wasser, Feld, Sonderfaecher (Schliefen/Erdhundarbeit); je nach Rasse unterschiedliche Schwerpunkte",
+    "FalscheAntwort1": "Fruehling, Sommer, Herbst, Winter; jahreszeitliche Einteilung",
+    "FalscheAntwort2": "Haarwild, Federwild, Wasserwild, Spurarbeit; keine Gelaendegruppen",
+    "FalscheAntwort3": "Nur zwei Gruppen: vor dem Schuss und nach dem Schuss",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Ist die Afrikanische Schweinepest eine Gefahr fuer den Menschen (Zoonose)?",
+    "Antwort": "Nein; die Afrikanische Schweinepest (ASP) ist keine Zoonose; sie ist gefaehrlich fuer Haus- und Wildschweine, aber nicht auf Menschen uebertragbar",
+    "FalscheAntwort1": "Ja; ASP ist hochgefaehrlich fuer Menschen; besondere Schutzkleidung notwendig",
+    "FalscheAntwort2": "Ja; ASP kann Menschen durch Verzehr befallenen Fleisches infizieren",
+    "FalscheAntwort3": "Unbekannt; Forschung laeuft noch zu Zoonose-Potential von ASP",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Veraenderungen an den Organen eines Schwarzwildes koennen auf ASP (Afrikanische Schweinepest) hinweisen?",
+    "Antwort": "Punktfoermige oder flaechige Blutungen an Nieren, Lymphknoten (vergroessert, dunkelrot), Milz (stark vergroessert, dunkel), Blutergüsse in Organen; starke Allgemeinerkrankungszeichen",
+    "FalscheAntwort1": "Weisse Pünktchen auf der Leber sind sicheres Zeichen fuer ASP",
+    "FalscheAntwort2": "ASP hinterlaesst keine Organveraenderungen; nur Verhaltensaenderungen erkennbar",
+    "FalscheAntwort3": "Gelbsucht (Ikterus) ist das Hauptmerkmal der Afrikanischen Schweinepest",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Infektionskrankheit des Schwarzwildes kann unter bestimmten Umstaenden durch direkten Kontakt auf Hunde uebertragen werden?",
+    "Antwort": "Aujeszky-Krankheit (Pseudowut); Hund infiziert sich durch Biss oder Fressen von infiziertem Schwarzwildfleisch; fuer Hunde fast immer toedlich",
+    "FalscheAntwort1": "Afrikanische Schweinepest; Hunde koennen ASP vom Schwarzwild bekommen",
+    "FalscheAntwort2": "Klassische Schweinepest; direkte Uebertragung auf Hunde moeglich",
+    "FalscheAntwort3": "Rotlauf; Hunde infizieren sich regelmaessig beim Biss von Schwarzwild",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie wird eine Krankheit bezeichnet, die von einem Tier auf den Menschen uebertragen werden kann?",
+    "Antwort": "Zoonose (von griechisch: Zoion = Tier, Nosos = Krankheit); Beispiele: Tularaemie, Borreliose, Leptospirose, Trichinen, kleiner Fuchsbandwurm",
+    "FalscheAntwort1": "Tierseuche; dieser Begriff umfasst alle Krankheiten die auf Menschen uebertragen werden",
+    "FalscheAntwort2": "Epidemie; wenn Tierkrankheiten auf Menschen ueberspringen heisst das Epidemie",
+    "FalscheAntwort3": "Parasitose; alle Tierkrankheiten die Menschen befallen heissen Parasitosen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Infektionskrankheit hat in den letzten 25 Jahren zu einem dramatischen Rueckgang der Wildkaninchenpopulation gefuehrt?",
+    "Antwort": "RHD (Rabbit Haemorrhagic Disease / Chinaseuche) und Myxomatose; beide Viruserkrankungen fuehren zu Massensterben bei Wildkaninchen",
+    "FalscheAntwort1": "Tollwut; hat Wildkaninchen dezimiert",
+    "FalscheAntwort2": "Staupe; Wildkaninchen sind empfaenglich fuer Hunde-Staupe",
+    "FalscheAntwort3": "Tularaemie; hat Wildkaninchen und Hasen gleichermassen decimiert",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was ist der Unterschied zwischen einer geschulten und einer kundigen Person nach dem Lebensmittelrecht (Wildbret)?",
+    "Antwort": "Geschulte Person: JP zwischen 1987-2006, darf nur Direktvermarktung (Endverbraucher, oertlicher Handel). Kundige Person: JP ab 2006 oder Nachschulung, darf auch Abgabe an Wildverarbeitungsbetriebe und Grosshandel",
+    "FalscheAntwort1": "Geschulte Person darf mehr als kundige Person; Schulung gibt mehr Rechte",
+    "FalscheAntwort2": "Kein Unterschied; beide Bezeichnungen bedeuten das gleiche",
+    "FalscheAntwort3": "Kundige Person ist der Jaeger; geschulte Person ist der Metzger",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie eine parasitaere Erkrankung des Hasen, die haeufig zu Abmagerung und bei Junghasen zum Tode fuehren kann.",
+    "Antwort": "Coccidiose (Darmprozesse durch Eimeria-Arten); fuehrt v.a. bei Jungtieren zu starkem Durchfall, Abmagerung und Tod; auch Magendarm-Strongylosen",
+    "FalscheAntwort1": "Tollwut; fuehrt bei Hasen immer zu Abmagerung",
+    "FalscheAntwort2": "Myxomatose; parasitaere Erkrankung mit Abmagerung",
+    "FalscheAntwort3": "Staupe; Hase stirbt schnell an Staupe durch Abmagerung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was verstehen Sie im Zusammenhang mit den Jagdhunden mit dem Begriff 'schliefen'?",
+    "Antwort": "Schliefen: Erdhund (z.B. Jagdterrier, Dackel) faehrt in den Bau oder die Roehre (einschliefen) und stellt den Fuchs oder Dachs darin; auch: den Hund aus dem Bau herausbringen (ausschliefen)",
+    "FalscheAntwort1": "Schliefen: Hund legt sich ab und schlaeft bei der Jagd; Ruhephase des Hundes",
+    "FalscheAntwort2": "Schliefen: Hund schweigt auf der Fährte; spurstilles Jagen",
+    "FalscheAntwort3": "Schliefen: Hund apportiert Wildkaninchen aus dem Bau; ausschliesslich fuer Kaninchen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was verstehen Sie beim Jagdhund unter Federn, Hosen und Fahne?",
+    "Antwort": "Federn: lange Haare an der Rueckseite der Vorderlaeufe; Hosen: lange Haare an der Rueckseite der Hinterlaeufe; Fahne: lange Haare an der Rute (Schwanz)",
+    "FalscheAntwort1": "Federn: Zierfell am Ohr; Hosen: Bauchbehaarung; Fahne: Nasenbereich",
+    "FalscheAntwort2": "Federn, Hosen und Fahne sind Jagdsignale mit der Pfeife",
+    "FalscheAntwort3": "Federn: Kurzfell am Kopf; Hosen: Rueckenzeichnung; Fahne: Augenbrauen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Gehorsamkeitsfaecher werden bei den Brauchbarkeitspruefungen geprueft (mind. 3 nennen)?",
+    "Antwort": "Leinenfuehrigkeit, Standruhe bei der Treibjagd, Folgen frei bei Fuss, Ablegen und Schiessen",
+    "FalscheAntwort1": "Vorstehen, Apportieren und Schwimmen; Gehorsamkeit wird nicht geprueft",
+    "FalscheAntwort2": "Nur Leinenfuehrigkeit und Sitz; mehr Faecher gibt es nicht",
+    "FalscheAntwort3": "Agility-Parcours, Nasenarbeit und Schutzdienstarbeit",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wer erlaesst die Pruefungsordnungen zur VJP, HZP und VGP?",
+    "Antwort": "Der JGHV (Jagdgebrauchshundverband) erlaesst die Pruefungsordnungen fuer VJP, HZP, VGP; die Brauchbarkeitspruefung (BP) regelt jedes Bundesland durch den LJV eigenstaendig",
+    "FalscheAntwort1": "Das Bundesjagdgesetz schreibt Pruefungsordnungen bundeseinheitlich vor",
+    "FalscheAntwort2": "Jeder Zuchtverband erstellt seine eigene Pruefungsordnung unabhaengig",
+    "FalscheAntwort3": "Das Bundeslandwirtschaftsministerium erlaesst alle Pruefungsordnungen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Mit welcher Pruefung hat der Hund die Brauchbarkeit fuer Nachsuche Niederwild, Schalenwild und Stoeberarbeit?",
+    "Antwort": "VGP (Verbandsgebrauchspruefung) und VPS (Verbandsschweisshundpruefung); beide ermoeglichen Nachsuche auf Schalenwild und Niederwild sowie Stoeberarbeit",
+    "FalscheAntwort1": "Nur die VJP (Verbandsjugendpruefung) genuegt fuer alle Jagdarten",
+    "FalscheAntwort2": "Brauchbarkeitspruefung BP 1 genuegt fuer alle Nachsuchen",
+    "FalscheAntwort3": "Keine Pruefung notwendig; jeder Hund darf bei der Nachsuche eingesetzt werden",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie lang ist eine Schweissfaehrte bei der Verbandsschweisshundpruefung?",
+    "Antwort": "Mindestens 1000 Meter; Stehzeit mindestens 20 Stunden; Hund muss am Riemen und frei arbeitend geprueft werden",
+    "FalscheAntwort1": "Mindestens 100 Meter; Stehzeit 1 Stunde",
+    "FalscheAntwort2": "Mindestens 500 Meter ohne Mindeststehzeit",
+    "FalscheAntwort3": "Mindestens 2000 Meter; Pruefung dauert mehrere Tage",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was ist die Stehzeit im Zusammenhang mit der Schweisshundausbildung?",
+    "Antwort": "Stehzeit: Zeit zwischen dem Legen der Kunstfaehrte und dem Beginn der Arbeit (Abarbeiten der Faeehrte); bei der Verbandsschweisspruefung mind. 20 Stunden",
+    "FalscheAntwort1": "Stehzeit: Zeit die der Hund ruhig stehen muss bevor er loslaeuft",
+    "FalscheAntwort2": "Stehzeit: Pause des Hundes nach dem Finden des Wildes",
+    "FalscheAntwort3": "Stehzeit: Zeit zwischen Schuss und Beginn der Nachsuche",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Anzeichen erkennen Sie, wenn Ihr Welpe Wuermer hat (mind. 2)?",
+    "Antwort": "Rutschen auf dem Po (Schlittenfahren) bei Bandwurmbefall; Bandwurmglieder im Kot; Erbrechen von Spulwuermern; dicker Bauch mit Heisshunger; Gewichtsabnahme trotz gutem Appetit",
+    "FalscheAntwort1": "Trockene Nase und muedes Wesen; sicheres Zeichen fuer Wurmbefall",
+    "FalscheAntwort2": "Wurmbefall zeigt keinerlei Symptome; nur Kotuntersuchung beim Tierarzt",
+    "FalscheAntwort3": "Haarausfall und rote Haut; typische Wurmsymptome beim Welpen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Ordnen Sie den folgenden Krankheiten eine Wildart zu: Myxomatose, Tollwut, Kokziden, Moderhinke.",
+    "Antwort": "Myxomatose: Wildkaninchen; Tollwut: Fuchs, Dachs, Marderhund; Kokziden: Junghase, Kaninchen; Moderhinke: Muffelwild, Rotwild, Schafe",
+    "FalscheAntwort1": "Myxomatose: Feldhase; Tollwut: Reh; Kokziden: Schwarzwild; Moderhinke: Reh",
+    "FalscheAntwort2": "Alle vier Krankheiten befallen nur Schwarzwild",
+    "FalscheAntwort3": "Myxomatose: Schwarzwild; Tollwut: Vogel; Kokziden: Fisch; Moderhinke: Hund",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Vormaegen und den Magen hat das Rehwild (Wiederkaeuer)?",
+    "Antwort": "Pansen (groesster Vormaagen), Netzmagen (Reticulum), Blattermagen (Omasum/Psalter), Labmagen (echter Magen/Abomasum); zusammen vier Magenabschnitte",
+    "FalscheAntwort1": "Rehwild hat nur einen Magen wie der Hund; kein Wiederkaeuer",
+    "FalscheAntwort2": "Zwei Vormaegen: Pansen und Netzmagen; kein Blatter- oder Labmagen",
+    "FalscheAntwort3": "Drei Vormaegen: Pansen, Blattermagen, Labmagen; kein Netzmagen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was haben Sie entdeckt, wenn Sie bei einem Ueberlaeuferkeiler ein bedenkliches Merkmal finden, das auf Brucellose schliessen laesst?",
+    "Antwort": "Geschwollene Hoden (Epididymitis / Hodenentzeundung); Brucellose beim Schwarzwild (Brucella suis) fuehrt bei Keilern zu Hodenschwellungen und Hodenvereiterung",
+    "FalscheAntwort1": "Gelbfaerbung der Leber; typisches Brucellose-Merkmal beim Keiler",
+    "FalscheAntwort2": "Weisse Pünktchen auf den Lungen; sicheres Zeichen fuer Brucellose",
+    "FalscheAntwort3": "Vergroesserte dunkle Milz; einziges erkennbares Brucellose-Zeichen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "In welche Stuecke zerlegen Sie grob das Rotwild nach dem Erlegen?",
+    "Antwort": "2 Keulen, 2 Blaetter (Schultern), Ruecken (mit oder ohne ausgeloeste Lachs / Filets), Hals/Nacken, Rippen, Duennungen",
+    "FalscheAntwort1": "Nur in Vorder- und Hinterlaeufe; mehr Zerlegung ist nicht ueblich",
+    "FalscheAntwort2": "Rotwild wird nicht zerlegt; es wird im Ganzen gehandelt",
+    "FalscheAntwort3": "In 12 gleiche Teile; standardisierte Zerlegung per Gesetz vorgeschrieben",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Darf ein nicht erlegtes totes Stueck Wild nach amtlicher Fleischbeschau als Lebensmittel in den Verkehr gebracht werden?",
+    "Antwort": "Nein; Fallwild (nicht nach jagdrechtlichen Vorschriften erlegtes Wild) darf nicht als Lebensmittel vermarktet werden; es gilt als bedenkliches Merkmal",
+    "FalscheAntwort1": "Ja; nach amtlicher Untersuchung ist jedes Wild verwertbar",
+    "FalscheAntwort2": "Ja; Fallwild darf mit Wildursprungsschein frei vermarktet werden",
+    "FalscheAntwort3": "Nur wenn Todesursache bekannt ist; dann ist Fallwild unbedenklich",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wo sitzen die Zwerchfellpfeiler, die zur Trichinenuntersuchung beim Schwarzwild entnommen werden muessen?",
+    "Antwort": "In der Mitte des Zwerchfells dort wo der Schlund durch das Zwerchfell tritt; beim haengenden Aufbrechen direkt unterhalb der Filets; auch Zunge und Unterarmmuskulatur geeignet",
+    "FalscheAntwort1": "Am Rand des Zwerchfells nahe der Rippen; dort am leichtesten erreichbar",
+    "FalscheAntwort2": "An der Leber; Lebergewebe ist fuer Trichinenproben geeignet",
+    "FalscheAntwort3": "Am Hals des Tieres; Nackenmuskel ist bevorzugt fuer Trichinenuntersuchung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie Viruserkrankungen beim Feldhasen bei denen die Leber veraendert ist.",
+    "Antwort": "EBHS (Europaeisches Haemorrhagisches Syndrom, Calicivirus) verursacht Leberveraenderungen und Gelbsucht; RHD2 (Calicivirus-Variante) ebenfalls mit Leberbeteiligung",
+    "FalscheAntwort1": "Myxomatose verursacht Leberveraenderungen beim Hasen",
+    "FalscheAntwort2": "Tularaemie ist die einzige Erkrankung mit Leberveraenderungen beim Hasen",
+    "FalscheAntwort3": "Hasen haben keine Viruserkrankungen mit Leberbeteiligung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was ist das Deutsche Gebrauchshunde-Stammbuch (DGStB)?",
+    "Antwort": "Das DGStB ist das Jahrbuch des JGHV in dem alle Prufungsergebnisse anerkannter Jagdhunderassen veroeffentlicht werden; Hunde mit VGP/VPS erhalten eine 5-stellige DGStB-Nummer als Leistungszeichen",
+    "FalscheAntwort1": "Buch der schaensten Jagdhunde; Fotobuch ohne Pruefungsbezug",
+    "FalscheAntwort2": "Amtliches Register beim Bundesveterinaaramt; fuer alle Hunde verpflichtend",
+    "FalscheAntwort3": "Zuchtbuch nur fuer Deutscher Schaferhund; kein Zusammenhang mit Jagdhunden",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie 3 auslaendische Vorstehhundrassen.",
+    "Antwort": "Magyar Viszla (kurzhaarig und rauhaarig), Englischer Setter, Irischer Setter, Gordon Setter, Breton (Epagneul Breton), Boehmsicher Rauhbart",
+    "FalscheAntwort1": "Deutsch Kurzhaar, Deutsch Drahthaar, Weimaraner; alle drei sind auslaendisch",
+    "FalscheAntwort2": "Labrador, Golden Retriever, Beagle; alles Vorstehhunderassen",
+    "FalscheAntwort3": "Auslaendische Vorstehhunderassen gibt es nicht; alle Vorstehhunde sind deutsch",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Auf der VGP wird Totverweisen geprueft. Beschreiben Sie die Arbeitsweise des Hundes.",
+    "Antwort": "Nach Abarbeiten der 400m Schweissfaehrte am Riemen wird frische Fährte gelegt; Hund wird geschnallt und arbeitet frei; findet Stueck, schneidet es nicht an, kehrt zum Fuehrer zurueck und zeigt durch Totverweisen oder Bringsel an; fuehrt Fuehrer zum Stueck",
+    "FalscheAntwort1": "Hund apportiert das Stueck direkt zum Fuehrer; kein Zurueckkehren noetig",
+    "FalscheAntwort2": "Hund verbellt das Stueck lautgebend; Fuehrer folgt dem Laut",
+    "FalscheAntwort3": "Hund legt sich neben dem Stueck ab und wartet auf den Fuehrer",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Bei welchem Verhalten gilt ein Hund als schussscheu?",
+    "Antwort": "Hund stellt dauerhaft die Sucharbeit ein nach Schuss, reiusst aus, versteckt sich, zeigt deutliche Angstsymptome; wird auf der Prüfung disqualifiziert",
+    "FalscheAntwort1": "Hund bellt beim Schuss; dieses Verhalten gilt als schussscheu",
+    "FalscheAntwort2": "Hund laeuft beim Schuss zum Fuehrer; normales Schutzverhalten keine Scheue",
+    "FalscheAntwort3": "Schussscheu gibt es bei Jagdhunden nicht; alle Rassen sind schussfest",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie 5 Krankheiten, gegen die Sie Ihren Jagdhund impfen lassen koennen.",
+    "Antwort": "Staupe, Parvovirose, Leptospirose, Tollwut, Hepatitis contagiosa canis (HCC/Adenovirus), Zwingerhusten (Bordetella), Borreliose, Tetanus",
+    "FalscheAntwort1": "Jagdhunde koennen nicht geimpft werden; Impfungen sind nur fuer Haustiere",
+    "FalscheAntwort2": "Nur Tollwut-Impfung ist fuer Jagdhunde sinnvoll und zugelassen",
+    "FalscheAntwort3": "Impfungen schaden Jagdhunden; natuerliche Immunisierung wird bevorzugt",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Was sind beim Reh beulige Auftreibungen auf dem Ruecken und wie ist das Wildbret zu bewerten?",
+    "Antwort": "Hautdasseln: Larven der Hautdasselfliege (Hypoderma diana); wenn Wildbret nicht blutveraendert am Ruecken ist uneingeschraenkt zu verwerten; Larven entfernen",
+    "FalscheAntwort1": "Hautdasseln machen Wildbret grundsaetzlich untauglich; kein Verzehr moeglich",
+    "FalscheAntwort2": "Beulige Auftreibungen sind Abszesse; Wild ist immer untauglich",
+    "FalscheAntwort3": "Hautdasseln kommen bei Rehen nicht vor; nur bei Rindern",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie erfolgt die Ansteckung mit Trichinen beim Menschen?",
+    "Antwort": "Durch Verzehr von unerhitztem (rohem oder ungenuegend erhitztem) Fleisch in dem eingekapselte Trichinenlarven vorhanden sind; v.a. Schwein und Wildschwein",
+    "FalscheAntwort1": "Durch Zeckenstiche; Trichinen werden ausschliesslich durch Zecken uebertragen",
+    "FalscheAntwort2": "Durch Direktkontakt mit infiziertem Wild beim Aufbrechen",
+    "FalscheAntwort3": "Durch Trinkwasser; Trichinen kontaminieren Grundwasser",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wem ist eine Tierseuche wann anzuzeigen?",
+    "Antwort": "Bei Auftreten oder Verdacht einer anzeigepflichtigen Tierseuche sofort: Untere Jagdbehoerde und Veterinaeramt; keine Selbstbehandlung; keine Entsorgung ohne Genehmigung",
+    "FalscheAntwort1": "Tierseuchen muessen erst nach 48 Stunden gemeldet werden",
+    "FalscheAntwort2": "Nur der Jagdleiter muss informiert werden; Behoerden nicht noetig",
+    "FalscheAntwort3": "Anzeigepflicht besteht nur fuer Haustiere; Wild faellt nicht darunter",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Unter welchen Voraussetzungen darf eine kundige Person eigenstaendig eine Trichinenprobe nehmen?",
+    "Antwort": "Schulung und Registrierung bei der Veterinaerbehoerde des zustaendigen Kreises; dann Zuteilung von Wildmarken, Wildursprungsscheinen und Probengefaessen",
+    "FalscheAntwort1": "Jeder Jaeger darf automatisch Trichinenproben nehmen; keine Schulung noetig",
+    "FalscheAntwort2": "Trichinenproben duerfen nur Tieraerzte entnehmen; Jaeger nicht",
+    "FalscheAntwort3": "Kundige Person braucht keine Registrierung; Zertifikat reicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Erklaeren Sie den Unterschied von Fallwild und Unfallwild.",
+    "Antwort": "Fallwild: tot aufgefundenes Wild unbekannter Ursache; immer untauglich als Lebensmittel. Unfallwild: bei Verkehrsunfall verletztes Wild; mit Fangschuss erlegtes Wild = amtliche Untersuchung erforderlich; sonst untauglich",
+    "FalscheAntwort1": "Fallwild und Unfallwild sind identisch; beide immer verwertbar nach Untersuchung",
+    "FalscheAntwort2": "Fallwild ist immer verwertbar; Unfallwild nie",
+    "FalscheAntwort3": "Kein Unterschied; beide Begriffe bedeuten dasselbe",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Mit wieviel Tagen darf der Zueechter Welpen (z.B. Deutsch Drahthaar) an neue Besitzer abgeben?",
+    "Antwort": "Mit mindestens 8 Wochen (56 Tage, manche Verbaende sagen 8 Wochen und 1 Tag = 57 Tage); frueheres Abgeben ist tierschutzrechtlich verboten",
+    "FalscheAntwort1": "Mit 4 Wochen; sobald Welpen selbst fressen koennen",
+    "FalscheAntwort2": "Mit 12 Wochen; erst dann sind Welpen ausreichend sozialisiert",
+    "FalscheAntwort3": "Kein Mindestalter; Zueechter entscheidet selbst",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Nennen Sie sechs Anlagen (Eigenschaften) des Jagdhundes.",
+    "Antwort": "Spurlaut, Sichtlaut, Waidlaut, Vorstehen, Suche, Fuerigkeit (Faeherigkeit), Wasserfreude, Schussfestigkeit, Jagdpassion, Wildschaerfe, Apportierwille, Haertenachweis",
+    "FalscheAntwort1": "Bellen, Beissen, Rennen, Schwimmen, Fressen, Schlafen",
+    "FalscheAntwort2": "Rassemerkmale wie Fellfarbe, Groesse und Ohrenform",
+    "FalscheAntwort3": "Gehorsamkeit, Sitzen, Liegen, Platz, Fuss, Hier",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche Wildkrankheiten sind anzeigepflichtig?",
+    "Antwort": "Tollwut, Afrikanische Schweinepest (ASP), Klassische Schweinepest (KSP), Maul- und Klauenseuche, Geflügelpest (Vogelgrippe), Tularaemie; weitere nach Tierseuchengesetz",
+    "FalscheAntwort1": "Alle Wildkrankheiten sind anzeigepflichtig; keine Ausnahmen",
+    "FalscheAntwort2": "Keine Wildkrankheit ist anzeigepflichtig; nur Haustiere muessen gemeldet werden",
+    "FalscheAntwort3": "Nur Tollwut ist anzeigepflichtig; alle anderen nicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welches Wildtier hat keine Gallenblase?",
+    "Antwort": "Rehwild (und alle Wiederkaeuer: Rotwild, Damwild, Elch); sie haben keine Gallenblase; Schwarzwild, Feldhase und Federwild haben eine Gallenblase",
+    "FalscheAntwort1": "Schwarzwild hat keine Gallenblase; alle anderen Wildtiere haben eine",
+    "FalscheAntwort2": "Alle Wildtiere haben eine Gallenblase",
+    "FalscheAntwort3": "Fuchs hat keine Gallenblase; alle Wiederkaeuer haben eine",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Ordnen Sie den folgenden Erkrankungen eine Wildart zu: Staupe, Chinaseuche, Rotlauf, Strahlenpilzerkrankung.",
+    "Antwort": "Staupe: Fuchs, Marderhund, marderartige; Chinaseuche (RHD): Wildkaninchen; Rotlauf (Erysipelas): Schwarzwild; Strahlenpilzerkrankung (Aktinomykose): Rehwild",
+    "FalscheAntwort1": "Alle vier Erkrankungen befallen den Hasen",
+    "FalscheAntwort2": "Staupe: Reh; Chinaseuche: Fuchs; Rotlauf: Hase; Strahlenpilz: Vogel",
+    "FalscheAntwort3": "Chinaseuche und Rotlauf sind keine echten Tierkrankheiten",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Auf welche Temperatur muss Gross- und Kleinwild heruntergekuehlt werden?",
+    "Antwort": "Grosswild (Schalenwild): 7 Grad Celsius; Kleinwild und Federwild: 4 Grad Celsius; Kuehlkette muss durchgehend eingehalten werden",
+    "FalscheAntwort1": "Alle Wildarten auf 0 Grad Celsius kuehlen",
+    "FalscheAntwort2": "Grosswild auf 10 Grad; Kleinwild auf 7 Grad",
+    "FalscheAntwort3": "Keine gesetzliche Vorgabe; Jaeger entscheidet selbst",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche formalen Voraussetzungen muss der Jaeger erfuellen, um Wildbret direkt vermarkten zu koennen?",
+    "Antwort": "Geschulte Person (JP nach 1987) oder kundige Person; Wild frei von bedenklichen Merkmalen; bei Schwarzwild Trichinenprobe negativ; Registrierung als Lebensmittelunternehmer beim Veterinaeramt",
+    "FalscheAntwort1": "Kein besonderer Nachweis noetig; jeder Jaeger darf Wild vermarkten",
+    "FalscheAntwort2": "Nur Metzger duerfen Wildbret vermarkten; Jaeger nicht",
+    "FalscheAntwort3": "Nur ein gueltiger Jagdschein genuegt fuer die Direktvermarktung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche mengenmassigen und geografischen Einschraenkungen gelten bei der Direktvermarktung von Wild?",
+    "Antwort": "Strecke eines Jagdtages (kleine Mengen); 100 km Umkreis um Wohnort oder Erlegungsort; Abgabe an Endverbraucher oder oertliche Einzelhandelsgeschafte",
+    "FalscheAntwort1": "Keine Einschraenkungen; unbegrenzte Mengen bundesweit erlaubt",
+    "FalscheAntwort2": "Nur 5 Stueck pro Monat; nur im eigenen Bundesland",
+    "FalscheAntwort3": "50 km Radius; maximal 10 Stueck pro Jagdtag",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Im Moment gibt es zwei Wildkrankheiten, die seuchenhaft in Schleswig-Holstein auftreten. Wie heissen die Krankheiten und welche Tiere sind betroffen?",
+    "Antwort": "Myxomatose: Wildkaninchen (erstmals auch Feldhasen betroffen); Geflügelpest (Vogelgrippe H5N1): Wasservoegel und Kraniche besonders betroffen",
+    "FalscheAntwort1": "Tollwut und ASP; beide seuchenhaft in SH",
+    "FalscheAntwort2": "Tularaemie und Raeude; betreffen Hasen und Fuechse",
+    "FalscheAntwort3": "KSP und Rotlauf; beide seuchenhaft beim Schwarzwild",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wo werden beim Schwarzwild die Trichinenproben entnommen, wieviel Gramm Fleisch und welches Dokument muss ausgefuellt werden?",
+    "Antwort": "Mind. 10g Muskelgewebe aus Zwerchfellpfeilern, Zunge oder Unterarmmuskulatur; Wildursprungsschein ausfuellen; Wild erst nach negativem Befund verwerten",
+    "FalscheAntwort1": "1g aus Leber genuegt; kein Dokument noetig",
+    "FalscheAntwort2": "Probe aus dem Herz; 50g; Veterinaerzeugnis ausfuellen",
+    "FalscheAntwort3": "Trichinenproben werden beim Aufbrechen nicht entnommen; nur im Labor",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Sie gehen als Treiber bei einer Drueckjagd mit und finden einen toten Frischling ohne Schusswunde. Was tun Sie?",
+    "Antwort": "Verdacht auf Fallwild / ASP: Stelle mit Flatterband absperren; Polizei oder Veterinaeramt anrufen; Stueck nicht selbst abtransportieren; kein Blut und Innereien im Revier verteilen; Behorden organisieren sachgerechten Abtransport",
+    "FalscheAntwort1": "Frischling selbst ausbrechen und im Kofferraum mitnehmen",
+    "FalscheAntwort2": "Frischling im Wald liegenlassen und niemanden informieren",
+    "FalscheAntwort3": "Frischling vergraben damit keine Seuche sich ausbreiten kann",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Welche gesundheitlichen Aspekte werden auf der Zuchtpruefung beim Jagdhund kontrolliert?",
+    "Antwort": "Augenfehler (En-/Ektropium), Zahnfehler (fehlende oder doppelte Zaehne), Gebissfehler (Vor-, Rueck-, Kreuzbiss), Hodenfehler beim Rueden (Kryptorchismus)",
+    "FalscheAntwort1": "Nur Koerpergewicht und Groesse werden auf der Zuchtpruefung geprueft",
+    "FalscheAntwort2": "Gesundheitsaspekte werden auf der Zuchtpruefung nicht kontrolliert",
+    "FalscheAntwort3": "Nur Blutbild und Roentenaufnahmen beim Tierarzt; nicht auf der Pruefung",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Wie kann Faeulnis beim Wildbret entstehen?",
+    "Antwort": "Durch zu spaetes Aufbrechen; bakterielle Besiedlung bei Waidwundschuss oder schlechter Hygiene; unzureichend ausgeschnittener Schusskanal; zu langsame Kuehlung; Darmschranke bricht zusammen und Faeulnisbakterien wandern ein",
+    "FalscheAntwort1": "Faeulnis entsteht nur durch Gifte; kein Zusammenhang mit Aufbrechen",
+    "FalscheAntwort2": "Wildbret fault nie wenn es im Freien liegt; Kaelte verhindert immer Faeulnis",
+    "FalscheAntwort3": "Faeulnis ist nur bei Federwild moeglich; Schalenwild faellt nicht",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Sie haben einen Frischling erlegt. Beim Aufbrechen fallen Ihnen weisse Punkte auf der Leber auf. Worum handelt es sich?",
+    "Antwort": "Milkspots: vernarbte Wandergaenge von Spulwurmlarven (Ascaris suum) im Lebergewebe; Spulwuermer sitzen im Darm; Wildbret trotzdem verwertbar wenn keine weiteren Veraenderungen vorliegen",
+    "FalscheAntwort1": "Weisse Punkte sind immer Zeichen fuer ASP; Wild sofort entsorgen",
+    "FalscheAntwort2": "Weisse Punkte sind Kalkablagerungen; normales Alterszeichen ohne Bedeutung",
+    "FalscheAntwort3": "Weisse Leberpunkte sind Trichinen; Wild ist gesundheitsgefaehrdend",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
+  },
+  {
+    "Frage": "Auf welche Innentemperatur muss Wild abgekuehlt werden? (Hase/Kanin, Schalenwild, Federwild)",
+    "Antwort": "Hase und Wildkaninchen: 4 Grad C; Schalenwild (Damwild, Rehwild, Rotwild, Schwarzwild): 7 Grad C; Federwild: 4 Grad C",
+    "FalscheAntwort1": "Alle Wildarten auf -18 Grad C (Tiefkuehlung) bringen",
+    "FalscheAntwort2": "Schalenwild auf 4 Grad; Federwild auf 7 Grad",
+    "FalscheAntwort3": "Keine gesetzliche Temperaturvorgabe; Kuehlkette nach Ermessen",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen"
   }
 ]
