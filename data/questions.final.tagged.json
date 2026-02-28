@@ -905,86 +905,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört Stockente?",
-    "Antwort": "Gründelente",
-    "FalscheAntwort1": "Tauchente",
-    "FalscheAntwort2": "Hühnervogel",
-    "FalscheAntwort3": "Greifvogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Stockente?",
-    "FrageMC": "Zu welcher Gruppe gehört Stockente?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Reiherente?",
-    "Antwort": "Tauchente",
-    "FalscheAntwort1": "Gründelente",
-    "FalscheAntwort2": "Raufußhuhn",
-    "FalscheAntwort3": "Greifvogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Reiherente?",
-    "FrageMC": "Zu welcher Gruppe gehört Reiherente?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Fasan?",
-    "Antwort": "Hühnervogel",
-    "FalscheAntwort1": "Gründelente",
-    "FalscheAntwort2": "Singvogel",
-    "FalscheAntwort3": "Raufußhuhn",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Fasan?",
-    "FrageMC": "Zu welcher Gruppe gehört Fasan?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Mäusebussard?",
-    "Antwort": "Greifvogel",
-    "FalscheAntwort1": "Rabenvogel",
-    "FalscheAntwort2": "Taubenvogel",
-    "FalscheAntwort3": "Hühnervogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Mäusebussard?",
-    "FrageMC": "Zu welcher Gruppe gehört Mäusebussard?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Rabenkrähe?",
-    "Antwort": "Rabenvogel",
-    "FalscheAntwort1": "Greifvogel",
-    "FalscheAntwort2": "Taubenvogel",
-    "FalscheAntwort3": "Raufußhuhn",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Rabenkrähe?",
-    "FrageMC": "Zu welcher Gruppe gehört Rabenkrähe?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Welche Wildart zeigt eine Keimruhe?",
     "Antwort": "Rehwild",
     "FalscheAntwort1": "Rotwild",
@@ -1082,7 +1002,7 @@
       "rehwild"
     ],
     "FrageFreitext": "Wann wirft der Rehbock sein Gehörn ab?",
-    "FrageMC": "Welche Aussage ist richtig: Wann wirft der Rehbock sein Gehörn ab?",
+    "FrageMC": "Wann wirft der Rehbock sein Gehörn ab?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1506,22 +1426,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie lange trägt die Fuchsfähe?",
-    "Antwort": "51–54 Tage",
-    "FalscheAntwort1": "20–25 Tage",
-    "FalscheAntwort2": "80–90 Tage",
-    "FalscheAntwort3": "120 Tage",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "hard",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie lange trägt die Fuchsfähe?",
-    "FrageMC": "Wie lange trägt die Fuchsfähe?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Fuchsfähe trägt ungefähr …?",
     "Antwort": "51–54 Tage",
     "FalscheAntwort1": "20–25 Tage",
@@ -1534,86 +1438,6 @@
     ],
     "FrageFreitext": "Fuchsfähe trägt ungefähr …?",
     "FrageMC": "Fuchsfähe trägt ungefähr …?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit des Rehwildes?",
-    "Antwort": "Blattzeit",
-    "FalscheAntwort1": "Ranzzeit",
-    "FalscheAntwort2": "Brunftplatz",
-    "FalscheAntwort3": "Setzzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit des Rehwildes?",
-    "FrageMC": "Wie nennt man die Paarungszeit des Rehwildes?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "In welchem Monat verfegt der Rehbock typischerweise?",
-    "Antwort": "März bis April",
-    "FalscheAntwort1": "Juni bis Juli",
-    "FalscheAntwort2": "September bis Oktober",
-    "FalscheAntwort3": "Dezember bis Januar",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "In welchem Monat verfegt der Rehbock typischerweise?",
-    "FrageMC": "In welchem Monat verfegt der Rehbock typischerweise?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt die männliche Bezeichnung beim Rehwild?",
-    "Antwort": "Bock",
-    "FalscheAntwort1": "Hirsch",
-    "FalscheAntwort2": "Widder",
-    "FalscheAntwort3": "Keiler",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie heißt die männliche Bezeichnung beim Rehwild?",
-    "FrageMC": "Wie heißt die männliche Bezeichnung beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt die weibliche Bezeichnung beim Rehwild?",
-    "Antwort": "Ricke",
-    "FalscheAntwort1": "Hinde",
-    "FalscheAntwort2": "Bache",
-    "FalscheAntwort3": "Fähe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie heißt die weibliche Bezeichnung beim Rehwild?",
-    "FrageMC": "Wie heißt die weibliche Bezeichnung beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie lang ist die Tragzeit beim Rehwild ungefähr inklusive Keimruhe?",
-    "Antwort": "Etwa 40 Wochen",
-    "FalscheAntwort1": "Etwa 24 Wochen",
-    "FalscheAntwort2": "Etwa 12 Wochen",
-    "FalscheAntwort3": "Etwa 52 Wochen",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie lang ist die Tragzeit beim Rehwild ungefähr inklusive Keimruhe?",
-    "FrageMC": "Wie lang ist die Tragzeit beim Rehwild ungefähr inklusive Keimruhe?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -1640,70 +1464,6 @@
     ]
   },
   {
-    "Frage": "Welches Raubwild wird im Winter weiß?",
-    "Antwort": "Hermelin",
-    "FalscheAntwort1": "Steinmarder",
-    "FalscheAntwort2": "Iltis",
-    "FalscheAntwort3": "Dachs",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Welches Raubwild wird im Winter weiß?",
-    "FrageMC": "Welches Raubwild wird im Winter weiß?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welches ist das größte heimische Haarraubwild in Schleswig-Holstein?",
-    "Antwort": "Dachs",
-    "FalscheAntwort1": "Fuchs",
-    "FalscheAntwort2": "Marderhund",
-    "FalscheAntwort3": "Iltis",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Welches ist das größte heimische Haarraubwild in Schleswig-Holstein?",
-    "FrageMC": "Welches ist das größte heimische Haarraubwild in Schleswig-Holstein?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man den Schwanz des Fuchses in der Jägersprache?",
-    "Antwort": "Lunte",
-    "FalscheAntwort1": "Rute",
-    "FalscheAntwort2": "Fahne",
-    "FalscheAntwort3": "Pürzel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie nennt man den Schwanz des Fuchses in der Jägersprache?",
-    "FrageMC": "Wie nennt man den Schwanz des Fuchses in der Jägersprache?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Woran erkennt man beim Damhirsch die Schaufelbildung?",
-    "Antwort": "An verbreiterten Geweihenden",
-    "FalscheAntwort1": "An fehlenden Rosenstöcken",
-    "FalscheAntwort2": "An Gabelsprossen ohne Enden",
-    "FalscheAntwort3": "An spiraligem Gehörn",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Woran erkennt man beim Damhirsch die Schaufelbildung?",
-    "FrageMC": "Woran erkennt man beim Damhirsch die Schaufelbildung?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Wie wird die Stockente eingeordnet?",
     "Antwort": "Sie ist ein Gründelentenvogel",
     "FalscheAntwort1": "Sie ist ein Tauchentenvogel",
@@ -1716,410 +1476,6 @@
     ],
     "FrageFreitext": "Wie wird die Stockente eingeordnet?",
     "FrageMC": "Wie wird die Stockente eingeordnet?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Jungen beim Fuchs?",
-    "Antwort": "Welpen",
-    "FalscheAntwort1": "Küken",
-    "FalscheAntwort2": "Frischlinge",
-    "FalscheAntwort3": "Kitze",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie nennt man die Jungen beim Fuchs?",
-    "FrageMC": "Wie nennt man die Jungen beim Fuchs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das männliche Stück beim Rotwild?",
-    "Antwort": "Hirsch",
-    "FalscheAntwort1": "Bock",
-    "FalscheAntwort2": "Keiler",
-    "FalscheAntwort3": "Rüde",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rotwild"
-    ],
-    "FrageFreitext": "Wie heißt das männliche Stück beim Rotwild?",
-    "FrageMC": "Wie heißt das männliche Stück beim Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit beim Rehwild?",
-    "Antwort": "Blattzeit",
-    "FalscheAntwort1": "Brunft",
-    "FalscheAntwort2": "Ranzzeit",
-    "FalscheAntwort3": "Setzzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit beim Rehwild?",
-    "FrageMC": "Wie nennt man die Paarungszeit beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit beim Rotwild?",
-    "Antwort": "Brunft",
-    "FalscheAntwort1": "Blattzeit",
-    "FalscheAntwort2": "Ranzzeit",
-    "FalscheAntwort3": "Feistzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rotwild"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit beim Rotwild?",
-    "FrageMC": "Wie nennt man die Paarungszeit beim Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit beim Damwild?",
-    "Antwort": "Brunft",
-    "FalscheAntwort1": "Ranzzeit",
-    "FalscheAntwort2": "Setzzeit",
-    "FalscheAntwort3": "Blattzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "damwild"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit beim Damwild?",
-    "FrageMC": "Wie nennt man die Paarungszeit beim Damwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit beim Fuchs?",
-    "Antwort": "Ranzzeit",
-    "FalscheAntwort1": "Brunft",
-    "FalscheAntwort2": "Blattzeit",
-    "FalscheAntwort3": "Feistzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit beim Fuchs?",
-    "FrageMC": "Wie nennt man die Paarungszeit beim Fuchs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie nennt man die Paarungszeit beim Dachs?",
-    "Antwort": "Ranzzeit",
-    "FalscheAntwort1": "Setzzeit",
-    "FalscheAntwort2": "Brunft",
-    "FalscheAntwort3": "Blattzeit",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie nennt man die Paarungszeit beim Dachs?",
-    "FrageMC": "Wie nennt man die Paarungszeit beim Dachs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das männliche Stück beim Rehwild?",
-    "Antwort": "Bock",
-    "FalscheAntwort1": "Hirsch",
-    "FalscheAntwort2": "Keiler",
-    "FalscheAntwort3": "Widder",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie heißt das männliche Stück beim Rehwild?",
-    "FrageMC": "Wie heißt das männliche Stück beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das männliche Stück beim Damwild?",
-    "Antwort": "Hirsch",
-    "FalscheAntwort1": "Bock",
-    "FalscheAntwort2": "Keiler",
-    "FalscheAntwort3": "Rüde",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "damwild"
-    ],
-    "FrageFreitext": "Wie heißt das männliche Stück beim Damwild?",
-    "FrageMC": "Wie heißt das männliche Stück beim Damwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das männliche Stück beim Schwarzwild?",
-    "Antwort": "Keiler",
-    "FalscheAntwort1": "Bock",
-    "FalscheAntwort2": "Hirsch",
-    "FalscheAntwort3": "Rüde",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Wie heißt das männliche Stück beim Schwarzwild?",
-    "FrageMC": "Wie heißt das männliche Stück beim Schwarzwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das männliche Stück beim Fuchs?",
-    "Antwort": "Rüde",
-    "FalscheAntwort1": "Keiler",
-    "FalscheAntwort2": "Bock",
-    "FalscheAntwort3": "Hirsch",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie heißt das männliche Stück beim Fuchs?",
-    "FrageMC": "Wie heißt das männliche Stück beim Fuchs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das weibliche Stück beim Rehwild?",
-    "Antwort": "Ricke",
-    "FalscheAntwort1": "Hinde",
-    "FalscheAntwort2": "Bache",
-    "FalscheAntwort3": "Fähe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie heißt das weibliche Stück beim Rehwild?",
-    "FrageMC": "Wie heißt das weibliche Stück beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das weibliche Stück beim Rotwild?",
-    "Antwort": "Alttier",
-    "FalscheAntwort1": "Ricke",
-    "FalscheAntwort2": "Bache",
-    "FalscheAntwort3": "Fähe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rotwild"
-    ],
-    "FrageFreitext": "Wie heißt das weibliche Stück beim Rotwild?",
-    "FrageMC": "Wie heißt das weibliche Stück beim Rotwild?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [
-      "Schmaltier",
-      "Kahlwild"
-    ],
-    "ReportFlag": "AUTO_REVIEW:Antwortmöglichkeiten sind falsch. Richtig wäre Alttier oder schmalwild oder kahlwild oder"
-  },
-  {
-    "Frage": "Wie heißt das weibliche Stück beim Damwild?",
-    "Antwort": "Tier",
-    "FalscheAntwort1": "Ricke",
-    "FalscheAntwort2": "Bache",
-    "FalscheAntwort3": "Fähe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "damwild"
-    ],
-    "FrageFreitext": "Wie heißt das weibliche Stück beim Damwild?",
-    "FrageMC": "Wie heißt das weibliche Stück beim Damwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das weibliche Stück beim Schwarzwild?",
-    "Antwort": "Bache",
-    "FalscheAntwort1": "Ricke",
-    "FalscheAntwort2": "Hinde",
-    "FalscheAntwort3": "Fähe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Wie heißt das weibliche Stück beim Schwarzwild?",
-    "FrageMC": "Wie heißt das weibliche Stück beim Schwarzwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das weibliche Stück beim Fuchs?",
-    "Antwort": "Fähe",
-    "FalscheAntwort1": "Bache",
-    "FalscheAntwort2": "Ricke",
-    "FalscheAntwort3": "Hinde",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie heißt das weibliche Stück beim Fuchs?",
-    "FrageMC": "Wie heißt das weibliche Stück beim Fuchs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das Jungtier beim Rehwild?",
-    "Antwort": "Kitz",
-    "FalscheAntwort1": "Frischling",
-    "FalscheAntwort2": "Kalb",
-    "FalscheAntwort3": "Welpe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Wie heißt das Jungtier beim Rehwild?",
-    "FrageMC": "Wie heißt das Jungtier beim Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das Jungtier beim Rotwild?",
-    "Antwort": "Kalb",
-    "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Frischling",
-    "FalscheAntwort3": "Welpe",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "rotwild"
-    ],
-    "FrageFreitext": "Wie heißt das Jungtier beim Rotwild?",
-    "FrageMC": "Wie heißt das Jungtier beim Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das Jungtier beim Damwild?",
-    "Antwort": "Kalb",
-    "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Frischling",
-    "FalscheAntwort3": "Lamm",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "damwild"
-    ],
-    "FrageFreitext": "Wie heißt das Jungtier beim Damwild?",
-    "FrageMC": "Wie heißt das Jungtier beim Damwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das Jungtier beim Schwarzwild?",
-    "Antwort": "Frischling",
-    "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Kalb",
-    "FalscheAntwort3": "Lamm",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Wie heißt das Jungtier beim Schwarzwild?",
-    "FrageMC": "Wie heißt das Jungtier beim Schwarzwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie heißt das Jungtier beim Fuchs?",
-    "Antwort": "Welpe",
-    "FalscheAntwort1": "Kitz",
-    "FalscheAntwort2": "Frischling",
-    "FalscheAntwort3": "Junghase",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs"
-    ],
-    "FrageFreitext": "Wie heißt das Jungtier beim Fuchs?",
-    "FrageMC": "Wie heißt das Jungtier beim Fuchs?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Ernährungsweise hat Rotwild?",
-    "Antwort": "Wiederkäuer",
-    "FalscheAntwort1": "Allesfresser",
-    "FalscheAntwort2": "Nagetier",
-    "FalscheAntwort3": "Insektenfresser",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "rotwild"
-    ],
-    "FrageFreitext": "Welche Ernährungsweise hat Rotwild?",
-    "FrageMC": "Welche Ernährungsweise hat Rotwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Ernährungsweise hat Damwild?",
-    "Antwort": "Wiederkäuer",
-    "FalscheAntwort1": "Allesfresser",
-    "FalscheAntwort2": "Nagetier",
-    "FalscheAntwort3": "Insektenfresser",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "damwild"
-    ],
-    "FrageFreitext": "Welche Ernährungsweise hat Damwild?",
-    "FrageMC": "Welche Ernährungsweise hat Damwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Ernährungsweise hat Rehwild?",
-    "Antwort": "Wiederkäuer",
-    "FalscheAntwort1": "Allesfresser",
-    "FalscheAntwort2": "Nagetier",
-    "FalscheAntwort3": "Insektenfresser",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Welche Ernährungsweise hat Rehwild?",
-    "FrageMC": "Welche Ernährungsweise hat Rehwild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Ernährungsweise hat Schwarzwild?",
-    "Antwort": "Allesfresser",
-    "FalscheAntwort1": "Wiederkäuer",
-    "FalscheAntwort2": "Reiner Fleischfresser",
-    "FalscheAntwort3": "Insektenfresser",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Welche Ernährungsweise hat Schwarzwild?",
-    "FrageMC": "Welche Ernährungsweise hat Schwarzwild?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -2172,22 +1528,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Stockente?",
-    "Antwort": "Gründelente",
-    "FalscheAntwort1": "Tauchente",
-    "FalscheAntwort2": "Hühnervogel",
-    "FalscheAntwort3": "Greifvogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Stockente?",
-    "FrageMC": "Zu welcher Gruppe gehört der Stockente?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Zu welcher Gruppe gehört der Reiherente?",
     "Antwort": "Tauchente",
     "FalscheAntwort1": "Gründelente",
@@ -2201,22 +1541,6 @@
     "FrageFreitext": "Zu welcher Gruppe gehört der Reiherente?",
     "FrageMC": "Zu welcher Gruppe gehört der Reiherente?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört der Reiherente?",
-    "Antwort": "Tauchente",
-    "FalscheAntwort1": "Gründelente",
-    "FalscheAntwort2": "Raufußhuhn",
-    "FalscheAntwort3": "Greifvogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Reiherente?",
-    "FrageMC": "Zu welcher Gruppe gehört der Reiherente?",
-    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -2236,22 +1560,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Zu welcher Gruppe gehört der Fasan?",
-    "Antwort": "Hühnervogel",
-    "FalscheAntwort1": "Gründelente",
-    "FalscheAntwort2": "Singvogel",
-    "FalscheAntwort3": "Raufußhuhn",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Fasan?",
-    "FrageMC": "Zu welcher Gruppe gehört der Fasan?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Zu welcher Gruppe gehört der Mäusebussard?",
     "Antwort": "Greifvogel",
     "FalscheAntwort1": "Rabenvogel",
@@ -2265,22 +1573,6 @@
     "FrageFreitext": "Zu welcher Gruppe gehört der Mäusebussard?",
     "FrageMC": "Zu welcher Gruppe gehört der Mäusebussard?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört der Mäusebussard?",
-    "Antwort": "Greifvogel",
-    "FalscheAntwort1": "Rabenvogel",
-    "FalscheAntwort2": "Taubenvogel",
-    "FalscheAntwort3": "Hühnervogel",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört der Mäusebussard?",
-    "FrageMC": "Zu welcher Gruppe gehört der Mäusebussard?",
-    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -3196,22 +2488,6 @@
   },
   {
     "Frage": "Zu welcher Gruppe gehört Graugans?",
-    "Antwort": "Gänsevogel",
-    "FalscheAntwort1": "Hühnervogel",
-    "FalscheAntwort2": "Rabenvogel",
-    "FalscheAntwort3": "Limikole",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Graugans?",
-    "FrageMC": "Zu welcher Gruppe gehört Graugans?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Graugans?",
     "Antwort": "Der Graugans gehört zur Gruppe Gänsevogel",
     "FalscheAntwort1": "Der Graugans ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Graugans gehört zum Schalenwild",
@@ -3260,22 +2536,6 @@
   },
   {
     "Frage": "Zu welcher Gruppe gehört Kolkrabe?",
-    "Antwort": "Rabenvogel",
-    "FalscheAntwort1": "Hühnervogel",
-    "FalscheAntwort2": "Rabenvogel",
-    "FalscheAntwort3": "Limikole",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "easy",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Kolkrabe?",
-    "FrageMC": "Zu welcher Gruppe gehört Kolkrabe?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Kolkrabe?",
     "Antwort": "Der Kolkrabe gehört zur Gruppe Rabenvogel",
     "FalscheAntwort1": "Der Kolkrabe ist ein reiner Pflanzenfresser",
     "FalscheAntwort2": "Der Kolkrabe gehört zum Schalenwild",
@@ -3303,22 +2563,6 @@
     ],
     "FrageFreitext": "Zu welcher Gruppe gehört Mäusebussard?",
     "FrageMC": "Zu welcher Gruppe gehört Mäusebussard?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Zu welcher Gruppe gehört Habicht?",
-    "Antwort": "Greifvogel",
-    "FalscheAntwort1": "Hühnervogel",
-    "FalscheAntwort2": "Rabenvogel",
-    "FalscheAntwort3": "Limikole",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Zu welcher Gruppe gehört Habicht?",
-    "FrageMC": "Zu welcher Gruppe gehört Habicht?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -3385,29 +2629,6 @@
     "FrageMC": "Wie kommen die Jungen des Feldhasen zur Welt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über Rabenvögeln korrekt?",
-    "Antwort": "Rabenkrähe und Saatkrähe gehören dazu",
-    "FalscheAntwort1": "Stockente und Reiherente gehören dazu",
-    "FalscheAntwort2": "Fasan und Rebhuhn gehören dazu",
-    "FalscheAntwort3": "Mäusebussard und Habicht gehören dazu",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "hard",
-    "Tags": [
-      "wildtierkunde"
-    ],
-    "FrageFreitext": "Was ist über Rabenvögeln korrekt?",
-    "FrageMC": "Was ist über Rabenvögeln korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [
-      "Rabenkrähe",
-      "Saatkrähe",
-      "Kolkrabe",
-      "Elster",
-      "Dohle",
-      "Eichelhäher"
-    ]
   },
   {
     "Frage": "Wann liegt die Ranzzeit des Fuchses?",
@@ -4085,22 +3306,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über „Mündungsknall“ korrekt?",
-    "Antwort": "entsteht durch austretende Pulvergase",
-    "FalscheAntwort1": "entsteht nur durch Seitenwind",
-    "FalscheAntwort2": "ist dasselbe wie Geschossknall",
-    "FalscheAntwort3": "tritt nur mit Schalldämpfer auf",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Was ist über „Mündungsknall“ korrekt?",
-    "FrageMC": "Was ist über „Mündungsknall“ korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Erklären Sie den Begriff „Geschossknall“?",
     "Antwort": "entsteht bei Überschallflug",
     "FalscheAntwort1": "entsteht durch Zündhütchen allein",
@@ -4406,103 +3611,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wofür steht „Fleck eingeschossen“?",
-    "Antwort": "Treffpunkt entspricht Haltepunkt auf definierte Distanz",
-    "FalscheAntwort1": "Geschoss trifft immer 4 cm hoch",
-    "FalscheAntwort2": "Trefferlage ist seitlich korrigiert",
-    "FalscheAntwort3": "Waffe ist nur für Schrot geeignet",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Wofür steht „Fleck eingeschossen“?",
-    "FrageMC": "Wofür steht „Fleck eingeschossen“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welches Pulver wird in Büchsenpatronen verwendet?",
-    "Antwort": "Progressiv abbrennendes Nitropulver",
-    "FalscheAntwort1": "Schwarzpulver als Standard",
-    "FalscheAntwort2": "Nur grobkörniges Schrotpulver",
-    "FalscheAntwort3": "Pulver ohne Druckanstieg",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "büchse"
-    ],
-    "FrageFreitext": "Welches Pulver wird in Büchsenpatronen verwendet?",
-    "FrageMC": "Welches Pulver wird in Büchsenpatronen verwendet?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie wirkt sich weniger Vergrößerung im Zielfernrohr meist aus?",
-    "Antwort": "Größeres Sehfeld",
-    "FalscheAntwort1": "Kleineres Sehfeld",
-    "FalscheAntwort2": "Stärkerer Rückstoß",
-    "FalscheAntwort3": "Höherer Gasdruck",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Wie wirkt sich weniger Vergrößerung im Zielfernrohr meist aus?",
-    "FrageMC": "Wie wirkt sich weniger Vergrößerung im Zielfernrohr meist aus?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Darf eine Selbstladebüchse jagdlich geführt werden?",
-    "Antwort": "Ja, im Rahmen der jagd- und waffenrechtlichen Vorgaben",
-    "FalscheAntwort1": "Nein, grundsätzlich nie",
-    "FalscheAntwort2": "Nur auf Schießständen",
-    "FalscheAntwort3": "Nur mit Vollautomatik",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "büchse",
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Darf eine Selbstladebüchse jagdlich geführt werden?",
-    "FrageMC": "Darf eine Selbstladebüchse jagdlich geführt werden?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wozu dient Choke bei Flinten?",
-    "Antwort": "Beeinflussung der Schrotgarbe",
-    "FalscheAntwort1": "Erhöhung der Mündungsgeschwindigkeit bei Büchsen",
-    "FalscheAntwort2": "Sicherung gegen Doppelschuss",
-    "FalscheAntwort3": "Lautstärkereduktion",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "flinte"
-    ],
-    "FrageFreitext": "Wozu dient Choke bei Flinten?",
-    "FrageMC": "Wozu dient Choke bei Flinten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie transportiert man Jagdwaffen im Fahrzeug regelkonform?",
-    "Antwort": "Entladen und nicht zugriffsbereit",
-    "FalscheAntwort1": "Geladen im Futteral",
-    "FalscheAntwort2": "Mit eingesetztem Magazin im Kofferraum",
-    "FalscheAntwort3": "Spannbereit auf dem Beifahrersitz",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wie transportiert man Jagdwaffen im Fahrzeug regelkonform?",
-    "FrageMC": "Wie transportiert man Jagdwaffen im Fahrzeug regelkonform?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Welche Aussage zur Schussentfernung ist korrekt?",
     "Antwort": "Mit zunehmender Entfernung sinkt meist die Energie am Ziel",
     "FalscheAntwort1": "Mit zunehmender Entfernung steigt die Energie",
@@ -4743,22 +3851,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Kaliber 12/70 korrekt?",
-    "Antwort": "Kaliber 12, Hülsenlänge 70 mm",
-    "FalscheAntwort1": "12 mm Laufdurchmesser, 70 cm Lauf",
-    "FalscheAntwort2": "12 g Schrot auf 70 m",
-    "FalscheAntwort3": "12 Züge mit 70° Drall",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "büchse"
-    ],
-    "FrageFreitext": "Was ist über Kaliber 12/70 korrekt?",
-    "FrageMC": "Was ist über Kaliber 12/70 korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
     "Antwort": "zulässig im gesetzlichen Rahmen",
     "FalscheAntwort1": "grundsätzlich verboten",
@@ -4771,264 +3863,6 @@
     ],
     "FrageFreitext": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
     "FrageMC": "Was ist über die Selbstladebüchse auf der Jagd korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
-    "Antwort": "Gültiger Jagdschein",
-    "FalscheAntwort1": "Personalausweis",
-    "FalscheAntwort2": "Führerschein",
-    "FalscheAntwort3": "Schießnachweis",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
-    "FrageMC": "Welche Unterlage berechtigt zum den Erwerb jagdlicher Langwaffen?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was bedeutet das Signal „Hahn in Ruh“?",
-    "Antwort": "Schießen einstellen und Waffe entladen",
-    "FalscheAntwort1": "Nur das Schießen auf Flugwild einstellen",
-    "FalscheAntwort2": "Sicherung lösen und nachladen",
-    "FalscheAntwort3": "Zum nächsten Stand wechseln",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was bedeutet das Signal „Hahn in Ruh“?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was bedeutet das Signal „Hahn in Ruh“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Patrone ist typischerweise eine Büchsenpatrone?",
-    "Antwort": ".308 Winchester",
-    "FalscheAntwort1": "12/70 Schrot",
-    "FalscheAntwort2": "16/65 Schrot",
-    "FalscheAntwort3": "Kaliber 20 Flintenlaufgeschoss",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "büchse"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Patrone ist typischerweise eine Büchsenpatrone?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Patrone ist typischerweise eine Büchsenpatrone?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zum Mündungsknall ist korrekt?",
-    "Antwort": "Er entsteht durch ausströmende Pulvergase",
-    "FalscheAntwort1": "Er entsteht durch den Überschallknall des Geschosses",
-    "FalscheAntwort2": "Er entsteht nur bei Schalldämpfern",
-    "FalscheAntwort3": "Er entsteht ausschließlich im Patronenlager",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zum Mündungsknall ist korrekt?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aussage zum Mündungsknall ist korrekt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist ein Ejektor bei der Flinte?",
-    "Antwort": "Automatischer Auswerfer der leeren Hülse",
-    "FalscheAntwort1": "Zusätzliche Sicherung am Abzug",
-    "FalscheAntwort2": "Ein verstellbares Korn",
-    "FalscheAntwort3": "Eine Laufverengung",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "flinte"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist ein Ejektor bei der Flinte?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist ein Ejektor bei der Flinte?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Waffe ist eine Kurzwaffe?",
-    "Antwort": "Revolver",
-    "FalscheAntwort1": "Repetierbüchse",
-    "FalscheAntwort2": "Bockdoppelflinte",
-    "FalscheAntwort3": "Drilling",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Welche Waffe ist eine Kurzwaffe?",
-    "FrageMC": "Welche Waffe ist eine Kurzwaffe?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was beschreibt die Kaliberangabe 12/70 bei Schrotpatronen?",
-    "Antwort": "Kaliber 12 mit 70 mm Hülsenlänge",
-    "FalscheAntwort1": "Laufdurchmesser 12 mm bei 70 mm Lauf",
-    "FalscheAntwort2": "12 g Schrot mit 70 m Reichweite",
-    "FalscheAntwort3": "12 Züge mit 70 Grad Drall",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "büchse",
-      "flinte"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was beschreibt die Kaliberangabe 12/70 bei Schrotpatronen?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was beschreibt die Kaliberangabe 12/70 bei Schrotpatronen?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Übergabe einer Jagdwaffe zwingend?",
-    "Antwort": "Waffe entladen und offen übergeben",
-    "FalscheAntwort1": "Waffe gesichert und geladen übergeben",
-    "FalscheAntwort2": "Nur mit eingesetztem Magazin übergeben",
-    "FalscheAntwort3": "Abzug spannen und dann übergeben",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Übergabe einer Jagdwaffe zwingend?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Übergabe einer Jagdwaffe zwingend?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welches Pulver wird in Büchsenpatronen verwendet?",
-    "Antwort": "Progressiv abbrennendes Nitropulver",
-    "FalscheAntwort1": "Schwarzpulver als Standard",
-    "FalscheAntwort2": "Nur grobkörniges Schrotpulver",
-    "FalscheAntwort3": "Pulver ohne Druckanstieg",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "büchse"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welches Pulver wird in Büchsenpatronen verwendet?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welches Pulver wird in Büchsenpatronen verwendet?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "Antwort": "Der Freiflug ist der rotationslose Weg eines Projektils vom Hülsenmund bis es in Züge und Felder des Laufs eintritt.",
-    "FalscheAntwort1": "Weg der Patrone im Magazin",
-    "FalscheAntwort2": "Laufweg des Schlagbolzens",
-    "FalscheAntwort3": "Rückstoßweg im Schaft",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist „Freiflug“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [],
-    "ReportFlag": "AUTO_REVIEW:Falsche Definitionen"
-  },
-  {
-    "Frage": "Was ist die Aufgabe der Sicherung?",
-    "Antwort": "Unbeabsichtigte Schussauslösung verhindern",
-    "FalscheAntwort1": "Trefferlage verbessern",
-    "FalscheAntwort2": "Rückstoß halbieren",
-    "FalscheAntwort3": "Laufdruck erhöhen",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Was ist die Aufgabe der Sicherung?",
-    "FrageMC": "Was ist die Aufgabe der Sicherung?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Lauflänge begünstigt eher höhere V0 bei gleicher Laborierung?",
-    "Antwort": "Längerer Lauf",
-    "FalscheAntwort1": "Kürzerer Lauf",
-    "FalscheAntwort2": "Gekröpfter Lauf",
-    "FalscheAntwort3": "Polygonlauf",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Lauflänge begünstigt eher höhere V0 bei gleicher Laborierung?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Lauflänge begünstigt eher höhere V0 bei gleicher Laborierung?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was muss vor dem Schuss zweifelsfrei geklärt sein?",
-    "Antwort": "Sicherer Kugelfang und Zielansprache",
-    "FalscheAntwort1": "Nur die Windrichtung",
-    "FalscheAntwort2": "Nur die Entfernung",
-    "FalscheAntwort3": "Nur die Lautstärke",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was muss vor dem Schuss zweifelsfrei geklärt sein?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was muss vor dem Schuss zweifelsfrei geklärt sein?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Was beschreibt Innenballistik?",
-    "Antwort": "Vorgänge vom Zünden bis zum Verlassen des Laufs",
-    "FalscheAntwort1": "Vorgänge nach Zieltreffer",
-    "FalscheAntwort2": "Flugbahn im Seitenwind",
-    "FalscheAntwort3": "Wirkung im Wildkörper",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "easy",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Was beschreibt Innenballistik?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was beschreibt Innenballistik?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Komponente enthält das Zündhütchen?",
-    "Antwort": "Initialzündsatz",
-    "FalscheAntwort1": "Treibspiegel",
-    "FalscheAntwort2": "Bleikern",
-    "FalscheAntwort3": "Zug-Feld-Profil",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Komponente enthält das Zündhütchen?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Komponente enthält das Zündhütchen?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist ein Stutzen?",
-    "Antwort": "Kurzläufige Büchse mit durchgehendem Schaft",
-    "FalscheAntwort1": "Doppelläufige Flinte",
-    "FalscheAntwort2": "Kurzwaffe mit Trommel",
-    "FalscheAntwort3": "Selbstladeflinte",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "büchse"
-    ],
-    "FrageFreitext": "Was ist ein Stutzen?",
-    "FrageMC": "Was ist ein Stutzen?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -5305,38 +4139,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Erklären Sie den Begriff Außenballistik?",
-    "Antwort": "Geschossflug zwischen Mündung und Ziel",
-    "FalscheAntwort1": "Eine jagdliche Schonzeitregel",
-    "FalscheAntwort2": "Eine Methode zur Wildzählung",
-    "FalscheAntwort3": "Ein Signal bei Gesellschaftsjagden",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "medium",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Erklären Sie den Begriff Außenballistik?",
-    "FrageMC": "Erklären Sie den Begriff Außenballistik?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über Außenballistik korrekt?",
-    "Antwort": "Geschossflug zwischen Mündung und Ziel",
-    "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
-    "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
-    "FalscheAntwort3": "Ist nur bei Kurzwaffen vorhanden",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Was ist über Außenballistik korrekt?",
-    "FrageMC": "Was ist über Außenballistik korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Erklären Sie den Begriff Zielballistik?",
     "Antwort": "Wirkung des Geschosses im Ziel",
     "FalscheAntwort1": "Eine jagdliche Schonzeitregel",
@@ -5349,22 +4151,6 @@
     ],
     "FrageFreitext": "Erklären Sie den Begriff Zielballistik?",
     "FrageMC": "Erklären Sie den Begriff Zielballistik?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann gilt Folgendes bei Zielballistik?",
-    "Antwort": "Wirkung des Geschosses im Ziel",
-    "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
-    "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
-    "FalscheAntwort3": "Ist nur bei Kurzwaffen vorhanden",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Wann gilt Folgendes bei Zielballistik?",
-    "FrageMC": "Wann gilt Folgendes bei Zielballistik?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5513,23 +4299,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Sicherung korrekt?",
-    "Antwort": "Verhindern unbeabsichtigter Schussauslösung",
-    "FalscheAntwort1": "Erhöht ausschließlich den Rückstoß",
-    "FalscheAntwort2": "Hat keinen Einfluss auf Sicherheit",
-    "FalscheAntwort3": "Ist nur bei Kurzwaffen vorhanden",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "waffenkunde_waffenrecht"
-    ],
-    "FrageFreitext": "Was ist über Sicherung korrekt?",
-    "FrageMC": "Was ist über Sicherung korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist in folgender Situation korrekt: Der Lauf ist nach einem Sturz verschmutzt?",
+    "Frage": "Der Lauf ist nach einem Sturz verschmutzt?",
     "Antwort": "Waffe entladen und Lauf vor weiterem Gebrauch kontrollieren",
     "FalscheAntwort1": "Sofort nachladen und erneut abziehen",
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
@@ -5540,7 +4310,7 @@
       "waffenkunde_waffenrecht"
     ],
     "FrageFreitext": "Was ist in folgender Situation korrekt: Der Lauf ist nach einem Sturz verschmutzt?",
-    "FrageMC": "Was ist in folgender Situation korrekt: Der Lauf ist nach einem Sturz verschmutzt?",
+    "FrageMC": "Der Lauf ist nach einem Sturz verschmutzt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5561,7 +4331,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist in folgender Situation korrekt: Bei der Schussabgabe ist das Ziel nicht klar angesprochen?",
+    "Frage": "Bei der Schussabgabe ist das Ziel nicht klar angesprochen?",
     "Antwort": "Nicht schießen",
     "FalscheAntwort1": "Sofort nachladen und erneut abziehen",
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
@@ -5572,7 +4342,7 @@
       "waffenkunde_waffenrecht"
     ],
     "FrageFreitext": "Was ist in folgender Situation korrekt: Bei der Schussabgabe ist das Ziel nicht klar angesprochen?",
-    "FrageMC": "Was ist in folgender Situation korrekt: Bei der Schussabgabe ist das Ziel nicht klar angesprochen?",
+    "FrageMC": "Bei der Schussabgabe ist das Ziel nicht klar angesprochen?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5593,7 +4363,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist in folgender Situation korrekt: Beim Übersteigen eines Hindernisses?",
+    "Frage": "Beim Übersteigen eines Hindernisses?",
     "Antwort": "Waffe entladen und sicher führen",
     "FalscheAntwort1": "Sofort nachladen und erneut abziehen",
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
@@ -5604,7 +4374,7 @@
       "waffenkunde_waffenrecht"
     ],
     "FrageFreitext": "Was ist in folgender Situation korrekt: Beim Übersteigen eines Hindernisses?",
-    "FrageMC": "Was ist in folgender Situation korrekt: Beim Übersteigen eines Hindernisses?",
+    "FrageMC": "Beim Übersteigen eines Hindernisses?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5625,7 +4395,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist in folgender Situation korrekt: Nach dem Signal Hahn in Ruh?",
+    "Frage": "Nach dem Signal Hahn in Ruh?",
     "Antwort": "Schießen sofort einstellen und Waffe entladen",
     "FalscheAntwort1": "Sofort nachladen und erneut abziehen",
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
@@ -5636,7 +4406,7 @@
       "waffenkunde_waffenrecht"
     ],
     "FrageFreitext": "Was ist in folgender Situation korrekt: Nach dem Signal Hahn in Ruh?",
-    "FrageMC": "Was ist in folgender Situation korrekt: Nach dem Signal Hahn in Ruh?",
+    "FrageMC": "Nach dem Signal Hahn in Ruh?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5657,7 +4427,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist in folgender Situation korrekt: Bei einem Versager (Klick ohne Schuss)?",
+    "Frage": "Bei einem Versager (Klick ohne Schuss)?",
     "Antwort": "Waffe in sichere Richtung halten und kontrolliert entladen",
     "FalscheAntwort1": "Sofort nachladen und erneut abziehen",
     "FalscheAntwort2": "Waffe auf den Boden legen und weggehen",
@@ -5668,7 +4438,7 @@
       "waffenkunde_waffenrecht"
     ],
     "FrageFreitext": "Was ist in folgender Situation korrekt: Bei einem Versager (Klick ohne Schuss)?",
-    "FrageMC": "Was ist in folgender Situation korrekt: Bei einem Versager (Klick ohne Schuss)?",
+    "FrageMC": "Bei einem Versager (Klick ohne Schuss)?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -5751,22 +4521,6 @@
     "FrageFreitext": "Was ist über den Schalldämpfer auf Jagdwaffen korrekt?",
     "FrageMC": "Was ist über den Schalldämpfer auf Jagdwaffen korrekt?",
     "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
-    "Antwort": "Sie öffnet sich mit zunehmender Entfernung.",
-    "FalscheAntwort1": "Sie bleibt immer gleich eng",
-    "FalscheAntwort2": "Sie wird mit Entfernung enger",
-    "FalscheAntwort3": "Sie existiert nur bei Flintenlaufgeschossen",
-    "Pruefungsfach": "Waffenkunde und Waffenrecht",
-    "Difficulty": "hard",
-    "Tags": [
-      "flinte"
-    ],
-    "FrageFreitext": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
-    "FrageMC": "Wie verändert sich die Schrotgarbe mit zunehmender Schussentfernung?",
-    "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
@@ -6453,22 +5207,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über „Inbesitznahmebruch“ korrekt?",
-    "Antwort": "liegt auf dem linken Blatt",
-    "FalscheAntwort1": "wird in den Äser gesteckt",
-    "FalscheAntwort2": "ersetzt den Schweißriemen",
-    "FalscheAntwort3": "markiert Schussentfernung",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Was ist über „Inbesitznahmebruch“ korrekt?",
-    "FrageMC": "Was ist über „Inbesitznahmebruch“ korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
@@ -6476,22 +5214,6 @@
     "FalscheAntwort3": "ist Aufgabe nur der Treiber",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen",
     "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "FrageMC": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "Antwort": "ist verpflichtend",
-    "FalscheAntwort1": "ist nur bei Regen nötig",
-    "FalscheAntwort2": "ersetzt Kugelfang",
-    "FalscheAntwort3": "ist Aufgabe nur der Treiber",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
     "Tags": [
       "jagdbetrieb_hundewesen"
     ],
@@ -6517,22 +5239,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
-    "Antwort": "ist strikt verboten",
-    "FalscheAntwort1": "ist bei Schrot immer erlaubt",
-    "FalscheAntwort2": "ist mit Zielfernrohr zulässig",
-    "FalscheAntwort3": "ist nach Hahn in Ruh möglich",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
-    "FrageMC": "Was ist über „Schuss in Richtung Treiberkette“ korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Was ist über „brauchbarer Jagdhund“ korrekt?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
@@ -6540,22 +5246,6 @@
     "FalscheAntwort3": "ist älter als 1 Jahr",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen",
     "Difficulty": "hard",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Was ist über „brauchbarer Jagdhund“ korrekt?",
-    "FrageMC": "Was ist über „brauchbarer Jagdhund“ korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über „brauchbarer Jagdhund“ korrekt?",
-    "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
-    "FalscheAntwort1": "trägt nur ein Signalhalsband",
-    "FalscheAntwort2": "hat einmal apportiert",
-    "FalscheAntwort3": "ist älter als 1 Jahr",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
     "Tags": [
       "hundewesen"
     ],
@@ -6578,70 +5268,6 @@
     "FrageFreitext": "Was bedeutet „Hahn in Ruh im Treiben“?",
     "FrageMC": "Was bedeutet „Hahn in Ruh im Treiben“?",
     "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was bedeutet „Hahn in Ruh im Treiben“?",
-    "Antwort": "Schussabgabe beenden und entladen",
-    "FalscheAntwort1": "schneller nachladen",
-    "FalscheAntwort2": "nur auf Raubwild weiter schießen",
-    "FalscheAntwort3": "Hunde sofort erneut schnallen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Was bedeutet „Hahn in Ruh im Treiben“?",
-    "FrageMC": "Was bedeutet „Hahn in Ruh im Treiben“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wozu dient der Inbesitznahmebruch?",
-    "Antwort": "Kennzeichnung der Inbesitznahme von Schalenwild",
-    "FalscheAntwort1": "Markierung der Reviergrenze",
-    "FalscheAntwort2": "Signal für Jagdende",
-    "FalscheAntwort3": "Kennzeichnung von Fütterungen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wozu dient der Inbesitznahmebruch?",
-    "FrageMC": "Wozu dient der Inbesitznahmebruch?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
-    "FalscheAntwort1": "Auf den Lauf",
-    "FalscheAntwort2": "Auf den Träger",
-    "FalscheAntwort3": "In den Äser",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wo wird der Inbesitznahmebruch gelegt?",
-    "FrageMC": "Wo wird der Inbesitznahmebruch gelegt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann wird ein Hund als jagdlich brauchbar angesehen?",
-    "Antwort": "Nach bestandener Brauchbarkeitsprüfung gemäß Landesrecht",
-    "FalscheAntwort1": "Nach dem ersten Jagdtag",
-    "FalscheAntwort2": "Wenn er ein Halsband trägt",
-    "FalscheAntwort3": "Nach der Tollwutimpfung",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wann wird ein Hund als jagdlich brauchbar angesehen?",
-    "FrageMC": "Wann wird ein Hund als jagdlich brauchbar angesehen?",
-    "PdfEligible": false,
     "AlternativeAntworten": []
   },
   {
@@ -6657,109 +5283,6 @@
     ],
     "FrageFreitext": "Was ist über die Fangjagd korrekt?",
     "FrageMC": "Was ist über die Fangjagd korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "Antwort": "Bei Verletzung oder Erschöpfung",
-    "FalscheAntwort1": "Bei leichtem Regen",
-    "FalscheAntwort2": "Bei Wind aus West",
-    "FalscheAntwort3": "Bei Sicht auf Rehwild",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "FrageMC": "Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "zeigt Wild durch Vorstehen an",
-    "FalscheAntwort1": "arbeitet ausschließlich im Bau",
-    "FalscheAntwort2": "sucht nur Schweißfährten",
-    "FalscheAntwort3": "hat nur Wasseraufgaben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [
-      "Deutsch Kurzhaar",
-      "Deutsch Drahthaar",
-      "Weimaraner",
-      "Kleiner Münsterländer",
-      "Großer Münsterländer"
-    ]
-  },
-  {
-    "Frage": "Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "arbeitet die Nachsuche auf krankes Schalenwild",
-    "FalscheAntwort1": "steht Federwild vor",
-    "FalscheAntwort2": "arbeitet nur im Wasser",
-    "FalscheAntwort3": "ist nur für Baujagd geeignet",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür wird ein Stöberhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "bringt Wild aus Deckung in Bewegung",
-    "FalscheAntwort1": "arbeitet ausschließlich auf Sicht vom Hochsitz",
-    "FalscheAntwort2": "setzt nur im Bau ein",
-    "FalscheAntwort3": "ersetzt den Schützen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wofür wird ein Stöberhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wofür wird ein Stöberhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "arbeitet im Bau auf Fuchs/Dachs",
-    "FalscheAntwort1": "arbeitet nur als Apportierhund",
-    "FalscheAntwort2": "ist reiner Schweißhund",
-    "FalscheAntwort3": "wird nur für Wasserwild genutzt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "fuchs",
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "bringt erlegtes Wild zuverlässig zum Führer",
-    "FalscheAntwort1": "arbeitet nur auf Schwarzwild",
-    "FalscheAntwort2": "ist ausschließlich Schweißspezialist",
-    "FalscheAntwort3": "wird nur ohne Gehorsam geführt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -6844,209 +5367,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "Antwort": "Hund bleibt angeleint, wenn nicht ausdrücklich eingesetzt",
-    "FalscheAntwort1": "Hund muss frei stöbern",
-    "FalscheAntwort2": "Hund wird nur mit Maulkorb geführt",
-    "FalscheAntwort3": "Hund darf nur im Auto bleiben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "FrageMC": "Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "Antwort": "Treibjagd",
-    "FalscheAntwort1": "Pirsch",
-    "FalscheAntwort2": "Ansitzjagd",
-    "FalscheAntwort3": "Lockjagd auf Rehbock",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "PdfEligible": true,
-    "AlternativeAntworten": [
-      "Fuchs",
-      "Kaninchen",
-      "Feldhase",
-      "Rebhuhn",
-      "Fasan",
-      "Stockente",
-      "Ringeltaube",
-      "Rehwild"
-    ]
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "Antwort": "Nur geeignete, brauchbare Bauhunde einsetzen",
-    "FalscheAntwort1": "Beliebige Hunde ohne Einarbeitung",
-    "FalscheAntwort2": "Einsatz nur bei Nacht",
-    "FalscheAntwort3": "Immer ohne Schaufel arbeiten",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Wozu dient der Inbesitznahmebruch?",
-    "Antwort": "Kennzeichnung der Inbesitznahme von Schalenwild",
-    "FalscheAntwort1": "Markierung der Reviergrenze",
-    "FalscheAntwort2": "Signal für Jagdende",
-    "FalscheAntwort3": "Kennzeichnung von Fütterungen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Wozu dient der Inbesitznahmebruch?",
-    "FrageMC": "Im Prüfungsstil gefragt: Wozu dient der Inbesitznahmebruch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Wo wird der Inbesitznahmebruch gelegt?",
-    "Antwort": "Auf das linke Blatt des Stückes",
-    "FalscheAntwort1": "Auf den Lauf",
-    "FalscheAntwort2": "Auf den Träger",
-    "FalscheAntwort3": "In den Äser",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Wo wird der Inbesitznahmebruch gelegt?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Wo wird der Inbesitznahmebruch gelegt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Aufgabe hat ein Stöberhund?",
-    "Antwort": "Wild aus Dickungen in Bewegung bringen",
-    "FalscheAntwort1": "Ausschließlich Wasserapport",
-    "FalscheAntwort2": "Nur Vorstehen am Feldrand",
-    "FalscheAntwort3": "Nur Schweißfährte über Nacht",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Aufgabe hat ein Stöberhund?",
-    "FrageMC": "Welche Aufgabe hat ein Stöberhund?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "Antwort": "Sicherheitsbelehrung und Standzuweisung",
-    "FalscheAntwort1": "Nur Ausgabe der Strecke",
-    "FalscheAntwort2": "Nur Eintragung ins Jagdbuch",
-    "FalscheAntwort3": "Nur Waffenkontrolle ohne Ansprache",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was gilt beim Schuss auf flüchtiges Wild?",
-    "Antwort": "Nur schießen bei sicherem Kugelfang und freiem Schussfeld",
-    "FalscheAntwort1": "Immer auf das erste sichtbare Stück schießen",
-    "FalscheAntwort2": "Nur nach Gehör schießen",
-    "FalscheAntwort3": "Nur mit aufgesetztem Schalldämpfer schießen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was gilt beim Schuss auf flüchtiges Wild?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was gilt beim Schuss auf flüchtiges Wild?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Hunderasse ist typischerweise ein Schweißhund?",
-    "Antwort": "Bayerischer Gebirgsschweißhund",
-    "FalscheAntwort1": "Deutsch Drahthaar",
-    "FalscheAntwort2": "Labrador Retriever",
-    "FalscheAntwort3": "Jack Russell Terrier",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Hunderasse ist typischerweise ein Schweißhund?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Hunderasse ist typischerweise ein Schweißhund?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Arbeit ist typisch für einen Erdhund?",
-    "Antwort": "Arbeit im Bau bei Fuchs/Dachs",
-    "FalscheAntwort1": "Schweißfährte auf Rotwild",
-    "FalscheAntwort2": "Vorstehen im Feld",
-    "FalscheAntwort3": "Apport auf Wasserwild",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "fuchs",
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Arbeit ist typisch für einen Erdhund?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Arbeit ist typisch für einen Erdhund?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Aufgabe hat der Hundeführer bei der Drückjagd?",
-    "Antwort": "Kontrollierter, sicherer Hundeeinsatz nach Weisung",
-    "FalscheAntwort1": "Freies Lösen aller Hunde ohne Abstimmung",
-    "FalscheAntwort2": "Nur Teilnahme am Schüsseltreiben",
-    "FalscheAntwort3": "Ausschließlich Streckenlegen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Aufgabe hat der Hundeführer bei der Drückjagd?",
-    "FrageMC": "Welche Aufgabe hat der Hundeführer bei der Drückjagd?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist bei Hitze für Jagdhunde besonders wichtig?",
-    "Antwort": "Wasser, Pausen und Belastungssteuerung",
-    "FalscheAntwort1": "Dichteres Fell durch Decke",
-    "FalscheAntwort2": "Möglichst lange Hetze",
-    "FalscheAntwort3": "Zusätzliche Leine am Hals",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist bei Hitze für Jagdhunde besonders wichtig?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist bei Hitze für Jagdhunde besonders wichtig?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Fangjagd ist richtig?",
+    "Frage": "Welche Aussage zur Fangjagd ist richtig?",
     "Antwort": "Sie erfordert zulässige Fallen und Fachkunde",
     "FalscheAntwort1": "Sie ist grundsätzlich verboten",
     "FalscheAntwort2": "Sie ist nur für Federwild zulässig",
@@ -7057,244 +5378,12 @@
       "jagdbetrieb_hundewesen"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Fangjagd ist richtig?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Fangjagd ist richtig?",
+    "FrageMC": "Welche Aussage zur Fangjagd ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Was bedeutet „Hahn in Ruh“ für Hunde auf Treibjagden?",
-    "Antwort": "Arbeit beenden, Hunde sichern",
-    "FalscheAntwort1": "Hunde sofort erneut schnallen",
-    "FalscheAntwort2": "Nur Wasserarbeit fortsetzen",
-    "FalscheAntwort3": "Alle Hunde zum Bau schicken",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Was bedeutet „Hahn in Ruh“ für Hunde auf Treibjagden?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was bedeutet „Hahn in Ruh“ für Hunde auf Treibjagden?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Dokumentation ist nach Nachsuche sinnvoll?",
-    "Antwort": "Anschuss, Verlauf, Ergebnis schriftlich festhalten",
-    "FalscheAntwort1": "Nur die Uhrzeit merken",
-    "FalscheAntwort2": "Keine Dokumentation nötig",
-    "FalscheAntwort3": "Nur die Munition notieren",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Dokumentation ist nach Nachsuche sinnvoll?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Dokumentation ist nach Nachsuche sinnvoll?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Jagdart passt besonders zu Einzeljagd auf Rehwild?",
-    "Antwort": "Ansitzjagd",
-    "FalscheAntwort1": "Kesseltreiben",
-    "FalscheAntwort2": "Parforcejagd",
-    "FalscheAntwort3": "Baujagd",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "rehwild"
-    ],
-    "FrageFreitext": "Welche Jagdart passt besonders zu Einzeljagd auf Rehwild?",
-    "FrageMC": "Welche Jagdart passt besonders zu Einzeljagd auf Rehwild?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "Antwort": "Bei Verletzung oder Erschöpfung",
-    "FalscheAntwort1": "Bei leichtem Regen",
-    "FalscheAntwort2": "Bei Wind aus West",
-    "FalscheAntwort3": "Bei Sicht auf Rehwild",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Wann ist ein Hund im Jagdbetrieb sofort aus dem Einsatz zu nehmen?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "zeigt Wild durch Vorstehen an",
-    "FalscheAntwort1": "arbeitet ausschließlich im Bau",
-    "FalscheAntwort2": "sucht nur Schweißfährten",
-    "FalscheAntwort3": "hat nur Wasseraufgaben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Wofür wird ein Vorstehhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": [
-      "Deutsch Kurzhaar",
-      "Deutsch Drahthaar",
-      "Weimaraner",
-      "Kleiner Münsterländer",
-      "Großer Münsterländer"
-    ]
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aufgabe hat ein Schweißhund primär?",
-    "Antwort": "arbeitet die Nachsuche auf krankes Schalenwild",
-    "FalscheAntwort1": "steht Federwild vor",
-    "FalscheAntwort2": "arbeitet nur im Wasser",
-    "FalscheAntwort3": "ist nur für Baujagd geeignet",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aufgabe hat ein Schweißhund primär?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aufgabe hat ein Schweißhund primär?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "arbeitet die Nachsuche auf krankes Schalenwild",
-    "FalscheAntwort1": "steht Federwild vor",
-    "FalscheAntwort2": "arbeitet nur im Wasser",
-    "FalscheAntwort3": "ist nur für Baujagd geeignet",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Wofür wird ein Schweißhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Aufgabe hat ein Erdhund primär?",
-    "Antwort": "arbeitet im Bau auf Fuchs/Dachs",
-    "FalscheAntwort1": "arbeitet nur als Apportierhund",
-    "FalscheAntwort2": "ist reiner Schweißhund",
-    "FalscheAntwort3": "wird nur für Wasserwild genutzt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "fuchs",
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Aufgabe hat ein Erdhund primär?",
-    "FrageMC": "Welche Aufgabe hat ein Erdhund primär?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "arbeitet im Bau auf Fuchs/Dachs",
-    "FalscheAntwort1": "arbeitet nur als Apportierhund",
-    "FalscheAntwort2": "ist reiner Schweißhund",
-    "FalscheAntwort3": "wird nur für Wasserwild genutzt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "fuchs",
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Wofür wird ein Erdhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aufgabe hat ein Apportierhund primär?",
-    "Antwort": "bringt erlegtes Wild zuverlässig zum Führer",
-    "FalscheAntwort1": "arbeitet nur auf Schwarzwild",
-    "FalscheAntwort2": "ist ausschließlich Schweißspezialist",
-    "FalscheAntwort3": "wird nur ohne Gehorsam geführt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aufgabe hat ein Apportierhund primär?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aufgabe hat ein Apportierhund primär?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
-    "Antwort": "bringt erlegtes Wild zuverlässig zum Führer",
-    "FalscheAntwort1": "arbeitet nur auf Schwarzwild",
-    "FalscheAntwort2": "ist ausschließlich Schweißspezialist",
-    "FalscheAntwort3": "wird nur ohne Gehorsam geführt",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
-    "FrageMC": "Im Prüfungsstil gefragt: Wofür wird ein Apportierhund im Jagdbetrieb typischerweise eingesetzt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was kennzeichnet die Jagdart „Ansitzjagd“?",
-    "Antwort": "Einzeljagd von festem Stand",
-    "FalscheAntwort1": "Jagdform mit Treiberkette",
-    "FalscheAntwort2": "Baujagd im Fuchsbau",
-    "FalscheAntwort3": "Beizjagd mit Greifvogel",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was kennzeichnet die Jagdart „Ansitzjagd“?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was kennzeichnet die Jagdart „Ansitzjagd“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was kennzeichnet die Jagdart „Nachsuche“?",
-    "Antwort": "Suche nach krank geschossenem Wild",
-    "FalscheAntwort1": "Auslegen von Lockfutter",
-    "FalscheAntwort2": "Anlage von Kirrungen",
-    "FalscheAntwort3": "Abwurfstangensuche",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "ballistik"
-    ],
-    "FrageFreitext": "Was kennzeichnet die Jagdart „Nachsuche“?",
-    "FrageMC": "Was kennzeichnet die Jagdart „Nachsuche“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
-    "Antwort": "liegt auf dem linken Blatt",
-    "FalscheAntwort1": "wird in den Äser gesteckt",
-    "FalscheAntwort2": "ersetzt den Schweißriemen",
-    "FalscheAntwort3": "markiert Schussentfernung",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage zu „Inbesitznahmebruch“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei „Inbesitznahmebruch“ korrekt?",
+    "Frage": "Was ist bei „Inbesitznahmebruch“ korrekt?",
     "Antwort": "liegt auf dem linken Blatt",
     "FalscheAntwort1": "wird in den Äser gesteckt",
     "FalscheAntwort2": "ersetzt den Schweißriemen",
@@ -7305,28 +5394,12 @@
       "jagdbetrieb_hundewesen"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei „Inbesitznahmebruch“ korrekt?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist bei „Inbesitznahmebruch“ korrekt?",
+    "FrageMC": "Was ist bei „Inbesitznahmebruch“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
-    "Antwort": "ist verpflichtend",
-    "FalscheAntwort1": "ist nur bei Regen nötig",
-    "FalscheAntwort2": "ersetzt Kugelfang",
-    "FalscheAntwort3": "ist Aufgabe nur der Treiber",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aussage zu „Sicherheitseinweisung vor Gesellschaftsjagd“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist bei „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
+    "Frage": "Was ist bei „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "Antwort": "ist verpflichtend",
     "FalscheAntwort1": "ist nur bei Regen nötig",
     "FalscheAntwort2": "ersetzt Kugelfang",
@@ -7337,28 +5410,12 @@
       "jagdbetrieb_hundewesen"
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist bei „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist bei „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
+    "FrageMC": "Was ist bei „Sicherheitseinweisung vor Gesellschaftsjagd“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Aussage zu „brauchbarer Jagdhund“?",
-    "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
-    "FalscheAntwort1": "trägt nur ein Signalhalsband",
-    "FalscheAntwort2": "hat einmal apportiert",
-    "FalscheAntwort3": "ist älter als 1 Jahr",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Aussage zu „brauchbarer Jagdhund“?",
-    "FrageMC": "Welche Aussage zu „brauchbarer Jagdhund“?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist bei „brauchbarer Jagdhund“ korrekt?",
+    "Frage": "Was ist bei „brauchbarer Jagdhund“ korrekt?",
     "Antwort": "hat Brauchbarkeitsnachweis nach Landesrecht",
     "FalscheAntwort1": "trägt nur ein Signalhalsband",
     "FalscheAntwort2": "hat einmal apportiert",
@@ -7369,28 +5426,12 @@
       "hundewesen"
     ],
     "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist bei „brauchbarer Jagdhund“ korrekt?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist bei „brauchbarer Jagdhund“ korrekt?",
+    "FrageMC": "Was ist bei „brauchbarer Jagdhund“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
-    "Antwort": "Schussabgabe beenden und entladen",
-    "FalscheAntwort1": "schneller nachladen",
-    "FalscheAntwort2": "nur auf Raubwild weiter schießen",
-    "FalscheAntwort3": "Hunde sofort erneut schnallen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu „Hahn in Ruh im Treiben“?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Was ist bei „Hahn in Ruh im Treiben“ korrekt?",
+    "Frage": "Was ist bei „Hahn in Ruh im Treiben“ korrekt?",
     "Antwort": "Schussabgabe beenden und entladen",
     "FalscheAntwort1": "schneller nachladen",
     "FalscheAntwort2": "nur auf Raubwild weiter schießen",
@@ -7401,310 +5442,7 @@
       "jagdbetrieb_hundewesen"
     ],
     "FrageFreitext": "Im Prüfungsstil gefragt: Was ist bei „Hahn in Ruh im Treiben“ korrekt?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was ist bei „Hahn in Ruh im Treiben“ korrekt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Aufgabe hat ein Vorstehhund primär?",
-    "Antwort": "Anzeigen von Wild durch Vorstehen",
-    "FalscheAntwort1": "Bauarbeit am Fuchs",
-    "FalscheAntwort2": "Schweißarbeit ausschließlich nach dem Schuss",
-    "FalscheAntwort3": "Nur Wasserarbeit",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Aufgabe hat ein Vorstehhund primär?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Aufgabe hat ein Vorstehhund primär?",
-    "PdfEligible": true,
-    "AlternativeAntworten": [
-      "Deutsch Kurzhaar",
-      "Deutsch Drahthaar",
-      "Weimaraner",
-      "Kleiner Münsterländer",
-      "Großer Münsterländer"
-    ]
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "Antwort": "Hund bleibt angeleint, wenn nicht ausdrücklich eingesetzt",
-    "FalscheAntwort1": "Hund muss frei stöbern",
-    "FalscheAntwort2": "Hund wird nur mit Maulkorb geführt",
-    "FalscheAntwort3": "Hund darf nur im Auto bleiben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "Antwort": "Hund bleibt angeleint, wenn nicht ausdrücklich eingesetzt",
-    "FalscheAntwort1": "Hund muss frei stöbern",
-    "FalscheAntwort2": "Hund wird nur mit Maulkorb geführt",
-    "FalscheAntwort3": "Hund darf nur im Auto bleiben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "Antwort": "Hund bleibt angeleint, wenn nicht ausdrücklich eingesetzt",
-    "FalscheAntwort1": "Hund muss frei stöbern",
-    "FalscheAntwort2": "Hund wird nur mit Maulkorb geführt",
-    "FalscheAntwort3": "Hund darf nur im Auto bleiben",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "FrageMC": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was bedeutet Leinenzwang bei einer Drückjagd am Stand?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "Antwort": "Treibjagd",
-    "FalscheAntwort1": "Pirsch",
-    "FalscheAntwort2": "Ansitzjagd",
-    "FalscheAntwort3": "Lockjagd auf Rehbock",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Welche Jagdart ist typisch für Niederwild mit Treibern?",
-    "PdfEligible": true,
-    "AlternativeAntworten": [
-      "Fuchs",
-      "Kaninchen",
-      "Feldhase",
-      "Rebhuhn",
-      "Fasan",
-      "Stockente",
-      "Ringeltaube",
-      "Rehwild"
-    ]
-  },
-  {
-    "Frage": "Was ist korrekt? Was ist bei der Baujagd wesentlich?",
-    "Antwort": "Nur geeignete, brauchbare Bauhunde einsetzen",
-    "FalscheAntwort1": "Beliebige Hunde ohne Einarbeitung",
-    "FalscheAntwort2": "Einsatz nur bei Nacht",
-    "FalscheAntwort3": "Immer ohne Schaufel arbeiten",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Was ist korrekt? Was ist bei der Baujagd wesentlich?",
-    "FrageMC": "Was ist korrekt? Was ist bei der Baujagd wesentlich?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Bitte wählen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "Antwort": "Nur geeignete, brauchbare Bauhunde einsetzen",
-    "FalscheAntwort1": "Beliebige Hunde ohne Einarbeitung",
-    "FalscheAntwort2": "Einsatz nur bei Nacht",
-    "FalscheAntwort3": "Immer ohne Schaufel arbeiten",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Bitte wählen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Bitte wählen Sie die zutreffende Aussage: Was ist bei der Baujagd wesentlich?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Antwort ist richtig? Wozu dient der Inbesitznahmebruch?",
-    "Antwort": "Kennzeichnung der Inbesitznahme von Schalenwild",
-    "FalscheAntwort1": "Markierung der Reviergrenze",
-    "FalscheAntwort2": "Signal für Jagdende",
-    "FalscheAntwort3": "Kennzeichnung von Fütterungen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Antwort ist richtig? Wozu dient der Inbesitznahmebruch?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Antwort ist richtig? Wozu dient der Inbesitznahmebruch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Was ist korrekt? Wozu dient der Inbesitznahmebruch?",
-    "Antwort": "Kennzeichnung der Inbesitznahme von Schalenwild",
-    "FalscheAntwort1": "Markierung der Reviergrenze",
-    "FalscheAntwort2": "Signal für Jagdende",
-    "FalscheAntwort3": "Kennzeichnung von Fütterungen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Was ist korrekt? Wozu dient der Inbesitznahmebruch?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was ist korrekt? Wozu dient der Inbesitznahmebruch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Bitte wählen Sie die zutreffende Aussage: Wozu dient der Inbesitznahmebruch?",
-    "Antwort": "Kennzeichnung der Inbesitznahme von Schalenwild",
-    "FalscheAntwort1": "Markierung der Reviergrenze",
-    "FalscheAntwort2": "Signal für Jagdende",
-    "FalscheAntwort3": "Kennzeichnung von Fütterungen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Bitte wählen Sie die zutreffende Aussage: Wozu dient der Inbesitznahmebruch?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Bitte wählen Sie die zutreffende Aussage: Wozu dient der Inbesitznahmebruch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist korrekt? Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "Antwort": "Drückjagd",
-    "FalscheAntwort1": "Lockjagd auf dem Blatt",
-    "FalscheAntwort2": "Beizjagd",
-    "FalscheAntwort3": "Baujagd",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist korrekt? Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist korrekt? Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Bitte wählen Sie die zutreffende Aussage: Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "Antwort": "Drückjagd",
-    "FalscheAntwort1": "Lockjagd auf dem Blatt",
-    "FalscheAntwort2": "Beizjagd",
-    "FalscheAntwort3": "Baujagd",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "schwarzwild"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Bitte wählen Sie die zutreffende Aussage: Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Bitte wählen Sie die zutreffende Aussage: Welche Jagdart ist für Schwarzwild in Bewegung typisch?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage trifft zu: Was ist bei der Nachsuche oberstes Ziel?",
-    "Antwort": "Schnelles, tierschutzgerechtes Erlösen",
-    "FalscheAntwort1": "Sofortiger Transport der Trophäe",
-    "FalscheAntwort2": "Dokumentation für Social Media",
-    "FalscheAntwort3": "Möglichst lange Hetze",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage trifft zu: Was ist bei der Nachsuche oberstes Ziel?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aussage trifft zu: Was ist bei der Nachsuche oberstes Ziel?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Was ist bei der Nachsuche oberstes Ziel?",
-    "Antwort": "Schnelles, tierschutzgerechtes Erlösen",
-    "FalscheAntwort1": "Sofortiger Transport der Trophäe",
-    "FalscheAntwort2": "Dokumentation für Social Media",
-    "FalscheAntwort3": "Möglichst lange Hetze",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Was ist bei der Nachsuche oberstes Ziel?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist korrekt? Was ist bei der Nachsuche oberstes Ziel?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "Antwort": "Sicherheitsbelehrung und Standzuweisung",
-    "FalscheAntwort1": "Nur Ausgabe der Strecke",
-    "FalscheAntwort2": "Nur Eintragung ins Jagdbuch",
-    "FalscheAntwort3": "Nur Waffenkontrolle ohne Ansprache",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage trifft zu: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "Antwort": "Sicherheitsbelehrung und Standzuweisung",
-    "FalscheAntwort1": "Nur Ausgabe der Strecke",
-    "FalscheAntwort2": "Nur Eintragung ins Jagdbuch",
-    "FalscheAntwort3": "Nur Waffenkontrolle ohne Ansprache",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist korrekt? Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "Antwort": "Sicherheitsbelehrung und Standzuweisung",
-    "FalscheAntwort1": "Nur Ausgabe der Strecke",
-    "FalscheAntwort2": "Nur Eintragung ins Jagdbuch",
-    "FalscheAntwort3": "Nur Waffenkontrolle ohne Ansprache",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "FrageMC": "Im Prüfungsstil gefragt: Bitte wählen Sie die zutreffende Aussage: Was ist vor jeder Gesellschaftsjagd zwingend?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Aussage trifft zu: Was gilt beim Schuss auf flüchtiges Wild?",
-    "Antwort": "Nur schießen bei sicherem Kugelfang und freiem Schussfeld",
-    "FalscheAntwort1": "Immer auf das erste sichtbare Stück schießen",
-    "FalscheAntwort2": "Nur nach Gehör schießen",
-    "FalscheAntwort3": "Nur mit aufgesetztem Schalldämpfer schießen",
-    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdbetrieb_hundewesen"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Aussage trifft zu: Was gilt beim Schuss auf flüchtiges Wild?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Aussage trifft zu: Was gilt beim Schuss auf flüchtiges Wild?",
+    "FrageMC": "Was ist bei „Hahn in Ruh im Treiben“ korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -9045,38 +6783,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wie groß muss ein gemeinschaftlicher Jagdbezirk in SH mindestens sein?",
-    "Antwort": "250 ha",
-    "FalscheAntwort1": "75 ha",
-    "FalscheAntwort2": "500 ha",
-    "FalscheAntwort3": "1000 ha",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdrecht"
-    ],
-    "FrageFreitext": "Wie groß muss ein gemeinschaftlicher Jagdbezirk in SH mindestens sein?",
-    "FrageMC": "Wie groß muss ein gemeinschaftlicher Jagdbezirk in SH mindestens sein?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "Antwort": "14 aufeinanderfolgende Tage",
-    "FalscheAntwort1": "24 Stunden",
-    "FalscheAntwort2": "7 Tage",
-    "FalscheAntwort3": "30 Tage",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "FrageMC": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Was ist über die Wildfolge korrekt?",
     "Antwort": "Sie ist nur im rechtlich zulässigen Rahmen im Nachbarrevier erlaubt",
     "FalscheAntwort1": "Sie ist überall ohne Einschränkung erlaubt",
@@ -9093,22 +6799,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "Antwort": "Der Bundesgesetzgeber",
-    "FalscheAntwort1": "Die Jagdgenossenschaft",
-    "FalscheAntwort2": "Die Hegegemeinschaft",
-    "FalscheAntwort3": "Der Hegering",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "FrageMC": "Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Welche Aussage zum Abschussplan trifft zu?",
     "Antwort": "Er regelt insbesondere Schalenwildabschüsse im Planungszeitraum",
     "FalscheAntwort1": "Er gilt nur für Niederwild",
@@ -9121,118 +6811,6 @@
     ],
     "FrageFreitext": "Welche Aussage zum Abschussplan trifft zu?",
     "FrageMC": "Welche Aussage zum Abschussplan trifft zu?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wer ist Träger der Jagdgenossenschaft?",
-    "Antwort": "Die Eigentümer der Grundflächen eines gemeinschaftlichen Jagdbezirks",
-    "FalscheAntwort1": "Nur der Jagdpächter",
-    "FalscheAntwort2": "Nur der Bürgermeister",
-    "FalscheAntwort3": "Die örtliche Polizei",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht"
-    ],
-    "FrageFreitext": "Wer ist Träger der Jagdgenossenschaft?",
-    "FrageMC": "Wer ist Träger der Jagdgenossenschaft?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welches Ziel verfolgt Biotophege?",
-    "Antwort": "Lebensräume für Wild und Artenvielfalt verbessern",
-    "FalscheAntwort1": "Nur Fütterung im Winter",
-    "FalscheAntwort2": "Nur Raubwild intensivieren",
-    "FalscheAntwort3": "Ausschließlich Wegepflege",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Welches Ziel verfolgt Biotophege?",
-    "FrageMC": "Welches Ziel verfolgt Biotophege?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welches Ziel hat der Naturschutz im Revier?",
-    "Antwort": "Erhalt von Arten, Lebensräumen und ökologischen Funktionen",
-    "FalscheAntwort1": "Maximale Schalenwilddichte",
-    "FalscheAntwort2": "Nur jagdlich nutzbare Arten fördern",
-    "FalscheAntwort3": "Wegfall aller Ruhezonen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Welches Ziel hat der Naturschutz im Revier?",
-    "FrageMC": "Welches Ziel hat der Naturschutz im Revier?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "Antwort": "Mit Rechtskraft des Entzugs, sofern vertraglich/rechtlich so vorgesehen",
-    "FalscheAntwort1": "Er läuft unverändert weiter",
-    "FalscheAntwort2": "Nur nach 5 Jahren",
-    "FalscheAntwort3": "Er wird automatisch auf Nachbarn übertragen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "FrageMC": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welcher Grundsatz gilt im Waldumbau?",
-    "Antwort": "Standortgerechte, klimaresiliente Mischbestände fördern",
-    "FalscheAntwort1": "Monokulturen ausweiten",
-    "FalscheAntwort2": "Nur schnellwachsende Exoten pflanzen",
-    "FalscheAntwort3": "Nur Kahlschlag betreiben",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welcher Grundsatz gilt im Waldumbau?",
-    "FrageMC": "Welcher Grundsatz gilt im Waldumbau?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welches Ziel verfolgt die Landbau-Beratung im Revierkontext?",
-    "Antwort": "Wildschaden mindern und Lebensräume verbessern",
-    "FalscheAntwort1": "Nur Ertrag steigern ohne Rücksicht",
-    "FalscheAntwort2": "Ausschließlich Maisanbau",
-    "FalscheAntwort3": "Nur Drainagen vertiefen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welches Ziel verfolgt die Landbau-Beratung im Revierkontext?",
-    "FrageMC": "Welches Ziel verfolgt die Landbau-Beratung im Revierkontext?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
-    "Antwort": "Untere Jagdbehörde",
-    "FalscheAntwort1": "Hegeringvorsitz",
-    "FalscheAntwort2": "Jagdaufseher",
-    "FalscheAntwort3": "Forstunternehmer",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
-    "FrageMC": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
     "PdfEligible": false,
     "AlternativeAntworten": []
   },
@@ -9269,118 +6847,6 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wofür steht Biotophege am ehesten?",
-    "Antwort": "Verbesserung von Lebensräumen",
-    "FalscheAntwort1": "ausschließlich Winterfütterung",
-    "FalscheAntwort2": "nur Wegebau",
-    "FalscheAntwort3": "nur Raubwildbejagung",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Wofür steht Biotophege am ehesten?",
-    "FrageMC": "Wofür steht Biotophege am ehesten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über Mastjahr im Reviermanagement korrekt?",
-    "Antwort": "starke Fruktifikation von Waldbäumen",
-    "FalscheAntwort1": "jährlicher Holzeinschlag",
-    "FalscheAntwort2": "Bodenkalkung",
-    "FalscheAntwort3": "Kulturzäunung",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Was ist über Mastjahr im Reviermanagement korrekt?",
-    "FrageMC": "Was ist über Mastjahr im Reviermanagement korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür steht Mastjahr am ehesten?",
-    "Antwort": "starke Fruktifikation von Waldbäumen",
-    "FalscheAntwort1": "jährlicher Holzeinschlag",
-    "FalscheAntwort2": "Bodenkalkung",
-    "FalscheAntwort3": "Kulturzäunung",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wofür steht Mastjahr am ehesten?",
-    "FrageMC": "Wofür steht Mastjahr am ehesten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über Waldumbau im Reviermanagement korrekt?",
-    "Antwort": "standortgerechte klimaresiliente Mischbestände",
-    "FalscheAntwort1": "Monokultur ausweiten",
-    "FalscheAntwort2": "ausschließlich Kahlschlag",
-    "FalscheAntwort3": "nur Exoten anpflanzen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Was ist über Waldumbau im Reviermanagement korrekt?",
-    "FrageMC": "Was ist über Waldumbau im Reviermanagement korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür steht Waldumbau am ehesten?",
-    "Antwort": "standortgerechte klimaresiliente Mischbestände",
-    "FalscheAntwort1": "Monokultur ausweiten",
-    "FalscheAntwort2": "ausschließlich Kahlschlag",
-    "FalscheAntwort3": "nur Exoten anpflanzen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wofür steht Waldumbau am ehesten?",
-    "FrageMC": "Wofür steht Waldumbau am ehesten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Was ist über Fichte im Reviermanagement korrekt?",
-    "Antwort": "Flachwurzler und trockenheitsempfindlich",
-    "FalscheAntwort1": "Tiefwurzler mit hoher Dürretoleranz",
-    "FalscheAntwort2": "typische Auenbaumart",
-    "FalscheAntwort3": "windfest wie Eiche auf jedem Standort",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "hard",
-    "Tags": [
-      "waldbau"
-    ],
-    "FrageFreitext": "Was ist über Fichte im Reviermanagement korrekt?",
-    "FrageMC": "Was ist über Fichte im Reviermanagement korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wofür steht Fichte am ehesten?",
-    "Antwort": "Flachwurzler und trockenheitsempfindlich",
-    "FalscheAntwort1": "Tiefwurzler mit hoher Dürretoleranz",
-    "FalscheAntwort2": "typische Auenbaumart",
-    "FalscheAntwort3": "windfest wie Eiche auf jedem Standort",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waldbau"
-    ],
-    "FrageFreitext": "Wofür steht Fichte am ehesten?",
-    "FrageMC": "Wofür steht Fichte am ehesten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
     "Frage": "Was ist über Naturschutz im Reviermanagement korrekt?",
     "Antwort": "Erhalt von Arten und Funktionen",
     "FalscheAntwort1": "nur jagdbare Arten maximieren",
@@ -9397,55 +6863,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wofür steht Naturschutz im Revier am ehesten?",
-    "Antwort": "Erhalt von Arten und Funktionen",
-    "FalscheAntwort1": "nur jagdbare Arten maximieren",
-    "FalscheAntwort2": "nur Trophäenträger fördern",
-    "FalscheAntwort3": "Nutzung ohne Rücksicht",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Wofür steht Naturschutz im Revier am ehesten?",
-    "FrageMC": "Wofür steht Naturschutz im Revier am ehesten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "Antwort": "14 aufeinanderfolgende Tage",
-    "FalscheAntwort1": "24 Stunden",
-    "FalscheAntwort2": "7 Tage",
-    "FalscheAntwort3": "30 Tage",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "FrageMC": "Wie lange ist ein Tagesjagdschein maximal gültig?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist ein befriedeter Bezirk?",
-    "Antwort": "Fläche, auf der die Jagd ruht oder eingeschränkt ist",
-    "FalscheAntwort1": "Öffentliches Waldstück mit Jagderlaubnis",
-    "FalscheAntwort2": "Nur Naturschutzgebiet mit Bejagungspflicht",
-    "FalscheAntwort3": "Fläche mit ganzjähriger Fütterung",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist ein befriedeter Bezirk?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist ein befriedeter Bezirk?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Wildfolge ist richtig?",
+    "Frage": "Welche Aussage zur Wildfolge ist richtig?",
     "Antwort": "Sie ist nur im rechtlich zulässigen Rahmen im Nachbarrevier erlaubt",
     "FalscheAntwort1": "Sie ist überall ohne Einschränkung erlaubt",
     "FalscheAntwort2": "Sie ist grundsätzlich verboten",
@@ -9456,226 +6874,12 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Wildfolge ist richtig?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zur Wildfolge ist richtig?",
+    "FrageMC": "Welche Aussage zur Wildfolge ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "Antwort": "Der Bundesgesetzgeber",
-    "FalscheAntwort1": "Die Jagdgenossenschaft",
-    "FalscheAntwort2": "Die Hegegemeinschaft",
-    "FalscheAntwort3": "Der Hegering",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "FrageMC": "Im Prüfungsstil gefragt: Wer erlässt in Deutschland das Bundesjagdgesetz?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist bei Wildschadensmeldung in der Feldflur wichtig?",
-    "Antwort": "Fristgerechte Anzeige bei zuständiger Stelle",
-    "FalscheAntwort1": "Meldung nur am Jahresende",
-    "FalscheAntwort2": "Nur mündliche Meldung beim Nachbarn",
-    "FalscheAntwort3": "Nur Foto ohne Anzeige",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "hard",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist bei Wildschadensmeldung in der Feldflur wichtig?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist bei Wildschadensmeldung in der Feldflur wichtig?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "Antwort": "12 Jahre",
-    "FalscheAntwort1": "3 Jahre",
-    "FalscheAntwort2": "6 Jahre",
-    "FalscheAntwort3": "20 Jahre",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "FrageMC": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "PdfEligible": false,
-    "AlternativeAntworten": [
-      "Rotwild",
-      "Damwild",
-      "Rehwild",
-      "Schwarzwild",
-      "Muffelwild"
-    ]
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Was ist Waidgerechtigkeit rechtlich betrachtet?",
-    "Antwort": "Anerkannter ethischer Maßstab ordnungsgemäßer Jagdausübung",
-    "FalscheAntwort1": "Nur Tradition ohne Relevanz",
-    "FalscheAntwort2": "Ausschließlich Trophäenpflege",
-    "FalscheAntwort3": "Synonym für Abschussplan",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Was ist Waidgerechtigkeit rechtlich betrachtet?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was ist Waidgerechtigkeit rechtlich betrachtet?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welches Ziel verfolgt Biotophege?",
-    "Antwort": "Lebensräume für Wild und Artenvielfalt verbessern",
-    "FalscheAntwort1": "Nur Fütterung im Winter",
-    "FalscheAntwort2": "Nur Raubwild intensivieren",
-    "FalscheAntwort3": "Ausschließlich Wegepflege",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welches Ziel verfolgt Biotophege?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welches Ziel verfolgt Biotophege?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Baumart gilt als besonders trockenheitsempfindliche Flachwurzlerin?",
-    "Antwort": "Fichte",
-    "FalscheAntwort1": "Eiche",
-    "FalscheAntwort2": "Douglasie",
-    "FalscheAntwort3": "Lärche",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waldbau"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Baumart gilt als besonders trockenheitsempfindliche Flachwurzlerin?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Baumart gilt als besonders trockenheitsempfindliche Flachwurzlerin?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist eine Mast in der Waldökologie?",
-    "Antwort": "Starkes Fruktifikationsjahr von Bäumen",
-    "FalscheAntwort1": "Jährlicher Holzeinschlag",
-    "FalscheAntwort2": "Pflanzung von Jungbäumen",
-    "FalscheAntwort3": "Kalkung des Bodens",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist eine Mast in der Waldökologie?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist eine Mast in der Waldökologie?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "Antwort": "Mit Rechtskraft des Entzugs, sofern vertraglich/rechtlich so vorgesehen",
-    "FalscheAntwort1": "Er läuft unverändert weiter",
-    "FalscheAntwort2": "Nur nach 5 Jahren",
-    "FalscheAntwort3": "Er wird automatisch auf Nachbarn übertragen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "FrageMC": "Wann erlischt ein Jagdpachtvertrag bei Entzug des Jagdscheins des Alleinpächters regelmäßig?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welcher Grundsatz gilt im Waldumbau?",
-    "Antwort": "Standortgerechte, klimaresiliente Mischbestände fördern",
-    "FalscheAntwort1": "Monokulturen ausweiten",
-    "FalscheAntwort2": "Nur schnellwachsende Exoten pflanzen",
-    "FalscheAntwort3": "Nur Kahlschlag betreiben",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Wählen Sie die richtige Antwort: Welcher Grundsatz gilt im Waldumbau?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welcher Grundsatz gilt im Waldumbau?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was ist ein Eigenjagdbezirk?",
-    "Antwort": "Jagdbezirk eines Eigentümers bei Erreichen gesetzlicher Mindestgröße",
-    "FalscheAntwort1": "Jeder beliebige Privatgarten",
-    "FalscheAntwort2": "Nur kommunale Waldfläche",
-    "FalscheAntwort3": "Ausschließlich Forstamtfläche",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "easy",
-    "Tags": [
-      "jagdrecht"
-    ],
-    "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was ist ein Eigenjagdbezirk?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was ist ein Eigenjagdbezirk?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Im Prüfungsstil gefragt: Welche Funktion hat der Genossenschaftsvorstand?",
-    "Antwort": "Vertretung und Führung der Jagdgenossenschaft",
-    "FalscheAntwort1": "Ausbildung von Jagdhunden",
-    "FalscheAntwort2": "Erteilung des Jagdscheins",
-    "FalscheAntwort3": "Leitung der Polizei",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht"
-    ],
-    "FrageFreitext": "Im Prüfungsstil gefragt: Welche Funktion hat der Genossenschaftsvorstand?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Funktion hat der Genossenschaftsvorstand?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was ist bei der Bejagung in Naturschutzgebieten maßgeblich?",
-    "Antwort": "Die jeweilige Schutzgebietsverordnung",
-    "FalscheAntwort1": "Nur der Wille des Pächters",
-    "FalscheAntwort2": "Ausschließlich Bundesrecht ohne Landesbezug",
-    "FalscheAntwort3": "Nur Jagdzeitenverordnung ohne Ausnahmen",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was ist bei der Bejagung in Naturschutzgebieten maßgeblich?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was ist bei der Bejagung in Naturschutzgebieten maßgeblich?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
-    "Antwort": "Untere Jagdbehörde",
-    "FalscheAntwort1": "Hegeringvorsitz",
-    "FalscheAntwort2": "Jagdaufseher",
-    "FalscheAntwort3": "Forstunternehmer",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "waffenrecht"
-    ],
-    "FrageFreitext": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
-    "FrageMC": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zur Hegegemeinschaft ist richtig?",
+    "Frage": "Welche Aussage zur Hegegemeinschaft ist richtig?",
     "Antwort": "Sie dient der revierübergreifenden Abstimmung, besonders beim Schalenwild",
     "FalscheAntwort1": "Sie ersetzt die Jagdbehörde",
     "FalscheAntwort2": "Sie ist für Führerscheine zuständig",
@@ -9686,12 +6890,12 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zur Hegegemeinschaft ist richtig?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage zur Hegegemeinschaft ist richtig?",
+    "FrageMC": "Welche Aussage zur Hegegemeinschaft ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu gemeinschaftlicher Jagdbezirk in SH ist richtig?",
+    "Frage": "Welche Aussage zu gemeinschaftlicher Jagdbezirk in SH ist richtig?",
     "Antwort": "mindestens 250 ha",
     "FalscheAntwort1": "mindestens 75 ha",
     "FalscheAntwort2": "mindestens 100 ha",
@@ -9702,12 +6906,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu gemeinschaftlicher Jagdbezirk in SH ist richtig?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu gemeinschaftlicher Jagdbezirk in SH ist richtig?",
+    "FrageMC": "Welche Aussage zu gemeinschaftlicher Jagdbezirk in SH ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
+    "Frage": "Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
     "Antwort": "mindestens 250 ha",
     "FalscheAntwort1": "mindestens 75 ha",
     "FalscheAntwort2": "mindestens 100 ha",
@@ -9718,7 +6922,7 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Im Prüfungsstil gefragt: Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
+    "FrageMC": "Was trifft auf gemeinschaftlicher Jagdbezirk in SH zu?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -9739,23 +6943,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Jagdausübung korrekt?",
-    "Antwort": "Aufsuchen, Nachstellen, Erlegen, Fangen",
-    "FalscheAntwort1": "nur Erlegen",
-    "FalscheAntwort2": "nur Hege",
-    "FalscheAntwort3": "nur Waffenbesitz",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Was ist über Jagdausübung korrekt?",
-    "FrageMC": "Was ist über Jagdausübung korrekt?",
-    "PdfEligible": false,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zu Jagdgenossenschaft ist richtig?",
+    "Frage": "Welche Aussage zu Jagdgenossenschaft ist richtig?",
     "Antwort": "Zusammenschluss der Grundstückseigentümer",
     "FalscheAntwort1": "Verein der Jagdscheininhaber",
     "FalscheAntwort2": "Behörde des Landkreises",
@@ -9766,12 +6954,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zu Jagdgenossenschaft ist richtig?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage zu Jagdgenossenschaft ist richtig?",
+    "FrageMC": "Welche Aussage zu Jagdgenossenschaft ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Was trifft auf Jagdgenossenschaft zu?",
+    "Frage": "Was trifft auf Jagdgenossenschaft zu?",
     "Antwort": "Zusammenschluss der Grundstückseigentümer",
     "FalscheAntwort1": "Verein der Jagdscheininhaber",
     "FalscheAntwort2": "Behörde des Landkreises",
@@ -9782,12 +6970,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Was trifft auf Jagdgenossenschaft zu?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Was trifft auf Jagdgenossenschaft zu?",
+    "FrageMC": "Was trifft auf Jagdgenossenschaft zu?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu Waidgerechtigkeit ist richtig?",
+    "Frage": "Welche Aussage zu Waidgerechtigkeit ist richtig?",
     "Antwort": "anerkannte ethische Grundsätze der Jagd",
     "FalscheAntwort1": "nur freiwillige Tradition",
     "FalscheAntwort2": "reiner Schießstandard",
@@ -9798,12 +6986,12 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zu Waidgerechtigkeit ist richtig?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aussage zu Waidgerechtigkeit ist richtig?",
+    "FrageMC": "Welche Aussage zu Waidgerechtigkeit ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Was trifft auf Waidgerechtigkeit zu?",
+    "Frage": "Was trifft auf Waidgerechtigkeit zu?",
     "Antwort": "anerkannte ethische Grundsätze der Jagd",
     "FalscheAntwort1": "nur freiwillige Tradition",
     "FalscheAntwort2": "reiner Schießstandard",
@@ -9814,7 +7002,7 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Was trifft auf Waidgerechtigkeit zu?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Was trifft auf Waidgerechtigkeit zu?",
+    "FrageMC": "Was trifft auf Waidgerechtigkeit zu?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -9835,7 +7023,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Wählen Sie die richtige Antwort: Was trifft auf Wildschaden Feldflur zu?",
+    "Frage": "Was trifft auf Wildschaden Feldflur zu?",
     "Antwort": "fristgerechte Meldung ist erforderlich",
     "FalscheAntwort1": "Meldung erst nach Ernte",
     "FalscheAntwort2": "nur mündlich beim Nachbarn",
@@ -9846,12 +7034,12 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Wählen Sie die richtige Antwort: Was trifft auf Wildschaden Feldflur zu?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Was trifft auf Wildschaden Feldflur zu?",
+    "FrageMC": "Was trifft auf Wildschaden Feldflur zu?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu Abschussplan ist richtig?",
+    "Frage": "Welche Aussage zu Abschussplan ist richtig?",
     "Antwort": "regelt v. a. Schalenwildabschüsse",
     "FalscheAntwort1": "gilt nur für Niederwild",
     "FalscheAntwort2": "ist optional ohne Bindung",
@@ -9862,12 +7050,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu Abschussplan ist richtig?",
-    "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Welche Aussage zu Abschussplan ist richtig?",
+    "FrageMC": "Welche Aussage zu Abschussplan ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Was trifft auf Abschussplan zu?",
+    "Frage": "Was trifft auf Abschussplan zu?",
     "Antwort": "regelt v. a. Schalenwildabschüsse",
     "FalscheAntwort1": "gilt nur für Niederwild",
     "FalscheAntwort2": "ist optional ohne Bindung",
@@ -9878,12 +7066,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Im Prüfungsstil gefragt: Was trifft auf Abschussplan zu?",
-    "FrageMC": "Im Prüfungsstil gefragt: Was trifft auf Abschussplan zu?",
+    "FrageMC": "Was trifft auf Abschussplan zu?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Eigenjagdbezirk ist richtig?",
+    "Frage": "Welche Aussage zu Eigenjagdbezirk ist richtig?",
     "Antwort": "Jagdbezirk eines Eigentümers bei Mindestgröße",
     "FalscheAntwort1": "kleiner Hausgarten",
     "FalscheAntwort2": "nur Staatsforst",
@@ -9894,28 +7082,12 @@
       "jagdrecht"
     ],
     "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Eigenjagdbezirk ist richtig?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Welche Aussage zu Eigenjagdbezirk ist richtig?",
+    "FrageMC": "Welche Aussage zu Eigenjagdbezirk ist richtig?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Was ist über Schutzgebietsjagd korrekt?",
-    "Antwort": "richtet sich nach Schutzgebietsverordnung",
-    "FalscheAntwort1": "nur nach Wunsch des Pächters",
-    "FalscheAntwort2": "ist überall gleich geregelt",
-    "FalscheAntwort3": "ist generell verboten",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "naturschutz"
-    ],
-    "FrageFreitext": "Was ist über Schutzgebietsjagd korrekt?",
-    "FrageMC": "Was ist über Schutzgebietsjagd korrekt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wählen Sie die richtige Antwort: Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
+    "Frage": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
     "Antwort": "Verbesserung von Lebensräumen",
     "FalscheAntwort1": "ausschließlich Winterfütterung",
     "FalscheAntwort2": "nur Wegebau",
@@ -9926,7 +7098,7 @@
       "naturschutz"
     ],
     "FrageFreitext": "Wählen Sie die richtige Antwort: Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
-    "FrageMC": "Wählen Sie die richtige Antwort: Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
+    "FrageMC": "Welche Aussage zu Biotophege im Reviermanagement ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -9947,7 +7119,7 @@
     "AlternativeAntworten": []
   },
   {
-    "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
+    "Frage": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
     "Antwort": "starke Fruktifikation von Waldbäumen",
     "FalscheAntwort1": "jährlicher Holzeinschlag",
     "FalscheAntwort2": "Bodenkalkung",
@@ -9958,23 +7130,7 @@
       "jagdrecht_naturschutz_land-_waldbau"
     ],
     "FrageFreitext": "Im Prüfungsstil gefragt: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
-    "FrageMC": "Im Prüfungsstil gefragt: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Welche Option beantwortet die Frage korrekt: Wofür steht Mastjahr am ehesten?",
-    "Antwort": "starke Fruktifikation von Waldbäumen",
-    "FalscheAntwort1": "jährlicher Holzeinschlag",
-    "FalscheAntwort2": "Bodenkalkung",
-    "FalscheAntwort3": "Kulturzäunung",
-    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
-    "Difficulty": "medium",
-    "Tags": [
-      "jagdrecht_naturschutz_land-_waldbau"
-    ],
-    "FrageFreitext": "Welche Option beantwortet die Frage korrekt: Wofür steht Mastjahr am ehesten?",
-    "FrageMC": "Welche Option beantwortet die Frage korrekt: Wofür steht Mastjahr am ehesten?",
+    "FrageMC": "Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
     "PdfEligible": true,
     "AlternativeAntworten": []
   },
@@ -13320,24 +10476,6 @@
     "Tags": [
       "Fellfarben",
       "Mufflons",
-      "wildtierkunde"
-    ],
-    "PdfEligible": true,
-    "AlternativeAntworten": []
-  },
-  {
-    "Frage": "Wann wirft der Rehbock sein Gehörn ab?",
-    "FrageFreitext": "Wann wirft der Rehbock sein Gehörn ab?",
-    "FrageMC": "Wann erfolgt der Abwurf des Gehörns beim Rehbock?",
-    "Antwort": "Im Mai bis Juni",
-    "FalscheAntwort1": "Im Januar bis Februar",
-    "FalscheAntwort2": "Im März bis April",
-    "FalscheAntwort3": "Im Juli bis August",
-    "Pruefungsfach": "Wildtierkunde",
-    "Difficulty": "medium",
-    "Tags": [
-      "Gehörn",
-      "Rehbock",
       "wildtierkunde"
     ],
     "PdfEligible": true,
