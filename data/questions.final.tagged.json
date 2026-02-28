@@ -9943,8 +9943,9 @@
     ],
     "FrageFreitext": "Bitte bestimmen Sie die zutreffende Aussage: Wofür steht Biotophege am ehesten?",
     "FrageMC": "Bitte bestimmen Sie die zutreffende Aussage: Wofür steht Biotophege am ehesten?",
-    "PdfEligible": true,
-    "AlternativeAntworten": []
+    "PdfEligible": false,
+    "AlternativeAntworten": [],
+    "ReportFlag": "AUTO_REVIEW:Formulierung unklar. Wozu dient die Biotophege ist besser"
   },
   {
     "Frage": "Im Prüfungsstil gefragt: Welche Aussage zu Mastjahr im Reviermanagement ist korrekt?",
