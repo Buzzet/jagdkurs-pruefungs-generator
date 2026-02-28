@@ -301,6 +301,7 @@ const mcPointsPercent = computed(() => {
   if (!mcMaxPoints.value) return 0
   return Math.round((mcPointsTotal.value / mcMaxPoints.value) * 100)
 })
+const mcResultsList = computed(() => mcResults.value.filter(Boolean))
 const mcGrade = computed(() => {
   const p = mcPointsPercent.value
   if (p >= 90) return '1'
@@ -474,6 +475,7 @@ const aiGrade = computed(() => {
   if (p >= 30) return '5'
   return '6'
 })
+const aiResultsList = computed(() => aiResults.value.filter(Boolean))
 
 const isAiEligible = (q: Question) => {
   const t = (q.FrageFreitext || q.Frage || '').toLowerCase()
@@ -616,6 +618,7 @@ const resetAi = () => {
   aiAnswered.value = false
   aiFollowupQuestion.value = ''
   aiFollowupAnswer.value = ''
+  aiResults.value = []
 }
 
 const switchToAi = () => {
