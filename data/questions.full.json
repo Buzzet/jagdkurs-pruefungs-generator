@@ -409,7 +409,7 @@
   },
   {
     "Frage": "Welche Ernährungsweise trifft auf Fuchs am besten zu?",
-    "Antwort": "Fleischfresser",
+    "Antwort": "Allesfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Pflanzenfresser",
     "FalscheAntwort3": "Nagetier",
@@ -424,7 +424,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welcher Gruppe wird der Stockente zugeordnet?",
+    "Frage": "Welcher Gruppe wird die Stockente zugeordnet?",
     "Antwort": "Gründelente",
     "FalscheAntwort1": "Tauchente",
     "FalscheAntwort2": "Hühnervogel",
@@ -432,7 +432,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welcher Gruppe wird der Reiherente zugeordnet?",
+    "Frage": "Welcher Gruppe wird die Reiherente zugeordnet?",
     "Antwort": "Tauchente",
     "FalscheAntwort1": "Gründelente",
     "FalscheAntwort2": "Raufußhuhn",
@@ -456,7 +456,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welcher Gruppe wird der Rabenkrähe zugeordnet?",
+    "Frage": "Welcher Gruppe wird die Rabenkrähe zugeordnet?",
     "Antwort": "Rabenvogel",
     "FalscheAntwort1": "Greifvogel",
     "FalscheAntwort2": "Taubenvogel",
@@ -1113,7 +1113,7 @@
   },
   {
     "Frage": "Was ist korrekt? Welche Ernährungsweise trifft auf Fuchs am besten zu?",
-    "Antwort": "Fleischfresser",
+    "Antwort": "Allesfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Reiner Pflanzenfresser",
     "FalscheAntwort3": "Nagetier",
@@ -1128,7 +1128,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird der Stockente zugeordnet?",
+    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird die Stockente zugeordnet?",
     "Antwort": "Gründelente",
     "FalscheAntwort1": "Tauchente",
     "FalscheAntwort2": "Hühnervogel",
@@ -1136,7 +1136,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Was ist korrekt? Welcher Gruppe wird der Stockente zugeordnet?",
+    "Frage": "Was ist korrekt? Welcher Gruppe wird die Stockente zugeordnet?",
     "Antwort": "Gründelente",
     "FalscheAntwort1": "Tauchente",
     "FalscheAntwort2": "Hühnervogel",
@@ -1144,7 +1144,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird der Reiherente zugeordnet?",
+    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird die Reiherente zugeordnet?",
     "Antwort": "Tauchente",
     "FalscheAntwort1": "Gründelente",
     "FalscheAntwort2": "Raufußhuhn",
@@ -1152,7 +1152,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Was ist korrekt? Welcher Gruppe wird der Reiherente zugeordnet?",
+    "Frage": "Was ist korrekt? Welcher Gruppe wird die Reiherente zugeordnet?",
     "Antwort": "Tauchente",
     "FalscheAntwort1": "Gründelente",
     "FalscheAntwort2": "Raufußhuhn",
@@ -1192,7 +1192,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird der Rabenkrähe zugeordnet?",
+    "Frage": "Welche Antwort ist richtig? Welcher Gruppe wird die Rabenkrähe zugeordnet?",
     "Antwort": "Rabenvogel",
     "FalscheAntwort1": "Greifvogel",
     "FalscheAntwort2": "Taubenvogel",
@@ -2337,7 +2337,7 @@
   },
   {
     "Frage": "Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "Antwort": "12 Jahre",
+    "Antwort": "9 Jahre (Mindestpachtzeit nach § 11 BJG)",
     "FalscheAntwort1": "3 Jahre",
     "FalscheAntwort2": "6 Jahre",
     "FalscheAntwort3": "20 Jahre",
@@ -2448,7 +2448,7 @@
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
   {
-    "Frage": "Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
+    "Frage": "Wer ist zuständig für die Erteilung und den Entzug des Jagdscheins?",
     "Antwort": "Untere Jagdbehörde",
     "FalscheAntwort1": "Hegeringvorsitz",
     "FalscheAntwort2": "Jagdaufseher",
@@ -2793,7 +2793,7 @@
   },
   {
     "Frage": "Was ist korrekt? Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "Antwort": "12 Jahre",
+    "Antwort": "9 Jahre (Mindestpachtzeit nach § 11 BJG)",
     "FalscheAntwort1": "3 Jahre",
     "FalscheAntwort2": "6 Jahre",
     "FalscheAntwort3": "20 Jahre",
@@ -2936,7 +2936,7 @@
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
   {
-    "Frage": "Welche Antwort ist richtig? Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
+    "Frage": "Welche Antwort ist richtig? Wer ist zuständig für die Erteilung und den Entzug des Jagdscheins?",
     "Antwort": "Untere Jagdbehörde",
     "FalscheAntwort1": "Hegeringvorsitz",
     "FalscheAntwort2": "Jagdaufseher",
@@ -2944,7 +2944,7 @@
     "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau"
   },
   {
-    "Frage": "Was ist korrekt? Wer ist bei vielen Prüfungsfragen zuständig für Jagdscheinangelegenheiten?",
+    "Frage": "Was ist korrekt? Wer ist zuständig für die Erteilung und den Entzug des Jagdscheins?",
     "Antwort": "Untere Jagdbehörde",
     "FalscheAntwort1": "Hegeringvorsitz",
     "FalscheAntwort2": "Jagdaufseher",
@@ -3257,7 +3257,7 @@
   },
   {
     "Frage": "Welche Antwort ist fachlich richtig? Welche Mindestpachtzeit gilt in SH für Hochwildjagd in der Regel?",
-    "Antwort": "12 Jahre",
+    "Antwort": "9 Jahre (Mindestpachtzeit nach § 11 BJG)",
     "FalscheAntwort1": "3 Jahre",
     "FalscheAntwort2": "6 Jahre",
     "FalscheAntwort3": "20 Jahre",
@@ -4129,7 +4129,7 @@
   },
   {
     "Frage": "Welche Ernährungsweise trifft auf Fuchs am ehesten zu?",
-    "Antwort": "Fleischfresser",
+    "Antwort": "Allesfresser",
     "FalscheAntwort1": "Wiederkäuer",
     "FalscheAntwort2": "Pflanzenfresser",
     "FalscheAntwort3": "Insektenfresser",
@@ -4272,7 +4272,7 @@
     "Pruefungsfach": "Wildtierkunde"
   },
   {
-    "Frage": "Welcher Gruppe wird der Graugans zugeordnet?",
+    "Frage": "Welcher Gruppe wird die Graugans zugeordnet?",
     "Antwort": "Gänsevogel",
     "FalscheAntwort1": "Hühnervogel",
     "FalscheAntwort2": "Rabenvogel",
@@ -5913,7 +5913,7 @@
   },
   {
     "Frage": "Sie wollen Munition fuer Ihren Revolver beim Waffenhaendler kaufen. Was muessen Sie vorlegen?",
-    "Antwort": "Die Waffenbesitzkarte (WBK) mit dem Eintrag der Kurzwaffe und dem Munitionserwerb; ein Jagdschein ist dafuer nicht erforderlich",
+    "Antwort": "Die Waffenbesitzkarte (WBK) mit dem Eintrag der Kurzwaffe; ein Jagdschein ist dafuer nicht erforderlich",
     "FalscheAntwort1": "Nur den gueltigen Jagdschein",
     "FalscheAntwort2": "Personalausweis und Jagdschein",
     "FalscheAntwort3": "Jagdschein und Schiessnachweiss",
@@ -5921,7 +5921,7 @@
   },
   {
     "Frage": "Sie wollen Munition für Ihren Revolver und für Ihre Flinte kaufen. Was müssen Sie dem Waffenhändler vorlegen?",
-    "Antwort": "Für die Flinte den Jagdschein; für den Revolver die WBK mit Eintrag Kurzwaffe und Munitionserwerb",
+    "Antwort": "Für die Flinte den Jagdschein; für den Revolver die WBK mit Eintrag der Kurzwaffe",
     "FalscheAntwort1": "Nur den Jagdschein für beide Waffen",
     "FalscheAntwort2": "Nur die WBK für beide Waffen",
     "FalscheAntwort3": "Jagdschein, WBK und Schießnachweis für beide Waffen",
@@ -5937,7 +5937,7 @@
   },
   {
     "Frage": "Welche Anforderungen gelten für den Transport von Jagdwaffen zum Schießstand?",
-    "Antwort": "Waffe muss entladen, in einem verschlossenen Behältnis und nicht zugriffsbereit transportiert werden",
+    "Antwort": "Waffe muss entladen und nicht zugriffsbereit transportiert werden (§ 12 Abs. 3 Nr. 2 WaffG); ein verschlossenes Behältnis ist empfohlen aber nicht gesetzlich zwingend vorgeschrieben",
     "FalscheAntwort1": "Waffe muss entladen sein; Verschluss und Zugriffsbereitschaft sind nicht vorgeschrieben",
     "FalscheAntwort2": "Waffe darf geladen, muss aber gesichert und im Kofferraum sein",
     "FalscheAntwort3": "Waffe muss entladen im offenen Futteral sichtbar transportiert werden",
@@ -5985,7 +5985,7 @@
   },
   {
     "Frage": "Dürfen Vollmantelgeschosse bei der Jagd auf Schalenwild verwendet werden?",
-    "Antwort": "Nein; für die Jagd auf Schalenwild sind Vollmantelgeschosse verboten – erlaubt nur auf Raubwild (balgschonend) und in Ausnahmen auf Großwild",
+    "Antwort": "Nein; für die Jagd auf Schalenwild sind Vollmantelgeschosse verboten; erlaubt nur auf Raubwild (balgschonend)",
     "FalscheAntwort1": "Ja, wenn das Kaliber die Mindestenergievorgaben erfüllt",
     "FalscheAntwort2": "Ja, ausnahmslos auf Schwarzwild",
     "FalscheAntwort3": "Ja, sofern das Geschoss bleifrei ist",
@@ -6001,7 +6001,7 @@
   },
   {
     "Frage": "Welche Dokumente muss der Jagdleiter bei einer Bewegungsjagd auf Schalenwild kontrollieren?",
-    "Antwort": "Gültigen Jagdschein, Waffen und Munition sowie den gültigen Schießnachweis jedes Schützen",
+    "Antwort": "Gültigen Jagdschein jedes Schützen; in Schleswig-Holstein zusätzlich den gültigen Schießnachweis (§ 10a LJagdG SH); Waffen und Munition",
     "FalscheAntwort1": "Nur WBK und Jagdschein",
     "FalscheAntwort2": "Nur den Jagdschein jedes Schützen",
     "FalscheAntwort3": "Jagdschein, WBK und Personalausweis",
@@ -6009,8 +6009,8 @@
   },
   {
     "Frage": "Wie müssen Waffen und Munition aufbewahrt werden?",
-    "Antwort": "Getrennt voneinander: Waffen im Stahlschrank Klasse A, Munition im Schrank AB mit separatem abschließbarem Fach oder in einem separaten abschließbaren Blechschrank.",
-    "FalscheAntwort1": "Gemeinsam in einem abschließbaren Waffenschrank Klasse A – es gibt keine Trennungspflicht.",
+    "Antwort": "Getrennt voneinander: Waffen in einem Sicherheitsschrank mindestens Widerstandsgrad 0 nach EN 14450 (früher „Klasse A\"), Munition in einem separaten abschließbaren Fach oder Behälter.",
+    "FalscheAntwort1": "Gemeinsam in einem abschließbaren Schrank – es gibt keine Trennungspflicht.",
     "FalscheAntwort2": "Waffen und Munition dürfen zusammen aufbewahrt werden, solange der Schrank ein Sicherheitsschloss hat.",
     "FalscheAntwort3": "Waffen im Schrank Klasse B, Munition frei im Keller – eine spezielle Aufbewahrung ist gesetzlich nicht vorgeschrieben.",
     "Pruefungsfach": "Waffenkunde und Waffenrecht"
@@ -6025,7 +6025,7 @@
   },
   {
     "Frage": "Darf die Jagdbehörde den Waffenschrank in Ihrer Wohnung kontrollieren?",
-    "Antwort": "Ja, aber nur auf dem direkten Weg zum Waffenschrank – kein Durchsuchen der Wohnung.",
+    "Antwort": "Ja, die Waffenbehörde darf nach § 36 Abs. 3 WaffG die Aufbewahrung kontrollieren; das Betreten der Wohnung setzt jedoch die Zustimmung des Inhabers voraus oder erfordert einen richterlichen Beschluss. Die Kontrolle beschränkt sich auf die Aufbewahrungssituation.",
     "FalscheAntwort1": "Nein, die Wohnung ist unantastbar – eine Kontrolle ist nur mit richterlichem Durchsuchungsbeschluss möglich.",
     "FalscheAntwort2": "Ja, die Behörde darf die gesamte Wohnung nach Waffen und Munition durchsuchen.",
     "FalscheAntwort3": "Nein, die Kontrolle des Waffenschranks obliegt ausschließlich der Polizei, nicht der Jagdbehörde.",
@@ -6313,7 +6313,7 @@
   },
   {
     "Frage": "Was sagt Ihnen der Begriff 'Subsonic'? Wie hoch ist die Geschwindigkeit?",
-    "Antwort": "Unterschallmunition (V0 unter 330 m/s, der Schallgeschwindigkeit). Wird für Waffen mit Schalldämpfer verwendet – kein Überschallknall. In Schleswig-Holstein jagdlich nicht relevant (keine bleifreie Ausführung üblich).",
+    "Antwort": "Unterschallmunition (V0 unter ca. 340 m/s (Schallgeschwindigkeit bei Normalbedingungen ca. 343 m/s)). Wird für Waffen mit Schalldämpfer verwendet – kein Überschallknall. In Schleswig-Holstein jagdlich nicht relevant (keine bleifreie Ausführung üblich).",
     "FalscheAntwort1": "Überschallmunition mit V0 über 500 m/s – besonders flacher Flugbahn.",
     "FalscheAntwort2": "Eine spezielle Hohlspitzmunition mit V0 ca. 800 m/s für schnelle Expansion.",
     "FalscheAntwort3": "Munition mit reduziertem Pulver für kürzere Reichweite – V0 ca. 600 m/s.",
@@ -6569,7 +6569,7 @@
   },
   {
     "Frage": "Wie verhalten Sie sich bei einem Versager (Klick, kein Schuss, Büchse)?",
-    "Antwort": "Waffe in sicherer Richtung (Boden) halten und mindestens 10 Sekunden warten – Gefahr des Nachzünders (langsam brennende Patrone). Danach vorsichtig entladen.",
+    "Antwort": "Waffe in sicherer Richtung (Boden) halten und mindestens 30 Sekunden warten – Gefahr des Nachzünders (langsam brennende Patrone). Danach vorsichtig entladen.",
     "FalscheAntwort1": "Sofort Verschluss öffnen und Patrone herausziehen – es liegt ein einfacher Versager vor.",
     "FalscheAntwort2": "Nochmals abdrücken – Versager kommen selten doppelt vor.",
     "FalscheAntwort3": "Waffe ablegen und einen Waffenmeister rufen – Versager dürfen nur von Fachleuten behandelt werden.",
@@ -6633,7 +6633,7 @@
   },
   {
     "Frage": "Wie verfahren Sie mit einer nicht gezündeten Schrotpatrone (Versager)?",
-    "Antwort": "Waffe gesichert in sicherer Richtung halten, mind. 10 Sekunden warten (Nachzündergefahr). Patrone getrennt von anderen Patronen aufbewahren und vom Fachmann entsorgen lassen.",
+    "Antwort": "Waffe gesichert in sicherer Richtung halten, mindestens 30 Sekunden warten (Nachzündergefahr). Patrone getrennt von anderen Patronen aufbewahren und vom Fachmann entsorgen lassen.",
     "FalscheAntwort1": "Patrone sofort aus dem Lauf entfernen und im Gelände vergraben – sie ist unschädlich.",
     "FalscheAntwort2": "Patrone nochmals in die Waffe laden und erneut abfeuern.",
     "FalscheAntwort3": "Patrone im Hausmüll entsorgen – Schrotpatronen ohne Zündung sind ungefährlich.",
@@ -6833,7 +6833,7 @@
   },
   {
     "Frage": "Was sind Damwild-Entwicklungsstufen bei männlichem Damwild?",
-    "Antwort": "Kalb (1. Jahr), Schmaltier/Spießer (2. Jahr), Gabler (3. Jahr), Dreier (4. Jahr), Vierer und aufwärts bis Schaufler (Alter); Schaufeln entwickeln sich ab 4-5 Jahren",
+    "Antwort": "Kalb (1. Jahr), Spießer (2. Jahr), Gabler (2.-3. Jahr), Eissprossenschaufler (3.-4. Jahr), Schaufler (ab 4. Jahr aufwärts)",
     "FalscheAntwort1": "Damwild hat keine festgelegten Entwicklungsstufen; Geweih wächst kontinuierlich ohne Muster",
     "FalscheAntwort2": "Damwild-Männchen heißen immer Hirsch; Entwicklungsstufen entsprechen genau dem Rotwild",
     "FalscheAntwort3": "Männliches Damwild heißt bis zum 3. Jahr Kalb, dann sofort Schaufler",
@@ -6921,7 +6921,7 @@
   },
   {
     "Frage": "Wann erreicht Rehwild die Geschlechtsreife und ab wann sind Böcke und Geißen fortpflanzungsfähig?",
-    "Antwort": "Rehgeißen werden mit ca. 14-16 Monaten fortpflanzungsfähig; Rehböcke meist mit 14-16 Monaten; Brunft im Juli-August; Keimverzögerung (Diapause) verlängert Tragzeit",
+    "Antwort": "Ricken werden mit ca. 14-16 Monaten fortpflanzungsfähig; Rehböcke meist mit 14-16 Monaten; Brunft im Juli-August; Keimverzögerung (Diapause) verlängert Tragzeit",
     "FalscheAntwort1": "Rehwild wird erst mit 3 Jahren geschlechtsreif; vorher keine Brunft",
     "FalscheAntwort2": "Rehböcke sind ab 6 Monaten brunftfähig; Geißen erst mit 2 Jahren",
     "FalscheAntwort3": "Rehwild hat keine festgelegte Geschlechtsreife; abhängig von Körpergewicht und Region",
@@ -7057,7 +7057,7 @@
   },
   {
     "Frage": "Welche Schäden kann Rotwild im Feldbaugebiet verursachen?",
-    "Antwort": "Rotwild schädigt Getreide durch Vertreten und Fressen; Mais und Raps durch Fraß; Schälschäden an Jungkulturen; Graben (Sauen) und Suhlen; wirtschaftliche Schäden können erheblich sein",
+    "Antwort": "Rotwild schädigt Getreide durch Vertreten und Fressen; Mais und Raps durch Fraß; Schälschäden an Jungkulturen; gelegentlich Suhlen; wirtschaftliche Schäden können erheblich sein",
     "FalscheAntwort1": "Rotwild richtet im Feldbaugebiet keine Schäden an; frisst ausschließlich im Wald",
     "FalscheAntwort2": "Schäden durch Rotwild sind gering; nur Schwarzwild verursacht nennenswertes Schadensausmaß",
     "FalscheAntwort3": "Rotwild schädigt nur Obstplantagen; Getreide und Raps werden nicht berührt",
@@ -7353,7 +7353,7 @@
   },
   {
     "Frage": "Welche Wildtiere haben im Oberkiefer keine Schneidezähne (Wiederkäuer/Nagezähne)?",
-    "Antwort": "Wiederkäuer (Reh, Rotwild, Damwild, Schwarzwild hat keine – Ausnahme: Schwarzwild hat Schneidezähne oben); Reh, Rotwild, Damwild, Schaf, Ziege: im Oberkiefer nur Zahnleiste",
+    "Antwort": "Wiederkäuer (Reh, Rotwild, Damwild, Muffelwild) haben keine Schneidezähne im Oberkiefer; stattdessen eine Knorpelplatte (Gaumen). Schwarzwild ist kein Wiederkäuer und hat Schneidezähne im Oberkiefer.",
     "FalscheAntwort1": "Alle Säugetiere haben Schneidezähne im Oberkiefer",
     "FalscheAntwort2": "Nur Nagetiere (Hase, Kaninchen) haben keine Oberkieferschneidezähne",
     "FalscheAntwort3": "Schwarzwild hat keine Oberkieferschneidezähne; alle anderen Wildtiere schon",
@@ -7425,7 +7425,7 @@
   },
   {
     "Frage": "Wann sollte die Nachsuche auf einen Frischling mit Gebrechschuss beginnen?",
-    "Antwort": "Sofort oder nach kurzem Zuwarten (ca. 30 Minuten) da Schwarzwild bei Gebrechen schnell verendet und Witterung schadet; bei unsicherem Schuss eher warten",
+    "Antwort": "Bei Waidwund-/Gebrechschuss-Verdacht mindestens 1-2 Stunden Wartezeit einhalten; Schwarzwild kann trotz tödlicher Wunde noch weit laufen. Erst dann Nachsuche mit brauchbarem Schweißhund ansetzen.",
     "FalscheAntwort1": "Immer erst am naechsten Morgen beginnen; über Nacht liegt das Stueck fest",
     "FalscheAntwort2": "Sofort nach dem Schuss, niemals warten; Schuss muss sofort kontrolliert werden",
     "FalscheAntwort3": "Erst nach 24 Stunden beginnen; Schwarzwild zieht immer weit ab",
@@ -7530,7 +7530,7 @@
   {
     "Frage": "Nennen Sie eine bakterielle und eine parasitaere Erkrankung des Hasen.",
     "Antwort": "Bakteriell: Tularaemie (Hasenpest, Francisella tularensis). Parasitaer: Coccidiose (Darmparasiten, v.a. bei Jungtieren), oder Bandwurmbefall",
-    "FalscheAntwort1": "Bakteriell: Myxomatose. Parasitaer: EBHS (Europaeische Hasen-Seuche)",
+    "FalscheAntwort1": "Bakteriell: Pasteurellose. Parasitaer: EBHS (Europaeische Hasen-Seuche)",
     "FalscheAntwort2": "Bakteriell: Staupe. Parasitaer: Chinaseuche",
     "FalscheAntwort3": "Bakteriell: Blauzungenkrankheit. Parasitaer: Aujeszky-Krankheit",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
@@ -7561,7 +7561,7 @@
   },
   {
     "Frage": "Was ist aus der Ahnentafel eines Jagdhundes ersichtlich?",
-    "Antwort": "Abstammung (Eltern, Grosseltern), Zuchtbuchnummer, Rasse, Geburtsdatum, Wurfnummer, Pruerunsgsergebnisse der Vorfahren, Zuechtername und -adresse",
+    "Antwort": "Abstammung (Eltern, Grosseltern), Zuchtbuchnummer, Rasse, Geburtsdatum, Wurfnummer, Prüfungsergebnisse der Vorfahren, Zuechtername und -adresse",
     "FalscheAntwort1": "Nur Name und Geburtsdatum des Hundes; Abstammung nicht ersichtlich",
     "FalscheAntwort2": "Ahnentafel zeigt nur die Impfungen; Abstammung steht im Kaufvertrag",
     "FalscheAntwort3": "Koerpergewicht, Fellfarbe und Zuchteignung; keine Prueungsergebnisse",
@@ -7585,7 +7585,7 @@
   },
   {
     "Frage": "Wie handhabt man auf einer Treibjagd die Nachsuche?",
-    "Antwort": "Nachsuche waehrend der Treibjagd sofort nach jedem Schuss mit brachliegenden Hund; oder am Ende der Treibjagd gesammelt; bei schlechtem Schuss sofort Nachsuche unterbrechen und Hund anlegen",
+    "Antwort": "Nachsuche waehrend der Treibjagd sofort nach jedem Schuss mit brauchbaren Schweißhund; oder am Ende der Treibjagd gesammelt; bei schlechtem Schuss sofort Nachsuche unterbrechen und Hund anlegen",
     "FalscheAntwort1": "Nachsuche erst nach Abschluss der gesamten Treibjagd am naechsten Tag",
     "FalscheAntwort2": "Auf Treibjagden gibt es keine Nachsuche; erlegtes Wild bleibt liegen",
     "FalscheAntwort3": "Nachsuche immer durch den Jagdleiter persoenlich; andere Jaeger duerfen nicht",
@@ -7650,7 +7650,7 @@
   {
     "Frage": "Nennen Sie zwei parasitaere Erkrankungen, die beim Fuchs eine bedeutende Rolle spielen.",
     "Antwort": "Raeude (Sarcoptes-Milbe / Sarkoptesraeude); Kleiner Fuchsbandwurm (Echinococcus multilocularis / Zoonose gefaehrlich fuer Menschen); auch Trichinellose",
-    "FalscheAntwort1": "Tollwut und Staupe; beide sind parasitaere Erkrankungen des Fuchses",
+    "FalscheAntwort1": "Sarcoptes-Räude und Spulwurm; beide sind bakterielle Erkrankungen des Fuchses",
     "FalscheAntwort2": "Borreliose und Tularaemie; wichtigste Parasiten des Fuchses",
     "FalscheAntwort3": "Fueche haben keine Parasiten; ihr Immunsystem ist zu stark",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
@@ -7664,7 +7664,7 @@
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
   },
   {
-    "Frage": "Was hat ein durch das Veterinaeramt ermaechtiger Jaeger zu beachten, wenn er die Trichinproben beim Schwarzwild selbst entnimmt?",
+    "Frage": "Was hat ein durch das Veterinaeramt ermaechtiger Jaeger zu beachten, wenn er die Trichinenproben beim Schwarzwild selbst entnimmt?",
     "Antwort": "Mindestens 10g Muskelgewebe (Zwerchfellpfeiler, Zunge oder Unterarm); Wildursprungsschein ausfuellen; Probe korrekt beschriftet und verschlossen einsenden; Wild darf erst nach negativem Befund verwertet werden",
     "FalscheAntwort1": "Nur 1g Gewebe genuegt; Wildursprungsschein ist freiwillig",
     "FalscheAntwort2": "Trichinenprobe ist nur fuer Hausschweine vorgeschrieben; Schwarzwild ist ausgenommen",
@@ -7841,7 +7841,7 @@
   },
   {
     "Frage": "Was ist der Unterschied zwischen einer geschulten und einer kundigen Person nach dem Lebensmittelrecht (Wildbret)?",
-    "Antwort": "Geschulte Person: JP zwischen 1987-2006, darf nur Direktvermarktung (Endverbraucher, oertlicher Handel). Kundige Person: JP ab 2006 oder Nachschulung, darf auch Abgabe an Wildverarbeitungsbetriebe und Grosshandel",
+    "Antwort": "Geschulte Person: JP vor 2006, darf nur Direktvermarktung (Endverbraucher, oertlicher Handel). Kundige Person: JP ab 2006 oder Nachschulung, darf auch Abgabe an Wildverarbeitungsbetriebe und Grosshandel",
     "FalscheAntwort1": "Geschulte Person darf mehr als kundige Person; Schulung gibt mehr Rechte",
     "FalscheAntwort2": "Kein Unterschied; beide Bezeichnungen bedeuten das gleiche",
     "FalscheAntwort3": "Kundige Person ist der Jaeger; geschulte Person ist der Metzger",
@@ -7850,8 +7850,8 @@
   {
     "Frage": "Nennen Sie eine parasitaere Erkrankung des Hasen, die haeufig zu Abmagerung und bei Junghasen zum Tode fuehren kann.",
     "Antwort": "Coccidiose (Darmprozesse durch Eimeria-Arten); fuehrt v.a. bei Jungtieren zu starkem Durchfall, Abmagerung und Tod; auch Magendarm-Strongylosen",
-    "FalscheAntwort1": "Tollwut; fuehrt bei Hasen immer zu Abmagerung",
-    "FalscheAntwort2": "Myxomatose; parasitaere Erkrankung mit Abmagerung",
+    "FalscheAntwort1": "Pasteurellose; fuehrt bei Hasen immer zu Abmagerung",
+    "FalscheAntwort2": "Tularaemie; parasitaere Erkrankung mit Abmagerung",
     "FalscheAntwort3": "Staupe; Hase stirbt schnell an Staupe durch Abmagerung",
     "Pruefungsfach": "Jagdbetrieb und Hundewesen"
   },
@@ -7889,7 +7889,7 @@
   },
   {
     "Frage": "Mit welcher Pruefung hat der Hund die Brauchbarkeit fuer Nachsuche Niederwild, Schalenwild und Stoeberarbeit?",
-    "Antwort": "VGP (Verbandsgebrauchspruefung) und VPS (Verbandsschweisshundpruefung); beide ermoeglichen Nachsuche auf Schalenwild und Niederwild sowie Stoeberarbeit",
+    "Antwort": "VGP (Verbandsgebrauchspruefung) und VSP (Verbandsschweisshundpruefung); beide ermoeglichen Nachsuche auf Schalenwild und Niederwild sowie Stoeberarbeit",
     "FalscheAntwort1": "Nur die VJP (Verbandsjugendpruefung) genuegt fuer alle Jagdarten",
     "FalscheAntwort2": "Brauchbarkeitspruefung BP 1 genuegt fuer alle Nachsuchen",
     "FalscheAntwort3": "Keine Pruefung notwendig; jeder Hund darf bei der Nachsuche eingesetzt werden",
@@ -8105,7 +8105,7 @@
   },
   {
     "Frage": "Welche formalen Voraussetzungen muss der Jaeger erfuellen, um Wildbret direkt vermarkten zu koennen?",
-    "Antwort": "Geschulte Person (JP nach 1987) oder kundige Person; Wild frei von bedenklichen Merkmalen; bei Schwarzwild Trichinenprobe negativ; Registrierung als Lebensmittelunternehmer beim Veterinaeramt",
+    "Antwort": "Geschulte Person (JP vor 2006) oder kundige Person; Wild frei von bedenklichen Merkmalen; bei Schwarzwild Trichinenprobe negativ; Registrierung als Lebensmittelunternehmer beim Veterinaeramt",
     "FalscheAntwort1": "Kein besonderer Nachweis noetig; jeder Jaeger darf Wild vermarkten",
     "FalscheAntwort2": "Nur Metzger duerfen Wildbret vermarkten; Jaeger nicht",
     "FalscheAntwort3": "Nur ein gueltiger Jagdschein genuegt fuer die Direktvermarktung",
@@ -8281,7 +8281,7 @@
   },
   {
     "Frage": "Was bestimmt das Bundesjagdgesetz bezüglich der Jagdausübung in den Setz- und Brutzeiten?",
-    "Antwort": "Vom 1. März bis 15. Juni ist das Aufsuchen von Nestern sowie das Erlegen oder Fangen von Elterntieren, die für die Aufzucht der Jungen notwendig sind, verboten",
+    "Antwort": "Das BJG (§ 22 Abs. 4) verbietet das Erlegen von Elterntieren, die für die Aufzucht der Jungen notwendig sind, während der Schonzeit. Ein konkretes Datum ist im BJG nicht festgelegt; das Aufsuchen von Nestern und Fangen/Töten von Wild in der Schonzeit ist verboten.",
     "FalscheAntwort1": "Jede Jagd ist vom 1. März bis 31. August vollständig verboten",
     "FalscheAntwort2": "Nur Raubwild darf in der Brutzeit nicht bejagt werden; Schalenwild ist ausgenommen",
     "FalscheAntwort3": "Setz- und Brutzeit-Schutz gilt nur in Naturschutzgebieten",
@@ -8345,7 +8345,7 @@
   },
   {
     "Frage": "Von wem und für wie lange wird der Abschussplan für Rehwild in Schleswig-Holstein festgesetzt?",
-    "Antwort": "Der Jagdausübungsberechtigte stellt den Abschussplan auf; die Untere Jagdbehörde bestätigt ihn; Laufzeit 1-3 Jagdjahre",
+    "Antwort": "Der Jagdausübungsberechtigte stellt den Abschussplan auf; die Untere Jagdbehörde bestätigt ihn; Laufzeit in der Regel 3 Jagdjahre",
     "FalscheAntwort1": "Der Kreisjägermeister setzt den Plan fest; er gilt immer nur für 1 Jahr",
     "FalscheAntwort2": "Die Jagdgenossenschaft allein legt den Abschussplan fest; Behörde muss nicht zustimmen",
     "FalscheAntwort3": "Der Revierförster legt den Plan fest; Jagdausübungsberechtigte haben kein Mitspracherecht",
@@ -8457,7 +8457,7 @@
   },
   {
     "Frage": "Dürfen in Schleswig-Holstein Ablenkfütterungen zur Verhütung von Wildschäden angelegt werden?",
-    "Antwort": "Nein; Ablenkfütterungen zur Verhütung von Wildschäden sind in SH grundsätzlich nicht zulässig; Fütterung ist auf Notzeiten beschränkt",
+    "Antwort": "Grundsätzlich nein; in SH ist Fütterung auf anerkannte Notzeiten beschränkt. Ablenkfütterungen als solche sind nicht vorgesehen. Ausnahmen (z.B. Kirrung für Schwarzwild) sind unter bestimmten Voraussetzungen und mit Genehmigung möglich.",
     "FalscheAntwort1": "Ja; Ablenkfütterungen sind eine anerkannte Methode zur Wildschadensvorbeugung",
     "FalscheAntwort2": "Nur in Notzeitperioden (Schnee) dürfen Ablenkfütterungen angelegt werden",
     "FalscheAntwort3": "Ja, aber nur für Schwarzwild und nur auf eigenen Flächen des Jägers",
@@ -8873,7 +8873,7 @@
   },
   {
     "Frage": "Schildern Sie die Aufstellung eines Abschussplanes im gemeinschaftlichen Jagdrevier.",
-    "Antwort": "Jagdausübungsberechtigter erstellt Plan auf Basis: Streckenzahlen der Vorjahre, Wildbestandsschätzung, Wildschadenssituation, Zustand der Vegetation; Unterschrift des Genossenschaftsvorstands; Einreichung über Hegering an Untere Jagdbehörde zur Bestätigung",
+    "Antwort": "Jagdausübungsberechtigter erstellt Plan auf Basis: Streckenzahlen der Vorjahre, Wildbestandsschätzung, Wildschadenssituation, Zustand der Vegetation; Unterschrift des Genossenschaftsvorstands; Einreichung direkt bei der Unteren Jagdbehörde zur Bestätigung",
     "FalscheAntwort1": "Die Behörde erstellt den Abschussplan allein; Jäger haben kein Mitspracherecht",
     "FalscheAntwort2": "Der Abschussplan wird nur für Rotwild aufgestellt; Rehwild braucht keinen Plan",
     "FalscheAntwort3": "Abschusspläne werden nur in Nationalparks benötigt; im Normalrevier nicht",
@@ -8961,7 +8961,7 @@
   },
   {
     "Frage": "Wie wird der Abschussplan für Damwild und Rotwild im gemeinschaftlichen Jagdrevier aufgestellt?",
-    "Antwort": "Jagdausübungsberechtigter erstellt Vorschlag auf Basis Streckendaten, Bestandsschätzung und Wildschadenssituation; Bestätigung durch Jagdgenossenschaftsvorstand; Einreichung über den Hegering an die Untere Jagdbehörde; Laufzeit 1-3 Jagdjahre",
+    "Antwort": "Jagdausübungsberechtigter erstellt Vorschlag auf Basis Streckendaten, Bestandsschätzung und Wildschadenssituation; Bestätigung durch Jagdgenossenschaftsvorstand; Einreichung direkt bei der Unteren Jagdbehörde; Laufzeit in der Regel 3 Jagdjahre",
     "FalscheAntwort1": "Die Behörde schreibt die Abschusszahlen vor; Jäger haben kein Mitspracherecht",
     "FalscheAntwort2": "Abschusspläne für Hochwild gibt es nicht; der Jäger entscheidet selbst",
     "FalscheAntwort3": "Nur der Deutsche Jagdverband kann Abschusspläne für Hochwild genehmigen",
