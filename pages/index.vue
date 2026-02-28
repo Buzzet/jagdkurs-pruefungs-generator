@@ -213,6 +213,24 @@ interface McQuestion extends Question {
   correctAnswers: string[]
 }
 
+interface McResult {
+  question: string
+  subject: string
+  correctAnswers: string[]
+  userAnswers: string[]
+  points: number
+  maxPoints: number
+}
+
+interface AiResult {
+  question: string
+  subject: string
+  sampleAnswer: string
+  alternatives: string[]
+  points: number
+  maxPoints: number
+}
+
 const { subjects, generate, generateMcSubject, generateMcFull } = useQuestionGenerator()
 const { downloadExamPdf, downloadSolutionsPdf } = usePdfExport()
 const { public: { appVersion, aiApiBase } } = useRuntimeConfig()
@@ -267,6 +285,7 @@ const mcQuestions = ref<McQuestion[]>([])
 const mcIndex = ref(0)
 const mcCorrectCount = ref(0)
 const mcPointsTotal = ref(0)
+const mcResults = ref<McResult[]>([])
 const selectedOptions = ref<string[]>([])
 const showFeedback = ref(false)
 const isCurrentCorrect = ref(false)
@@ -358,6 +377,7 @@ const startMc = () => {
   showFeedback.value = false
   isCurrentCorrect.value = false
   lastPointsAwarded.value = 0
+  mcResults.value = []
 }
 
 const confirmAnswer = () => {
@@ -381,6 +401,18 @@ const confirmAnswer = () => {
 
   mcPointsTotal.value += lastPointsAwarded.value
   showFeedback.value = true
+
+  if (mcCurrent.value) {
+    mcResults.value[mcIndex.value] = {
+      question: mcCurrent.value.FrageFreitext || mcCurrent.value.Frage || '–',
+      subject: mcCurrent.value.Pruefungsfach,
+      correctAnswers: [...mcCurrent.value.correctAnswers],
+      userAnswers: [...selectedOptions.value],
+      points: lastPointsAwarded.value,
+      maxPoints: 2,
+    }
+    mcResults.value = [...mcResults.value]
+  }
 }
 
 const nextQuestion = () => {
@@ -404,6 +436,7 @@ const resetMc = () => {
   selectedOptions.value = []
   showFeedback.value = false
   lastPointsAwarded.value = 0
+  mcResults.value = []
 }
 
 const switchToMc = () => {
@@ -418,6 +451,7 @@ const aiIndex = ref(0)
 const aiUserAnswer = ref('')
 const aiPointsTotal = ref(0)
 const aiLastScore = ref(0)
+const aiResults = ref<AiResult[]>([])
 const aiReason = ref('')
 const aiLoading = ref(false)
 const aiAnswered = ref(false)
@@ -473,6 +507,7 @@ const startAi = () => {
   aiAnswered.value = false
   aiFollowupQuestion.value = ''
   aiFollowupAnswer.value = ''
+  aiResults.value = []
 }
 
 const localHeuristicScore = (modelAnswer: string, userAnswer: string) => {
@@ -509,15 +544,25 @@ const submitAiAnswer = async () => {
     aiLastScore.value = Math.max(0, Math.min(2, Number(result.score) || 0))
     aiPointsTotal.value += aiLastScore.value
     aiReason.value = result.reason || ''
-    aiAnswered.value = true
   }
   catch {
     aiLastScore.value = localHeuristicScore(aiCurrent.value.Antwort, aiUserAnswer.value)
     aiPointsTotal.value += aiLastScore.value
     aiReason.value = 'API nicht erreichbar — lokale Heuristik verwendet.'
-    aiAnswered.value = true
   }
   finally {
+    if (aiCurrent.value) {
+      aiResults.value[aiIndex.value] = {
+        question: aiCurrent.value.FrageFreitext || aiCurrent.value.Frage || '–',
+        subject: aiCurrent.value.Pruefungsfach,
+        sampleAnswer: aiCurrent.value.Antwort,
+        alternatives: aiCurrent.value.AlternativeAntworten || [],
+        points: aiLastScore.value,
+        maxPoints: 2,
+      }
+      aiResults.value = [...aiResults.value]
+    }
+    aiAnswered.value = true
     aiLoading.value = false
   }
 }
