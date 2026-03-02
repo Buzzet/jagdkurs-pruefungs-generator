@@ -11486,5 +11486,1286 @@
     "AlternativeAntworten": [
       "Ein erfahrenes Stück sichert zuerst, danach folgt das Rudel nacheinander."
     ]
+  },
+  {
+    "Frage": "In D anerkannte Jagdgebrauchshunderassen werden in Arbeitsgebiete zusammengefasst. Nennen Sie je Arbeitsgebiet einen Vertreter und seine Fellfarbe.",
+    "Antwort": "Vorstehhunde: Deutsch Kurzhaar (braun, gescheckt); Stöberhunde: Deutscher Wachtelhund (braun, gescheckt); Erdhunde: Deutscher Jagdterrier (schwarz-rotbraun); Schweißhunde: Hannoveraner Schweißhund (rotbraun); Apportierhunde: Labrador Retriever (gelb, schwarz, braun); Bracken: Deutsche Bracke (dreifarbig: schwarz, rot, weiß).",
+    "FalscheAntwort1": "Vorstehhunde: Beagle (dreifarbig); Stöberhunde: Labrador (gelb); Erdhunde: Deutsch Kurzhaar (braun); Schweißhunde: Foxterrier (weiß-schwarz).",
+    "FalscheAntwort2": "Vorstehhunde: Hannoveraner Schweißhund (rotbraun); Stöberhunde: Deutsch Drahthaar (graubraun); Erdhunde: Weimaraner (silbergrau).",
+    "FalscheAntwort3": "Vorstehhunde: Beagle (dreifarbig); Stöberhunde: Teckel (rotbraun); Erdhunde: Golden Retriever (golden).",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "In D anerkannte Jagdgebrauchshunderassen werden in Arbeitsgebiete zusammengefasst. Nennen Sie je Arbeitsgebiet einen Vertreter und seine Fellfarbe.",
+    "FrageMC": "Welche Zuordnung von Arbeitsgebiet, Rasse und Fellfarbe ist korrekt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "In welchem Alter und von wem wird die Rute kupiert bei einer Jagdhunderasse, bei der es nach Tierschutzgesetz erlaubt ist?",
+    "Antwort": "Das Kupieren ist nach § 6 TierSchG grundsätzlich verboten. Für bestimmte Jagdhunderassen besteht eine Ausnahmegenehmigung der Landesbehörde. Es darf nur durch einen Tierarzt innerhalb der ersten 8 Lebenstage durchgeführt werden.",
+    "FalscheAntwort1": "Das Kupieren darf vom Züchter selbst in den ersten 3 Lebenstagen vorgenommen werden.",
+    "FalscheAntwort2": "Das Kupieren ist generell erlaubt und muss vor dem 14. Lebenstag durch einen Tierarzt erfolgen.",
+    "FalscheAntwort3": "Das Kupieren wird im Alter von 4 bis 6 Wochen durch den Züchter oder einen Tierarzt durchgeführt.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "In welchem Alter und von wem wird die Rute kupiert bei einer Jagdhunderasse, bei der es nach Tierschutzgesetz erlaubt ist?",
+    "FrageMC": "Was ist korrekt bezüglich des Kupierens der Rute bei Jagdhunden?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Bei welchen Jagdarten sind nach Landesjagdgesetz SH §27 brauchbare Jagdhunde zu verwenden?",
+    "Antwort": "Nach § 27 LJagdG SH sind brauchbare Jagdhunde zu verwenden bei: Nachsuchen auf krankes Schalenwild, Drückjagden und Treibjagden auf Schalenwild sowie der Jagd auf Schwarzwild. Bei Gesellschaftsjagden muss je angefangene 200 ha ein brauchbarer Jagdhund anwesend sein.",
+    "FalscheAntwort1": "Brauchbare Jagdhunde sind nur bei der Niederwildjagd und bei Fasanenjagden vorgeschrieben.",
+    "FalscheAntwort2": "Der Einsatz brauchbarer Jagdhunde ist nur bei der Wasservogelsuche gesetzlich vorgeschrieben.",
+    "FalscheAntwort3": "Brauchbare Jagdhunde sind nur bei Einzeljagden auf Rehwild sowie bei der Baujagd einzusetzen.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Bei welchen Jagdarten sind nach Landesjagdgesetz SH §27 brauchbare Jagdhunde zu verwenden?",
+    "FrageMC": "Bei welchen Jagdarten schreibt das LJagdG SH §27 den Einsatz brauchbarer Jagdhunde vor?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Bei der VJP steht im Zensurenblatt bei der Art des Jagens beim Fragezeichen das Kreuz. Was bedeutet das und welche Konsequenzen hat dies für den Jagdhund?",
+    "Antwort": "Das Fragezeichen bei der Art des Jagens bedeutet, dass der Hund beim Jagen nicht eindeutig zu beurteilen war. Diese Eintragung hat zur Folge, dass der Hund nicht bewertet werden kann und ggf. ein Ausschluss von der Zucht möglich ist.",
+    "FalscheAntwort1": "Das Fragezeichen bedeutet, dass der Hund das Jagen verweigert hat und die Prüfung als nicht bestanden gilt.",
+    "FalscheAntwort2": "Das Fragezeichen bedeutet, dass der Hund übermäßig scharf ist, was zum Prüfungsausschluss führt.",
+    "FalscheAntwort3": "Das Fragezeichen steht für eine hervorragende Leistung und gibt dem Hund Bonuspunkte.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Bei der VJP steht im Zensurenblatt bei der Art des Jagens beim Fragezeichen das Kreuz. Was bedeutet das und welche Konsequenzen hat dies für den Jagdhund?",
+    "FrageMC": "Was bedeutet ein Kreuz beim Fragezeichen in der Rubrik Art des Jagens im VJP-Zensurenblatt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie haben mit ihrem PP die HZP ohne lebende Ente in Schleswig-Holstein bestanden. Zur Erlangung der jagdlichen Brauchbarkeit müssen Sie noch folgende Fächer bestehen:",
+    "Antwort": "Zur Erlangung der jagdlichen Brauchbarkeit in SH muss nach bestandener HZP ohne lebende Ente noch die Wasserarbeit mit lebender Ente (Ententest) nachgewiesen werden, da dieser in SH Pflichtbestandteil der Brauchbarkeitsprüfung ist.",
+    "FalscheAntwort1": "Nach der HZP ohne lebende Ente ist in SH keine weitere Prüfung erforderlich.",
+    "FalscheAntwort2": "Es muss noch die VGP erfolgreich abgelegt werden.",
+    "FalscheAntwort3": "Es sind noch Schweißfach und Bringtreuetest mit Kaninchen nachzuweisen.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Sie haben mit ihrem PP die HZP ohne lebende Ente in Schleswig-Holstein bestanden. Zur Erlangung der jagdlichen Brauchbarkeit müssen Sie noch folgende Fächer bestehen:",
+    "FrageMC": "Welche Prüfungsfächer sind in SH nach einer bestandenen HZP ohne lebende Ente noch erforderlich?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist eine Schleppe und mit welchen Wildarten wird sie auf der VGP im Wald hergestellt?",
+    "Antwort": "Eine Schleppe ist eine künstlich angelegte Fährte, bei der ein Wildkörper über den Boden gezogen wird. Auf der VGP im Wald wird die Schleppe mit Fuchs und Hase hergestellt.",
+    "FalscheAntwort1": "Eine Schleppe ist eine natürliche Wildwechselfährte. Auf der VGP wird sie mit Reh und Schwarzwild hergestellt.",
+    "FalscheAntwort2": "Eine Schleppe ist ein künstlicher Parcours, der auf der VGP mit Ente und Kaninchen hergestellt wird.",
+    "FalscheAntwort3": "Eine Schleppe wird auf der VGP ausschließlich mit Schwarzwild hergestellt.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Was ist eine Schleppe und mit welchen Wildarten wird sie auf der VGP im Wald hergestellt?",
+    "FrageMC": "Mit welchen Wildarten wird die Schleppe auf der VGP im Wald hergestellt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Mit welcher Wildart wird die Bringtreueprüfung durchgeführt?",
+    "Antwort": "Die Bringtreueprüfung (BP) wird mit Fuchs und Hase durchgeführt. In SH wird in der BP I am Wasser zudem mit Ente gearbeitet.",
+    "FalscheAntwort1": "Die Bringtreueprüfung wird ausschließlich mit Reh und Schwarzwild durchgeführt.",
+    "FalscheAntwort2": "Die Bringtreueprüfung wird nur mit lebenden Enten und Kaninchen durchgeführt.",
+    "FalscheAntwort3": "Die Bringtreueprüfung wird mit Fasanen und Rebhühnern durchgeführt.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Mit welcher Wildart wird die Bringtreueprüfung durchgeführt?",
+    "FrageMC": "Mit welchen Wildarten wird die Bringtreueprüfung (BP) durchgeführt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie je 3 Hundeleistungen vor dem Schuss und nach dem Schuss.",
+    "Antwort": "Vor dem Schuss: Suche (Stöbern/Vorstehen), Spurlaut/Sichtlaut, Vorstehen. Nach dem Schuss: Apportieren (Totbringen), Schweißarbeit/Nachsuche am Riemen, Verlorensuche.",
+    "FalscheAntwort1": "Vor dem Schuss: Apportieren, Bringen, Nachsuche. Nach dem Schuss: Stöbern, Stehen, Spurlaut.",
+    "FalscheAntwort2": "Vor dem Schuss: Wasserarbeit, Schleppenarbeit, Bringsel zeigen. Nach dem Schuss: Vorstehen, Stöbern, Einweisen.",
+    "FalscheAntwort3": "Vor dem Schuss: Verbellen, Totverbellen, Stöbern. Nach dem Schuss: Ankoppeln, Leinenführigkeit, Gehorsam.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Nennen Sie je 3 Hundeleistungen vor dem Schuss und nach dem Schuss.",
+    "FrageMC": "Welche Zuordnung von Hundeleistungen vor und nach dem Schuss ist korrekt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "In welchem Bewuchs wird gestöbert bzw. buschiert?",
+    "Antwort": "Gestöbert (buschiert) wird in dichtem, niedrigem Bewuchs: Dickungen, Hecken, Brombeergebüsch, Schilf, Rohrflächen, Schonungen sowie Unterholz. Der Hund soll das Wild aus der Deckung treiben.",
+    "FalscheAntwort1": "Gestöbert wird ausschließlich auf offenem Feld und in Getreidefeldern.",
+    "FalscheAntwort2": "Buschieren findet nur auf Freiflächen wie Wiesen und Äckern statt.",
+    "FalscheAntwort3": "Gestöbert wird nur in Wäldern mit altem Baumbestand ohne Unterholz.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "In welchem Bewuchs wird gestöbert bzw. buschiert?",
+    "FrageMC": "In welchem Bewuchs wird beim Jagdbetrieb gestöbert?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist in der Jagdhundeausbildung ein Bringsel?",
+    "Antwort": "Ein Bringsel ist ein kleines Lederstück, das dem Jagdhund am Halsband befestigt wird. Findet der Hund bei der Nachsuche das Wild, nimmt er das Bringsel ins Maul, kehrt zum Führer zurück und zeigt so an, dass er Beute gefunden hat. Der Führer folgt dann dem Hund.",
+    "FalscheAntwort1": "Ein Bringsel ist ein spezielles Apportierdummy für die Wasserarbeit.",
+    "FalscheAntwort2": "Ein Bringsel ist ein akustisches Signal (Pfeifton) für den Rückruf des Hundes.",
+    "FalscheAntwort3": "Ein Bringsel ist ein Belohnungsartikel zur positiven Verstärkung in der modernen Ausbildung.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Was ist in der Jagdhundeausbildung ein Bringsel?",
+    "FrageMC": "Was versteht man in der Jagdhundeausbildung unter einem Bringsel?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Anlagen eines Vorstehhundes werden auf der VJP geprüft? (mindestens 5)",
+    "Antwort": "Auf der VJP werden geprüft: Nase, Vorstehen, Suche (Breite, Tempo, Geländenutzung), Art des Jagens, Schussfestigkeit, Spurlaut, Sichtlaut, Wasserarbeit (Schwimmfreude), Gehorsam, Führigkeit.",
+    "FalscheAntwort1": "Auf der VJP werden geprüft: Apportierleistung, Schlepparbeit, Nachsuche, Bringtreue und Wasserarbeit.",
+    "FalscheAntwort2": "Die VJP prüft: Totstellen, Bringsel zeigen, Verbellen, Sozialverhalten und Gehorsam am langen Riemen.",
+    "FalscheAntwort3": "Bei der VJP werden ausschließlich Nase und Schärfe auf Haarwild geprüft.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Welche Anlagen eines Vorstehhundes werden auf der VJP geprüft? (mindestens 5)",
+    "FrageMC": "Welche Anlagen werden auf der VJP geprüft?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "In welcher Reihenfolge werden die Prüfungsfächer auf der BP I in SH am Wasser geprüft?",
+    "Antwort": "Auf der BP I in SH am Wasser: 1. Freiverlorensuche (Suche nach Hase oder Fuchs), 2. Schleppen (Fuchs- und Hasenschleppe), 3. Wasserarbeit (Apportieren der Ente aus dem Wasser). Die Wasserarbeit steht in SH am Ende.",
+    "FalscheAntwort1": "Die BP I beginnt mit der Wasserarbeit, danach folgen die Schleppen und abschließend die Freiverlorensuche.",
+    "FalscheAntwort2": "Die Reihenfolge: erst Schleppen, dann Nachsuche am langen Riemen, zuletzt Vorstehen und Schuss.",
+    "FalscheAntwort3": "Bei der BP I in SH werden alle Fächer gleichzeitig von verschiedenen Richtern bewertet.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "In welcher Reihenfolge werden die Prüfungsfächer auf der BP I in SH am Wasser geprüft?",
+    "FrageMC": "Welche Reihenfolge gilt bei der BP I in SH am Wasser?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie stellen ihren DD Rüden auf der Zuchtschau vor. Er erhält die Bewertung v, sg. Was bedeuten die Abkürzungen?",
+    "Antwort": "v steht für vorzüglich (beste Formwertnote) und sg steht für sehr gut (zweithöchste Formwertnote).",
+    "FalscheAntwort1": "v steht für vollständig geprüft und sg bedeutet sehr geformter Körperbau.",
+    "FalscheAntwort2": "v bedeutet verbesserungswürdig und sg steht für schussgefestigt.",
+    "FalscheAntwort3": "v bedeutet vorerst zurückgestellt und sg steht für sehr geringe Mängel.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Sie stellen ihren DD Rüden auf der Zuchtschau vor. Er erhält die Bewertung v, sg. Was bedeuten die Abkürzungen?",
+    "FrageMC": "Was bedeuten die Zuchtschau-Bewertungen v und sg?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie 2 typische Anlagen der Stöberhundrasse Dt. Wachtelhund.",
+    "Antwort": "1. Ausgeprägte Spurlautigkeit: gibt beim Verfolgen von Fährten laut. 2. Ausgeprägte Wildschärfe und Jagdtrieb: besonders scharf auf Schwarzwild, ausdauernd beim Stöbern in dichter Deckung.",
+    "FalscheAntwort1": "Der Deutsche Wachtelhund ist bekannt für sein ausgeprägtes Vorstehen und seine Eignung als Apportierhund im Wasser.",
+    "FalscheAntwort2": "Typische Anlagen sind Schussfestigkeit und Spurlautlosigkeit.",
+    "FalscheAntwort3": "Der Deutsche Wachtelhund zeichnet sich vor allem durch fehlende Schärfe auf Schwarzwild und ruhiges Wesen aus.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Nennen Sie 2 typische Anlagen der Stöberhundrasse Dt. Wachtelhund.",
+    "FrageMC": "Welche zwei Anlagen sind typisch für den Deutschen Wachtelhund?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie besitzen einen Mischling aus Foxterrier und DJT. Welche Prüfungen können Sie mit ihm machen?",
+    "Antwort": "Mit einem Mischling können keine JGHV-Zuchtprüfungen (VJP, HZP, VGP) oder Zuchtschauen abgelegt werden. Möglich sind: Brauchbarkeitsprüfung sowie ggf. Bringtreueprüfung, sofern der Veranstalter Mischlinge zulässt.",
+    "FalscheAntwort1": "Mit einem Mischling können alle JGHV-Prüfungen (VJP, HZP, VGP) abgelegt werden.",
+    "FalscheAntwort2": "Mit einem Mischling ist ausschließlich die Zuchtschau möglich.",
+    "FalscheAntwort3": "Mischlinge dürfen keinerlei Jagdhundeprüfungen ablegen.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Sie besitzen einen Mischling aus Foxterrier und DJT. Welche Prüfungen können Sie mit ihm machen?",
+    "FrageMC": "Welche Prüfungen können Sie mit einem Mischling aus Foxterrier und DJT ablegen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie haben einen Rehbock beschossen, der in den ausgeblühten Raps abgesprungen ist. Ihr Hund ist Bringselverweiser. Riemen- oder Freinachsuche?",
+    "Antwort": "Im ausgeblühten (dichten) Raps sollte die Nachsuche am langen Riemen durchgeführt werden, da der Jäger dem Hund nicht folgen kann und die Gefahr besteht, dass das Wild weitergetrieben wird.",
+    "FalscheAntwort1": "Im ausgeblühten Raps kann der Bringselverweiser problemlos frei geschickt werden.",
+    "FalscheAntwort2": "Der Bringselverweiser ist in jedem Gelände dem Riemenführen überlegen.",
+    "FalscheAntwort3": "Bei Raps ist grundsätzlich kein Hund einzusetzen.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "hundewesen",
+      "nachsuche"
+    ],
+    "FrageFreitext": "Sie haben einen Rehbock beschossen, der in den ausgeblühten Raps abgesprungen ist. Ihr Hund ist Bringselverweiser. Riemen- oder Freinachsuche?",
+    "FrageMC": "Was ist bei einer Nachsuche im ausgeblühten Raps mit Bringselverweiser vorzuziehen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was heißt es, wenn ein Hund auf der Treibjagd einen Hasen sticht? Welches Leistungszeichen? Wie tut man den Hasen ab?",
+    "Antwort": "Stechen bedeutet, der Hund spürt den Hasen auf und scheucht ihn aus der Deckung (Sasse). Das Leistungszeichen ist das Hetzzeichen. Den Hasen tut man durch Genickstrecken ab: Hinterläufe festhalten, Kopf fassen und mit raschem Zug das Genick brechen.",
+    "FalscheAntwort1": "Stechen bedeutet, der Hund verwundet den Hasen mit einem Zahn. Das Leistungszeichen ist das V. Abgetan wird durch Kopfschuss.",
+    "FalscheAntwort2": "Stechen heißt, der Hund bellt den Hasen an. Das Leistungszeichen ist VB. Abgetan wird durch Erstechen.",
+    "FalscheAntwort3": "Stechen bedeutet, der Hund markiert den toten Hasen durch Scharren. Leistungszeichen ist S. Abgetan durch Ausweiden.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "hundewesen",
+      "jagdbetrieb"
+    ],
+    "FrageFreitext": "Was heißt es, wenn ein Hund auf der Treibjagd einen Hasen sticht? Welches Leistungszeichen? Wie tut man den Hasen ab?",
+    "FrageMC": "Was bedeutet es wenn der Hund einen Hasen sticht und wie wird der Hase abgetan?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Wie reagiert ein schussscheuer Jagdhund im Prüfungsfach Suche mit Schießen?",
+    "Antwort": "Ein schussscheuer Hund reagiert auf den Schuss mit Flucht, Verkriechen, starker Unruhe oder Abbruch der Arbeit. Dies führt zur Disqualifikation und in der Regel zum Ausschluss von der Zucht.",
+    "FalscheAntwort1": "Ein schussscheuer Hund ignoriert den Schuss vollständig und setzt die Suche unbeeindruckt fort.",
+    "FalscheAntwort2": "Ein schussscheuer Hund zeigt übermäßige Aggressivität nach dem Schuss und greift den Führer an.",
+    "FalscheAntwort3": "Ein schussscheuer Hund verweist nach dem Schuss sofort auf das Wild ohne gesucht zu haben.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Wie reagiert ein schussscheuer Jagdhund im Prüfungsfach Suche mit Schießen?",
+    "FrageMC": "Welche Reaktion zeigt ein schussscheuer Jagdhund im Prüfungsfach Suche mit Schießen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Wie heißen die beiden Anlagenprüfungen für den DD Junghund und in welchen Monaten finden sie statt?",
+    "Antwort": "1. VJP (Verbands-Jugend-Prüfung) – Frühjahr, Mai/Juni. 2. HZP (Herbst-Zucht-Prüfung) – Herbst, Oktober.",
+    "FalscheAntwort1": "Die beiden Prüfungen sind die VGP im März und die BP I im August.",
+    "FalscheAntwort2": "Die Prüfungen heißen Zuchtschau (Januar) und Körung (März).",
+    "FalscheAntwort3": "Für den DD Junghund gibt es nur eine Anlagenprüfung: die VJP im September.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Wie heißen die beiden Anlagenprüfungen für den DD Junghund und in welchen Monaten finden sie statt?",
+    "FrageMC": "Welche zwei Anlagenprüfungen werden für DD-Junghunde angeboten und in welchen Monaten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie je 2 Jagdhunderassen: rauhaarig und kupiert / kurzhaarig und nicht kupiert / langhaarig und nicht kupiert / langhaarig und kupiert.",
+    "Antwort": "Rauhaarig und kupiert: Deutsch Drahthaar, Pudelpointer. Kurzhaarig und nicht kupiert: Hannoveraner Schweißhund, Bayerischer Gebirgsschweißhund. Langhaarig und nicht kupiert: Großer Münsterländer, Irischer Setter. Langhaarig und kupiert: Kleiner Münsterländer, Deutsch Langhaar (historisch kupiert).",
+    "FalscheAntwort1": "Rauhaarig und kupiert: Labrador, Golden Retriever. Kurzhaarig und nicht kupiert: Deutsch Drahthaar, Pudelpointer.",
+    "FalscheAntwort2": "Rauhaarig und kupiert: Deutsch Kurzhaar, Weimaraner. Kurzhaarig und nicht kupiert: Großer Münsterländer, Irischer Setter.",
+    "FalscheAntwort3": "Rauhaarig und kupiert: Irischer Setter, Großer Münsterländer. Kurzhaarig und nicht kupiert: Pudelpointer, Deutsch Drahthaar.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "hundewesen"
+    ],
+    "FrageFreitext": "Nennen Sie je 2 Jagdhunderassen: rauhaarig und kupiert / kurzhaarig und nicht kupiert / langhaarig und nicht kupiert / langhaarig und kupiert.",
+    "FrageMC": "Welche Zuordnung von Jagdhunderassen nach Fellstruktur und Kupierungsstatus ist korrekt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Getreidearten werden vorwiegend im Frühjahr ausgesät?",
+    "Antwort": "Sommergetreide wird im Frühjahr ausgesät. Beispiele: Sommergerste, Hafer, Sommerweizen, Sommertriticale und Mais.",
+    "FalscheAntwort1": "Wintergetreide wie Winterweizen, Winterroggen und Wintergerste werden im Frühjahr ausgesät.",
+    "FalscheAntwort2": "Raps und Sonnenblumen gelten als Sommergetreide und werden im Frühjahr ausgesät.",
+    "FalscheAntwort3": "Zuckerrüben und Kartoffeln zählen zum Sommergetreide und werden im Frühjahr ausgesät.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Getreidearten werden vorwiegend im Frühjahr ausgesät?",
+    "FrageMC": "Welche Getreidearten werden vorwiegend im Frühjahr ausgesät?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche der genannten Pflanzenarten zählen zum Getreide? a) Sonnenblumen b) Sommergerste c) Zuckerrüben d) Raps e) Mais",
+    "Antwort": "Zum Getreide zählen: b) Sommergerste und e) Mais. Getreide sind Süßgräser (Poaceae), deren stärkehaltige Körner als Nahrungsmittel genutzt werden.",
+    "FalscheAntwort1": "Zum Getreide zählen: a) Sonnenblumen und d) Raps.",
+    "FalscheAntwort2": "Zum Getreide zählen: c) Zuckerrüben und e) Mais.",
+    "FalscheAntwort3": "Alle genannten Pflanzen (a-e) zählen zum Getreide.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche der genannten Pflanzenarten zählen zum Getreide?",
+    "FrageMC": "Welche Pflanzen zählen zum Getreide? a) Sonnenblumen b) Sommergerste c) Zuckerrüben d) Raps e) Mais",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Getreideart wird als erstes reif?",
+    "Antwort": "Wintergerste wird als erstes reif, in der Regel ab Ende Juni/Anfang Juli.",
+    "FalscheAntwort1": "Roggen wird als erstes reif.",
+    "FalscheAntwort2": "Hafer wird als erstes reif.",
+    "FalscheAntwort3": "Alle drei Getreidearten reifen zur gleichen Zeit im Juli ab.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Getreideart wird als erstes reif?",
+    "FrageMC": "Welche Getreideart wird als erstes reif? a) Wintergerste b) Roggen c) Hafer",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Getreidearten haben stark begrannte Ähren?",
+    "Antwort": "Wintergerste hat stark begrannte Ähren mit langen, steifen Grannen. Hafer bildet Rispen (keine Ähren); Roggen hat kurze, weniger auffällige Grannen.",
+    "FalscheAntwort1": "Hafer hat stark begrannte Ähren.",
+    "FalscheAntwort2": "Roggen hat die stärksten Grannen aller heimischen Getreidearten.",
+    "FalscheAntwort3": "Alle drei Getreidearten haben gleichermäßen stark begrannte Ähren.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Getreidearten haben stark begrannte Ähren?",
+    "FrageMC": "Welche Getreideart hat stark begrannte Ähren? a) Wintergerste b) Hafer c) Roggen",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Zu welcher Futterart zählt die Rübe?",
+    "Antwort": "Die Rübe zählt zum Saftfutter, da sie einen hohen Wassergehalt besitzt und energiearm, aber verdauungsfördernd wirkt.",
+    "FalscheAntwort1": "Die Rübe zählt zum Kraftfutter, da sie einen hohen Energiegehalt besitzt.",
+    "FalscheAntwort2": "Die Rübe zählt zum Zusatzfutter, da sie nur als ergänzende Beigabe genutzt wird.",
+    "FalscheAntwort3": "Die Rübe zählt sowohl zum Kraft- als auch zum Raufutter, je nach Rübensorte.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Zu welcher Futterart zählt die Rübe?",
+    "FrageMC": "Zu welcher Futterart zählt die Rübe?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nenne Beispiele für Sonderkulturen.",
+    "Antwort": "Sonderkulturen sind intensiv bewirtschaftete, spezialisierte Anbauflächen. Beispiele: Hopfen, Weinbau, Tabak, Heilkräuter, Gemüse (Spargel, Zwiebeln), Obstanbau, Baumschulen, Weihnachtsbaumkulturen.",
+    "FalscheAntwort1": "Sonderkulturen sind ausschließlich Getreidearten wie Dinkel, Emmer und Einkorn.",
+    "FalscheAntwort2": "Sonderkulturen umfassen alle Forstkulturen wie Weihnachtsbäume und Schnellwuchsplantagen.",
+    "FalscheAntwort3": "Zu Sonderkulturen zählen lediglich staatlich geförderte Pflanzen wie Raps und Mais.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Nenne Beispiele für Sonderkulturen.",
+    "FrageMC": "Was zählt zu den Sonderkulturen in der Landwirtschaft?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was versteht man unter Zwischenfrüchten?",
+    "Antwort": "Zwischenfrüchte sind Pflanzen, die zwischen zwei Hauptkulturen angebaut werden, um den Boden zu schützen (Erosionsschutz), Nährstoffe zu binden, die Bodenstruktur zu verbessern und Unkraut zu unterdrücken. Beispiele: Phacelia, Senf, Ölrettich, Klee.",
+    "FalscheAntwort1": "Zwischenfrüchte sind Mischkulturen aus zwei gleichzeitig angebauten Hauptfrüchten.",
+    "FalscheAntwort2": "Zwischenfrüchte sind Wildäcker, die ausschließlich zur Wildfütterung angelegt werden.",
+    "FalscheAntwort3": "Unter Zwischenfrüchten versteht man Pflanzen, die halbreif geerntet und als Grünfutter genutzt werden.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Was versteht man unter Zwischenfrüchten?",
+    "FrageMC": "Was versteht man unter Zwischenfrüchten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Auf welche Bodenverhältnisse deuten folgende Pflanzen hin: Brennnessel, Heidekraut, Sauerklee, Schneeglöckchen?",
+    "Antwort": "Brennnessel: stickstoffreicher Boden. Heidekraut: saurer, nährstoffarmer Sandboden. Sauerklee: saurer, nährstoffarmer, oft feuchter Boden. Schneeglöckchen: nährstoffreicher, humoser Waldboden.",
+    "FalscheAntwort1": "Brennnessel: trockener Sandboden; Heidekraut: kalkreicher Boden; Sauerklee: stickstoffreicher Boden.",
+    "FalscheAntwort2": "Alle vier Pflanzen zeigen verdichtete, vernässte Böden mit hohem Tonanteil an.",
+    "FalscheAntwort3": "Heidekraut und Sauerklee zeigen kalkreichen Boden an; Brennnessel und Schneeglöckchen stehen für Trockenheit.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau",
+      "waldbau"
+    ],
+    "FrageFreitext": "Auf welche Bodenverhältnisse deuten folgende Pflanzen hin: Brennnessel, Heidekraut, Sauerklee, Schneeglöckchen?",
+    "FrageMC": "Welcher Boden wird durch Heidekraut angezeigt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Merkmale treffen auf naturnahen Waldbau zu?",
+    "Antwort": "Naturnaher Waldbau: hoher Anteil an Naturverjüngung, Vermeidung von Kahlschlägen, standortangepasste Baumarten. Das generelle Verbot von Nadelbäumen ist kein Merkmal des naturnahen Waldbaus.",
+    "FalscheAntwort1": "Alle genannten Merkmale treffen zu, einschließlich des Verbots von Nadelbäumen.",
+    "FalscheAntwort2": "Nur die Vermeidung von Kahlschlägen ist ein Merkmal des naturnahen Waldbaus.",
+    "FalscheAntwort3": "Naturnaher Waldbau bedeutet ausschließlich den Anbau standortfremder Baumarten zur Ertragssteigerung.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Merkmale treffen auf naturnahen Waldbau zu?",
+    "FrageMC": "Welche Merkmale treffen auf naturnahen Waldbau zu?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was versteht man unter einer standortgemäßen Bestockung?",
+    "Antwort": "Eine standortgemäße Bestockung bedeutet, dass die angebauten Baumarten den natürlichen Standortbedingungen (Boden, Klima, Wasserhaushalt) entsprechen. Dadurch sind die Bäume vitaler, stabiler und weniger anfällig für Schäden.",
+    "FalscheAntwort1": "Standortgemäße Bestockung bedeutet, den Wald möglichst dicht zu bestocken für maximalen Holzertrag.",
+    "FalscheAntwort2": "Darunter versteht man die ausschließliche Nutzung einheimischer Laubbaumarten, unabhängig vom Bodentyp.",
+    "FalscheAntwort3": "Standortgemäße Bestockung bezeichnet die gleichmäßige Verteilung aller Baumarten auf einer Fläche.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Was versteht man unter einer standortgemäßen Bestockung?",
+    "FrageMC": "Was versteht man unter einer standortgemäßen Bestockung?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Aussagen zu Waldbeständen sind richtig? (Schädlinge in Reinbestand, Fichtenbestand/Sturmwurf, Bergmischwald)",
+    "Antwort": "Richtig: In Reinbeständen können sich Schädlinge schneller verbreiten; reine Fichtenbestände sind stärker sturmwurfgefährdet als Mischbestände. Falsch: Typische Baumarten des Bergmischwaldes sind Fichte, Tanne und Buche - nicht Kiefer, Stieleiche und Lärche.",
+    "FalscheAntwort1": "Alle drei Aussagen sind richtig, einschließlich Kiefer, Stieleiche und Lärche im Bergmischwald.",
+    "FalscheAntwort2": "Nur die Aussage über die Sturmwurfgefährdung ist richtig.",
+    "FalscheAntwort3": "Keine der drei Aussagen ist richtig.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "hard",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Aussagen zu Waldbeständen sind richtig? (Schädlinge in Reinbestand, Fichtenbestand/Sturmwurf, Bergmischwald)",
+    "FrageMC": "Welche Aussagen zu Waldbeständen sind richtig?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Aussagen zu Waldfunktionen sind falsch? (Bodenerosion, Lawinen, Trinkwasser, Lärm, Klima)",
+    "Antwort": "Falsch sind: d) Wälder können Lärm nicht dämpfen (falsch - Wälder haben Lärmschutzwirkung); e) Wälder können das örtliche Klima nicht beeinflussen (falsch - Wälder regulieren Temperatur und Niederschlag).",
+    "FalscheAntwort1": "Falsch sind a) und b), da Wälder keinen Einfluss auf Erosion oder Lawinenschutz haben.",
+    "FalscheAntwort2": "Alle Aussagen (a-e) sind falsch.",
+    "FalscheAntwort3": "Nur Aussage c) ist falsch.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Aussagen zu Waldfunktionen sind falsch? (Bodenerosion, Lawinen, Trinkwasser, Lärm, Klima)",
+    "FrageMC": "Welche Aussagen zu Waldfunktionen sind falsch?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was versteht man unter auf den Stock setzen?",
+    "Antwort": "Auf den Stock setzen bezeichnet das vollständige Abholzen eines Baumes oder Strauches bis auf den Wurzelstock (Stubben). Der Baum treibt anschließend aus dem Wurzelstock neu aus (Stockausschlag). Methode im Niederwald- und Mittelwaldbetrieb sowie bei der Heckenpflege.",
+    "FalscheAntwort1": "Auf den Stock setzen bedeutet, einen Baum durch Ringeln (Entrinden) zum Absterben zu bringen.",
+    "FalscheAntwort2": "Der Begriff bezeichnet das Pflanzen junger Bäume auf einem Kahlschlag.",
+    "FalscheAntwort3": "Auf den Stock setzen meint den Kronenrückschnitt zur Höhenbegrenzung.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Was versteht man unter auf den Stock setzen?",
+    "FrageMC": "Was versteht man unter auf den Stock setzen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist Stockausschlag und welche Baumarten sind dazu fähig?",
+    "Antwort": "Stockausschlag bezeichnet den Neuaustrieb von Trieben aus dem Wurzelstock nach dem Abholzen. Baumarten mit Stockausschlagfähigkeit: Hainbuche, Eiche, Esche, Erle, Hasel, Linde, Robinie, Weide, Birke.",
+    "FalscheAntwort1": "Stockausschlag bezeichnet das Aufkeimen von Samen aus dem Waldboden nach einem Kahlschlag. Typische Arten: Fichte, Kiefer und Lärche.",
+    "FalscheAntwort2": "Stockausschlag meint das Aufwachsen von Pilzen auf Baumstümpfen.",
+    "FalscheAntwort3": "Stockausschlag ist der Seitentrieb nach Sturmbruch; typisch bei Fichte und Tanne.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Was ist Stockausschlag und welche Baumarten sind dazu fähig?",
+    "FrageMC": "Welche Baumart besitzt Stockausschlagfähigkeit?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Baumarten sind typisch für Auwälder?",
+    "Antwort": "Typische Baumarten: Schwarzerle, Esche, Silberweide, Bruchweide, Schwarzpappel, Stieleiche, Ulmen. In SH dominieren Schwarzerle und Esche.",
+    "FalscheAntwort1": "Typische Auwaldbaumarten sind Rotbuche, Fichte und Bergahorn.",
+    "FalscheAntwort2": "Im Auwald dominieren Kiefer, Lärche und Douglasie.",
+    "FalscheAntwort3": "Typische Auwaldbaumarten sind Birke, Hainbuche und Robinie.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Baumarten sind typisch für Auwälder?",
+    "FrageMC": "Welche Baumart ist typisch für den Auwald?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Eigenschaften besitzen Pioniergehölze?",
+    "Antwort": "Pioniergehölze sind lichtbedürftig, schnellwüchsig und anspruchslos. Sie besiedeln offene Flächen schnell, sind kurzlebig und bereiten den Boden für nachfolgende Baumarten vor. Beispiele: Birke, Zitterpappel, Weide, Robinie.",
+    "FalscheAntwort1": "Pioniergehölze sind schattentolerante, langsam wachsende Baumarten des Unterwuchses.",
+    "FalscheAntwort2": "Pioniergehölze gedeihen nur auf nährstoffreichen Aueböden mit hohem Wasserbedarf.",
+    "FalscheAntwort3": "Pioniergehölze zeichnen sich durch dickborkige Stämme aus und bilden das Gerüst des Klimaxwaldes.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Eigenschaften besitzen Pioniergehölze?",
+    "FrageMC": "Welche Eigenschaft ist typisch für Pioniergehölze?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche der Baumarten Douglasie, Schwarzkiefer, Ulme, Roteiche stammen nicht aus Europa?",
+    "Antwort": "Nicht aus Europa stammen: Douglasie (Nordamerika) und Roteiche (Nordamerika). Schwarzkiefer und Ulme sind in Europa heimisch.",
+    "FalscheAntwort1": "Nicht aus Europa stammen: Schwarzkiefer und Ulme.",
+    "FalscheAntwort2": "Alle vier Baumarten stammen nicht aus Europa.",
+    "FalscheAntwort3": "Nur die Douglasie stammt nicht aus Europa.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche der Baumarten Douglasie, Schwarzkiefer, Ulme, Roteiche stammen nicht aus Europa?",
+    "FrageMC": "Welche Baumarten stammen nicht aus Europa?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Bei welcher Baumart zeigen die reifen Zapfen nach oben und werden nicht als Ganzes abgeworfen?",
+    "Antwort": "Bei der Weißtanne (Abies alba) zeigen die reifen Zapfen nach oben und werden nicht als Ganzes abgeworfen. Sie zerfallen am Baum, einzelne Schuppen fallen ab. Dies ist ein sicheres Erkennungsmerkmal aller Tannen.",
+    "FalscheAntwort1": "Bei der Fichte zeigen die reifen Zapfen nach oben und fallen nicht als Ganzes ab.",
+    "FalscheAntwort2": "Bei der Kiefer stehen die Zapfen aufrecht und bleiben jahrelang geschlossen am Baum.",
+    "FalscheAntwort3": "Bei der Lärche stehen die Zapfen aufrecht und zerfallen ohne als Ganzes abgeworfen zu werden.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Bei welcher Baumart zeigen die reifen Zapfen nach oben und werden nicht als Ganzes abgeworfen?",
+    "FrageMC": "Bei welcher Baumart zeigen die reifen Zapfen nach oben und werden nicht als Ganzes abgeworfen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche der Baumarten Buche, Eiche, Kiefer, Tanne zählen zu den Schattenbaumarten?",
+    "Antwort": "Zu den Schattenbaumarten zählen: Buche und Tanne. Eiche und Kiefer sind Lichtbaumarten.",
+    "FalscheAntwort1": "Zu den Schattenbaumarten zählen Eiche und Kiefer.",
+    "FalscheAntwort2": "Alle vier Baumarten sind Schattenbaumarten.",
+    "FalscheAntwort3": "Nur die Kiefer ist eine Schattenbaumart.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche der Baumarten Buche, Eiche, Kiefer, Tanne zählen zu den Schattenbaumarten?",
+    "FrageMC": "Welche Baumarten sind Schattenbaumarten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welches Merkmal kennzeichnet die Plenternutzung?",
+    "Antwort": "Plenternutzung: Entnahme einzelner, hiebsreifer Altbäume auf der gesamten Bestandesfläche (Dauerwald-Prinzip). Alle Altersklassen verbleiben gleichzeitig auf der Fläche. Kahlschläge sind kein Merkmal der Plenternutzung.",
+    "FalscheAntwort1": "Plenternutzung: schmale Kahlschläge entlang des Waldsaumes.",
+    "FalscheAntwort2": "Plenternutzung: gleichmäßige Entnahme der Hälfte aller alten Stämme im Hiebszyklus.",
+    "FalscheAntwort3": "Bei der Plenternutzung werden alle Bäume eines Bestandes gleichzeitig entnommen.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "hard",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welches Merkmal kennzeichnet die Plenternutzung?",
+    "FrageMC": "Welches Merkmal kennzeichnet die Plenternutzung?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist eine Remise?",
+    "Antwort": "Eine Remise ist eine künstlich angelegte oder gepflegte Deckungsfläche für Wild, meist aus dichten Sträuchern, Hecken oder Gehölzstreifen. Sie dient als Einstand, Äsungsfläche und Schutz vor Witterung und Feinden.",
+    "FalscheAntwort1": "Eine Remise ist ein erhöhter Jagdstand mit überdachter Kanzel am Waldrand.",
+    "FalscheAntwort2": "Eine Remise ist eine behördlich festgelegte Schonzone mit ganzjährigem Jagdverbot.",
+    "FalscheAntwort3": "Eine Remise ist ein Wildacker, der ausschließlich mit Wildkräutern für Feldhasen bepflanzt wird.",
+    "Pruefungsfach": "Wildtierkunde",
+    "Difficulty": "easy",
+    "Tags": [
+      "wildtierkunde",
+      "hege"
+    ],
+    "FrageFreitext": "Was ist eine Remise?",
+    "FrageMC": "Was versteht man unter einer Remise?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie 5 besonders geschützte Tierarten.",
+    "Antwort": "Besonders geschützte Tierarten nach BNatSchG: Feldhamster, Europäischer Biber, Große Hufeisennase (Fledermaus), Wiesenweihe, Laubfrosch. Diese Arten unterliegen strengem Schutz; Fang, Tötung, Störung oder Zerstörung ihrer Lebensräume ist verboten.",
+    "FalscheAntwort1": "Besonders geschützte Tierarten sind Reh, Feldhase, Stockente, Fasan und Wildkaninchen.",
+    "FalscheAntwort2": "Besonders geschützte Tierarten sind ausschließlich solche im Anhang I der EU-Vogelschutzrichtlinie.",
+    "FalscheAntwort3": "Als besonders geschützte Tierarten gelten nur Säugetiere; Reptilien und Amphibien fallen nicht darunter.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "naturschutz",
+      "artenschutz"
+    ],
+    "FrageFreitext": "Nennen Sie 5 besonders geschützte Tierarten.",
+    "FrageMC": "Welche der folgenden Tiere sind besonders geschützte Tierarten im Sinne des BNatSchG?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist eine Pionierbaumart? Nennen Sie 3 Beispiele.",
+    "Antwort": "Pionierbaumarten sind lichtbedürftige, schnellwüchsige Baumarten, die als erste auf Freiflächen aufkommen. Sie sind anspruchslos und bereiten den Boden für folgende Waldgesellschaften vor. Beispiele: Birke, Zitterpappel, Salweide.",
+    "FalscheAntwort1": "Pionierbaumarten sind besonders alte, standfeste Baumarten wie Eiche, Buche und Tanne.",
+    "FalscheAntwort2": "Pionierbaumarten werden ausschließlich durch Pflanzung in Forstkulturen eingebracht.",
+    "FalscheAntwort3": "Pionierbaumarten sind schattentolerante Baumarten des Unterbestandes.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Was ist eine Pionierbaumart? Nennen Sie 3 Beispiele.",
+    "FrageMC": "Welche Baumart ist eine typische Pionierbaumart?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche 3 Formen der Waldverjüngung werden unterschieden?",
+    "Antwort": "1) Naturverjüngung - Aufwuchs aus natürlichem Samenfall ohne menschlichen Eingriff. 2) Kunstliche Verjüngung (Pflanzung) - Einbringen von Forstpflanzen. 3) Saat - direkte Einbringung von Baumsamen.",
+    "FalscheAntwort1": "Die drei Formen sind: Kahlschlag, Femelbetrieb und Schirmschlag.",
+    "FalscheAntwort2": "Waldverjüngung unterscheidet sich in Stockausschlag, Wurzelbrut und Samenflug.",
+    "FalscheAntwort3": "Es gibt nur zwei Formen: Naturverjüngung und Kunstverjüngung.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche 3 Formen der Waldverjüngung werden unterschieden?",
+    "FrageMC": "Welche Formen der Waldverjüngung werden unterschieden?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was sind Hackfrüchte?",
+    "Antwort": "Hackfrüchte sind Kulturpflanzen, die in weitem Reihenabstand angebaut werden und mechanisch gehackt werden müssen. Beispiele: Zuckerrüben, Kartoffeln, Sonnenblumen, Mais. Sie bieten Schwarzwild, Rehen und anderen Wildtieren Deckung und Äsung.",
+    "FalscheAntwort1": "Hackfrüchte sind wild wachsende Waldfrüchte wie Bucheckern, Eicheln und Kastanien (Mast).",
+    "FalscheAntwort2": "Hackfrüchte sind ausschließlich Obstkulturen wie Äpfel und Birnen.",
+    "FalscheAntwort3": "Als Hackfrüchte bezeichnet man Getreidearten wie Weizen, Gerste und Roggen.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Was sind Hackfrüchte?",
+    "FrageMC": "Was versteht man unter Hackfrüchten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Vorteile hat der Mischwald gegenüber einem Reinbestand?",
+    "Antwort": "Mischwald: höhere Stabilität gegen Sturm und Schädlinge, größere Biodiversität, bessere Bodenqualität, geringeres Risiko von Massenvermehrungen forstlicher Schädlinge, höhere Resilienz bei Klimawandel, vielfältigere Äsungsangebote für Wild.",
+    "FalscheAntwort1": "Der Mischwald hat keine wesentlichen Vorteile; er ist nur ästhetisch ansprechender.",
+    "FalscheAntwort2": "Der Hauptvorteil liegt ausschließlich in der höheren Holzmenge pro Hektar.",
+    "FalscheAntwort3": "Mischwald besteht ausschließlich aus heimischen Nadelbaumarten und ist daher frostresistenter.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "waldbau"
+    ],
+    "FrageFreitext": "Welche Vorteile hat der Mischwald gegenüber einem Reinbestand?",
+    "FrageMC": "Welcher Vorteil des Mischwaldes gegenüber dem Reinbestand ist korrekt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie 5 Pflanzen aus der Hasenapotheke.",
+    "Antwort": "Zur Hasenapotheke zählen: Schafgarbe, Wegerich, Beifuß, Schöllkraut, Wegwarte. Diese Pflanzen enthalten Bitterstoffe und ätherische Öle, die Feldhasen bei Erkrankungen instinktiv aufsuchen.",
+    "FalscheAntwort1": "Die Hasenapotheke umfasst Giftpflanzen wie Tollkirsche, Herbstzeitlose und Bilsenkraut.",
+    "FalscheAntwort2": "Zur Hasenapotheke gehören Ackerpflanzen wie Raps, Weizen, Gerste und Mais.",
+    "FalscheAntwort3": "Die Hasenapotheke ist ein Brauchtumsbegriff für Kräutersträuße am erlegten Hasen.",
+    "Pruefungsfach": "Wildtierkunde",
+    "Difficulty": "medium",
+    "Tags": [
+      "wildtierkunde",
+      "feldhase"
+    ],
+    "FrageFreitext": "Nennen Sie 5 Pflanzen aus der Hasenapotheke.",
+    "FrageMC": "Welche Pflanze gehört zur Hasenapotheke?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Maßnahmen werden ergriffen, um Wanderbewegungen von Tieren zu ermöglichen?",
+    "Antwort": "Grünbrücken (Wildbrücken) über Autobahnen, Wildunterführungen, Amphibiendurchlässe, Biotopverbundsysteme, Rückbau von Zäunen und Barrieren, Renaturierung von Bächen und Auen, Anlage von Hecken als Leitstrukturen.",
+    "FalscheAntwort1": "Wanderbewegungen werden ausschließlich durch Einrichtung von Wildgehegen ermöglicht.",
+    "FalscheAntwort2": "Die einzige Maßnahme ist die Umsiedlung von Tieren per Lebendfang.",
+    "FalscheAntwort3": "Wanderkorridore werden durch flächendeckende Bejagungsverbote gesichert.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "naturschutz",
+      "biotopverbund"
+    ],
+    "FrageFreitext": "Welche Maßnahmen werden ergriffen, um Wanderbewegungen von Tieren zu ermöglichen?",
+    "FrageMC": "Welche Maßnahme dient der Sicherung von Wanderkorridoren für Wildtiere?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist Prossholz?",
+    "Antwort": "Prossholz bezeichnet dünne Zweige und Äste, die Rotwild und anderes Schalenwild beim Fegen des Bastes vom Geweih abbricht und hinterlässt. Es entsteht an Bäumen und Sträuchern und ist ein wichtiges Wildzeichen.",
+    "FalscheAntwort1": "Prossholz ist ein forstwirtschaftlicher Begriff für Brennholz in Prügellänge aus dem Niederwaldbetrieb.",
+    "FalscheAntwort2": "Prossholz ist krankes oder abgestorbenes Holz bei Borkenkäferbefall.",
+    "FalscheAntwort3": "Prossholz ist die Bezeichnung für das Wurzelwerk junger Forstpflanzen beim Umpflanzen.",
+    "Pruefungsfach": "Wildtierkunde",
+    "Difficulty": "medium",
+    "Tags": [
+      "wildtierkunde",
+      "rotwild",
+      "wildzeichen"
+    ],
+    "FrageFreitext": "Was ist Prossholz?",
+    "FrageMC": "Was bezeichnet man als Prossholz?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie 4 Schweißarten und ihr Aussehen an einem Schalenwild-Anschuss.",
+    "Antwort": "1) Lungenschweiss: hellrot, schaumig-blasig - Lungentreffer. 2) Leberschweiss: dunkelrot, dickflüssig, oft mit Gallenbeimengung (grünlich) - Lebertreffer. 3) Pansenschweiss: bräunlich, übelriechend, mit Panseninhalt - Bauchschuss. 4) Muskelschweiss: hellrot bis mitteldunkelrot, dünnflüssig, kein Schaum - Muskelschuss.",
+    "FalscheAntwort1": "Die vier Schweißarten heißen Jagdschweiss, Fluchtschweiss, Angstschweiss und Stressschweiss.",
+    "FalscheAntwort2": "Schweißfarben sind immer identisch dunkelrot; Rückschlüsse auf den Treffersitz sind nicht möglich.",
+    "FalscheAntwort3": "Lungenschweiss ist dunkelblau und riecht nach Ammoniak; Leberschweiss ist hellgelb und wässrig.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "hard",
+    "Tags": [
+      "jagdbetrieb",
+      "nachsuche",
+      "schweiss"
+    ],
+    "FrageFreitext": "Nennen Sie 4 Schweißarten und ihr Aussehen an einem Schalenwild-Anschuss.",
+    "FrageMC": "Welche Beschreibung trifft auf Lungenschweiss zu?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Ausrüstung sollte ein Nachsuchenführer bei der Nachsuche auf Schwarzwild mitführen?",
+    "Antwort": "Für den Führer: Kurzwaffe oder Fangmesser (Eigenverteidigung), Stirnlampe, GPS/Kompass, Erste-Hilfe-Set, Mobiltelefon, festes Schuhwerk, Schweißriemen (6-10 m). Für den Hund: stabiles Halsband, GPS-Ortung, Schutzweste (Stichschutz gegen Keilerwaffen), Wasservorrat.",
+    "FalscheAntwort1": "Der Nachsuchenführer benötigt ausschließlich seinen Hund und einen Schweißriemen.",
+    "FalscheAntwort2": "Für die Schwarzwildnachsuche reicht ein Langgewehr mit Schalldämpfer; Hundeschutzwesten sind übertrieben.",
+    "FalscheAntwort3": "Pflichtausrüstung ist lediglich eine Taschenlampe und ein Mobiltelefon.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "jagdbetrieb",
+      "nachsuche",
+      "schwarzwild"
+    ],
+    "FrageFreitext": "Welche Ausrüstung sollte ein Nachsuchenführer bei der Nachsuche auf Schwarzwild mitführen?",
+    "FrageMC": "Was gehört zur unverzichtbaren Ausrüstung bei einer Schwarzwildnachsuche?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Der Nachsuchenführer wird bei der Nachsuche vom Keiler geschlagen. Welche Versicherung kommt dafür auf?",
+    "Antwort": "Die SVLFG (Sozialversicherung für Landwirtschaft, Forsten und Gartenbau) - die landwirtschaftliche Berufsgenossenschaft - trägt den Schaden. Der Nachsuchenführer gilt als helfende Person im Jagdbetrieb und ist gesetzlich unfallversichert.",
+    "FalscheAntwort1": "Für Verletzungen durch Schwarzwild kommt ausschließlich die private Krankenversicherung auf.",
+    "FalscheAntwort2": "Die Jagdhaftpflichtversicherung des Nachsuchenführers trägt den Schaden.",
+    "FalscheAntwort3": "Der Jagdpächter ist persönlich schadensersatzpflichtig aus dem Jagdpachtvertrag.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "hard",
+    "Tags": [
+      "jagdrecht",
+      "versicherung",
+      "SVLFG"
+    ],
+    "FrageFreitext": "Der Nachsuchenführer wird bei der Nachsuche vom Keiler geschlagen. Welche Versicherung kommt dafür auf?",
+    "FrageMC": "Welche Versicherung greift, wenn ein Nachsuchenführer vom Keiler verletzt wird?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist bei der Nachsuche ein Wundbett, was ein Tropfbett?",
+    "Antwort": "Wundbett: Die Stelle, an der das beschossene Wild nach dem Schuss zuerst gelegen hat (niedergedrücktes Gras, Blut, Haare). Es zeigt den Treffersitz. Tropfbett: Eine Stelle, an der das flüchtende Wild kurz gerastet hat und Schweiss in größerer Menge aufgetropft ist.",
+    "FalscheAntwort1": "Wundbett und Tropfbett sind Synonyme; beide bezeichnen die Stelle, an der das Wild verendet ist.",
+    "FalscheAntwort2": "Ein Wundbett ist die Stelle, an der der Jäger gewartet hat; ein Tropfbett ist der Anschuss.",
+    "FalscheAntwort3": "Das Tropfbett ist die Stelle, an der das Wild nach dem Schuss einbricht; das Wundbett ist der Schussstandort.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "jagdbetrieb",
+      "nachsuche",
+      "wildzeichen"
+    ],
+    "FrageFreitext": "Was ist bei der Nachsuche ein Wundbett, was ein Tropfbett?",
+    "FrageMC": "Was bezeichnet man bei der Nachsuche als Wundbett?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie gehen im 2. Treiben einer Drückjagd ohne Waffe mit Ihrem Hund durch und verletzen sich schwer. Trägt die Berufsgenossenschaft den Schaden?",
+    "Antwort": "Ja, die SVLFG trägt den Schaden. Das Durchsuchen mit dem Hund ist ein organisatorischer Bestandteil der Gemeinschaftsjagd. Wer im Auftrag des Veranstalters an einer jagdlichen Tätigkeit mitwirkt, ist gesetzlich unfallversichert, auch ohne Waffe.",
+    "FalscheAntwort1": "Nein, da keine Waffe getragen wurde und somit keine Jagdausübung im rechtlichen Sinne vorlag.",
+    "FalscheAntwort2": "Nein, das Durchsuchen ohne Waffe gilt als private Freizeitaktivität.",
+    "FalscheAntwort3": "Nein, Versicherungsschutz besteht nur während des aktiven Treibens mit Waffe.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "hard",
+    "Tags": [
+      "jagdrecht",
+      "versicherung",
+      "SVLFG"
+    ],
+    "FrageFreitext": "Sie gehen im 2. Treiben einer Drückjagd ohne Waffe mit Ihrem Hund durch und verletzen sich schwer. Trägt die Berufsgenossenschaft den Schaden?",
+    "FrageMC": "Besteht Unfallversicherungsschutz beim waffenlosen Durchgehen bei einer Drückjagd?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was hat der Jäger zu tun, wenn beschossenes Wild nicht in Sichtweite verendet?",
+    "Antwort": "1) Anschuss kennzeichnen (Bruch setzen). 2) Mindestens 30 Minuten Ruhezeit einhalten (bei Bauchschuss mehrere Stunden). 3) Anschuss auf Wildzeichen absuchen. 4) Nachsuchenführer mit Schweißhund hinzuziehen. 5) Jagdausübungsberechtigten informieren. Das Nachsuchen ist Pflicht.",
+    "FalscheAntwort1": "Der Jäger darf sofort mit der Nachsuche beginnen, ohne Ruhezeit einzuhalten.",
+    "FalscheAntwort2": "Der Schuss muss als Fehlschuss gewertet werden; eine Nachsuche ist nicht vorgeschrieben.",
+    "FalscheAntwort3": "Der Jäger kann ohne Schweißhund suchen, solange er Revierkenntnisse besitzt.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "easy",
+    "Tags": [
+      "jagdbetrieb",
+      "nachsuche"
+    ],
+    "FrageFreitext": "Was hat der Jäger zu tun, wenn beschossenes Wild nicht in Sichtweite verendet?",
+    "FrageMC": "Was muss ein Jäger unternehmen, wenn beschossenes Wild nicht in Sichtweite verendet?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist das kleine Jägerrecht?",
+    "Antwort": "Das kleine Jägerrecht bezeichnet das Recht des erlegenden Jägers auf bestimmte Teile des erlegten Wildes (Aufbruch, Innereien, Haupt, Läufe, Standarte) als Anerkennung. Es ist kein gesetzliches Recht, sondern jagdliches Brauchtum.",
+    "FalscheAntwort1": "Das kleine Jägerrecht ist eine gesetzlich verankerte Regelung für reduziertes Abschussentgelt von Jagdgästen.",
+    "FalscheAntwort2": "Das kleine Jägerrecht bezeichnet die Erlaubnis für Jungjäger, im ersten Jahr ohne Jagdschein zu jagen.",
+    "FalscheAntwort3": "Das kleine Jägerrecht ist das Recht des Grundeigentümers, Wild selbst zu erlegen ohne Jagdpacht.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "jagdbetrieb",
+      "brauchtum"
+    ],
+    "FrageFreitext": "Was ist das kleine Jägerrecht?",
+    "FrageMC": "Was bezeichnet man als das kleine Jägerrecht?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Darf ich beim Oktobermond um 23 Uhr einen Rothirsch erlegen?",
+    "Antwort": "Nein. Gemäß § 19 BJagdG ist die Jagd von einer Stunde nach Sonnenuntergang bis eine Stunde vor Sonnenaufgang verboten (Nachtjagdverbot). Eine Ausnahme für Mondschein existiert nicht. Das Erlegen wäre Wilderei.",
+    "FalscheAntwort1": "Ja, beim Oktobermond mit ausreichender Sicht ist die Nachtjagd auf Rotwild in SH erlaubt.",
+    "FalscheAntwort2": "Ja, wenn das Wild eindeutig identifiziert ist, darf es auch nachts erlegt werden.",
+    "FalscheAntwort3": "Nein, aber nur weil eine Sondergenehmigung der Jagdbehörde erforderlich wäre.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "jagdrecht",
+      "nachtjagdverbot"
+    ],
+    "FrageFreitext": "Darf ich beim Oktobermond um 23 Uhr einen Rothirsch erlegen?",
+    "FrageMC": "Darf bei Mondschein um 23 Uhr auf Rotwild gejagt werden?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Sie haben einen ca. 3-jährigen Keiler erlegt und wollen die Keilerwaffen aufsetzen. Wie gehen Sie vor?",
+    "Antwort": "1) Kopf absetzen. 2) Fleisch vom Kiefer entfernen (mazerieren oder kochen). 3) Unterkiefer lösen. 4) Knochen entfleischen und reinigen. 5) Waffen (Gewehre/Hauer) mit Epoxidharz auf einer Hauerplatte befestigen. 6) Trophäe beschriften (Datum, Revierort, Gewicht).",
+    "FalscheAntwort1": "Die Keilerwaffen werden durch einfaches Herausziehen aus dem warmen Kiefer entnommen und in Salzwasser konserviert.",
+    "FalscheAntwort2": "Man trennt die Waffen mit dem Skalpell ab und montiert sie direkt auf eine Lederplatte.",
+    "FalscheAntwort3": "Keilerwaffen dürfen nur von Präparatoren aufgesetzt werden.",
+    "Pruefungsfach": "Jagdbetrieb und Hundewesen",
+    "Difficulty": "medium",
+    "Tags": [
+      "jagdbetrieb",
+      "brauchtum",
+      "schwarzwild"
+    ],
+    "FrageFreitext": "Sie haben einen ca. 3-jährigen Keiler erlegt und wollen die Keilerwaffen aufsetzen. Wie gehen Sie vor?",
+    "FrageMC": "Wie werden die Keilerwaffen eines erlegten Keilers korrekt aufgesetzt?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Ein Landwirt findet ein angefressenes Mutterschaf und vermutet einen Wolfsriss. Was spricht dafür, dagegen und was tun Sie?",
+    "Antwort": "Dafür: Bisswunden am Hals/Nacken (Würgegriff), mehrere gerissene Tiere, Wolfsnachweise in der Region. Dagegen: Nur ein Tier, Wunden an Gliedmaßen (eher Hund). Maßnahmen: Tatort sichern, LLUR SH (Wolfsriss-Hotline) informieren, Fotodokumentation, Landwirt bezüglich Entschädigungsantrag beraten.",
+    "FalscheAntwort1": "Bei Wolfsrissverdacht darf der JAB eigenständig eine DNA-Probe entnehmen; Behörden müssen nicht informiert werden.",
+    "FalscheAntwort2": "Da Wölfe in SH nicht heimisch sind, kommt ein Wolfsriss grundsätzlich nicht in Frage.",
+    "FalscheAntwort3": "Der Jäger sollte sofort Fallen aufstellen, um den Wolf oder Hund zu fangen.",
+    "Pruefungsfach": "Wildtierkunde",
+    "Difficulty": "hard",
+    "Tags": [
+      "wildtierkunde",
+      "wolf",
+      "schleswig-holstein"
+    ],
+    "FrageFreitext": "Ein Landwirt findet ein angefressenes Mutterschaf und vermutet einen Wolfsriss. Was spricht dafür, dagegen und was tun Sie?",
+    "FrageMC": "Was ist die erste Maßnahme bei Verdacht auf einen Wolfsriss in SH?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was ist der Unterschied in der Aussaat von Sommer- und Wintergerste?",
+    "Antwort": "Wintergerste wird im Herbst (September-Oktober) ausgesät und benötigt eine Vernalisationsphase (Kältereiz). Sommergerste wird im Frühjahr (März-April) ausgesät und benötigt keine Vernalisation.",
+    "FalscheAntwort1": "Sommergerste wird im Herbst ausgesät, Wintergerste im Frühjahr.",
+    "FalscheAntwort2": "Beide Gerstensorten werden zur gleichen Zeit ausgesät, unterscheiden sich aber in der Saatmenge.",
+    "FalscheAntwort3": "Wintergerste wird im Januar ausgesät, Sommergerste im Mai.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Was ist der Unterschied in der Aussaat von Sommer- und Wintergerste?",
+    "FrageMC": "Was ist der Unterschied in der Aussaat von Sommer- und Wintergerste?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie vier Leguminosen.",
+    "Antwort": "Erbse, Ackerbohne, Lupine, Klee (weitere: Luzerne, Wicke, Sojabohne).",
+    "FalscheAntwort1": "Raps, Sonnenblume, Lein, Senf.",
+    "FalscheAntwort2": "Weizen, Roggen, Triticale, Hafer.",
+    "FalscheAntwort3": "Zuckerrübe, Kartoffel, Mais, Rübe.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau",
+      "leguminosen"
+    ],
+    "FrageFreitext": "Nennen Sie vier Leguminosen.",
+    "FrageMC": "Welche der folgenden Pflanzen ist eine Leguminose?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Wann wird Wintergerste gedroschen?",
+    "Antwort": "Wintergerste ist das erste Getreide, das gedroschen wird, in der Regel Ende Juni bis Mitte Juli.",
+    "FalscheAntwort1": "Wintergerste wird als letztes Getreide gedroschen, üblicherweise im September.",
+    "FalscheAntwort2": "Wintergerste wird im Mai gedroschen.",
+    "FalscheAntwort3": "Wintergerste wird gemeinsam mit Winterweizen im August gedroschen.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Wann wird Wintergerste gedroschen?",
+    "FrageMC": "Wann wird Wintergerste gedroschen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was sind Wirtschaftsdünger? Nennen Sie 3 Beispiele.",
+    "Antwort": "Wirtschaftsdünger sind organische Düngemittel, die im landwirtschaftlichen Betrieb anfallen. Beispiele: Gülle, Festmist (Stallmist), Jauche.",
+    "FalscheAntwort1": "Wirtschaftsdünger sind synthetisch hergestellte Mineraldünger: Kalkammonsalpeter, Superphosphat, Kaliumsulfat.",
+    "FalscheAntwort2": "Wirtschaftsdünger sind Dünger, die besonders günstig eingekauft werden: Harnstoff, Ammoniumnitrat, Kieserit.",
+    "FalscheAntwort3": "Wirtschaftsdünger sind Kompostprodukte aus kommunaler Sammlung: Biokompost, Grünschnittkompost, Klärschlamm.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Was sind Wirtschaftsdünger? Nennen Sie 3 Beispiele.",
+    "FrageMC": "Was sind Wirtschaftsdünger?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welches Getreide ist am anspruchslosesten?",
+    "Antwort": "Roggen ist das anspruchsloseste Getreide. Er gedeiht auch auf armen, sandigen und sauren Böden, die für andere Getreidearten ungeeignet sind.",
+    "FalscheAntwort1": "Weizen ist das anspruchsloseste Getreide, da er in ganz Europa verbreitet ist.",
+    "FalscheAntwort2": "Hafer ist das anspruchsloseste Getreide und wächst auf jedem Boden.",
+    "FalscheAntwort3": "Gerste ist das anspruchsloseste Getreide und kommt mit jedem Klima zurecht.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welches Getreide ist am anspruchslosesten?",
+    "FrageMC": "Welches Getreide ist am anspruchslosesten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Was sagt der pH-Wert 3,5 aus?",
+    "Antwort": "Ein pH-Wert von 3,5 bezeichnet einen stark sauren Boden. Viele Kulturpflanzen sind nicht anbaufähig; nur sehr säuretolerante Pflanzen wie Lupinen gedeihen. Eine Kalkung ist erforderlich.",
+    "FalscheAntwort1": "Ein pH-Wert von 3,5 bezeichnet einen neutralen Boden, der für alle Kulturpflanzen optimal ist.",
+    "FalscheAntwort2": "Ein pH-Wert von 3,5 bezeichnet einen leicht alkalischen Boden, der gekalkt werden muss.",
+    "FalscheAntwort3": "Ein pH-Wert von 3,5 bezeichnet einen basischen, besonders nährstoffreichen Boden.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Was sagt der pH-Wert 3,5 aus?",
+    "FrageMC": "Was sagt der pH-Wert 3,5 aus?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Aus welchen Gründen betreibt der Landwirt Zwischenfruchtanbau? Welche Pflanzen sind geeignet?",
+    "Antwort": "Gründe: Erosionsschutz, Bodenstrukturverbesserung, Nährstoffbindung (Stickstoff bei Leguminosen), Humusaufbau, Unkrautunterdrückung, Verbesserung des Wildäsungsangebots. Geeignete Pflanzen: Phacelia, Senf, Ölrettich, Klee, Wicke, Lupine, Raps.",
+    "FalscheAntwort1": "Zwischenfruchtanbau dient ausschließlich der Steigerung des Ernteertrags. Pflanzen: Weizen, Gerste, Mais.",
+    "FalscheAntwort2": "Zwischenfruchtanbau fördert Schädlinge und lockert den Boden. Pflanzen: Kartoffel, Zuckerrübe.",
+    "FalscheAntwort3": "Zwischenfruchtanbau dient der optischen Aufwertung der Felder. Pflanzen: Sonnenblume, Lavendel, Kamille.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Aus welchen Gründen betreibt der Landwirt Zwischenfruchtanbau? Welche Pflanzen sind geeignet?",
+    "FrageMC": "Welchen Zweck hat der Zwischenfruchtanbau?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Eigenschaften haben Leguminosen?",
+    "Antwort": "Leguminosen leben in Symbiose mit Knöllchenbakterien (Rhizobium), die Luftstickstoff binden und den Boden anreichern. Sie sind proteinreich, verbessern die Bodenfruchtbarkeit und sind wertvolle Futterpflanzen.",
+    "FalscheAntwort1": "Leguminosen entziehen dem Boden dauerhaft Stickstoff und müssen daher stark gedüngt werden.",
+    "FalscheAntwort2": "Leguminosen sind ausschließlich Gräser und bilden keine Früchte aus.",
+    "FalscheAntwort3": "Leguminosen sind besonders stickstoffempfindlich und werden daher nie als Vorfrucht eingesetzt.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau",
+      "leguminosen"
+    ],
+    "FrageFreitext": "Welche Eigenschaften haben Leguminosen?",
+    "FrageMC": "Welche Eigenschaft ist typisch für Leguminosen?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Nennen Sie 3 Ölfrüchte.",
+    "Antwort": "Raps, Sonnenblume, Lein (Leinsaat). Weitere: Senf, Mohn, Sojabohne.",
+    "FalscheAntwort1": "Weizen, Roggen, Gerste.",
+    "FalscheAntwort2": "Erbse, Ackerbohne, Lupine.",
+    "FalscheAntwort3": "Zuckerrübe, Kartoffel, Mais.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Nennen Sie 3 Ölfrüchte.",
+    "FrageMC": "Welche der folgenden Pflanzen ist eine Ölfrucht?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Elemente vernetzen die Landschaft?",
+    "Antwort": "Knicks (Wallhecken), Feldgehölze, Hecken, Baumreihen, Gewässerrandstreifen, Gräben, Grünlandstreifen, Waldränder und Biotopverbundkorridore vernetzen die Landschaft und ermöglichen Wildtieren Wanderbewegungen.",
+    "FalscheAntwort1": "Autobahnen, Bahntrassen und Industriegebiete vernetzen die Landschaft.",
+    "FalscheAntwort2": "Monokulturen und Drainagegräben sind die wichtigsten Vernetzungselemente.",
+    "FalscheAntwort3": "Nur Flüsse vernetzen die Landschaft; alle anderen Elemente sind irrelevant.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "naturschutz",
+      "biotopverbund"
+    ],
+    "FrageFreitext": "Welche Elemente vernetzen die Landschaft?",
+    "FrageMC": "Welche Elemente vernetzen die Landschaft?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Wildtierart leidet in Deutschland besonders unter mangelnden Wandermöglichkeiten?",
+    "Antwort": "Wolf, Luchs und Wildkatze leiden besonders unter Lebensraumzerschneidung. Beim Schalenwild ist der Rothirsch das bedeutendste Beispiel. Im Niederwildbereich: Feldhase und Rebhuhn.",
+    "FalscheAntwort1": "Die Stockente leidet am stärksten unter mangelnden Wandermöglichkeiten.",
+    "FalscheAntwort2": "Das Wildschwein leidet am meisten, da es keine Straßen überqueren kann.",
+    "FalscheAntwort3": "Der Fasan leidet am stärksten unter Wandereinschränkungen.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "naturschutz",
+      "wildbiologie"
+    ],
+    "FrageFreitext": "Welche Wildtierart leidet in Deutschland besonders unter mangelnden Wandermöglichkeiten?",
+    "FrageMC": "Welche Wildtierart leidet in Deutschland besonders unter mangelnden Wandermöglichkeiten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Wildschäden verursachen Höckerschwäne auf landwirtschaftlichen Flächen und wie verhindert man sie?",
+    "Antwort": "Höckerschwäne verursachen Verbissschäden an Wintergetreide, Raps und Grünland sowie Trittschäden. Vorbeugung: Flatterbänder, akustische Mittel, Zäunung empfindlicher Flächen; in begründeten Fällen behördlich genehmigte Vergrämungsabschüsse.",
+    "FalscheAntwort1": "Höckerschwäne verursachen keine landwirtschaftlichen Schäden, da sie sich ausschließlich von Wasserpflanzen ernähren.",
+    "FalscheAntwort2": "Höckerschwäne schaden nur Fischteichen durch Fraß von Jungfischen.",
+    "FalscheAntwort3": "Höckerschwäne verursachen ausschließlich Schäden an Obstbäumen.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "wildschaden",
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Wildschäden verursachen Höckerschwäne auf landwirtschaftlichen Flächen und wie verhindert man sie?",
+    "FrageMC": "Welche Schäden verursachen Höckerschwäne auf Feldern?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Bodenart gilt im landwirtschaftlichen Sinn als schwerer Boden?",
+    "Antwort": "Tonboden (hoher Tonanteil, >45% Ton) gilt als schwerer Boden. Er ist schwer zu bearbeiten, neigt zur Verdichtung und Vernässung, erwärmt sich langsam, ist aber nährstoffreich.",
+    "FalscheAntwort1": "Sandboden gilt als schwerer Boden, da er schwer zu befeuchten ist.",
+    "FalscheAntwort2": "Moorboden gilt als schwerer Boden wegen seines hohen Gewichts.",
+    "FalscheAntwort3": "Schlufffboden (Lössboden) gilt als schwerer Boden.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Bodenart gilt im landwirtschaftlichen Sinn als schwerer Boden?",
+    "FrageMC": "Welche Bodenart gilt als schwerer Boden?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Bodenart erwärmt sich im Frühjahr am schnellsten?",
+    "Antwort": "Sandboden erwärmt sich im Frühjahr am schnellsten, da er wenig Wasser speichert und eine geringe Wärmekapazität hat. Sandböden können dadurch früher bestellt werden.",
+    "FalscheAntwort1": "Tonboden erwärmt sich am schnellsten, da er dunkel gefärbt ist.",
+    "FalscheAntwort2": "Moorboden erwärmt sich am schnellsten wegen seines hohen Humusgehalts.",
+    "FalscheAntwort3": "Lehmboden erwärmt sich am schnellsten, da er die meisten Nährstoffe enthält.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Bodenart erwärmt sich im Frühjahr am schnellsten?",
+    "FrageMC": "Welche Bodenart erwärmt sich im Frühjahr am schnellsten?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Geräte werden in der Landwirtschaft zur Bodenbearbeitung eingesetzt?",
+    "Antwort": "Pflug (Tiefenlockerung), Grubber (flache Bodenlockerung), Kreiselegge (Saatbettbereitung), Scheibenegge, Walze (Rückverfestigung), Fräse, Tiefenlockerer, Striegel (Unkrautregulierung).",
+    "FalscheAntwort1": "Zur Bodenbearbeitung werden ausschließlich Mähdrescher und Feldspritzen eingesetzt.",
+    "FalscheAntwort2": "In der Landwirtschaft werden Bagger und Planierraupen zur Bodenbearbeitung verwendet.",
+    "FalscheAntwort3": "Bodenbearbeitungsgeräte sind: Sämaschine, Düngerstreuer und Erntemaschine.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Geräte werden in der Landwirtschaft zur Bodenbearbeitung eingesetzt?",
+    "FrageMC": "Welches Gerät dient der Bodenbearbeitung in der Landwirtschaft?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Arbeiten unternimmt der Landwirt zur Pflege von Wiesen und Weiden?",
+    "Antwort": "Schleppen, Walzen (im Frühjahr), Nachsaat (bei Lücken), Düngen (Kalk, Stickstoff, Wirtschaftsdünger), Koppeleinteilung, Pflegeschnitte, Entwässerung/Grabenunterhaltung, Bekämpfung unerwünschter Pflanzen (Ampfer, Distel).",
+    "FalscheAntwort1": "Der Landwirt betreibt keinerlei Pflege auf Wiesen, da diese sich selbst regulieren.",
+    "FalscheAntwort2": "Wiesen werden ausschließlich durch tägliches Mähen gepflegt.",
+    "FalscheAntwort3": "Die einzige Pflegemaßnahme auf Weiden ist das Ausbringen von Pflanzenschutzmitteln.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "Welche Arbeiten unternimmt der Landwirt zur Pflege von Wiesen und Weiden?",
+    "FrageMC": "Welche Maßnahme gehört zur Wiesenpflege?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "In welchem Zeitraum wird Mais gesät?",
+    "Antwort": "Mais wird Ende April bis Mitte Mai gesät, wenn der Boden auf mindestens 8-10 Grad Celsius in 10 cm Tiefe erwärmt ist. In SH liegt die Aussaat meist in der ersten Maihälfte.",
+    "FalscheAntwort1": "Mais wird im März gesät, sobald der Frost aus dem Boden gewichen ist.",
+    "FalscheAntwort2": "Mais wird im Juni/Juli gesät, nach der Getreideernte.",
+    "FalscheAntwort3": "Mais wird im Herbst gesät und überwintert als Jungpflanze.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "easy",
+    "Tags": [
+      "landbau"
+    ],
+    "FrageFreitext": "In welchem Zeitraum wird Mais gesät?",
+    "FrageMC": "In welchem Zeitraum wird Mais gesät?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Welche Maßnahmen nach der Getreideernte verbessern das Äsungsangebot für Wild?",
+    "Antwort": "Stehenlassen von Stoppelfeldern (Stoppelweide), Zwischenfruchtanbau (Phacelia, Senf, Klee), Anlage von Wildäckern und Blühstreifen, Verzicht auf sofortiges Pflügen, Stehenlassen von Ernteverlusten, Wildkrautstreifen an Feldrändern.",
+    "FalscheAntwort1": "Nach der Getreideernte gibt es keine Möglichkeit, das Äsungsangebot für Wild zu verbessern.",
+    "FalscheAntwort2": "Das sofortige tiefe Pflügen verbessert das Äsungsangebot durch Freilegen von Regenwürmern.",
+    "FalscheAntwort3": "Nur das Ausbringen von Kunstdünger nach der Ernte verbessert das Wildäsungsangebot.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "landbau",
+      "wildhege"
+    ],
+    "FrageFreitext": "Welche Maßnahmen nach der Getreideernte verbessern das Äsungsangebot für Wild?",
+    "FrageMC": "Welche Maßnahme nach der Getreideernte verbessert das Äsungsangebot für Wild?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
+  },
+  {
+    "Frage": "Wann versorgen Sie das Wild mit Salzlecksteinen und welche anderen Möglichkeiten gibt es?",
+    "Antwort": "Salzlecksteine ganzjährig, besonders im Frühjahr/Sommer (erhöhter Mineralbedarf: Geweihwachstum, Trächtigkeit, Laktation). Weitere Möglichkeiten: Salzlecken (Erdlecken mit eingemischtem Salz), Salzbrühe auf Holzstämmen oder in Holztrögen.",
+    "FalscheAntwort1": "Salzlecksteine werden ausschließlich im Winter zur Verfügung gestellt.",
+    "FalscheAntwort2": "Salz ist für Wild schädlich und sollte nie angeboten werden.",
+    "FalscheAntwort3": "Salzlecksteine werden nur für Schalenwild verwendet; Niederwild benötigt kein zusätzliches Salz.",
+    "Pruefungsfach": "Jagdrecht Naturschutz Land- und Waldbau",
+    "Difficulty": "medium",
+    "Tags": [
+      "wildhege",
+      "mineralien"
+    ],
+    "FrageFreitext": "Wann versorgen Sie das Wild mit Salzlecksteinen und welche anderen Möglichkeiten gibt es?",
+    "FrageMC": "Wann sollten Salzlecksteine für Wild angeboten werden?",
+    "PdfEligible": true,
+    "AlternativeAntworten": []
   }
 ]
